@@ -1,0 +1,22 @@
+{
+  "name": "未来",
+  "title": "代表取締役会長兼社長",
+  "appointment_info": "2025年12月",
+  "source_url": "https://www.miyakoshi-holdings.com/message",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-12-01",
+    "open_on_date": 913.0,
+    "close_on_date": 930.0,
+    "high_on_date": 935.0,
+    "low_on_date": 913.0,
+    "trading_date": "2025-11-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 913.0
+}

@@ -1,0 +1,21 @@
+{
+  "name": "企業情",
+  "title": "代表取締役社長",
+  "appointment_info": "2007年7月",
+  "source_url": "https://www.cgshd.co.jp/co/profile/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2007-07-01",
+    "open_on_date": 242.21,
+    "close_on_date": 242.21,
+    "high_on_date": 242.21,
+    "low_on_date": 241.57,
+    "trading_date": "2007-06-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 242.21
+}

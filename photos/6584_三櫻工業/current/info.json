@@ -1,0 +1,23 @@
+{
+  "name": "竹田 陽三",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年6月",
+  "source_url": "https://www.sanoh.com/corporate/executives",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg"
+  ],
+  "photo_count": 3,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-06-01",
+    "open_on_date": 575.43,
+    "close_on_date": 572.47,
+    "high_on_date": 576.42,
+    "low_on_date": 569.52,
+    "trading_date": "2025-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 575.43
+}

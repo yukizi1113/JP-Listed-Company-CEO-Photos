@@ -1,0 +1,21 @@
+{
+  "name": "基本的",
+  "title": "代表取締役社長",
+  "appointment_info": "2022年6月",
+  "source_url": "https://www.nichireki.co.jp/sustainability/governance/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2022-06-01",
+    "open_on_date": 1108.03,
+    "close_on_date": 1110.72,
+    "high_on_date": 1116.1,
+    "low_on_date": 1095.48,
+    "trading_date": "2022-05-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1108.03
+}

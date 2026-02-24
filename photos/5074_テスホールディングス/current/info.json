@@ -1,0 +1,25 @@
+{
+  "name": "実現",
+  "title": "代表取締役社長",
+  "appointment_info": "2023年２月",
+  "source_url": "https://www.tess-hd.co.jp/company/message.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2023-02-01",
+    "open_on_date": 1043.21,
+    "close_on_date": 1054.3,
+    "high_on_date": 1062.62,
+    "low_on_date": 1043.21,
+    "trading_date": "2023-01-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1043.21
+}

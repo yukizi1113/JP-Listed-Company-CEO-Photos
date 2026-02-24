@@ -1,0 +1,21 @@
+{
+  "name": "小峰 衛",
+  "title": "代表取締役社長",
+  "appointment_info": "2021年3月",
+  "source_url": "https://www.kuramoto.co.jp/management",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-03-01",
+    "open_on_date": 124.0,
+    "close_on_date": 125.0,
+    "high_on_date": 127.0,
+    "low_on_date": 124.0,
+    "trading_date": "2021-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 124.0
+}

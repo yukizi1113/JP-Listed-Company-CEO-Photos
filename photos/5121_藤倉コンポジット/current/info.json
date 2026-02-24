@@ -1,0 +1,22 @@
+{
+  "name": "当社 執行役",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年5月",
+  "source_url": "https://www.fujikuracomposites.jp/ir/governance/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-05-01",
+    "open_on_date": 1286.06,
+    "close_on_date": 1279.17,
+    "high_on_date": 1289.01,
+    "low_on_date": 1274.26,
+    "trading_date": "2025-04-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1286.06
+}

@@ -1,17 +1,16 @@
 """
-CEO Photo & History Collector for Japanese Listed Companies
+CEO Photo & History Collector v4
 会社四季報2026年1集掲載企業の代表取締役社長情報収集スクリプト
 
-Collects:
-- Current CEO photo
-- CEO appointment date
-- Previous CEOs (up to 3 predecessors) with photos and dates
-- Stock prices at CEO transitions (yfinance)
+Features:
+- 複数写真取得 (photo_01.jpg, photo_02.jpg, ...)
+- 2000年以降の全歴代社長データ収集
+- 就任時始値 (open_at_appointment) / 退任時終値 (close_at_resignation)
+- 短いタイムアウト・少ない再試行で高速化
 """
 
 import sys
 import json
-import os
 import re
 import time
 import random
@@ -20,9 +19,10 @@ from pathlib import Path
 from io import BytesIO
 from urllib.parse import urljoin, urlparse
 from datetime import datetime, timedelta
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 from bs4 import BeautifulSoup
 from PIL import Image
 import yfinance as yf
@@ -52,173 +52,161 @@ log = logging.getLogger(__name__)
 
 # ─── Constants ────────────────────────────────────────────────────────────────
 CEO_TITLES_JP = [
-    "代表取締役社長",
-    "代表取締役 社長",
-    "取締役社長",
-    "代表執行役社長",
-    "代表執行役員社長",
-    "社長執行役員",
-    "代表取締役兼社長",
-    "代表取締役CEO",
-    "最高経営責任者",
-    "代表取締役会長兼社長",
-    "代表取締役社長執行役員",
-    "代表取締役・社長",
-    "取締役 社長",
+    "代表取締役社長", "代表取締役 社長", "取締役社長",
+    "代表執行役社長", "代表執行役員社長", "社長執行役員",
+    "代表取締役兼社長", "代表取締役CEO", "最高経営責任者",
+    "代表取締役会長兼社長", "代表取締役社長執行役員",
+    "代表取締役・社長", "取締役 社長",
 ]
 
-# Ordered by priority - more specific patterns first
-MGMT_PATH_PATTERNS = [
-    # Top message pages (most likely to have CEO photo)
-    "/company/topmessage/index.html",
+TOP_MGMT_PATHS = [
     "/company/topmessage/",
-    "/company/topmessage",
-    "/ir/topmessage/index.html",
+    "/company/topmessage/index.html",
     "/ir/topmessage/",
-    "/about/topmessage/",
-    "/topmessage/",
-    "/company/message/",
-    "/company/message/index.html",
-    "/ir/message/",
-    # Officer/management pages
-    "/company/officer/index.html",
     "/company/officer/",
-    "/company/officers/",
-    "/company/officer",
+    "/company/officer/index.html",
     "/ir/company/officer/",
-    "/ir/company/officer",
     "/ir/officer/",
     "/company/management/",
-    "/company/management",
-    "/company/management/index.html",
-    "/about/management/",
-    "/about/management",
-    "/about/officers/",
     "/corporate/officer/",
-    "/corporate/officer",
-    "/corporate/management/",
-    "/corporate/officers/",
-    "/company/directors/",
-    "/company/director/",
-    "/company/board/",
-    "/company/profile/officer/",
-    "/company/info/officer/",
-    "/ir/corporate/officer/",
-    "/aboutus/officer/",
-    "/aboutus/management/",
-    # Governance pages
     "/ir/governance/",
     "/ir/corp_gov/",
-    "/ir/corp_gov/index.html",
-    "/ir/governance/officer/",
-    "/governance/",
-    "/about/governance/",
-    "/corporate/governance/",
-    "/company/governance/",
-    # Profiles
     "/company/profile/",
-    "/company/profile/index.html",
-    "/company/profile",
-    "/company/about/",
-    "/company/about/index.html",
-    "/company/outline/",
-    "/company/overview/",
-    # IR pages
-    "/ir/company/",
-    "/ir/company/index.html",
-    # General about pages
-    "/about/",
-    "/about/index.html",
-    "/aboutus/",
-    "/company/",
-    "/company/index.html",
 ]
 
-MGMT_LINK_KEYWORDS = [
-    "役員", "経営陣", "取締役", "代表取締役", "社長", "management", "officer", "board",
-    "governance", "ガバナンス", "コーポレート", "メッセージ", "topmessage",
-    "トップメッセージ", "会社情報", "会社概要", "経営",
+LINK_KW = ["役員", "経営陣", "取締役", "社長", "management", "officer",
+           "topmessage", "governance", "ガバナンス", "トップメッセージ"]
+
+ICON_PATTERNS = [
+    "logo", "icon", "banner", "button", "arrow", "sprite", "bg_", "bg-",
+    "back", "mark", "symbol", "badge", "nav", "menu", "footer", "header",
+    ".gif", "blank", "noimage", "no-image", "placeholder", "default",
+    "bullet", "check", "close", "next", "prev", "search", "home",
+    "mail", "tel", "pdf", "xls", "doc", "sns", "social", "facebook",
+    "twitter", "instagram", "youtube", "linkedin",
 ]
 
-HEADERS = {
+HTTP_TIMEOUT = 8
+HTTP_RETRIES = 1
+
+SESSION = requests.Session()
+SESSION.headers.update({
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/122.0.0.0 Safari/537.36"
     ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,*/*;q=0.8",
     "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-}
-
-SESSION = requests.Session()
-SESSION.headers.update(HEADERS)
+})
 SESSION.max_redirects = 5
-
-# Known icon/non-photo image patterns
-ICON_PATTERNS = [
-    "logo", "icon", "banner", "button", "arrow", "bg_", "bg-",
-    "back", "sprite", "mark", "symbol", "badge", "nav", "menu",
-    "footer", "header", ".gif", "blank", "noimage", "no-image",
-    "placeholder", "default", "bullet", "check", "close", "open",
-    "next", "prev", "search", "home", "mail", "tel", "pdf", "xls",
-    "doc", "link", "new", "top", "bottom", "left", "right",
-    "facebook", "twitter", "instagram", "youtube", "linkedin",
-    "twitter", "x-icon", "sns", "social",
-]
 
 
 # ─── HTTP ─────────────────────────────────────────────────────────────────────
 
-def safe_get(url: str, timeout: int = 15) -> requests.Response | None:
-    """HTTP GET with retry logic and error handling."""
-    for attempt in range(3):
+def safe_get(url: str, timeout: int = HTTP_TIMEOUT) -> requests.Response | None:
+    for attempt in range(HTTP_RETRIES + 1):
         try:
-            resp = SESSION.get(url, timeout=timeout, allow_redirects=True)
-            if resp.status_code == 200:
-                return resp
-            elif resp.status_code in (403, 404, 410, 429):
-                if resp.status_code == 429:
-                    time.sleep(5)
+            r = SESSION.get(url, timeout=timeout, allow_redirects=True, verify=False)
+            if r.status_code == 200:
+                return r
+            if r.status_code in (403, 404, 410, 429):
                 return None
-            elif resp.status_code in (500, 502, 503, 504):
-                time.sleep(2 ** attempt)
-                continue
-        except requests.exceptions.SSLError:
-            # Try without SSL verification as fallback
-            try:
-                resp = SESSION.get(url, timeout=timeout, allow_redirects=True, verify=False)
-                if resp.status_code == 200:
-                    return resp
-            except Exception:
-                pass
-            return None
-        except requests.exceptions.TooManyRedirects:
-            return None
-        except requests.exceptions.ConnectionError:
-            time.sleep(1 + attempt)
-        except Exception as e:
-            if attempt == 2:
-                log.debug(f"GET failed {url}: {type(e).__name__}: {e}")
-            time.sleep(1 + attempt)
+        except Exception:
+            if attempt < HTTP_RETRIES:
+                time.sleep(0.5)
     return None
 
 
-def get_soup(url: str) -> tuple[BeautifulSoup | None, str | None]:
-    """Get BeautifulSoup and final URL after redirects."""
-    resp = safe_get(url)
-    if not resp:
-        return None, None
-    try:
-        # Try utf-8 first, then apparent encoding
+def decode_resp(resp: requests.Response) -> str:
+    for enc in ("utf-8", resp.apparent_encoding or "shift_jis", "euc-jp", "shift_jis"):
         try:
-            text = resp.content.decode("utf-8")
-        except UnicodeDecodeError:
-            text = resp.content.decode(resp.apparent_encoding or "utf-8", errors="replace")
-        return BeautifulSoup(text, "lxml"), resp.url
+            return resp.content.decode(enc)
+        except Exception:
+            continue
+    return resp.content.decode("utf-8", errors="replace")
+
+
+def get_soup(url: str) -> tuple[BeautifulSoup | None, str]:
+    r = safe_get(url)
+    if not r:
+        return None, url
+    text = decode_resp(r)
+    return BeautifulSoup(text, "lxml"), r.url
+
+
+# ─── Image helpers ────────────────────────────────────────────────────────────
+
+def is_icon(src: str) -> bool:
+    sl = src.lower()
+    return any(p in sl for p in ICON_PATTERNS)
+
+
+def score_img(img) -> int:
+    src = (img.get("src") or img.get("data-src") or "").lower()
+    alt = (img.get("alt") or "").lower()
+    if is_icon(src):
+        return -100
+    score = 0
+    if any(k in alt for k in ["社長", "取締役", "会長", "president", "ceo", "officer", "代表"]):
+        score += 60
+    if any(k in src for k in ["photo", "img", "face", "portrait", "president", "officer", "person"]):
+        score += 20
+    if src.endswith((".jpg", ".jpeg", ".png", ".webp")):
+        score += 10
+    try:
+        w, h = int(img.get("width", 0)), int(img.get("height", 0))
+        if 60 <= w <= 600 and 60 <= h <= 800:
+            score += 25
+        elif w < 40 or h < 40:
+            score -= 60
     except Exception:
-        return None, None
+        pass
+    return score
+
+
+def download_image(url: str, path: Path) -> bool:
+    """Download and save a single image. Returns True on success."""
+    try:
+        r = SESSION.get(url, timeout=HTTP_TIMEOUT * 2, verify=False)
+        if r.status_code != 200 or len(r.content) < 3000:
+            return False
+        img = Image.open(BytesIO(r.content))
+        if img.width < 60 or img.height < 60:
+            return False
+        if img.mode in ("RGBA", "P", "LA"):
+            img = img.convert("RGB")
+        path.parent.mkdir(parents=True, exist_ok=True)
+        img.save(path, "JPEG", quality=90)
+        return True
+    except Exception:
+        return False
+
+
+def download_multiple_photos(photo_urls: list[str], photo_dir: Path) -> list[str]:
+    """
+    Download multiple photos for a CEO.
+    Saves as photo_01.jpg, photo_02.jpg, ...
+    Returns list of saved filenames.
+    """
+    saved = []
+    idx = 1
+    seen_urls = set()
+    for url in photo_urls:
+        if url in seen_urls or not url:
+            continue
+        seen_urls.add(url)
+        path = photo_dir / f"photo_{idx:02d}.jpg"
+        if path.exists():
+            saved.append(path.name)
+            idx += 1
+            continue
+        if download_image(url, path):
+            saved.append(path.name)
+            idx += 1
+        if idx > 5:  # Max 5 photos per CEO
+            break
+    return saved
 
 
 # ─── CEO Detection ─────────────────────────────────────────────────────────────
@@ -227,284 +215,228 @@ def is_ceo_title(text: str) -> bool:
     return any(t in text for t in CEO_TITLES_JP)
 
 
-def is_icon_image(src: str) -> bool:
-    src_lower = src.lower()
-    return any(p in src_lower for p in ICON_PATTERNS)
-
-
-def score_img(img_tag) -> int:
-    """Score an image tag for likelihood of being a person photo."""
-    score = 0
-    src = img_tag.get("src", "") + img_tag.get("data-src", "")
-    alt = img_tag.get("alt", "").lower()
-    width = img_tag.get("width", "")
-    height = img_tag.get("height", "")
-
-    # Negative: icon patterns
-    if is_icon_image(src):
-        return -100
-
-    # Positive: photo-like filenames
-    if any(kw in src.lower() for kw in ["photo", "img", "picture", "face", "portrait", "person", "staff"]):
-        score += 20
-    if any(kw in alt for kw in ["社長", "取締役", "会長", "president", "ceo", "officer"]):
-        score += 50
-
-    # Size hints
-    try:
-        w = int(width)
-        h = int(height)
-        if 80 <= w <= 400 and 80 <= h <= 600:
-            score += 30
-        elif w < 50 or h < 50:
-            score -= 50
-    except (ValueError, TypeError):
-        pass
-
-    # JPEG/PNG likely a photo
-    if src.lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
-        score += 10
-
-    return score
-
-
-def find_ceo_in_soup(soup: BeautifulSoup, page_url: str) -> dict | None:
-    """
-    Find CEO information in a BeautifulSoup object.
-    Returns dict: {name, title, photo_url, appointment_info, source_url}
-    """
-    if not soup:
-        return None
-
-    text = soup.get_text()
-    if not is_ceo_title(text):
-        return None
-
-    best_result = None
-    best_score = -999
-
-    for title in CEO_TITLES_JP:
-        # Find all elements containing this title
-        for elem in soup.find_all(string=lambda s: s and title in s):
-            container = elem.parent
-
-            # Search upward for a photo container
-            for depth in range(10):
-                if container is None:
-                    break
-                imgs = container.find_all("img")
-                for img in imgs:
-                    src = img.get("src") or img.get("data-src") or img.get("data-lazy-src") or ""
-                    if not src:
-                        continue
-                    photo_url = urljoin(page_url, src)
-
-                    score = score_img(img)
-                    if score > best_score:
-                        # Try to find name
-                        name = _extract_name_from_container(container)
-                        appt = _extract_appointment_date(container.get_text())
-                        best_score = score
-                        best_result = {
-                            "name": name,
-                            "title": title,
-                            "photo_url": photo_url,
-                            "appointment_info": appt,
-                            "source_url": page_url,
-                        }
-                container = container.parent
-
-    # If score too low, reject
-    if best_result and best_score > -10:
-        return best_result
-
-    # Fallback: look for common page structures
-    return _fallback_ceo_search(soup, page_url)
-
-
-def _fallback_ceo_search(soup: BeautifulSoup, page_url: str) -> dict | None:
-    """Fallback: look for CEO in structured table/list formats."""
-    # Look for tables with role and name
-    for table in soup.find_all(["table", "dl", "ul"]):
-        text = table.get_text()
-        if not is_ceo_title(text):
-            continue
-        imgs = table.find_all("img")
-        for img in imgs:
-            src = img.get("src") or img.get("data-src") or ""
-            if src and not is_icon_image(src):
-                photo_url = urljoin(page_url, src)
-                name = _extract_name_from_container(table)
-                appt = _extract_appointment_date(text)
-                # Find which title matched
-                title = next((t for t in CEO_TITLES_JP if t in text), CEO_TITLES_JP[0])
-                return {"name": name, "title": title, "photo_url": photo_url,
-                        "appointment_info": appt, "source_url": page_url}
-
-    # Look for section/article with CEO title
-    for section in soup.find_all(["section", "article", "div"], limit=200):
-        text = section.get_text()
-        if len(text) > 2000:  # Skip large containers
-            continue
-        if not is_ceo_title(text):
-            continue
-        imgs = section.find_all("img")
-        for img in imgs:
-            src = img.get("src") or img.get("data-src") or ""
-            if src and not is_icon_image(src) and score_img(img) > -50:
-                photo_url = urljoin(page_url, src)
-                name = _extract_name_from_container(section)
-                appt = _extract_appointment_date(text)
-                title = next((t for t in CEO_TITLES_JP if t in text), CEO_TITLES_JP[0])
-                return {"name": name, "title": title, "photo_url": photo_url,
-                        "appointment_info": appt, "source_url": page_url}
-    return None
-
-
-def _extract_name_from_container(container) -> str:
-    """Extract Japanese person name from a container element."""
-    text = container.get_text(" ", strip=True)
-    # Remove title keywords to isolate the name
-    for t in CEO_TITLES_JP + ["氏", "様", "さん", "（", "）", "(", ")", "【", "】", "■", "●"]:
+def extract_person_name(text: str) -> str:
+    for t in CEO_TITLES_JP:
         text = text.replace(t, " ")
-    # Japanese name: family name (1-2 kanji) + space + given name (1-3 kanji) or just 2-4 kanji together
-    patterns = [
-        r"[\u4e00-\u9fff]{1,2}[\s\u3000]+[\u4e00-\u9fff]{1,3}",  # kanji space kanji
-        r"[\u4e00-\u9fff]{2,4}",  # 2-4 consecutive kanji
-    ]
-    for pat in patterns:
+    bad = ["取締役", "社長", "会社", "株式", "本社", "設立", "概要", "情報", "事業",
+           "製品", "採用", "管理", "技術", "経営", "商号", "業務", "代表", "役員"]
+    for pat in [
+        r"[\u4e00-\u9fff]{1,2}[\s\u3000]{1,2}[\u4e00-\u9fff]{1,3}(?!\s*[社会株])",
+        r"[\u4e00-\u9fff]{2,4}(?![年月日社会株])",
+    ]:
         m = re.search(pat, text)
         if m:
-            name = m.group().strip()
-            # Filter out company-like names or short single kanji
-            if len(name.replace(" ", "").replace("\u3000", "")) >= 2:
-                return name
+            candidate = m.group().strip()
+            if not any(b in candidate for b in bad) and len(candidate.replace(" ", "").replace("\u3000", "")) >= 2:
+                return candidate
     return ""
 
 
-def _extract_appointment_date(text: str) -> str | None:
-    """Extract appointment date from text."""
-    patterns = [
+def extract_appt_date(text: str) -> str | None:
+    for pat in [
         r"(20\d{2}年\d{1,2}月)",
-        r"(平成\d{1,2}年\d{1,2}月)",
         r"(令和\d{1,2}年\d{1,2}月)",
+        r"(平成\d{1,2}年\d{1,2}月)",
         r"(\d{4}/\d{1,2}(?:/\d{1,2})?)",
-        r"(就任[：:\s]*20\d{2}年\d{1,2}月)",
-    ]
-    for pat in patterns:
+    ]:
         m = re.search(pat, text)
         if m:
             return m.group(1)
     return None
 
 
+def find_ceo_photos_in_soup(soup: BeautifulSoup, page_url: str) -> dict | None:
+    """
+    Find CEO info + ALL related photos in a page.
+    Returns dict with: name, title, photo_urls (list), appointment_info, source_url
+    """
+    if not soup:
+        return None
+    full_text = soup.get_text()
+    if not is_ceo_title(full_text):
+        return None
+
+    best = None
+    best_score = -999
+
+    for title in CEO_TITLES_JP:
+        for elem in soup.find_all(string=lambda s: s and title in s):
+            container = elem.parent
+            for _ in range(8):
+                if container is None or container.name in ("html", "body"):
+                    break
+                ctxt = container.get_text()
+                if len(ctxt) > 3000:
+                    container = container.parent
+                    continue
+                imgs = container.find_all("img")
+                valid_imgs = [(img, score_img(img)) for img in imgs
+                              if (img.get("src") or img.get("data-src")) and score_img(img) > -10]
+                if valid_imgs:
+                    top_score = max(s for _, s in valid_imgs)
+                    if top_score > best_score:
+                        best_score = top_score
+                        photo_urls = []
+                        for img, s in sorted(valid_imgs, key=lambda x: -x[1]):
+                            src = img.get("src") or img.get("data-src") or ""
+                            if src:
+                                photo_urls.append(urljoin(page_url, src))
+                        name = extract_person_name(ctxt)
+                        appt = extract_appt_date(ctxt)
+                        best = {
+                            "name": name,
+                            "title": title,
+                            "photo_urls": photo_urls,
+                            "appointment_info": appt,
+                            "source_url": page_url,
+                        }
+                container = container.parent
+
+    if best and best_score > -10:
+        return best
+
+    # Fallback: search in sections
+    for tag in ("section", "article", "div", "table"):
+        for el in soup.find_all(tag, limit=150):
+            txt = el.get_text()
+            if len(txt) > 2500 or not is_ceo_title(txt):
+                continue
+            valid_imgs = []
+            for img in el.find_all("img"):
+                src = img.get("src") or img.get("data-src") or ""
+                s = score_img(img) if src else -999
+                if src and s > -50:
+                    valid_imgs.append((img, s, src))
+            if valid_imgs:
+                top_score = max(s for _, s, _ in valid_imgs)
+                if top_score > best_score:
+                    best_score = top_score
+                    title = next((t for t in CEO_TITLES_JP if t in txt), CEO_TITLES_JP[0])
+                    photo_urls = [urljoin(page_url, src)
+                                  for img, s, src in sorted(valid_imgs, key=lambda x: -x[1])]
+                    best = {
+                        "name": extract_person_name(txt),
+                        "title": title,
+                        "photo_urls": photo_urls,
+                        "appointment_info": extract_appt_date(txt),
+                        "source_url": page_url,
+                    }
+
+    return best if (best and best_score > -50) else None
+
+
 # ─── Management Page Finder ────────────────────────────────────────────────────
 
-def find_management_page(base_url: str) -> list[str]:
-    """
-    Find potential management/officer pages for a company.
-    Returns list of URLs sorted by relevance.
-    """
+def find_mgmt_pages(base_url: str) -> list[str]:
     parsed = urlparse(base_url)
     base = f"{parsed.scheme}://{parsed.netloc}"
-    found_urls = []
+    found = []
 
-    # 1. Try known path patterns
-    for path in MGMT_PATH_PATTERNS:
-        url = base + path
-        resp = safe_get(url)
-        if resp and resp.url and len(resp.content) > 500:
+    for path in TOP_MGMT_PATHS:
+        r = safe_get(base + path)
+        if r and r.url:
             try:
-                content = resp.content.decode("utf-8", errors="replace")
+                text = decode_resp(r)
             except Exception:
-                content = ""
-            if is_ceo_title(content):
-                found_urls.append(resp.url)
-                if len(found_urls) >= 3:
-                    break
+                continue
+            if is_ceo_title(text):
+                found.append(r.url)
+                if len(found) >= 2:
+                    return found
 
-    # 2. Parse top page links
-    if not found_urls:
-        soup, final_url = get_soup(base_url)
-        if soup:
-            for a in soup.find_all("a", href=True):
-                href = a.get("href", "")
-                link_text = a.get_text(" ", strip=True)
-                if any(kw in href.lower() or kw in link_text
-                       for kw in MGMT_LINK_KEYWORDS):
-                    full_url = urljoin(base_url, href)
-                    fp = urlparse(full_url)
-                    if fp.netloc == parsed.netloc:
-                        sub_soup, sub_url = get_soup(full_url)
-                        if sub_soup and is_ceo_title(sub_soup.get_text()):
-                            found_urls.append(sub_url)
-                if len(found_urls) >= 3:
-                    break
-
-    return found_urls
-
-
-# ─── Photo Download ─────────────────────────────────────────────────────────────
-
-def download_photo(photo_url: str, save_path: Path) -> bool:
-    """Download and validate a photo, save as JPEG."""
-    try:
-        resp = SESSION.get(photo_url, timeout=20, stream=True)
-        if resp.status_code != 200:
-            return False
-        img_data = resp.content
-        try:
-            img = Image.open(BytesIO(img_data))
-            # Require minimum size
-            if img.width < 60 or img.height < 60:
-                return False
-            # Must be reasonable aspect ratio for portrait
-            ratio = img.height / max(img.width, 1)
-            if ratio < 0.5 or ratio > 4.0:
-                return False
-            if img.mode in ("RGBA", "P", "LA"):
-                img = img.convert("RGB")
-            save_path.parent.mkdir(parents=True, exist_ok=True)
-            img.save(save_path, "JPEG", quality=90)
-            return True
-        except Exception:
-            ct = resp.headers.get("content-type", "")
-            if "image" in ct and len(img_data) > 5000:
-                save_path.parent.mkdir(parents=True, exist_ok=True)
-                save_path.write_bytes(img_data)
-                return True
-    except Exception as e:
-        log.debug(f"Photo download error {photo_url}: {e}")
-    return False
+    soup, _ = get_soup(base_url)
+    if soup:
+        for a in soup.find_all("a", href=True):
+            href = a.get("href", "")
+            txt = a.get_text()
+            if any(kw in href.lower() or kw in txt for kw in LINK_KW):
+                full = urljoin(base_url, href)
+                if urlparse(full).netloc == parsed.netloc and full not in found:
+                    r2 = safe_get(full)
+                    if r2:
+                        try:
+                            t2 = decode_resp(r2)
+                        except Exception:
+                            continue
+                        if is_ceo_title(t2):
+                            found.append(r2.url)
+                            if len(found) >= 2:
+                                return found
+    return found
 
 
 # ─── Stock Price ──────────────────────────────────────────────────────────────
 
-def get_stock_price(ticker: str, date_str: str) -> dict | None:
-    """Get stock price around a given date using yfinance."""
-    try:
-        m = re.search(r"(\d{4})[年/](\d{1,2})", date_str)
-        if not m:
+def parse_date(date_str: str) -> datetime | None:
+    """Parse Japanese date string to datetime."""
+    # Wareki conversion
+    m = re.search(r"令和(\d+)年(\d{1,2})月(?:(\d{1,2})日)?", date_str)
+    if m:
+        y = 2018 + int(m.group(1))
+        mo = int(m.group(2))
+        d = int(m.group(3)) if m.group(3) else 1
+        return datetime(y, mo, d)
+    m = re.search(r"平成(\d+)年(\d{1,2})月(?:(\d{1,2})日)?", date_str)
+    if m:
+        y = 1988 + int(m.group(1))
+        mo = int(m.group(2))
+        d = int(m.group(3)) if m.group(3) else 1
+        return datetime(y, mo, d)
+    m = re.search(r"(\d{4})年(\d{1,2})月(?:(\d{1,2})日)?", date_str)
+    if m:
+        y, mo = int(m.group(1)), int(m.group(2))
+        d = int(m.group(3)) if m.group(3) else 1
+        # Only accept 2000 onwards
+        if y < 2000:
             return None
-        year, month = int(m.group(1)), int(m.group(2))
-        dt = datetime(year, month, 1)
-        start = (dt - timedelta(days=7)).strftime("%Y-%m-%d")
-        end = (dt + timedelta(days=40)).strftime("%Y-%m-%d")
+        return datetime(y, mo, d)
+    m = re.search(r"(\d{4})/(\d{1,2})(?:/(\d{1,2}))?", date_str)
+    if m:
+        y, mo = int(m.group(1)), int(m.group(2))
+        d = int(m.group(3)) if m.group(3) else 1
+        if y < 2000:
+            return None
+        return datetime(y, mo, d)
+    return None
 
-        stock = yf.Ticker(f"{ticker}.T")
-        hist = stock.history(start=start, end=end, auto_adjust=True)
+
+def get_stock_prices(ticker: str, date_str: str) -> dict | None:
+    """
+    Get stock prices around a CEO transition date.
+    Returns:
+      - open_on_date: Opening price on or near the date (for appointment)
+      - close_on_date: Closing price on or near the date (for resignation)
+    """
+    try:
+        dt = parse_date(date_str)
+        if not dt:
+            return None
+        # Skip future dates
+        if dt > datetime.now():
+            return None
+
+        start = (dt - timedelta(days=10)).strftime("%Y-%m-%d")
+        end = (dt + timedelta(days=45)).strftime("%Y-%m-%d")
+
+        hist = yf.Ticker(f"{ticker}.T").history(start=start, end=end, auto_adjust=True)
         if hist.empty:
             return None
 
-        prices = hist["Close"]
-        idx = prices.index.get_indexer([dt], method="nearest")[0]
-        close_on_date = float(prices.iloc[idx]) if idx >= 0 else float(prices.iloc[0])
+        # Find closest trading day
+        try:
+            idx = hist.index.get_indexer([dt], method="nearest")[0]
+            idx = max(0, min(idx, len(hist) - 1))
+        except Exception:
+            idx = 0
 
+        row = hist.iloc[idx]
         return {
-            "date": dt.strftime("%Y-%m"),
-            "close_on_date": round(close_on_date, 2),
-            "close_min_period": round(float(prices.min()), 2),
-            "close_max_period": round(float(prices.max()), 2),
+            "date": dt.strftime("%Y-%m-%d"),
+            "open_on_date": round(float(row["Open"]), 2),
+            "close_on_date": round(float(row["Close"]), 2),
+            "high_on_date": round(float(row["High"]), 2),
+            "low_on_date": round(float(row["Low"]), 2),
+            "trading_date": str(hist.index[idx].date()),
             "currency": "JPY",
         }
     except Exception as e:
@@ -512,243 +444,205 @@ def get_stock_price(ticker: str, date_str: str) -> dict | None:
         return None
 
 
-# ─── Previous CEO Search ───────────────────────────────────────────────────────
+# ─── Historical CEO Search ─────────────────────────────────────────────────────
 
-def search_previous_ceos(base_url: str) -> list[dict]:
-    """Search for historical CEO information from press releases."""
+def search_historical_ceos(base_url: str, ticker: str) -> list[dict]:
+    """
+    Search for all CEOs since 2000 from:
+    1. Company press releases / news
+    2. IR pages
+    Returns list sorted by appointment_date desc (newest first).
+    """
     parsed = urlparse(base_url)
     base = f"{parsed.scheme}://{parsed.netloc}"
-    prev_ceos = []
+    results = []
+    seen_names = set()
 
     news_paths = [
-        "/news/", "/ir/news/", "/news/release/", "/press/",
-        "/ir/release/", "/release/", "/ir/press/", "/newsrelease/",
-        "/ir/newsrelease/", "/news/topics/",
+        "/news/", "/ir/news/", "/press/", "/ir/release/",
+        "/newsrelease/", "/ir/press/", "/news/topics/",
+        "/ir/news/release/", "/news/release/",
     ]
-    ceo_change_kw = ["社長交代", "代表取締役社長", "社長就任", "退任", "人事異動", "役員改選"]
+    ceo_kw = ["社長交代", "社長就任", "代表取締役社長", "退任", "人事異動", "役員改選", "社長に就任", "新社長"]
 
-    for path in news_paths[:4]:
+    for path in news_paths[:5]:
         url = base + path
         soup, _ = get_soup(url)
         if not soup:
             continue
         for a in soup.find_all("a", href=True):
             link_text = a.get_text()
-            if any(kw in link_text for kw in ceo_change_kw):
+            if any(k in link_text for k in ceo_kw):
                 news_url = urljoin(url, a["href"])
-                news_soup, _ = get_soup(news_url)
-                if news_soup:
-                    entry = _parse_ceo_change_news(news_soup.get_text(), news_url)
-                    if entry:
-                        prev_ceos.append(entry)
-        if len(prev_ceos) >= 3:
+                nsoup, nurl = get_soup(news_url)
+                if nsoup:
+                    entries = _parse_historical_ceo_news(nsoup.get_text(), nurl, ticker)
+                    for e in entries:
+                        key = e.get("name", "")
+                        if key and key not in seen_names:
+                            seen_names.add(key)
+                            results.append(e)
+        if len(results) >= 10:
             break
 
-    return prev_ceos[:3]
+    # Sort by appointment_date descending
+    def sort_key(e):
+        d = e.get("appointment_date") or ""
+        dt = parse_date(d)
+        return dt or datetime(2000, 1, 1)
+
+    results.sort(key=sort_key, reverse=True)
+    return results[:6]  # Up to 6 previous CEOs (since 2000)
 
 
-def _parse_ceo_change_news(text: str, url: str) -> dict | None:
-    if not (is_ceo_title(text) and any(kw in text for kw in ["就任", "退任", "交代"])):
-        return None
+def _parse_historical_ceo_news(text: str, url: str, ticker: str) -> list[dict]:
+    """Parse a news article for CEO change info. Returns list of entries."""
+    if not (is_ceo_title(text) and any(k in text for k in ["就任", "退任"])):
+        return []
 
-    # Extract name (person becoming CEO)
+    results = []
+    # Find all mentions of CEO changes
     patterns = [
         r"([\u4e00-\u9fff]{1,2}[\s　][\u4e00-\u9fff]{1,3}).*?(?:が|は)?(?:代表取締役社長|社長).*?就任",
         r"新社長.*?([\u4e00-\u9fff]{1,2}[\s　]?[\u4e00-\u9fff]{1,3})氏",
-        r"([\u4e00-\u9fff]{1,2}[\s　]?[\u4e00-\u9fff]{1,3}).*?新.*?社長",
+        r"([\u4e00-\u9fff]{1,2}[\s　]?[\u4e00-\u9fff]{1,3}).*?新社長",
+        r"([\u4e00-\u9fff]{1,2}[\s　]?[\u4e00-\u9fff]{1,3})氏.*?社長",
     ]
-    name = ""
+
+    found_names = []
     for pat in patterns:
-        m = re.search(pat, text)
-        if m:
+        for m in re.finditer(pat, text):
             name = m.group(1).strip()
-            break
+            if name and name not in found_names:
+                found_names.append(name)
 
-    dates = re.findall(r"\d{4}年\d{1,2}月(?:\d{1,2}日)?", text)
-    appt_date = dates[0] if dates else None
-    res_date = dates[-1] if len(dates) > 1 else None
+    dates = re.findall(r"(?:20\d{2}|平成\d+|令和\d+)年\d{1,2}月(?:\d{1,2}日)?", text)
 
-    if not name:
-        return None
-    return {"name": name, "appointment_date": appt_date, "resignation_date": res_date, "source_url": url}
+    for i, name in enumerate(found_names[:3]):
+        appt = dates[i * 2] if i * 2 < len(dates) else (dates[0] if dates else None)
+        res = dates[i * 2 + 1] if i * 2 + 1 < len(dates) else None
+
+        # Only include 2000 onwards
+        if appt:
+            dt = parse_date(appt)
+            if dt and dt.year < 2000:
+                continue
+
+        entry = {
+            "name": name,
+            "appointment_date": appt,
+            "resignation_date": res,
+            "source_url": url,
+        }
+
+        # Get stock prices
+        if appt:
+            price = get_stock_prices(ticker, appt)
+            if price:
+                entry["stock_price_at_appointment"] = price
+                entry["open_at_appointment"] = price.get("open_on_date")
+        if res:
+            price = get_stock_prices(ticker, res)
+            if price:
+                entry["stock_price_at_resignation"] = price
+                entry["close_at_resignation"] = price.get("close_on_date")
+
+        results.append(entry)
+
+    return results
 
 
-# ─── Main Processing ──────────────────────────────────────────────────────────
+# ─── Safe dir name ────────────────────────────────────────────────────────────
 
-def safe_dir_name(s: str) -> str:
+def safe_name(s: str) -> str:
     return re.sub(r'[^\w\u3040-\u30ff\u4e00-\u9fff\-]', '_', str(s))[:50]
 
+
+# ─── Main company processor ───────────────────────────────────────────────────
 
 def process_company(company: dict) -> dict:
     ticker = company["ticker"]
     name = company["name"]
-    base_url = company.get("url", "")
+    url = company.get("url", "")
 
     result = {
         "ticker": ticker,
         "company_name": name,
-        "url": base_url,
+        "url": url,
         "current_ceo": None,
         "previous_ceos": [],
         "error": None,
         "processed_at": datetime.now().isoformat(),
     }
 
-    if not base_url or base_url in ("None", "nan", ""):
-        result["error"] = "No URL"
+    if not url or url in ("None", "nan", ""):
+        result["error"] = "no_url"
         return result
 
     log.info(f"[{ticker}] {name}")
 
     try:
-        # Find management pages
-        mgmt_urls = find_management_page(base_url)
-
-        ceo_info = None
-
-        # Try each management page
-        for mgmt_url in mgmt_urls:
-            soup, final_url = get_soup(mgmt_url)
-            ceo_info = find_ceo_in_soup(soup, final_url or mgmt_url)
-            if ceo_info:
+        # ── Find management page(s) ──
+        mgmt_urls = find_mgmt_pages(url)
+        ceo = None
+        for mu in mgmt_urls:
+            soup, final_url = get_soup(mu)
+            ceo = find_ceo_photos_in_soup(soup, final_url or mu)
+            if ceo:
                 break
 
-        # Fallback: try base URL
-        if not ceo_info:
-            soup, final_url = get_soup(base_url)
-            ceo_info = find_ceo_in_soup(soup, final_url or base_url)
+        # Fallback: company top page
+        if not ceo:
+            soup, final_url = get_soup(url)
+            ceo = find_ceo_photos_in_soup(soup, final_url or url)
 
-        if ceo_info:
-            # Download photo
-            safe_name = safe_dir_name(name)
-            photo_dir = PHOTOS_DIR / f"{ticker}_{safe_name}" / "current"
-            photo_path = photo_dir / "photo.jpg"
-
-            photo_saved = False
-            if ceo_info.get("photo_url") and not photo_path.exists():
-                photo_saved = download_photo(ceo_info["photo_url"], photo_path)
-            elif photo_path.exists():
-                photo_saved = True
-
-            ceo_info["photo_saved"] = photo_saved
-
-            # Stock price at appointment
-            if ceo_info.get("appointment_info"):
-                price = get_stock_price(ticker, ceo_info["appointment_info"])
-                if price:
-                    ceo_info["stock_price_at_appointment"] = price
-
-            # Save info.json
+        if ceo:
+            sn = safe_name(name)
+            photo_dir = PHOTOS_DIR / f"{ticker}_{sn}" / "current"
             photo_dir.mkdir(parents=True, exist_ok=True)
-            (photo_dir / "info.json").write_text(
-                json.dumps(ceo_info, ensure_ascii=False, indent=2), encoding="utf-8"
-            )
-            result["current_ceo"] = ceo_info
-        else:
-            result["error"] = (result.get("error") or "") + "|ceo_not_found"
 
-        # Find previous CEOs
-        prev_ceos = search_previous_ceos(base_url)
-        for i, prev in enumerate(prev_ceos[:3], 1):
-            if prev.get("resignation_date"):
-                price = get_stock_price(ticker, prev["resignation_date"])
+            # Download multiple photos
+            photo_urls = ceo.pop("photo_urls", [])
+            saved_files = download_multiple_photos(photo_urls, photo_dir)
+            ceo["photos_saved"] = saved_files
+            ceo["photo_count"] = len(saved_files)
+            # Backward compat: primary photo
+            ceo["photo_saved"] = len(saved_files) > 0
+
+            # Stock prices at appointment (open price)
+            if ceo.get("appointment_info"):
+                price = get_stock_prices(ticker, ceo["appointment_info"])
                 if price:
-                    prev["stock_price_at_resignation"] = price
+                    ceo["stock_price_at_appointment"] = price
+                    ceo["open_at_appointment"] = price.get("open_on_date")
 
-            safe_name = safe_dir_name(name)
-            prev_name = safe_dir_name(prev.get("name", "unknown"))
-            hist_dir = PHOTOS_DIR / f"{ticker}_{safe_name}" / "history" / f"{i:02d}_{prev_name}"
-            hist_dir.mkdir(parents=True, exist_ok=True)
-            (hist_dir / "info.json").write_text(
-                json.dumps(prev, ensure_ascii=False, indent=2), encoding="utf-8"
+            (photo_dir / "info.json").write_text(
+                json.dumps(ceo, ensure_ascii=False, indent=2), encoding="utf-8"
             )
+            result["current_ceo"] = ceo
+        else:
+            result["error"] = "ceo_not_found"
 
-        result["previous_ceos"] = prev_ceos
+        # ── Historical CEOs (since 2000) ──
+        try:
+            prev_ceos = search_historical_ceos(url, ticker)
+            for i, prev in enumerate(prev_ceos, 1):
+                sn = safe_name(name)
+                pn = safe_name(prev.get("name", "unknown"))
+                hist_dir = PHOTOS_DIR / f"{ticker}_{sn}" / "history" / f"{i:02d}_{pn}"
+                hist_dir.mkdir(parents=True, exist_ok=True)
+                (hist_dir / "info.json").write_text(
+                    json.dumps(prev, ensure_ascii=False, indent=2), encoding="utf-8"
+                )
+            result["previous_ceos"] = prev_ceos
+            if prev_ceos:
+                log.info(f"  歴代社長: {len(prev_ceos)}名")
+        except Exception as e:
+            log.debug(f"  前任社長検索エラー: {e}")
 
     except Exception as e:
         result["error"] = str(e)
-        log.warning(f"Error [{ticker}] {name}: {e}")
+        log.warning(f"  Error [{ticker}]: {e}")
 
-    time.sleep(random.uniform(0.3, 1.0))
+    time.sleep(random.uniform(0.2, 0.5))
     return result
-
-
-# ─── Progress ─────────────────────────────────────────────────────────────────
-
-def load_progress() -> set:
-    if PROGRESS_FILE.exists():
-        with open(PROGRESS_FILE, encoding="utf-8") as f:
-            return set(json.load(f))
-    return set()
-
-
-def save_state(done: set, results: dict):
-    with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(done), f)
-    with open(CEO_DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(results.values()), f, ensure_ascii=False, indent=2)
-
-
-# ─── Main ─────────────────────────────────────────────────────────────────────
-
-def main():
-    log.info("=" * 60)
-    log.info("CEO Photo & History Collector v2 - Starting")
-    log.info(f"Project dir: {PROJECT_DIR}")
-    log.info("=" * 60)
-
-    with open(COMPANIES_FILE, encoding="utf-8") as f:
-        companies = json.load(f)
-    log.info(f"Total companies: {len(companies)}")
-
-    # Load existing results
-    results = {}
-    if CEO_DATA_FILE.exists():
-        with open(CEO_DATA_FILE, encoding="utf-8") as f:
-            for r in json.load(f):
-                results[r["ticker"]] = r
-
-    done_tickers = load_progress()
-    log.info(f"Already done: {len(done_tickers)}")
-
-    todo = [c for c in companies if c["ticker"] not in done_tickers]
-    log.info(f"Remaining: {len(todo)}")
-
-    BATCH = 50
-    WORKERS = 3
-
-    for batch_i, start in enumerate(range(0, len(todo), BATCH)):
-        batch = todo[start:start + BATCH]
-        log.info(f"\nBatch {batch_i + 1}/{-(-len(todo)//BATCH)}: {len(batch)} companies")
-
-        with ThreadPoolExecutor(max_workers=WORKERS) as ex:
-            futures = {ex.submit(process_company, c): c for c in batch}
-            for future in as_completed(futures):
-                c = futures[future]
-                try:
-                    r = future.result(timeout=120)
-                    results[r["ticker"]] = r
-                    done_tickers.add(r["ticker"])
-                    if r.get("current_ceo") and r["current_ceo"].get("photo_saved"):
-                        log.info(f"  ✓ Photo saved: [{r['ticker']}] {r['company_name']}")
-                except Exception as e:
-                    log.error(f"Future error {c['ticker']}: {e}")
-                    done_tickers.add(c["ticker"])
-
-        save_state(done_tickers, results)
-        with_photos = sum(1 for r in results.values()
-                          if r.get("current_ceo") and r["current_ceo"].get("photo_saved"))
-        log.info(f"Progress: {len(done_tickers)}/{len(companies)} | Photos: {with_photos}")
-
-    log.info("\n" + "=" * 60)
-    log.info("Collection complete!")
-    with_ceo = sum(1 for r in results.values() if r.get("current_ceo"))
-    with_photos = sum(1 for r in results.values()
-                      if r.get("current_ceo") and r["current_ceo"].get("photo_saved"))
-    log.info(f"CEO info found: {with_ceo}/{len(results)}")
-    log.info(f"Photos saved: {with_photos}/{len(results)}")
-    log.info("=" * 60)
-
-
-if __name__ == "__main__":
-    main()

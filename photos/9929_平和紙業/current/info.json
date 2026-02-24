@@ -1,0 +1,21 @@
+{
+  "name": "事例\n商品情",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年4月",
+  "source_url": "https://www.heiwapaper.co.jp/news/2025/04/post-210.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-04-01",
+    "open_on_date": 452.03,
+    "close_on_date": 453.01,
+    "high_on_date": 453.98,
+    "low_on_date": 447.16,
+    "trading_date": "2025-03-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 452.03
+}

@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "title": "代表取締役 社長",
+  "appointment_info": "2025年6月",
+  "source_url": "https://www.nichiden.com/company/officer/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-06-01",
+    "open_on_date": 2617.46,
+    "close_on_date": 2592.76,
+    "high_on_date": 2646.1,
+    "low_on_date": 2591.78,
+    "trading_date": "2025-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2617.46
+}

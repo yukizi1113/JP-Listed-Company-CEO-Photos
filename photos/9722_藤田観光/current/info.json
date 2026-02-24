@@ -1,0 +1,21 @@
+{
+  "name": "締役\n\n山下",
+  "title": "代表取締役社長",
+  "appointment_info": "2003年7月",
+  "source_url": "https://www.fujita-kanko.co.jp/corporate/officer.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2003-07-01",
+    "open_on_date": 761.5,
+    "close_on_date": 768.15,
+    "high_on_date": 771.48,
+    "low_on_date": 759.84,
+    "trading_date": "2003-06-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 761.5
+}

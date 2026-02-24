@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "title": "社長執行役員",
+  "appointment_info": "2020年4月",
+  "source_url": "https://www.yamazaki-iron.co.jp/company/vision.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2020-04-01",
+    "open_on_date": 258.1,
+    "close_on_date": 249.77,
+    "high_on_date": 258.1,
+    "low_on_date": 249.77,
+    "trading_date": "2020-03-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 258.1
+}

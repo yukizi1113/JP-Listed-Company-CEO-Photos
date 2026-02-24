@@ -1,0 +1,26 @@
+{
+  "name": "大亀裕貴",
+  "appointment_date": "2025年3月1日",
+  "resignation_date": "2024年1月",
+  "source_url": "https://www.daiki-axis.com/actionpost/33840/",
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 648.83,
+    "close_on_date": 654.63,
+    "high_on_date": 654.63,
+    "low_on_date": 647.87,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 648.83,
+  "stock_price_at_resignation": {
+    "date": "2024-01-01",
+    "open_on_date": 709.73,
+    "close_on_date": 706.07,
+    "high_on_date": 711.57,
+    "low_on_date": 706.07,
+    "trading_date": "2023-12-22",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 706.07
+}

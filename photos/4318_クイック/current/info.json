@@ -1,0 +1,21 @@
+{
+  "name": "会長 兼",
+  "title": "代表取締役社長",
+  "appointment_info": "2003年6月",
+  "source_url": "https://919.jp/company/officer/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2003-06-01",
+    "open_on_date": 12.04,
+    "close_on_date": 12.13,
+    "high_on_date": 12.13,
+    "low_on_date": 11.99,
+    "trading_date": "2003-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 12.04
+}

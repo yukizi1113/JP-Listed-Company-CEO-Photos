@@ -1,0 +1,19 @@
+{
+  "name": "役職\n氏名",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年7月",
+  "source_url": "https://www.kuribayashishosen.com/corporate/organization.html",
+  "photos_saved": [],
+  "photo_count": 0,
+  "photo_saved": false,
+  "stock_price_at_appointment": {
+    "date": "2025-07-01",
+    "open_on_date": 1002.0,
+    "close_on_date": 1006.0,
+    "high_on_date": 1021.0,
+    "low_on_date": 1002.0,
+    "trading_date": "2025-06-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1002.0
+}

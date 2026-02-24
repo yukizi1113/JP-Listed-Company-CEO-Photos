@@ -1,0 +1,21 @@
+{
+  "name": "日付",
+  "title": "代表取締役社長",
+  "appointment_info": "2005年4月",
+  "source_url": "https://www.westjr.co.jp/company/ir/policy/message/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2005-04-01",
+    "open_on_date": 1391.96,
+    "close_on_date": 1424.18,
+    "high_on_date": 1437.07,
+    "low_on_date": 1385.52,
+    "trading_date": "2005-03-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1391.96
+}

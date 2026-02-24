@@ -1,0 +1,16 @@
+{
+  "name": "締役 執行役",
+  "appointment_date": "2020年6月",
+  "resignation_date": "2025年8月",
+  "source_url": "https://genda.jp/2026/01/28/human-resources-information-20260128/",
+  "stock_price_at_resignation": {
+    "date": "2025-08-01",
+    "open_on_date": 925.0,
+    "close_on_date": 954.0,
+    "high_on_date": 956.0,
+    "low_on_date": 895.0,
+    "trading_date": "2025-07-22",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 954.0
+}

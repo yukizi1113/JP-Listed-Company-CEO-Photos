@@ -1,0 +1,23 @@
+{
+  "name": "木村 幸夫",
+  "title": "代表取締役社長",
+  "appointment_info": "2016年4月",
+  "source_url": "https://www.kimura-unity.co.jp/corporate/officer.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg"
+  ],
+  "photo_count": 3,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2016-04-01",
+    "open_on_date": 212.83,
+    "close_on_date": 212.29,
+    "high_on_date": 213.36,
+    "low_on_date": 208.53,
+    "trading_date": "2016-03-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 212.83
+}

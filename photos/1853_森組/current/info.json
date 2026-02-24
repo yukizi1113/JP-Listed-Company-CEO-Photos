@@ -1,8 +1,22 @@
 {
-  "name": "皆 方",
+  "name": "平素",
   "title": "代表取締役社長",
-  "photo_url": "https://www.morigumi.co.jp/assets/img/company/img-01.jpg",
   "appointment_info": "2024年6月",
   "source_url": "https://www.morigumi.co.jp/company/",
-  "photo_saved": true
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2024-06-01",
+    "open_on_date": 304.22,
+    "close_on_date": 301.35,
+    "high_on_date": 304.22,
+    "low_on_date": 301.35,
+    "trading_date": "2024-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 304.22
 }

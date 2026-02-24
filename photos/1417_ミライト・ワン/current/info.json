@@ -1,8 +1,25 @@
 {
-  "name": "確保 株主以",
+  "name": "日本語",
   "title": "代表取締役社長",
-  "photo_url": "https://www.mirait-one.com/assets/img/pages/esg/governance/img01.png",
-  "appointment_info": "2024年7月",
-  "source_url": "https://www.mirait-one.com/esg/governance/",
-  "photo_saved": true
+  "appointment_info": "2025年12月",
+  "source_url": "https://www.mirait-one.com/corporate/executives/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-12-01",
+    "open_on_date": 3160.0,
+    "close_on_date": 3226.0,
+    "high_on_date": 3236.0,
+    "low_on_date": 3151.0,
+    "trading_date": "2025-11-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 3160.0
 }

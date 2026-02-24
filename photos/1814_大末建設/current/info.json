@@ -1,8 +1,12 @@
 {
-  "name": "情報 企業情",
+  "name": "当社",
   "title": "代表取締役社長",
-  "photo_url": "https://www.daisue.co.jp/assets/images/index/bnr_bigjob.jpg",
   "appointment_info": null,
   "source_url": "https://www.daisue.co.jp/company/topmessage/",
-  "photo_saved": false
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true
 }

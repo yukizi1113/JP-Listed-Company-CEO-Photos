@@ -1,8 +1,25 @@
 {
-  "name": "紹介 技術詳",
+  "name": "",
   "title": "代表取締役社長",
-  "photo_url": "https://www.toda.co.jp/common_img/hdr_megadrop_works_im01.jpg",
   "appointment_info": "2025年6月",
   "source_url": "https://www.toda.co.jp/company/officer.html",
-  "photo_saved": true
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-06-01",
+    "open_on_date": 900.53,
+    "close_on_date": 902.49,
+    "high_on_date": 906.12,
+    "low_on_date": 895.82,
+    "trading_date": "2025-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 900.53
 }

@@ -1,8 +1,15 @@
 {
-  "name": "体制 取締役",
+  "name": "氏名\n地位",
   "title": "代表取締役社長",
-  "photo_url": "https://www.nissui.co.jp/vision_policy/img/governance_figure_04_pc.jpg",
-  "appointment_info": "2025年6月",
+  "appointment_info": null,
   "source_url": "https://www.nissui.co.jp/vision_policy/governance.html",
-  "photo_saved": false
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true
 }

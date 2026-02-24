@@ -1,8 +1,22 @@
 {
   "name": "熊野 聡",
   "title": "代表取締役社長",
-  "photo_url": "https://www.haseko.co.jp/hc/company/img/message_im06.jpg",
-  "appointment_info": null,
+  "appointment_info": "2025年4月",
   "source_url": "https://www.haseko.co.jp/hc/company/message.html",
-  "photo_saved": true
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-04-01",
+    "open_on_date": 1908.41,
+    "close_on_date": 1912.73,
+    "high_on_date": 1927.14,
+    "low_on_date": 1887.75,
+    "trading_date": "2025-03-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1908.41
 }

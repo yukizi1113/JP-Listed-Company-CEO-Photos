@@ -1,8 +1,19 @@
 {
-  "name": "家 保証",
+  "name": "家\n保証",
   "title": "代表取締役社長",
-  "photo_url": "https://www.tamahome.jp/assets/img/common/ico-pin.svg",
   "appointment_info": "2025年5月",
   "source_url": "https://www.tamahome.jp/company/profile/",
-  "photo_saved": false
+  "photos_saved": [],
+  "photo_count": 0,
+  "photo_saved": false,
+  "stock_price_at_appointment": {
+    "date": "2025-05-01",
+    "open_on_date": 3739.13,
+    "close_on_date": 3729.61,
+    "high_on_date": 3772.43,
+    "low_on_date": 3729.61,
+    "trading_date": "2025-04-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 3739.13
 }

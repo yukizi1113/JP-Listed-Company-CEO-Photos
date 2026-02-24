@@ -1,8 +1,25 @@
 {
-  "name": "紹介 統合",
+  "name": "山浦 正貴",
   "title": "代表取締役社長",
-  "photo_url": "https://yamaura.co.jp/wp-content/themes/yamaura/img/technology/management/image01.jpg",
-  "appointment_info": "2020年5月",
-  "source_url": "https://yamaura.co.jp/technology/management/",
-  "photo_saved": true
+  "appointment_info": "2025年6月",
+  "source_url": "https://yamaura.co.jp/corporate/director/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-06-01",
+    "open_on_date": 1217.07,
+    "close_on_date": 1222.02,
+    "high_on_date": 1232.92,
+    "low_on_date": 1217.07,
+    "trading_date": "2025-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1217.07
 }

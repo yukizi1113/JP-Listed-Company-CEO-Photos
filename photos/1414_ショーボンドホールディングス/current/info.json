@@ -1,8 +1,21 @@
 {
-  "name": "会社   岸本達",
+  "name": "",
   "title": "代表取締役社長",
-  "photo_url": "https://www.sho-bondhd.jp/img/p-csr-environment-01.jpg",
   "appointment_info": "2025年6月",
   "source_url": "https://www.sho-bondhd.jp/",
-  "photo_saved": true
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-06-01",
+    "open_on_date": 1145.92,
+    "close_on_date": 1157.94,
+    "high_on_date": 1164.9,
+    "low_on_date": 1142.08,
+    "trading_date": "2025-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1145.92
 }

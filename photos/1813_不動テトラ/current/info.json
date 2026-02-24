@@ -1,8 +1,25 @@
 {
-  "name": "",
+  "name": "社名\n\n株",
   "title": "代表取締役社長",
-  "photo_url": "https://www.fudotetra.co.jp/wp-content/themes/fudoTetraTheme/assets/img/company/messageSign.png",
-  "appointment_info": null,
-  "source_url": "https://www.fudotetra.co.jp/company/message/",
-  "photo_saved": false
+  "appointment_info": "2025年3月",
+  "source_url": "https://www.fudotetra.co.jp/company/profile/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 2133.39,
+    "close_on_date": 2144.1,
+    "high_on_date": 2158.71,
+    "low_on_date": 2123.64,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2133.39
 }

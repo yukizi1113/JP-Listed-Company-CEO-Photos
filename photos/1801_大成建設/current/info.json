@@ -1,8 +1,21 @@
 {
-  "name": "億円 前年同",
+  "name": "月 相川善",
   "title": "代表取締役社長",
-  "photo_url": "https://www.taisei.co.jp/ir/management-policy/img/kabunushi_im01.png",
   "appointment_info": "2025年3月",
   "source_url": "https://www.taisei.co.jp/ir/management-policy/kabunushi.html",
-  "photo_saved": false
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 6708.59,
+    "close_on_date": 6858.56,
+    "high_on_date": 6877.91,
+    "low_on_date": 6698.92,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 6708.59
 }

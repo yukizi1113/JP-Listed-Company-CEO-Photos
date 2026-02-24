@@ -1,8 +1,21 @@
 {
-  "name": "理念 会社概",
+  "name": "減災　国土強",
   "title": "代表取締役社長",
-  "photo_url": "https://www.fujips.co.jp/wp-content/themes/fujips/lib/cmn_img/SUNS.png",
-  "appointment_info": null,
-  "source_url": "https://www.fujips.co.jp/company/executive/",
-  "photo_saved": false
+  "appointment_info": "2021年５月",
+  "source_url": "https://www.fujips.co.jp/ir/management/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-05-01",
+    "open_on_date": 529.6,
+    "close_on_date": 521.39,
+    "high_on_date": 530.52,
+    "low_on_date": 521.39,
+    "trading_date": "2021-04-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 529.6
 }

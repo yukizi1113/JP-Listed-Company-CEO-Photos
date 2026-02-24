@@ -1,8 +1,12 @@
 {
-  "name": "",
+  "name": "食品包装",
   "title": "代表取締役社長",
-  "photo_url": "https://www.hokto-kinoko.co.jp/z0y6LaZKWu/wp-content/themes/corporate2017/kigyou/img/img_goaisatsu_sign_01@2x.png",
   "appointment_info": null,
   "source_url": "https://www.hokto-kinoko.co.jp/corporate/kigyou/goaisatsu/",
-  "photo_saved": false
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true
 }

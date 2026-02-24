@@ -1,8 +1,25 @@
 {
-  "name": "情報 会社情",
+  "name": "",
   "title": "代表取締役社長",
-  "photo_url": "https://www.fujita-eng.co.jp/wordpress/wp-content/uploads/page/img_company-640x337.jpg",
   "appointment_info": "2025年3月",
   "source_url": "https://www.fujita-eng.co.jp/company/profile/",
-  "photo_saved": true
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 1450.94,
+    "close_on_date": 1443.27,
+    "high_on_date": 1450.94,
+    "low_on_date": 1440.39,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1450.94
 }

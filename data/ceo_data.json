@@ -19643,5 +19643,1644 @@
     "previous_ceos": [],
     "error": null,
     "processed_at": "2026-02-24T15:28:51.447720"
+  },
+  {
+    "ticker": "4569",
+    "company_name": "杏林製薬",
+    "url": "https://www.kyorin-pharm.co.jp/",
+    "current_ceo": {
+      "name": "荻原 豊",
+      "title": "代表取締役社長",
+      "appointment_info": "2023年4月",
+      "source_url": "https://www.kyorin-pharm.co.jp/company/message.shtml",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2023-04-01",
+        "open_on_date": 1552.54,
+        "close_on_date": 1528.03,
+        "high_on_date": 1552.54,
+        "low_on_date": 1527.12,
+        "trading_date": "2023-03-22",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 1552.54
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:24.080550"
+  },
+  {
+    "ticker": "4568",
+    "company_name": "第一三共",
+    "url": "https://www.daiichisankyo.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:24.071029"
+  },
+  {
+    "ticker": "4564",
+    "company_name": "オンコセラピー・サイエンス",
+    "url": "https://www.oncotherapy.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:24.059026"
+  },
+  {
+    "ticker": "4572",
+    "company_name": "カルナバイオサイエンス",
+    "url": "https://www.carnabio.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:25.940944"
+  },
+  {
+    "ticker": "4570",
+    "company_name": "免疫生物研究所",
+    "url": "https://www.ibl-japan.co.jp/",
+    "current_ceo": {
+      "name": "",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.ibl-japan.co.jp/enterprise/officer/",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg"
+      ],
+      "photo_count": 2,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:25.574124"
+  },
+  {
+    "ticker": "4574",
+    "company_name": "大幸薬品",
+    "url": "https://www.seirogan.co.jp/",
+    "current_ceo": {
+      "name": "柴田 仁",
+      "title": "代表取締役社長",
+      "appointment_info": "2009年3月",
+      "source_url": "https://www.seirogan.co.jp/corporate/company/yakuin.html",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2009-03-01",
+        "open_on_date": 236.13,
+        "close_on_date": 238.02,
+        "high_on_date": 238.02,
+        "low_on_date": 231.41,
+        "trading_date": "2009-03-18",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 236.13
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:26.812394"
+  },
+  {
+    "ticker": "4565",
+    "company_name": "ネクセラファーマ",
+    "url": "https://www.nxera.life/jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:24.066756"
+  },
+  {
+    "ticker": "4575",
+    "company_name": "キャンバス",
+    "url": "https://www.canbas.co.jp/",
+    "current_ceo": {
+      "name": "河邊 拓己内",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.canbas.co.jp/company/management/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:28.604628"
+  },
+  {
+    "ticker": "4571",
+    "company_name": "NANO　MRNA",
+    "url": "https://www.nanomrna.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:25.768132"
+  },
+  {
+    "ticker": "4576",
+    "company_name": "デ・ウエスタン・セラピテクス研究所",
+    "url": "https://www.dwti.co.jp/",
+    "current_ceo": {
+      "name": "株主",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://dwti.co.jp/ir/management-policy/top-message/",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg"
+      ],
+      "photo_count": 2,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:28.732260"
+  },
+  {
+    "ticker": "4577",
+    "company_name": "ダイト",
+    "url": "https://www.daitonet.co.jp/",
+    "current_ceo": {
+      "name": "津賀 保信",
+      "title": "代表取締役社長",
+      "appointment_info": "2025年6月",
+      "source_url": "https://www.daitonet.co.jp/company/organization/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2025-06-01",
+        "open_on_date": 1019.05,
+        "close_on_date": 1006.47,
+        "high_on_date": 1026.79,
+        "low_on_date": 1006.47,
+        "trading_date": "2025-05-22",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 1019.05
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:34.095104"
+  },
+  {
+    "ticker": "4578",
+    "company_name": "大塚ホールディングス",
+    "url": "https://www.otsuka.com/jp/",
+    "current_ceo": {
+      "name": "",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.otsuka.com/jp/company/topmessage/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:34.509806"
+  },
+  {
+    "ticker": "4579",
+    "company_name": "ラクオリア創薬",
+    "url": "https://www.raqualia.com/ja/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:34.787703"
+  },
+  {
+    "ticker": "4584",
+    "company_name": "キッズウェル・バイオ",
+    "url": "https://www.kidswellbio.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:37.966114"
+  },
+  {
+    "ticker": "4587",
+    "company_name": "ペプチドリーム",
+    "url": "https://www.peptidream.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:41.893901"
+  },
+  {
+    "ticker": "4586",
+    "company_name": "メドレックス",
+    "url": "https://www.medrx.co.jp/",
+    "current_ceo": {
+      "name": "",
+      "title": "代表取締役社長",
+      "appointment_info": "2002年1月",
+      "source_url": "https://www.medrx.co.jp/company/profile/",
+      "photos_saved": [],
+      "photo_count": 0,
+      "photo_saved": false
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:38.154930"
+  },
+  {
+    "ticker": "4582",
+    "company_name": "シンバイオ製薬",
+    "url": "https://www.symbiopharma.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:36.609881"
+  },
+  {
+    "ticker": "4591",
+    "company_name": "リボミック",
+    "url": "https://www.ribomic.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:44.961696"
+  },
+  {
+    "ticker": "4588",
+    "company_name": "オンコリスバイオファーマ",
+    "url": "http://www.oncolys.com/",
+    "current_ceo": {
+      "name": "立脚",
+      "title": "代表取締役社長",
+      "appointment_info": "2013年12月",
+      "source_url": "https://www.oncolys.com/jp/company-information/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2013-12-01",
+        "open_on_date": 3500.0,
+        "close_on_date": 3530.0,
+        "high_on_date": 3750.0,
+        "low_on_date": 3215.0,
+        "trading_date": "2013-12-06",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 3500.0
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:44.309977"
+  },
+  {
+    "ticker": "4594",
+    "company_name": "ブライトパス・バイオ",
+    "url": "https://www.brightpathbio.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:46.454412"
+  },
+  {
+    "ticker": "4592",
+    "company_name": "サンバイオ",
+    "url": "https://www.sanbio.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:45.714727"
+  },
+  {
+    "ticker": "4595",
+    "company_name": "ミズホメディー",
+    "url": "https://www.mizuho-m.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:49.968769"
+  },
+  {
+    "ticker": "4597",
+    "company_name": "ソレイジア・ファーマ",
+    "url": "https://solasia.co.jp/",
+    "current_ceo": {
+      "name": "",
+      "title": "代表取締役社長",
+      "appointment_info": "2022年10月",
+      "source_url": "https://solasia.co.jp/about/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2022-10-01",
+        "open_on_date": 57.0,
+        "close_on_date": 53.0,
+        "high_on_date": 57.0,
+        "low_on_date": 51.0,
+        "trading_date": "2022-09-21",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 57.0
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:51.802735"
+  },
+  {
+    "ticker": "4583",
+    "company_name": "カイオム・バイオサイエンス",
+    "url": "https://www.chiome.co.jp/",
+    "current_ceo": {
+      "name": "小池 正道博",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.chiome.co.jp/company/management/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:36.720888"
+  },
+  {
+    "ticker": "4596",
+    "company_name": "窪田製薬ホールディングス",
+    "url": "https://kubotaholdings.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:51.589291"
+  },
+  {
+    "ticker": "4599",
+    "company_name": "ステムリム",
+    "url": "https://stemrim.com/",
+    "current_ceo": {
+      "name": "岡島 正恒",
+      "title": "代表取締役社長",
+      "appointment_info": "2019年3月",
+      "source_url": "https://stemrim.com/company/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:54.059795"
+  },
+  {
+    "ticker": "4611",
+    "company_name": "大日本塗料",
+    "url": "https://www.dnt.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:55.877140"
+  },
+  {
+    "ticker": "4613",
+    "company_name": "関西ペイント",
+    "url": "https://www.kansai.co.jp/",
+    "current_ceo": {
+      "name": "",
+      "title": "代表取締役社長",
+      "appointment_info": "2020年4月",
+      "source_url": "https://www.kansai.co.jp/company/officer-list/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2020-04-01",
+        "open_on_date": 1831.22,
+        "close_on_date": 1791.71,
+        "high_on_date": 1876.13,
+        "low_on_date": 1785.42,
+        "trading_date": "2020-03-23",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 1831.22
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:57.369326"
+  },
+  {
+    "ticker": "4598",
+    "company_name": "Delta-Fly　Pharma",
+    "url": "https://www.delta-flypharma.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:30:52.963016"
+  },
+  {
+    "ticker": "4616",
+    "company_name": "川上塗料",
+    "url": "https://www.kawakami-paint.co.jp/",
+    "current_ceo": {
+      "name": "挨拶\n当連",
+      "title": "代表取締役社長",
+      "appointment_info": "2025年11月",
+      "source_url": "https://www.kawakami-paint.co.jp/company0.html",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2025-11-01",
+        "open_on_date": 2083.25,
+        "close_on_date": 2092.09,
+        "high_on_date": 2092.09,
+        "low_on_date": 2061.63,
+        "trading_date": "2025-10-22",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 2083.25
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:01.504577"
+  },
+  {
+    "ticker": "4615",
+    "company_name": "神東塗料",
+    "url": "https://www.shintopaint.co.jp/",
+    "current_ceo": {
+      "name": "小坂 伊知郎",
+      "title": "代表取締役 社長",
+      "appointment_info": "2022年4月",
+      "source_url": "https://www.shintopaint.co.jp/ir/policy/message/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2022-04-01",
+        "open_on_date": 157.55,
+        "close_on_date": 155.58,
+        "high_on_date": 159.52,
+        "low_on_date": 155.58,
+        "trading_date": "2022-03-22",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 157.55
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:00.325772"
+  },
+  {
+    "ticker": "4593",
+    "company_name": "ヘリオス",
+    "url": "https://www.healios.co.jp/",
+    "current_ceo": {
+      "name": "再生医療",
+      "title": "代表執行役社長",
+      "appointment_info": null,
+      "source_url": "https://www.healios.co.jp/ir/message/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:46.295988"
+  },
+  {
+    "ticker": "4617",
+    "company_name": "中国塗料",
+    "url": "https://www.cmp.co.jp/",
+    "current_ceo": {
+      "name": "伊達 健士",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.cmp.co.jp/company/top_message.html",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:02.819636"
+  },
+  {
+    "ticker": "4620",
+    "company_name": "藤倉化成",
+    "url": "https://www.fkkasei.co.jp/",
+    "current_ceo": {
+      "name": "栗原 進",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.fkkasei.co.jp/company/message/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:05.194415"
+  },
+  {
+    "ticker": "4612",
+    "company_name": "日本ペイントホールディングス",
+    "url": "https://www.nipponpaint-holdings.com/",
+    "current_ceo": {
+      "name": "若月 雄一郎",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.nipponpaint-holdings.com/company/officer/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:30:57.360052"
+  },
+  {
+    "ticker": "4623",
+    "company_name": "アサヒペン",
+    "url": "https://www.asahipen.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:06.089301"
+  },
+  {
+    "ticker": "4624",
+    "company_name": "イサム塗料",
+    "url": "https://www.isamu.co.jp/",
+    "current_ceo": {
+      "name": "北村 倍章",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.isamu.co.jp/company/ceo-message/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:09.179479"
+  },
+  {
+    "ticker": "4627",
+    "company_name": "ナトコ",
+    "url": "https://www.natoco.co.jp/",
+    "current_ceo": {
+      "name": "融合",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.natoco.co.jp/about/#member",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:18.131983"
+  },
+  {
+    "ticker": "4619",
+    "company_name": "日本特殊塗料",
+    "url": "https://www.nttoryo.co.jp/",
+    "current_ceo": {
+      "name": "食品 味噌",
+      "title": "代表取締役社長",
+      "appointment_info": "2025年12月",
+      "source_url": "https://www.nttoryo.co.jp/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2025-12-01",
+        "open_on_date": 2151.0,
+        "close_on_date": 2192.0,
+        "high_on_date": 2198.0,
+        "low_on_date": 2151.0,
+        "trading_date": "2025-11-21",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 2151.0
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:04.635052"
+  },
+  {
+    "ticker": "4626",
+    "company_name": "太陽ホールディングス",
+    "url": "https://www.taiyo-hd.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:15.972537"
+  },
+  {
+    "ticker": "4629",
+    "company_name": "大伸化学",
+    "url": "https://www.daishin-chemical.co.jp/",
+    "current_ceo": {
+      "name": "堀越　進",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.daishin-chemical.co.jp/company/message.html",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:19.556125"
+  },
+  {
+    "ticker": "4631",
+    "company_name": "DIC",
+    "url": "https://www.dic-global.com/ja/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:19.976252"
+  },
+  {
+    "ticker": "4634",
+    "company_name": "artience",
+    "url": "https://www.artiencegroup.com/",
+    "current_ceo": {
+      "name": "持続的成",
+      "title": "代表取締役社長",
+      "appointment_info": "2027/20",
+      "source_url": "https://www.artiencegroup.com/ja/corporate/info/topmessage.html",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg"
+      ],
+      "photo_count": 2,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:22.040405"
+  },
+  {
+    "ticker": "4633",
+    "company_name": "サカタインクス",
+    "url": "https://www.inx.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:20.968276"
+  },
+  {
+    "ticker": "4625",
+    "company_name": "アトミクス",
+    "url": "https://www.atomix.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:10.865456"
+  },
+  {
+    "ticker": "4628",
+    "company_name": "エスケー化研",
+    "url": "https://www.sk-kaken.co.jp/",
+    "current_ceo": {
+      "name": "理　念",
+      "title": "代表取締役社長",
+      "appointment_info": "平成3年4月",
+      "source_url": "https://www.sk-kaken.co.jp/philosophy/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:19.431140"
+  },
+  {
+    "ticker": "4635",
+    "company_name": "東京インキ",
+    "url": "https://www.tokyoink.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:23.999147"
+  },
+  {
+    "ticker": "4641",
+    "company_name": "アルプス技研",
+    "url": "https://www.alpsgiken.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:24.373911"
+  },
+  {
+    "ticker": "4642",
+    "company_name": "オリジナル設計",
+    "url": "https://www.oec-solution.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:24.749101"
+  },
+  {
+    "ticker": "4644",
+    "company_name": "イマジニア",
+    "url": "https://www.imagineer.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:25.390384"
+  },
+  {
+    "ticker": "4645",
+    "company_name": "市進ホールディングス",
+    "url": "http://ir.ichishin.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:26.886040"
+  },
+  {
+    "ticker": "4657",
+    "company_name": "環境管理センター",
+    "url": "https://www.kankyo-kanri.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:28.492104"
+  },
+  {
+    "ticker": "4650",
+    "company_name": "SDエンターテイメント",
+    "url": "https://sdentertainment.jp/",
+    "current_ceo": {
+      "name": "告書\n\n株主",
+      "title": "代表取締役社長",
+      "appointment_info": "2025年3月",
+      "source_url": "https://sdentertainment.jp/company/profile/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2025-03-01",
+        "open_on_date": 302.0,
+        "close_on_date": 304.0,
+        "high_on_date": 304.0,
+        "low_on_date": 302.0,
+        "trading_date": "2025-02-19",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 302.0
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:27.329276"
+  },
+  {
+    "ticker": "4651",
+    "company_name": "サニックスホールディングス",
+    "url": "https://hd.sanix.jp/",
+    "current_ceo": {
+      "name": "当社創業",
+      "title": "代表取締役社長",
+      "appointment_info": "2025年4月",
+      "source_url": "https://hd.sanix.jp/company/message",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg"
+      ],
+      "photo_count": 2,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2025-04-01",
+        "open_on_date": 250.0,
+        "close_on_date": 250.0,
+        "high_on_date": 250.0,
+        "low_on_date": 247.0,
+        "trading_date": "2025-03-24",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 250.0
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:27.828241"
+  },
+  {
+    "ticker": "4658",
+    "company_name": "日本空調サービス",
+    "url": "https://www.nikku.co.jp/",
+    "current_ceo": {
+      "name": "半期 決算補",
+      "title": "代表取締役社長",
+      "appointment_info": "2026年2月",
+      "source_url": "https://www.nikku.co.jp/ja/index.html",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2026-02-01",
+        "open_on_date": 1452.0,
+        "close_on_date": 1457.0,
+        "high_on_date": 1457.0,
+        "low_on_date": 1440.0,
+        "trading_date": "2026-01-22",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 1452.0
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:29.994446"
+  },
+  {
+    "ticker": "4659",
+    "company_name": "エイジス",
+    "url": "https://www.ajis.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:31.983092"
+  },
+  {
+    "ticker": "4665",
+    "company_name": "ダスキン",
+    "url": "https://www.duskin.co.jp/",
+    "current_ceo": {
+      "name": "当社",
+      "title": "代表取締役 社長",
+      "appointment_info": "2025年4月",
+      "source_url": "https://www.duskin.co.jp/company/topmessage/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2025-04-01",
+        "open_on_date": 3616.05,
+        "close_on_date": 3609.25,
+        "high_on_date": 3622.85,
+        "low_on_date": 3589.83,
+        "trading_date": "2025-03-24",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 3616.05
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:36.064189"
+  },
+  {
+    "ticker": "4664",
+    "company_name": "アール・エス・シー",
+    "url": "https://www.trsc.co.jp/",
+    "current_ceo": {
+      "name": "金井 宏夫",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.trsc.co.jp/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:33.677215"
+  },
+  {
+    "ticker": "4666",
+    "company_name": "パーク24",
+    "url": "https://park24.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:37.414634"
+  },
+  {
+    "ticker": "4662",
+    "company_name": "フォーカスシステムズ",
+    "url": "https://www.focus-s.com/",
+    "current_ceo": {
+      "name": "森 啓一",
+      "title": "代表取締役社長",
+      "appointment_info": "2002年4月",
+      "source_url": "https://www.focus-s.com/company/management",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg",
+        "photo_03.jpg"
+      ],
+      "photo_count": 3,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2002-04-01",
+        "open_on_date": 439.02,
+        "close_on_date": 435.99,
+        "high_on_date": 457.19,
+        "low_on_date": 432.96,
+        "trading_date": "2002-03-22",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 439.02
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:33.047507"
+  },
+  {
+    "ticker": "4671",
+    "company_name": "ファルコホールディングス",
+    "url": "https://www.falco-hd.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:44.368169"
+  },
+  {
+    "ticker": "4673",
+    "company_name": "川崎地質",
+    "url": "https://www.kge.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:46.299498"
+  },
+  {
+    "ticker": "4667",
+    "company_name": "アイサンテクノロジー",
+    "url": "https://www.aisantec.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:41.231791"
+  },
+  {
+    "ticker": "4676",
+    "company_name": "フジ・メディア・ホールディングス",
+    "url": "https://www.fujimediahd.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:48.326530"
+  },
+  {
+    "ticker": "4668",
+    "company_name": "明光ネットワークジャパン",
+    "url": "https://www.meikonet.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:42.785442"
+  },
+  {
+    "ticker": "4678",
+    "company_name": "秀英予備校",
+    "url": "https://www.shuei-yobiko.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:49.801769"
+  },
+  {
+    "ticker": "4680",
+    "company_name": "ラウンドワン",
+    "url": "https://www.round1-group.co.jp/",
+    "current_ceo": {
+      "name": "杉野 公彦",
+      "title": "代表取締役 社長",
+      "appointment_info": "2010年8月",
+      "source_url": "https://www.round1-group.co.jp/information/members/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2010-08-01",
+        "open_on_date": 87.07,
+        "close_on_date": 85.5,
+        "high_on_date": 88.42,
+        "low_on_date": 85.05,
+        "trading_date": "2010-07-22",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 87.07
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:51.997740"
+  },
+  {
+    "ticker": "4674",
+    "company_name": "クレスコ",
+    "url": "https://www.cresco.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [
+      {
+        "name": "根元 浩幸",
+        "appointment_date": "2022年04月01日",
+        "resignation_date": "2022年04月01日",
+        "source_url": "https://www.cresco.co.jp/ja/corpinfo/news/news-5969540658814848986.html",
+        "stock_price_at_appointment": {
+          "date": "2022-04-01",
+          "open_on_date": 837.82,
+          "close_on_date": 816.06,
+          "high_on_date": 837.82,
+          "low_on_date": 813.84,
+          "trading_date": "2022-03-22",
+          "currency": "JPY"
+        },
+        "open_at_appointment": 837.82,
+        "stock_price_at_resignation": {
+          "date": "2022-04-01",
+          "open_on_date": 837.82,
+          "close_on_date": 816.06,
+          "high_on_date": 837.82,
+          "low_on_date": 813.84,
+          "trading_date": "2022-03-22",
+          "currency": "JPY"
+        },
+        "close_at_resignation": 816.06
+      }
+    ],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:48.298946"
+  },
+  {
+    "ticker": "4679",
+    "company_name": "田谷",
+    "url": "https://www.taya.co.jp/",
+    "current_ceo": {
+      "name": "体制",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.taya.co.jp/ir/management/governance.html",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg"
+      ],
+      "photo_count": 2,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:51.723732"
+  },
+  {
+    "ticker": "4684",
+    "company_name": "オービック",
+    "url": "https://www.obic.co.jp/",
+    "current_ceo": {
+      "name": "橘　昇一",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.obic.co.jp/sustainability/management/",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg"
+      ],
+      "photo_count": 2,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:55.865962"
+  },
+  {
+    "ticker": "4685",
+    "company_name": "菱友システムズ",
+    "url": "https://www.ryoyu.co.jp/",
+    "current_ceo": {
+      "name": "体制\n当社",
+      "title": "取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.ryoyu.co.jp/ir/governance/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:58.975548"
+  },
+  {
+    "ticker": "4681",
+    "company_name": "リゾートトラスト",
+    "url": "https://www.resorttrust.co.jp/",
+    "current_ceo": {
+      "name": "伏見 有貴",
+      "title": "代表取締役 社長",
+      "appointment_info": null,
+      "source_url": "https://www.resorttrust.co.jp/sustainability/message/",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg"
+      ],
+      "photo_count": 2,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:31:54.225780"
+  },
+  {
+    "ticker": "4686",
+    "company_name": "ジャストシステム",
+    "url": "https://www.justsystems.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:58.980216"
+  },
+  {
+    "ticker": "4689",
+    "company_name": "LINEヤフー",
+    "url": "https://www.lycorp.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:10.555907"
+  },
+  {
+    "ticker": "4690",
+    "company_name": "日本パレットプール",
+    "url": "https://www.npp-web.co.jp/",
+    "current_ceo": {
+      "name": "浜島 和利",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.npp-web.co.jp/company/message.html",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:32:13.128826"
+  },
+  {
+    "ticker": "4691",
+    "company_name": "ワシントンホテル",
+    "url": "https://www.washingtonhotel.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:13.299452"
+  },
+  {
+    "ticker": "4694",
+    "company_name": "ビー・エム・エル",
+    "url": "https://www.bml.co.jp/",
+    "current_ceo": {
+      "name": "他 民間企",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.bml.co.jp/",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg",
+        "photo_03.jpg",
+        "photo_04.jpg",
+        "photo_05.jpg"
+      ],
+      "photo_count": 5,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:32:15.679924"
+  },
+  {
+    "ticker": "4705",
+    "company_name": "クリップコーポレーション",
+    "url": "https://www.clip-cor.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:17.809080"
+  },
+  {
+    "ticker": "4707",
+    "company_name": "キタック",
+    "url": "https://www.kitac.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:18.677364"
+  },
+  {
+    "ticker": "4709",
+    "company_name": "IDホールディングス",
+    "url": "https://www.idnet-hd.co.jp/",
+    "current_ceo": {
+      "name": "査役\n執行役",
+      "title": "代表取締役社長",
+      "appointment_info": "2025年10月",
+      "source_url": "https://www.idnet-hd.co.jp/corporate/officer/",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg",
+        "photo_03.jpg",
+        "photo_04.jpg",
+        "photo_05.jpg"
+      ],
+      "photo_count": 5,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2025-10-01",
+        "open_on_date": 2257.37,
+        "close_on_date": 2348.01,
+        "high_on_date": 2348.01,
+        "low_on_date": 2256.38,
+        "trading_date": "2025-09-22",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 2257.37
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:32:21.957360"
+  },
+  {
+    "ticker": "4704",
+    "company_name": "トレンドマイクロ",
+    "url": "https://www.trendmicro.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:16.750473"
+  },
+  {
+    "ticker": "4714",
+    "company_name": "リソー教育",
+    "url": "https://www.riso-kyoikugroup.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:26.732564"
+  },
+  {
+    "ticker": "4712",
+    "company_name": "KeyHolder",
+    "url": "https://www.keyholder.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:25.368178"
+  },
+  {
+    "ticker": "4718",
+    "company_name": "早稲田アカデミー",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/",
+    "current_ceo": {
+      "name": "標準\n拡大",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.waseda-ac.co.jp/corp/about/message.html?bid5=header",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg",
+        "photo_03.jpg",
+        "photo_04.jpg",
+        "photo_05.jpg"
+      ],
+      "photo_count": 5,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:32:33.783646"
+  },
+  {
+    "ticker": "4687",
+    "company_name": "TDCソフト",
+    "url": "https://www.tdc.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:00.536453"
+  },
+  {
+    "ticker": "4720",
+    "company_name": "城南進学研究社",
+    "url": "https://www.johnan.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:36.768944"
+  },
+  {
+    "ticker": "4716",
+    "company_name": "日本オラクル",
+    "url": "https://www.oracle.com/jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:30.465933"
+  },
+  {
+    "ticker": "4722",
+    "company_name": "フューチャー",
+    "url": "https://www.future.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:37.873356"
+  },
+  {
+    "ticker": "4728",
+    "company_name": "トーセ",
+    "url": "https://www.tose.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:41.247030"
+  },
+  {
+    "ticker": "4725",
+    "company_name": "CAC　Holdings",
+    "url": "https://www.cac-holdings.com/",
+    "current_ceo": null,
+    "previous_ceos": [
+      {
+        "name": "西森良太",
+        "appointment_date": "2026年1月",
+        "resignation_date": "2025年7月",
+        "source_url": "https://shachomeikan.jp/industry_article/5414",
+        "stock_price_at_appointment": {
+          "date": "2026-01-01",
+          "open_on_date": 2006.74,
+          "close_on_date": 2000.89,
+          "high_on_date": 2011.62,
+          "low_on_date": 1998.93,
+          "trading_date": "2025-12-22",
+          "currency": "JPY"
+        },
+        "open_at_appointment": 2006.74,
+        "stock_price_at_resignation": {
+          "date": "2025-07-01",
+          "open_on_date": 1956.8,
+          "close_on_date": 1933.94,
+          "high_on_date": 1956.8,
+          "low_on_date": 1933.94,
+          "trading_date": "2025-06-23",
+          "currency": "JPY"
+        },
+        "close_at_resignation": 1933.94
+      },
+      {
+        "name": "西森",
+        "appointment_date": "2020年3月",
+        "resignation_date": "2021年1月",
+        "source_url": "https://shachomeikan.jp/industry_article/5414",
+        "stock_price_at_appointment": {
+          "date": "2020-03-01",
+          "open_on_date": 983.05,
+          "close_on_date": 970.86,
+          "high_on_date": 992.95,
+          "low_on_date": 967.06,
+          "trading_date": "2020-02-20",
+          "currency": "JPY"
+        },
+        "open_at_appointment": 983.05,
+        "stock_price_at_resignation": {
+          "date": "2021-01-01",
+          "open_on_date": 1131.1,
+          "close_on_date": 1103.04,
+          "high_on_date": 1133.44,
+          "low_on_date": 1100.7,
+          "trading_date": "2020-12-22",
+          "currency": "JPY"
+        },
+        "close_at_resignation": 1103.04
+      }
+    ],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:40.915862"
+  },
+  {
+    "ticker": "4732",
+    "company_name": "ユー・エス・エス",
+    "url": "https://www.ussnet.co.jp/",
+    "current_ceo": {
+      "name": "",
+      "title": "代表取締役社長",
+      "appointment_info": "2025年３月",
+      "source_url": "https://www.ussnet.co.jp/corporate/message/index.html",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2025-03-01",
+        "open_on_date": 1347.2,
+        "close_on_date": 1339.44,
+        "high_on_date": 1353.02,
+        "low_on_date": 1339.44,
+        "trading_date": "2025-02-19",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 1347.2
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:32:42.969549"
+  },
+  {
+    "ticker": "4735",
+    "company_name": "京進",
+    "url": "https://www.kyoshin.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:46.559930"
+  },
+  {
+    "ticker": "4736",
+    "company_name": "日本ラッド",
+    "url": "https://www.nippon-rad.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:51.129379"
+  },
+  {
+    "ticker": "4743",
+    "company_name": "アイティフォー",
+    "url": "https://www.itfor.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:52.533442"
+  },
+  {
+    "ticker": "4745",
+    "company_name": "東京個別指導学院",
+    "url": "https://www.tkg-jp.com/",
+    "current_ceo": {
+      "name": "松尾 茂樹",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.tkg-jp.com/about/message.html",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:32:55.389950"
+  },
+  {
+    "ticker": "4746",
+    "company_name": "東計電算",
+    "url": "https://www.toukei.co.jp/",
+    "current_ceo": {
+      "name": "短信\n電子公",
+      "title": "代表取締役社長",
+      "appointment_info": "令和7年12月",
+      "source_url": "https://www.toukei.co.jp/company/message/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2025-12-01",
+        "open_on_date": 3972.99,
+        "close_on_date": 4055.66,
+        "high_on_date": 4060.52,
+        "low_on_date": 3972.99,
+        "trading_date": "2025-11-21",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 3972.99
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:32:58.194521"
+  },
+  {
+    "ticker": "4750",
+    "company_name": "ダイサン",
+    "url": "https://www.daisan-g.co.jp/",
+    "current_ceo": {
+      "name": "藤田 武敏",
+      "title": "代表取締役社長",
+      "appointment_info": "2000年６月",
+      "source_url": "https://www.daisan-g.co.jp/company/director/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2000-06-01",
+        "open_on_date": 176.22,
+        "close_on_date": 176.22,
+        "high_on_date": 176.22,
+        "low_on_date": 176.22,
+        "trading_date": "2000-05-22",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 176.22
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:33:01.423158"
+  },
+  {
+    "ticker": "4733",
+    "company_name": "オービックビジネスコンサルタント",
+    "url": "https://www.obc.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:32:43.712303"
+  },
+  {
+    "ticker": "4719",
+    "company_name": "アルファシステムズ",
+    "url": "https://www.alpha.co.jp/",
+    "current_ceo": {
+      "name": "推進体制",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.alpha.co.jp/sustainability/management/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T15:32:35.517630"
+  },
+  {
+    "ticker": "4661",
+    "company_name": "オリエンタルランド",
+    "url": "https://www.olc.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T15:31:32.518821"
   }
 ]

@@ -1,0 +1,21 @@
+{
+  "name": "当社",
+  "title": "代表取締役 社長",
+  "appointment_info": "2025年4月",
+  "source_url": "https://www.duskin.co.jp/company/topmessage/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-04-01",
+    "open_on_date": 3616.05,
+    "close_on_date": 3609.25,
+    "high_on_date": 3622.85,
+    "low_on_date": 3589.83,
+    "trading_date": "2025-03-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 3616.05
+}

@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "title": "代表取締役社長",
+  "appointment_info": "2020年4月",
+  "source_url": "https://www.kansai.co.jp/company/officer-list/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2020-04-01",
+    "open_on_date": 1831.22,
+    "close_on_date": 1791.71,
+    "high_on_date": 1876.13,
+    "low_on_date": 1785.42,
+    "trading_date": "2020-03-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1831.22
+}

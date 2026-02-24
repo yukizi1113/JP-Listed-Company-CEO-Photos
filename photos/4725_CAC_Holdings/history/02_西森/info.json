@@ -1,0 +1,26 @@
+{
+  "name": "西森",
+  "appointment_date": "2020年3月",
+  "resignation_date": "2021年1月",
+  "source_url": "https://shachomeikan.jp/industry_article/5414",
+  "stock_price_at_appointment": {
+    "date": "2020-03-01",
+    "open_on_date": 983.05,
+    "close_on_date": 970.86,
+    "high_on_date": 992.95,
+    "low_on_date": 967.06,
+    "trading_date": "2020-02-20",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 983.05,
+  "stock_price_at_resignation": {
+    "date": "2021-01-01",
+    "open_on_date": 1131.1,
+    "close_on_date": 1103.04,
+    "high_on_date": 1133.44,
+    "low_on_date": 1100.7,
+    "trading_date": "2020-12-22",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 1103.04
+}

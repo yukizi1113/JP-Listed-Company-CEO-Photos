@@ -1,0 +1,26 @@
+{
+  "name": "根元 浩幸",
+  "appointment_date": "2022年04月01日",
+  "resignation_date": "2022年04月01日",
+  "source_url": "https://www.cresco.co.jp/ja/corpinfo/news/news-5969540658814848986.html",
+  "stock_price_at_appointment": {
+    "date": "2022-04-01",
+    "open_on_date": 837.82,
+    "close_on_date": 816.06,
+    "high_on_date": 837.82,
+    "low_on_date": 813.84,
+    "trading_date": "2022-03-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 837.82,
+  "stock_price_at_resignation": {
+    "date": "2022-04-01",
+    "open_on_date": 837.82,
+    "close_on_date": 816.06,
+    "high_on_date": 837.82,
+    "low_on_date": 813.84,
+    "trading_date": "2022-03-22",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 816.06
+}

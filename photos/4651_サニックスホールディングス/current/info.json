@@ -1,0 +1,22 @@
+{
+  "name": "当社創業",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年4月",
+  "source_url": "https://hd.sanix.jp/company/message",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-04-01",
+    "open_on_date": 250.0,
+    "close_on_date": 250.0,
+    "high_on_date": 250.0,
+    "low_on_date": 247.0,
+    "trading_date": "2025-03-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 250.0
+}

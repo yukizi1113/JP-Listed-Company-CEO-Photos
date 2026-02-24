@@ -1,0 +1,23 @@
+{
+  "name": "森 啓一",
+  "title": "代表取締役社長",
+  "appointment_info": "2002年4月",
+  "source_url": "https://www.focus-s.com/company/management",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg"
+  ],
+  "photo_count": 3,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2002-04-01",
+    "open_on_date": 439.02,
+    "close_on_date": 435.99,
+    "high_on_date": 457.19,
+    "low_on_date": 432.96,
+    "trading_date": "2002-03-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 439.02
+}

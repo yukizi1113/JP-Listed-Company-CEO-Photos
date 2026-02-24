@@ -1,0 +1,26 @@
+{
+  "name": "西森良太",
+  "appointment_date": "2026年1月",
+  "resignation_date": "2025年7月",
+  "source_url": "https://shachomeikan.jp/industry_article/5414",
+  "stock_price_at_appointment": {
+    "date": "2026-01-01",
+    "open_on_date": 2006.74,
+    "close_on_date": 2000.89,
+    "high_on_date": 2011.62,
+    "low_on_date": 1998.93,
+    "trading_date": "2025-12-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2006.74,
+  "stock_price_at_resignation": {
+    "date": "2025-07-01",
+    "open_on_date": 1956.8,
+    "close_on_date": 1933.94,
+    "high_on_date": 1956.8,
+    "low_on_date": 1933.94,
+    "trading_date": "2025-06-23",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 1933.94
+}

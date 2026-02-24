@@ -1,0 +1,21 @@
+{
+  "name": "会長\n山口",
+  "title": "代表取締役社長",
+  "appointment_info": "2021年4月",
+  "source_url": "https://www.aska-pharma-hd.co.jp/company/official.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-04-01",
+    "open_on_date": 1347.57,
+    "close_on_date": 1344.81,
+    "high_on_date": 1367.82,
+    "low_on_date": 1343.89,
+    "trading_date": "2021-04-01",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1347.57
+}

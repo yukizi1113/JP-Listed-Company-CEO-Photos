@@ -1,0 +1,22 @@
+{
+  "name": "線材　増産投",
+  "title": "取締役社長",
+  "appointment_info": "2026/02/09",
+  "source_url": "https://www.fujikura.co.jp/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2026-02-09",
+    "open_on_date": 19500.0,
+    "close_on_date": 19570.0,
+    "high_on_date": 20100.0,
+    "low_on_date": 19025.0,
+    "trading_date": "2026-01-30",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 19500.0
+}

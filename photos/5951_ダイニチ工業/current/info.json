@@ -1,0 +1,23 @@
+{
+  "name": "放送",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年1月",
+  "source_url": "https://www.dainichi-net.co.jp/company/news/44695/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg"
+  ],
+  "photo_count": 3,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-01-01",
+    "open_on_date": 603.57,
+    "close_on_date": 606.47,
+    "high_on_date": 606.47,
+    "low_on_date": 601.64,
+    "trading_date": "2024-12-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 603.57
+}

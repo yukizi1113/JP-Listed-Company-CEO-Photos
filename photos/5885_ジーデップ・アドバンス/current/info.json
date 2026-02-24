@@ -1,0 +1,21 @@
+{
+  "name": "投資家",
+  "title": "代表取締役CEO",
+  "appointment_info": "2023年6月",
+  "source_url": "https://info.gdep.co.jp/ir/management/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2023-06-01",
+    "open_on_date": 2625.46,
+    "close_on_date": 3362.95,
+    "high_on_date": 3362.95,
+    "low_on_date": 2625.46,
+    "trading_date": "2023-06-30",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2625.46
+}

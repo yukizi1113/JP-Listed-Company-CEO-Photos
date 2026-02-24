@@ -56126,5 +56126,373 @@
     "previous_ceos": [],
     "error": "ceo_not_found",
     "processed_at": "2026-02-24T17:21:09.903009"
+  },
+  {
+    "ticker": "296A",
+    "company_name": "令和アカウンティング・ホールディングス",
+    "url": "https://rw-ah.net/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:26:35.354505"
+  },
+  {
+    "ticker": "298A",
+    "company_name": "GVA　TECH",
+    "url": "https://gvatech.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:26:43.638213"
+  },
+  {
+    "ticker": "291A",
+    "company_name": "リスキル",
+    "url": "https://www.recurrent.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:26:35.354035"
+  },
+  {
+    "ticker": "299A",
+    "company_name": "dely",
+    "url": "https://dely.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:26:47.153899"
+  },
+  {
+    "ticker": "290A",
+    "company_name": "Synspective",
+    "url": "https://synspective.com/jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:26:35.340917"
+  },
+  {
+    "ticker": "303A",
+    "company_name": "visumo",
+    "url": "https://visumo.asia/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:26:53.379864"
+  },
+  {
+    "ticker": "297A",
+    "company_name": "アルピコホールディングス",
+    "url": "https://holdings.alpico.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:26:35.381076"
+  },
+  {
+    "ticker": "304A",
+    "company_name": "フォルシア",
+    "url": "https://www.forcia.com/",
+    "current_ceo": {
+      "name": "直結\n東京",
+      "title": "代表取締役社長",
+      "appointment_info": "2025年3月",
+      "source_url": "https://www.forcia.com/company/profile/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true,
+      "stock_price_at_appointment": {
+        "date": "2025-03-01",
+        "open_on_date": 2177.0,
+        "close_on_date": 2150.0,
+        "high_on_date": 2177.0,
+        "low_on_date": 2115.0,
+        "trading_date": "2025-02-19",
+        "currency": "JPY"
+      },
+      "open_at_appointment": 2177.0
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T17:26:57.768544"
+  },
+  {
+    "ticker": "319A",
+    "company_name": "技術承継機構",
+    "url": "https://ngt-g.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:26:57.783516"
+  },
+  {
+    "ticker": "323A",
+    "company_name": "フライヤー",
+    "url": "https://corp.flierinc.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:01.416607"
+  },
+  {
+    "ticker": "300A",
+    "company_name": "MIC",
+    "url": "https://www.mic-p.com/",
+    "current_ceo": {
+      "name": "",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.mic-p.com/about/management",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg",
+        "photo_03.jpg",
+        "photo_04.jpg",
+        "photo_05.jpg"
+      ],
+      "photo_count": 5,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T17:26:50.218127"
+  },
+  {
+    "ticker": "302A",
+    "company_name": "ビースタイルホールディングス",
+    "url": "https://www.bstylegroup.co.jp/",
+    "current_ceo": {
+      "name": "株主",
+      "title": "代表取締役社長",
+      "appointment_info": "2002年7月",
+      "source_url": "https://www.bstylegroup.co.jp/ir/management/message/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [
+      {
+        "name": "法人 日本人",
+        "appointment_date": "2016年6月15日",
+        "resignation_date": null,
+        "source_url": "https://www.bstylegroup.co.jp/news/8941/"
+      }
+    ],
+    "error": null,
+    "processed_at": "2026-02-24T17:26:53.033812"
+  },
+  {
+    "ticker": "324A",
+    "company_name": "ブッキングリゾート",
+    "url": "https://www.booking-resort.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:04.220190"
+  },
+  {
+    "ticker": "332A",
+    "company_name": "ミーク",
+    "url": "https://www.meeq.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:07.897115"
+  },
+  {
+    "ticker": "325A",
+    "company_name": "TENTIAL",
+    "url": "https://corp.tential.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:04.952903"
+  },
+  {
+    "ticker": "330A",
+    "company_name": "TalentX",
+    "url": "https://talentx.co.jp/",
+    "current_ceo": {
+      "name": "鈴木 貴史",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://talentx.co.jp/about/officers",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg",
+        "photo_03.jpg"
+      ],
+      "photo_count": 3,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T17:27:05.769166"
+  },
+  {
+    "ticker": "334A",
+    "company_name": "ビジュアル・プロセッシング・ジャパン",
+    "url": "https://www.vpj.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:10.577115"
+  },
+  {
+    "ticker": "336A",
+    "company_name": "ダイナミックマッププラットフォーム",
+    "url": "https://www.dynamic-maps.co.jp/",
+    "current_ceo": {
+      "name": "",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.dynamic-maps.co.jp/company/member/",
+      "photos_saved": [
+        "photo_01.jpg",
+        "photo_02.jpg",
+        "photo_03.jpg",
+        "photo_04.jpg"
+      ],
+      "photo_count": 4,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T17:27:14.068440"
+  },
+  {
+    "ticker": "339A",
+    "company_name": "プログレス・テクノロジーズ　グループ",
+    "url": "https://progresstech-group.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:17.149952"
+  },
+  {
+    "ticker": "340A",
+    "company_name": "ジグザグ",
+    "url": "https://www.zig-zag.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:19.660836"
+  },
+  {
+    "ticker": "338A",
+    "company_name": "ZenmuTech",
+    "url": "https://zenmutech.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:14.189495"
+  },
+  {
+    "ticker": "343A",
+    "company_name": "IACEトラベル",
+    "url": "https://www.iace.co.jp/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:23.210226"
+  },
+  {
+    "ticker": "341A",
+    "company_name": "トヨコー",
+    "url": "https://www.toyokoh.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:22.174623"
+  },
+  {
+    "ticker": "331A",
+    "company_name": "メディックス",
+    "url": "https://www.medix-inc.co.jp/",
+    "current_ceo": {
+      "name": "田中 正則",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.medix-inc.co.jp/ir/message.html",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T17:27:07.188146"
+  },
+  {
+    "ticker": "335A",
+    "company_name": "ミライロ",
+    "url": "https://www.mirairo.co.jp/",
+    "current_ceo": {
+      "name": "",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.mirairo.co.jp/company/profile",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [],
+    "error": null,
+    "processed_at": "2026-02-24T17:27:13.301112"
+  },
+  {
+    "ticker": "352A",
+    "company_name": "LIFE　CREATE",
+    "url": "https://be-lifecreate.com/",
+    "current_ceo": null,
+    "previous_ceos": [],
+    "error": "ceo_not_found",
+    "processed_at": "2026-02-24T17:27:25.354649"
+  },
+  {
+    "ticker": "350A",
+    "company_name": "デジタルグリッド",
+    "url": "https://www.digitalgrid.com/",
+    "current_ceo": {
+      "name": "豊田 祐介",
+      "title": "代表取締役社長",
+      "appointment_info": null,
+      "source_url": "https://www.digitalgrid.com/members/",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
+    "previous_ceos": [
+      {
+        "name": "武馬雄一郎",
+        "appointment_date": "2021年12月20日",
+        "resignation_date": "2021年12月20日",
+        "source_url": "https://www.jkn.co.jp/magazine/energy/interview/"
+      },
+      {
+        "name": "会社 代表取",
+        "appointment_date": "2020年2月",
+        "resignation_date": "2018年2月",
+        "source_url": "https://coki.jp/stakeholder/management/34611/"
+      },
+      {
+        "name": "社長　豊田",
+        "appointment_date": "2019年9月27日",
+        "resignation_date": "2019年9月27日",
+        "source_url": "https://www.kokuchpro.com/event/energyshiftlive4/"
+      }
+    ],
+    "error": null,
+    "processed_at": "2026-02-24T17:27:24.856272"
   }
 ]

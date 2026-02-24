@@ -1,0 +1,22 @@
+{
+  "name": "成瀬　功一郎",
+  "title": "代表取締役社長",
+  "appointment_info": "2024年5月",
+  "source_url": "https://www.daidoh-limited.com/company/message.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2024-05-01",
+    "open_on_date": 516.91,
+    "close_on_date": 552.53,
+    "high_on_date": 555.27,
+    "low_on_date": 511.43,
+    "trading_date": "2024-04-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 516.91
+}

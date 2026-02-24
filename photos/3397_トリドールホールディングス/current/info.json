@@ -1,0 +1,21 @@
+{
+  "name": "内容\t飲食業",
+  "title": "代表取締役社長",
+  "appointment_info": "2016年10月",
+  "source_url": "https://toridoll.com/company/#profile",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2016-10-01",
+    "open_on_date": 1103.41,
+    "close_on_date": 1123.65,
+    "high_on_date": 1125.09,
+    "low_on_date": 1091.37,
+    "trading_date": "2016-09-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1103.41
+}

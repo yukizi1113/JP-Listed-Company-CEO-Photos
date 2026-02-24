@@ -1,0 +1,22 @@
+{
+  "name": "引戸",
+  "title": "代表取締役社長",
+  "appointment_info": "令和3年4月",
+  "source_url": "https://www.atomlt.com/company/about/message/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-04-01",
+    "open_on_date": 1422.53,
+    "close_on_date": 1413.69,
+    "high_on_date": 1422.53,
+    "low_on_date": 1413.69,
+    "trading_date": "2021-03-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1422.53
+}

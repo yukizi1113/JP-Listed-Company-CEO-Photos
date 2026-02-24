@@ -1665,85 +1665,146 @@
 6492,岡野バルブ製造,九州工業,current,,,,,photos/6492_岡野バルブ製造/current/photo_03.jpg,False
 6492,岡野バルブ製造,九州工業,current,,,,,photos/6492_岡野バルブ製造/current/photo_04.jpg,False
 6492,岡野バルブ製造,九州工業,current,,,,,photos/6492_岡野バルブ製造/current/photo_05.jpg,False
-6497,ハマイ,企業倫理,current,2025年2月,,1027.49,,photos/6497_ハマイ/current/photo_01.jpg,True
-6503,三菱電機,小坂　達朗,current,2025年6月,,2885.47,,photos/6503_三菱電機/current/photo_01.jpg,True
-6503,三菱電機,小坂　達朗,current,2025年6月,,2885.47,,photos/6503_三菱電機/current/photo_02.jpg,True
-6503,三菱電機,小坂　達朗,current,2025年6月,,2885.47,,photos/6503_三菱電機/current/photo_03.jpg,True
-6503,三菱電機,小坂　達朗,current,2025年6月,,2885.47,,photos/6503_三菱電機/current/photo_04.jpg,True
-6503,三菱電機,小坂　達朗,current,2025年6月,,2885.47,,photos/6503_三菱電機/current/photo_05.jpg,True
-6505,東洋電機製造,月 渡部,current,2025年8月,,1900.0,,photos/6505_東洋電機製造/current/photo_01.jpg,True
-6516,山洋電気,山本 茂生,current,,,,,photos/6516_山洋電気/current/photo_01.jpg,True
-6513,オリジン,当社,current,,,,,photos/6513_オリジン/current/photo_01.jpg,True
-6518,三相電機,社 是,current,,,,,photos/6518_三相電機/current/photo_01.jpg,True
-6518,三相電機,社 是,current,,,,,photos/6518_三相電機/current/photo_02.jpg,True
-6506,安川電機,小川 昌寛,current,2021年9月,,4965.94,,photos/6506_安川電機/current/photo_01.jpg,True
-6517,デンヨー,,current,2025年3月,,2631.59,,photos/6517_デンヨー/current/photo_01.jpg,True
-6517,デンヨー,,current,2025年3月,,2631.59,,photos/6517_デンヨー/current/photo_02.jpg,True
-6517,デンヨー,,current,2025年3月,,2631.59,,photos/6517_デンヨー/current/photo_03.jpg,True
-6525,KOKUSAI　ELECTRIC,日付,current,2025年4月,,2818.51,,photos/6525_KOKUSAI_ELECTRIC/current/photo_01.jpg,True
-6533,Orchestra　Holdings,中村 慶郎,current,,,,,photos/6533_Orchestra_Holdings/current/photo_01.jpg,True
-6533,Orchestra　Holdings,中村 慶郎,current,,,,,photos/6533_Orchestra_Holdings/current/photo_02.jpg,True
-6532,ベイカレント,体制,current,,,,,photos/6532_ベイカレント/current/photo_01.jpg,True
-6523,PHCホールディングス,,current,,,,,photos/6523_PHCホールディングス/current/photo_01.jpg,True
-6523,PHCホールディングス,,current,,,,,photos/6523_PHCホールディングス/current/photo_02.jpg,True
-6540,船場,田切 潤,current,,,,,photos/6540_船場/current/photo_01.jpg,True
+6497,ハマイ,企業倫理,current,2025年2月,,1027.49,,photos/6497_ハマイ/current/photo_01.jpg,False
+6503,三菱電機,小坂　達朗,current,2025年6月,,2885.47,,photos/6503_三菱電機/current/photo_01.jpg,False
+6503,三菱電機,小坂　達朗,current,2025年6月,,2885.47,,photos/6503_三菱電機/current/photo_02.jpg,False
+6503,三菱電機,小坂　達朗,current,2025年6月,,2885.47,,photos/6503_三菱電機/current/photo_03.jpg,False
+6503,三菱電機,小坂　達朗,current,2025年6月,,2885.47,,photos/6503_三菱電機/current/photo_04.jpg,False
+6503,三菱電機,小坂　達朗,current,2025年6月,,2885.47,,photos/6503_三菱電機/current/photo_05.jpg,False
+6505,東洋電機製造,月 渡部,current,2025年8月,,1900.0,,photos/6505_東洋電機製造/current/photo_01.jpg,False
+6516,山洋電気,山本 茂生,current,,,,,photos/6516_山洋電気/current/photo_01.jpg,False
+6513,オリジン,当社,current,,,,,photos/6513_オリジン/current/photo_01.jpg,False
+6518,三相電機,社 是,current,,,,,photos/6518_三相電機/current/photo_01.jpg,False
+6518,三相電機,社 是,current,,,,,photos/6518_三相電機/current/photo_02.jpg,False
+6506,安川電機,小川 昌寛,current,2021年9月,,4965.94,,photos/6506_安川電機/current/photo_01.jpg,False
+6517,デンヨー,,current,2025年3月,,2631.59,,photos/6517_デンヨー/current/photo_01.jpg,False
+6517,デンヨー,,current,2025年3月,,2631.59,,photos/6517_デンヨー/current/photo_02.jpg,False
+6517,デンヨー,,current,2025年3月,,2631.59,,photos/6517_デンヨー/current/photo_03.jpg,False
+6525,KOKUSAI　ELECTRIC,日付,current,2025年4月,,2818.51,,photos/6525_KOKUSAI_ELECTRIC/current/photo_01.jpg,False
+6533,Orchestra　Holdings,中村 慶郎,current,,,,,photos/6533_Orchestra_Holdings/current/photo_01.jpg,False
+6533,Orchestra　Holdings,中村 慶郎,current,,,,,photos/6533_Orchestra_Holdings/current/photo_02.jpg,False
+6532,ベイカレント,体制,current,,,,,photos/6532_ベイカレント/current/photo_01.jpg,False
+6523,PHCホールディングス,,current,,,,,photos/6523_PHCホールディングス/current/photo_01.jpg,False
+6523,PHCホールディングス,,current,,,,,photos/6523_PHCホールディングス/current/photo_02.jpg,False
+6540,船場,田切 潤,current,,,,,photos/6540_船場/current/photo_01.jpg,False
 6546,フルテック,"実施
-全従業",current,2025年4月,,1046.47,,photos/6546_フルテック/current/photo_01.jpg,True
+全従業",current,2025年4月,,1046.47,,photos/6546_フルテック/current/photo_01.jpg,False
 6546,フルテック,"実施
-全従業",current,2025年4月,,1046.47,,photos/6546_フルテック/current/photo_02.jpg,True
-6549,ディーエムソリューションズ,株主,current,,,,,photos/6549_ディーエムソリューションズ/current/photo_01.jpg,True
-6549,ディーエムソリューションズ,株主,current,,,,,photos/6549_ディーエムソリューションズ/current/photo_02.jpg,True
-6547,グリーンズ,村木　雄哉,current,2023年6月,,1392.1,,photos/6547_グリーンズ/current/photo_01.jpg,True
-6545,インターネットインフィニティー,別宮　圭一,current,,,,,photos/6545_インターネットインフィニティー/current/photo_01.jpg,True
-6545,インターネットインフィニティー,別宮　圭一,current,,,,,photos/6545_インターネットインフィニティー/current/photo_02.jpg,True
-6545,インターネットインフィニティー,別宮　圭一,current,,,,,photos/6545_インターネットインフィニティー/current/photo_03.jpg,True
-6545,インターネットインフィニティー,別宮　圭一,current,,,,,photos/6545_インターネットインフィニティー/current/photo_04.jpg,True
-6545,インターネットインフィニティー,別宮　圭一,current,,,,,photos/6545_インターネットインフィニティー/current/photo_05.jpg,True
-6554,エスユーエス,齋藤 公男,current,,,,,photos/6554_エスユーエス/current/photo_01.jpg,True
-6564,ミダックホールディングス,安心,current,2021年9月,,4031.0,,photos/6564_ミダックホールディングス/current/photo_01.jpg,True
-6564,ミダックホールディングス,安心,current,2021年9月,,4031.0,,photos/6564_ミダックホールディングス/current/photo_02.jpg,True
+全従業",current,2025年4月,,1046.47,,photos/6546_フルテック/current/photo_02.jpg,False
+6549,ディーエムソリューションズ,株主,current,,,,,photos/6549_ディーエムソリューションズ/current/photo_01.jpg,False
+6549,ディーエムソリューションズ,株主,current,,,,,photos/6549_ディーエムソリューションズ/current/photo_02.jpg,False
+6547,グリーンズ,村木　雄哉,current,2023年6月,,1392.1,,photos/6547_グリーンズ/current/photo_01.jpg,False
+6545,インターネットインフィニティー,別宮　圭一,current,,,,,photos/6545_インターネットインフィニティー/current/photo_01.jpg,False
+6545,インターネットインフィニティー,別宮　圭一,current,,,,,photos/6545_インターネットインフィニティー/current/photo_02.jpg,False
+6545,インターネットインフィニティー,別宮　圭一,current,,,,,photos/6545_インターネットインフィニティー/current/photo_03.jpg,False
+6545,インターネットインフィニティー,別宮　圭一,current,,,,,photos/6545_インターネットインフィニティー/current/photo_04.jpg,False
+6545,インターネットインフィニティー,別宮　圭一,current,,,,,photos/6545_インターネットインフィニティー/current/photo_05.jpg,False
+6554,エスユーエス,齋藤 公男,current,,,,,photos/6554_エスユーエス/current/photo_01.jpg,False
+6564,ミダックホールディングス,安心,current,2021年9月,,4031.0,,photos/6564_ミダックホールディングス/current/photo_01.jpg,False
+6564,ミダックホールディングス,安心,current,2021年9月,,4031.0,,photos/6564_ミダックホールディングス/current/photo_02.jpg,False
 6564,ミダックホールディングス,加藤 恵子,prev_1,2019年4月,2022年2月22日,311.58,2411.71,,False
-6570,共和コーポレーション,宮本 和彦,current,2025年04月,,974.52,,photos/6570_共和コーポレーション/current/photo_01.jpg,True
-6577,ベストワンドットコム,野本 洋平,current,2026/02/17,,1954.0,,photos/6577_ベストワンドットコム/current/photo_01.jpg,True
-6577,ベストワンドットコム,野本 洋平,current,2026/02/17,,1954.0,,photos/6577_ベストワンドットコム/current/photo_02.jpg,True
-6590,芝浦メカトロニクス,,current,2009年04月,,757.22,,photos/6590_芝浦メカトロニクス/current/photo_01.jpg,True
-6592,マブチモーター,会長 大越,current,,,,,photos/6592_マブチモーター/current/photo_01.jpg,True
-6584,三櫻工業,竹田 陽三,current,2025年6月,,575.43,,photos/6584_三櫻工業/current/photo_01.jpg,True
-6584,三櫻工業,竹田 陽三,current,2025年6月,,575.43,,photos/6584_三櫻工業/current/photo_02.jpg,True
-6584,三櫻工業,竹田 陽三,current,2025年6月,,575.43,,photos/6584_三櫻工業/current/photo_03.jpg,True
-6599,エブレン,上村正人,current,,,,,photos/6599_エブレン/current/photo_01.jpg,True
-6594,ニデック,岸田　光哉,current,,,,,photos/6594_ニデック/current/photo_01.jpg,True
-6614,シキノハイテック,髙橋　信一,current,,,,,photos/6614_シキノハイテック/current/photo_01.jpg,True
-6617,東光高岳,瀬　貴士,current,,,,,photos/6617_東光高岳/current/photo_01.jpg,True
-6617,東光高岳,瀬　貴士,current,,,,,photos/6617_東光高岳/current/photo_02.jpg,True
-6617,東光高岳,瀬　貴士,current,,,,,photos/6617_東光高岳/current/photo_03.jpg,True
-6617,東光高岳,瀬　貴士,current,,,,,photos/6617_東光高岳/current/photo_04.jpg,True
-6617,東光高岳,瀬　貴士,current,,,,,photos/6617_東光高岳/current/photo_05.jpg,True
-6619,ダブル・スコープ,客様,current,2005年10月,,,,photos/6619_ダブル・スコープ/current/photo_01.jpg,True
+6570,共和コーポレーション,宮本 和彦,current,2025年04月,,974.52,,photos/6570_共和コーポレーション/current/photo_01.jpg,False
+6577,ベストワンドットコム,野本 洋平,current,2026/02/17,,1954.0,,photos/6577_ベストワンドットコム/current/photo_01.jpg,False
+6577,ベストワンドットコム,野本 洋平,current,2026/02/17,,1954.0,,photos/6577_ベストワンドットコム/current/photo_02.jpg,False
+6590,芝浦メカトロニクス,,current,2009年04月,,757.22,,photos/6590_芝浦メカトロニクス/current/photo_01.jpg,False
+6592,マブチモーター,会長 大越,current,,,,,photos/6592_マブチモーター/current/photo_01.jpg,False
+6584,三櫻工業,竹田 陽三,current,2025年6月,,575.43,,photos/6584_三櫻工業/current/photo_01.jpg,False
+6584,三櫻工業,竹田 陽三,current,2025年6月,,575.43,,photos/6584_三櫻工業/current/photo_02.jpg,False
+6584,三櫻工業,竹田 陽三,current,2025年6月,,575.43,,photos/6584_三櫻工業/current/photo_03.jpg,False
+6599,エブレン,上村正人,current,,,,,photos/6599_エブレン/current/photo_01.jpg,False
+6594,ニデック,岸田　光哉,current,,,,,photos/6594_ニデック/current/photo_01.jpg,False
+6614,シキノハイテック,髙橋　信一,current,,,,,photos/6614_シキノハイテック/current/photo_01.jpg,False
+6617,東光高岳,瀬　貴士,current,,,,,photos/6617_東光高岳/current/photo_01.jpg,False
+6617,東光高岳,瀬　貴士,current,,,,,photos/6617_東光高岳/current/photo_02.jpg,False
+6617,東光高岳,瀬　貴士,current,,,,,photos/6617_東光高岳/current/photo_03.jpg,False
+6617,東光高岳,瀬　貴士,current,,,,,photos/6617_東光高岳/current/photo_04.jpg,False
+6617,東光高岳,瀬　貴士,current,,,,,photos/6617_東光高岳/current/photo_05.jpg,False
+6619,ダブル・スコープ,客様,current,2005年10月,,,,photos/6619_ダブル・スコープ/current/photo_01.jpg,False
 6632,JVCケンウッド,"職名
-氏",current,2025年6月,,1210.85,,photos/6632_JVCケンウッド/current/photo_01.jpg,True
-6630,ヤーマン,革新的挑,current,,,,,photos/6630_ヤーマン/current/photo_01.jpg,True
-6633,CGSホールディングス,企業情,current,2007年7月,,242.21,,photos/6633_CGSホールディングス/current/photo_01.jpg,True
-6637,寺崎電気産業,次代,current,,,,,photos/6637_寺崎電気産業/current/photo_01.jpg,True
-6643,戸上電機製作所,,current,,,,,photos/6643_戸上電機製作所/current/photo_01.jpg,True
-6644,大崎電気工業,装置 取扱説,current,2025年10月,,1268.34,,photos/6644_大崎電気工業/current/photo_01.jpg,True
-6644,大崎電気工業,装置 取扱説,current,2025年10月,,1268.34,,photos/6644_大崎電気工業/current/photo_02.jpg,True
-6644,大崎電気工業,装置 取扱説,current,2025年10月,,1268.34,,photos/6644_大崎電気工業/current/photo_03.jpg,True
-6644,大崎電気工業,装置 取扱説,current,2025年10月,,1268.34,,photos/6644_大崎電気工業/current/photo_04.jpg,True
-6644,大崎電気工業,装置 取扱説,current,2025年10月,,1268.34,,photos/6644_大崎電気工業/current/photo_05.jpg,True
-6620,宮越ホールディングス,未来,current,2025年12月,,913.0,,photos/6620_宮越ホールディングス/current/photo_01.jpg,True
-6620,宮越ホールディングス,未来,current,2025年12月,,913.0,,photos/6620_宮越ホールディングス/current/photo_02.jpg,True
-6638,ミマキエンジニアリング,池田 和明,current,2026年３月,,,,photos/6638_ミマキエンジニアリング/current/photo_01.jpg,True
-6653,正興電機製作所,,current,2025年12月,,2150.34,,photos/6653_正興電機製作所/current/photo_01.jpg,True
-6653,正興電機製作所,,current,2025年12月,,2150.34,,photos/6653_正興電機製作所/current/photo_02.jpg,True
-6653,正興電機製作所,,current,2025年12月,,2150.34,,photos/6653_正興電機製作所/current/photo_03.jpg,True
-6653,正興電機製作所,,current,2025年12月,,2150.34,,photos/6653_正興電機製作所/current/photo_04.jpg,True
-6653,正興電機製作所,,current,2025年12月,,2150.34,,photos/6653_正興電機製作所/current/photo_05.jpg,True
+氏",current,2025年6月,,1210.85,,photos/6632_JVCケンウッド/current/photo_01.jpg,False
+6630,ヤーマン,革新的挑,current,,,,,photos/6630_ヤーマン/current/photo_01.jpg,False
+6633,CGSホールディングス,企業情,current,2007年7月,,242.21,,photos/6633_CGSホールディングス/current/photo_01.jpg,False
+6637,寺崎電気産業,次代,current,,,,,photos/6637_寺崎電気産業/current/photo_01.jpg,False
+6643,戸上電機製作所,,current,,,,,photos/6643_戸上電機製作所/current/photo_01.jpg,False
+6644,大崎電気工業,装置 取扱説,current,2025年10月,,1268.34,,photos/6644_大崎電気工業/current/photo_01.jpg,False
+6644,大崎電気工業,装置 取扱説,current,2025年10月,,1268.34,,photos/6644_大崎電気工業/current/photo_02.jpg,False
+6644,大崎電気工業,装置 取扱説,current,2025年10月,,1268.34,,photos/6644_大崎電気工業/current/photo_03.jpg,False
+6644,大崎電気工業,装置 取扱説,current,2025年10月,,1268.34,,photos/6644_大崎電気工業/current/photo_04.jpg,False
+6644,大崎電気工業,装置 取扱説,current,2025年10月,,1268.34,,photos/6644_大崎電気工業/current/photo_05.jpg,False
+6620,宮越ホールディングス,未来,current,2025年12月,,913.0,,photos/6620_宮越ホールディングス/current/photo_01.jpg,False
+6620,宮越ホールディングス,未来,current,2025年12月,,913.0,,photos/6620_宮越ホールディングス/current/photo_02.jpg,False
+6638,ミマキエンジニアリング,池田 和明,current,2026年３月,,,,photos/6638_ミマキエンジニアリング/current/photo_01.jpg,False
+6653,正興電機製作所,,current,2025年12月,,2150.34,,photos/6653_正興電機製作所/current/photo_01.jpg,False
+6653,正興電機製作所,,current,2025年12月,,2150.34,,photos/6653_正興電機製作所/current/photo_02.jpg,False
+6653,正興電機製作所,,current,2025年12月,,2150.34,,photos/6653_正興電機製作所/current/photo_03.jpg,False
+6653,正興電機製作所,,current,2025年12月,,2150.34,,photos/6653_正興電機製作所/current/photo_04.jpg,False
+6653,正興電機製作所,,current,2025年12月,,2150.34,,photos/6653_正興電機製作所/current/photo_05.jpg,False
 6656,インスペック,"简体
-繁體",current,2026年1月,,508.0,,photos/6656_インスペック/current/photo_01.jpg,True
+繁體",current,2026年1月,,508.0,,photos/6656_インスペック/current/photo_01.jpg,False
 6656,インスペック,"简体
-繁體",current,2026年1月,,508.0,,photos/6656_インスペック/current/photo_02.jpg,True
+繁體",current,2026年1月,,508.0,,photos/6656_インスペック/current/photo_02.jpg,False
 6656,インスペック,"简体
-繁體",current,2026年1月,,508.0,,photos/6656_インスペック/current/photo_03.jpg,True
-6663,太洋テクノレックス,創立,current,2025年12月,,244.02,,photos/6663_太洋テクノレックス/current/photo_01.jpg,True
-6659,メディアリンクス,菅原　司,current,,,,,photos/6659_メディアリンクス/current/photo_01.jpg,True
+繁體",current,2026年1月,,508.0,,photos/6656_インスペック/current/photo_03.jpg,False
+6663,太洋テクノレックス,創立,current,2025年12月,,244.02,,photos/6663_太洋テクノレックス/current/photo_01.jpg,False
+6659,メディアリンクス,菅原　司,current,,,,,photos/6659_メディアリンクス/current/photo_01.jpg,False
+6674,ジーエス・ユアサ　コーポレーション,歴史,current,,,,,photos/6674_ジーエス・ユアサ_コーポレーション/current/photo_01.jpg,True
+6675,サクサ,,current,,,,,photos/6675_サクサ/current/photo_01.jpg,True
+6666,リバーエレテック,会長　若尾富,current,,,,,photos/6666_リバーエレテック/current/photo_01.jpg,True
+6670,MCJ,"会長
+髙島",current,2005年9月,,295.09,,photos/6670_MCJ/current/photo_01.jpg,True
+6707,サンケン電気,髙橋 広,current,,,,,photos/6707_サンケン電気/current/photo_01.jpg,True
+6718,アイホン,,current,,,,,photos/6718_アイホン/current/photo_01.jpg,True
+6730,アクセル,松浦 一教,current,,,,,photos/6730_アクセル/current/photo_01.jpg,True
+6740,ジャパンディスプレイ,明間　純,current,,,,,photos/6740_ジャパンディスプレイ/current/photo_01.jpg,True
+6742,京三製作所,締役　 國澤,current,2025年4月,,491.53,,photos/6742_京三製作所/current/photo_01.jpg,True
+6737,EIZO,"体制
+
+当社",current,2025年6月,,1951.97,,photos/6737_EIZO/current/photo_01.jpg,True
+6737,EIZO,"体制
+
+当社",current,2025年6月,,1951.97,,photos/6737_EIZO/current/photo_02.jpg,True
+6743,大同信号,浦壁 俊光,current,,,,,photos/6743_大同信号/current/photo_01.jpg,True
+6741,日本信号,挨拶,current,,,,,photos/6741_日本信号/current/photo_01.jpg,True
+6741,日本信号,挨拶,current,,,,,photos/6741_日本信号/current/photo_02.jpg,True
+6741,日本信号,挨拶,current,,,,,photos/6741_日本信号/current/photo_03.jpg,True
+6753,シャープ,沖津 雅浩,current,,,,,photos/6753_シャープ/current/photo_01.jpg,True
+6754,アンリツ,濱田 宏一,current,,,,,photos/6754_アンリツ/current/photo_01.jpg,True
+6768,タムラ製作所,浅田 昌弘,current,2025年4月,,547.38,,photos/6768_タムラ製作所/current/photo_01.jpg,True
+6769,ザインエレクトロニクス,南　洋一郎,current,,,,,photos/6769_ザインエレクトロニクス/current/photo_01.jpg,True
+6777,santec　Holdings,"定器
+極性",current,,,,,photos/6777_santec_Holdings/current/photo_01.jpg,True
+6777,santec　Holdings,"定器
+極性",current,,,,,photos/6777_santec_Holdings/current/photo_02.jpg,True
+6787,メイコー,名屋 佑一郎,current,,,,,photos/6787_メイコー/current/photo_01.jpg,True
+6785,鈴木,,current,,,,,photos/6785_鈴木/current/photo_01.jpg,True
+6797,名古屋電機工業,服部 高明,current,,,,,photos/6797_名古屋電機工業/current/photo_01.jpg,True
+6798,SMK,法人　昭和池,current,,,,,photos/6798_SMK/current/photo_01.jpg,True
+6798,SMK,法人　昭和池,current,,,,,photos/6798_SMK/current/photo_02.jpg,True
+6798,SMK,法人　昭和池,current,,,,,photos/6798_SMK/current/photo_03.jpg,True
+6798,SMK,法人　昭和池,current,,,,,photos/6798_SMK/current/photo_04.jpg,True
+6798,SMK,法人　昭和池,current,,,,,photos/6798_SMK/current/photo_05.jpg,True
+6804,ホシデン,古橋健士,current,,,,,photos/6804_ホシデン/current/photo_01.jpg,True
+6804,ホシデン,古橋健士,current,,,,,photos/6804_ホシデン/current/photo_02.jpg,True
+6804,ホシデン,古橋健士,current,,,,,photos/6804_ホシデン/current/photo_03.jpg,True
+6814,古野電気,古野電気,current,,,,,photos/6814_古野電気/current/photo_01.jpg,True
+6809,TOA,谷口 方啓,current,,,,,photos/6809_TOA/current/photo_01.jpg,True
+6809,TOA,谷口 方啓,current,,,,,photos/6809_TOA/current/photo_02.jpg,True
+6824,新コスモス電機,月刊誌,current,2025年12月,,4440.0,,photos/6824_新コスモス電機/current/photo_01.jpg,True
+6832,アオイ電子,木下　和洋,current,,,,,photos/6832_アオイ電子/current/photo_01.jpg,True
+6832,アオイ電子,木下　和洋,current,,,,,photos/6832_アオイ電子/current/photo_02.jpg,True
+6836,ぷらっとホーム,株主,current,,,,,photos/6836_ぷらっとホーム/current/photo_01.jpg,True
+6840,AKIBAホールディングス,社長 堀,prev_1,2022年6月27日,2022年3月,300.0,375.0,,False
+6840,AKIBAホールディングス,設立 代表取,prev_2,2004年4月,2007年12月,439.0,98.0,,False
+6840,AKIBAホールディングス,堀 礼一郎,prev_3,,,,,,False
+6856,堀場製作所,"制図
+
+堀場製",current,,,,,photos/6856_堀場製作所/current/photo_01.jpg,True
+6867,リーダー電子,"資料
+
+決算短",current,,,,,photos/6867_リーダー電子/current/photo_01.jpg,True
+6869,シスメックス,株主,current,,,,,photos/6869_シスメックス/current/photo_01.jpg,True
+6869,シスメックス,株主,current,,,,,photos/6869_シスメックス/current/photo_02.jpg,True
+6871,日本マイクロニクス,,current,,,,,photos/6871_日本マイクロニクス/current/photo_01.jpg,True
+6871,日本マイクロニクス,,current,,,,,photos/6871_日本マイクロニクス/current/photo_02.jpg,True
+6870,日本フェンオール,,current,,,,,photos/6870_日本フェンオール/current/photo_01.jpg,True
+6870,日本フェンオール,,current,,,,,photos/6870_日本フェンオール/current/photo_02.jpg,True

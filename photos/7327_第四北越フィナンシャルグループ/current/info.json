@@ -1,0 +1,22 @@
+{
+  "name": "平素",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年4月",
+  "source_url": "https://www.dhfg.co.jp/company/topmessage/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-04-01",
+    "open_on_date": 1080.55,
+    "close_on_date": 1058.17,
+    "high_on_date": 1080.55,
+    "low_on_date": 1054.97,
+    "trading_date": "2025-03-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1080.55
+}

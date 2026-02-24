@@ -1,0 +1,21 @@
+{
+  "name": "地域",
+  "title": "取締役社長",
+  "appointment_info": "2007年4月",
+  "source_url": "https://www.fukuoka-fg.com/group/message.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2007-04-01",
+    "open_on_date": 2768.31,
+    "close_on_date": 2747.65,
+    "high_on_date": 2788.97,
+    "low_on_date": 2735.85,
+    "trading_date": "2007-03-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2768.31
+}

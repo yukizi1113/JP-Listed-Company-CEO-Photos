@@ -1,0 +1,21 @@
+{
+  "name": "第四次",
+  "title": "代表取締役CEO",
+  "appointment_info": "2025年３月",
+  "source_url": "https://www.relo.jp/about/message.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 1859.0,
+    "close_on_date": 1829.16,
+    "high_on_date": 1864.87,
+    "low_on_date": 1812.04,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1859.0
+}

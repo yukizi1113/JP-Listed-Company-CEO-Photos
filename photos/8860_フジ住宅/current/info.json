@@ -1,0 +1,22 @@
+{
+  "name": "今井 光郎",
+  "title": "代表取締役社長",
+  "appointment_info": "2008年10月",
+  "source_url": "https://www.fuji-jutaku.co.jp/corporate/director/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2008-10-01",
+    "open_on_date": 142.77,
+    "close_on_date": 144.92,
+    "high_on_date": 144.92,
+    "low_on_date": 142.77,
+    "trading_date": "2008-09-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 142.77
+}

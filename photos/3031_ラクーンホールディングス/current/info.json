@@ -1,0 +1,24 @@
+{
+  "name": "小方 功",
+  "title": "代表取締役社長",
+  "appointment_info": "2013年5月",
+  "source_url": "https://www.raccoon.ne.jp/profile/official",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg"
+  ],
+  "photo_count": 4,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2013-05-01",
+    "open_on_date": 174.51,
+    "close_on_date": 180.14,
+    "high_on_date": 185.67,
+    "low_on_date": 169.44,
+    "trading_date": "2013-04-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 174.51
+}

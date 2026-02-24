@@ -1,0 +1,21 @@
+{
+  "name": "私達",
+  "title": "代表取締役社長",
+  "appointment_info": "2020年4月",
+  "source_url": "https://www.oisixradaichi.co.jp/story/message/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2020-04-01",
+    "open_on_date": 1156.9,
+    "close_on_date": 1225.6,
+    "high_on_date": 1302.26,
+    "low_on_date": 1154.91,
+    "trading_date": "2020-03-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1156.9
+}

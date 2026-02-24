@@ -1,0 +1,26 @@
+{
+  "name": "長福留泰蔵",
+  "appointment_date": "2023年12月",
+  "resignation_date": "2023年3月",
+  "source_url": "https://shachomeikan.jp/industry_article/2182",
+  "stock_price_at_appointment": {
+    "date": "2023-12-01",
+    "open_on_date": 652.67,
+    "close_on_date": 640.7,
+    "high_on_date": 652.67,
+    "low_on_date": 636.72,
+    "trading_date": "2023-11-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 652.67,
+  "stock_price_at_resignation": {
+    "date": "2023-03-01",
+    "open_on_date": 672.84,
+    "close_on_date": 604.06,
+    "high_on_date": 681.81,
+    "low_on_date": 604.06,
+    "trading_date": "2023-03-22",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 604.06
+}

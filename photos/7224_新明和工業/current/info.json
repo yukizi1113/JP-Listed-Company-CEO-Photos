@@ -1,0 +1,21 @@
+{
+  "name": "新聞 電子版",
+  "title": "取締役社長",
+  "appointment_info": "2025年3月",
+  "source_url": "https://www.shinmaywa.co.jp/sustainability/managementpolicy/message.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 1353.28,
+    "close_on_date": 1348.44,
+    "high_on_date": 1372.64,
+    "low_on_date": 1346.5,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1353.28
+}

@@ -1,0 +1,21 @@
+{
+  "name": "当社 執行役",
+  "title": "代表取締役社長",
+  "appointment_info": "2003年4月",
+  "source_url": "https://www.taisei-oncho.co.jp/company/org/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2003-04-01",
+    "open_on_date": 237.45,
+    "close_on_date": 237.45,
+    "high_on_date": 237.45,
+    "low_on_date": 237.45,
+    "trading_date": "2003-03-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 237.45
+}

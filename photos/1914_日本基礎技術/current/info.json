@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "title": "代表取締役社長",
+  "appointment_info": "令和4年11月",
+  "source_url": "https://www.jafec.co.jp/ir-management-info",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg"
+  ],
+  "photo_count": 4,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2022-11-01",
+    "open_on_date": 382.92,
+    "close_on_date": 376.54,
+    "high_on_date": 382.92,
+    "low_on_date": 373.8,
+    "trading_date": "2022-10-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 382.92
+}

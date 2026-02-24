@@ -1,95 +1,184 @@
 ﻿ticker,company_name,ceo_name,ceo_role,appointment_date,resignation_date,open_at_appointment,close_at_resignation,photo_path,photo_exists
-1301,極洋,極洋,current,,,,,photos/1301_極洋/current/photo_01.jpg,True
+1301,極洋,極洋,current,,,,,photos/1301_極洋/current/photo_01.jpg,False
 1332,ニッスイ,"氏名
-地位",current,,,,,photos/1332_ニッスイ/current/photo_01.jpg,True
+地位",current,,,,,photos/1332_ニッスイ/current/photo_01.jpg,False
 1332,ニッスイ,"氏名
-地位",current,,,,,photos/1332_ニッスイ/current/photo_02.jpg,True
+地位",current,,,,,photos/1332_ニッスイ/current/photo_02.jpg,False
 1332,ニッスイ,"氏名
-地位",current,,,,,photos/1332_ニッスイ/current/photo_03.jpg,True
+地位",current,,,,,photos/1332_ニッスイ/current/photo_03.jpg,False
 1332,ニッスイ,"氏名
-地位",current,,,,,photos/1332_ニッスイ/current/photo_04.jpg,True
+地位",current,,,,,photos/1332_ニッスイ/current/photo_04.jpg,False
 1332,ニッスイ,"氏名
-地位",current,,,,,photos/1332_ニッスイ/current/photo_05.jpg,True
-1375,ユキグニファクトリー,体制,current,,,,,photos/1375_ユキグニファクトリー/current/photo_01.jpg,True
-1377,サカタのタネ,会長 坂田,current,2025年8月,,3326.57,,photos/1377_サカタのタネ/current/photo_01.jpg,True
-1379,ホクト,食品包装,current,,,,,photos/1379_ホクト/current/photo_01.jpg,True
-1379,ホクト,食品包装,current,,,,,photos/1379_ホクト/current/photo_02.jpg,True
-1417,ミライト・ワン,日本語,current,2025年12月,,3160.0,,photos/1417_ミライト・ワン/current/photo_01.jpg,True
-1417,ミライト・ワン,日本語,current,2025年12月,,3160.0,,photos/1417_ミライト・ワン/current/photo_02.jpg,True
-1417,ミライト・ワン,日本語,current,2025年12月,,3160.0,,photos/1417_ミライト・ワン/current/photo_03.jpg,True
-1417,ミライト・ワン,日本語,current,2025年12月,,3160.0,,photos/1417_ミライト・ワン/current/photo_04.jpg,True
-1417,ミライト・ワン,日本語,current,2025年12月,,3160.0,,photos/1417_ミライト・ワン/current/photo_05.jpg,True
-1414,ショーボンドホールディングス,,current,2025年6月,,1145.92,,photos/1414_ショーボンドホールディングス/current/photo_01.jpg,True
-1429,日本アクア,中村文隆,current,2004年11月,,,,photos/1429_日本アクア/current/photo_01.jpg,True
-1446,キャンディル,林 晃生,current,,,,,photos/1446_キャンディル/current/photo_01.jpg,True
+地位",current,,,,,photos/1332_ニッスイ/current/photo_05.jpg,False
+1375,ユキグニファクトリー,体制,current,,,,,photos/1375_ユキグニファクトリー/current/photo_01.jpg,False
+1377,サカタのタネ,会長 坂田,current,2025年8月,,3326.57,,photos/1377_サカタのタネ/current/photo_01.jpg,False
+1379,ホクト,食品包装,current,,,,,photos/1379_ホクト/current/photo_01.jpg,False
+1379,ホクト,食品包装,current,,,,,photos/1379_ホクト/current/photo_02.jpg,False
+1417,ミライト・ワン,日本語,current,2025年12月,,3160.0,,photos/1417_ミライト・ワン/current/photo_01.jpg,False
+1417,ミライト・ワン,日本語,current,2025年12月,,3160.0,,photos/1417_ミライト・ワン/current/photo_02.jpg,False
+1417,ミライト・ワン,日本語,current,2025年12月,,3160.0,,photos/1417_ミライト・ワン/current/photo_03.jpg,False
+1417,ミライト・ワン,日本語,current,2025年12月,,3160.0,,photos/1417_ミライト・ワン/current/photo_04.jpg,False
+1417,ミライト・ワン,日本語,current,2025年12月,,3160.0,,photos/1417_ミライト・ワン/current/photo_05.jpg,False
+1414,ショーボンドホールディングス,,current,2025年6月,,1145.92,,photos/1414_ショーボンドホールディングス/current/photo_01.jpg,False
+1429,日本アクア,中村文隆,current,2004年11月,,,,photos/1429_日本アクア/current/photo_01.jpg,False
+1446,キャンディル,林 晃生,current,,,,,photos/1446_キャンディル/current/photo_01.jpg,False
 1514,住石ホールディングス,"役会
-取締",current,,,,,photos/1514_住石ホールディングス/current/photo_01.jpg,True
-1605,INPEX,上田,current,,,,,photos/1605_INPEX/current/photo_01.jpg,True
-1518,三井松島ホールディングス,社会,current,,,,,photos/1518_三井松島ホールディングス/current/photo_01.jpg,True
-1447,SAAFホールディングス,奈田 直幸,current,,,,,photos/1447_SAAFホールディングス/current/photo_01.jpg,True
-1711,SDSホールディングス,渡辺 悠介,current,2020年10月,,357.0,,photos/1711_SDSホールディングス/current/photo_01.jpg,True
-1663,K&Oエナジーグループ,未来,current,,,,,photos/1663_K_Oエナジーグループ/current/photo_01.jpg,True
-1720,東急建設,寺田　光宏,current,,,,,photos/1720_東急建設/current/photo_01.jpg,True
-1721,コムシスホールディングス,田辺　博,current,,,,,photos/1721_コムシスホールディングス/current/photo_01.jpg,True
-1762,高松コンストラクショングループ,髙松 浩孝,current,,,,,photos/1762_高松コンストラクショングループ/current/photo_01.jpg,True
-1764,工藤建設,会長　工藤,current,,,,,photos/1764_工藤建設/current/photo_01.jpg,True
-1768,ソネック,山本　貴弘,current,,,,,photos/1768_ソネック/current/photo_01.jpg,True
+取締",current,,,,,photos/1514_住石ホールディングス/current/photo_01.jpg,False
+1605,INPEX,上田,current,,,,,photos/1605_INPEX/current/photo_01.jpg,False
+1518,三井松島ホールディングス,社会,current,,,,,photos/1518_三井松島ホールディングス/current/photo_01.jpg,False
+1447,SAAFホールディングス,奈田 直幸,current,,,,,photos/1447_SAAFホールディングス/current/photo_01.jpg,False
+1711,SDSホールディングス,渡辺 悠介,current,2020年10月,,357.0,,photos/1711_SDSホールディングス/current/photo_01.jpg,False
+1663,K&Oエナジーグループ,未来,current,,,,,photos/1663_K_Oエナジーグループ/current/photo_01.jpg,False
+1720,東急建設,寺田　光宏,current,,,,,photos/1720_東急建設/current/photo_01.jpg,False
+1721,コムシスホールディングス,田辺　博,current,,,,,photos/1721_コムシスホールディングス/current/photo_01.jpg,False
+1762,高松コンストラクショングループ,髙松 浩孝,current,,,,,photos/1762_高松コンストラクショングループ/current/photo_01.jpg,False
+1764,工藤建設,会長　工藤,current,,,,,photos/1764_工藤建設/current/photo_01.jpg,False
+1768,ソネック,山本　貴弘,current,,,,,photos/1768_ソネック/current/photo_01.jpg,False
 1723,日本電技,"体制
-当社",current,,,,,photos/1723_日本電技/current/photo_01.jpg,True
-1780,ヤマウラ,山浦 正貴,current,2025年6月,,1217.07,,photos/1780_ヤマウラ/current/photo_01.jpg,True
-1780,ヤマウラ,山浦 正貴,current,2025年6月,,1217.07,,photos/1780_ヤマウラ/current/photo_02.jpg,True
-1780,ヤマウラ,山浦 正貴,current,2025年6月,,1217.07,,photos/1780_ヤマウラ/current/photo_03.jpg,True
-1780,ヤマウラ,山浦 正貴,current,2025年6月,,1217.07,,photos/1780_ヤマウラ/current/photo_04.jpg,True
-1780,ヤマウラ,山浦 正貴,current,2025年6月,,1217.07,,photos/1780_ヤマウラ/current/photo_05.jpg,True
+当社",current,,,,,photos/1723_日本電技/current/photo_01.jpg,False
+1780,ヤマウラ,山浦 正貴,current,2025年6月,,1217.07,,photos/1780_ヤマウラ/current/photo_01.jpg,False
+1780,ヤマウラ,山浦 正貴,current,2025年6月,,1217.07,,photos/1780_ヤマウラ/current/photo_02.jpg,False
+1780,ヤマウラ,山浦 正貴,current,2025年6月,,1217.07,,photos/1780_ヤマウラ/current/photo_03.jpg,False
+1780,ヤマウラ,山浦 正貴,current,2025年6月,,1217.07,,photos/1780_ヤマウラ/current/photo_04.jpg,False
+1780,ヤマウラ,山浦 正貴,current,2025年6月,,1217.07,,photos/1780_ヤマウラ/current/photo_05.jpg,False
 1776,三井住建道路,"役会
-取締",current,,,,,photos/1776_三井住建道路/current/photo_01.jpg,True
-1783,fantasista,,current,,,,,photos/1783_fantasista/current/photo_01.jpg,True
-1793,大本組,三宅 啓一,current,,,,,photos/1793_大本組/current/photo_01.jpg,True
-1788,三東工業社,杉本　修啓,current,2024年7月,,3683.92,,photos/1788_三東工業社/current/photo_01.jpg,True
-1770,藤田エンジニアリング,,current,2025年3月,,1450.94,,photos/1770_藤田エンジニアリング/current/photo_01.jpg,True
-1770,藤田エンジニアリング,,current,2025年3月,,1450.94,,photos/1770_藤田エンジニアリング/current/photo_02.jpg,True
-1770,藤田エンジニアリング,,current,2025年3月,,1450.94,,photos/1770_藤田エンジニアリング/current/photo_03.jpg,True
-1770,藤田エンジニアリング,,current,2025年3月,,1450.94,,photos/1770_藤田エンジニアリング/current/photo_04.jpg,True
-1770,藤田エンジニアリング,,current,2025年3月,,1450.94,,photos/1770_藤田エンジニアリング/current/photo_05.jpg,True
-1799,第一建設工業,,current,2025年10月,,3150.0,,photos/1799_第一建設工業/current/photo_01.jpg,True
-1799,第一建設工業,,current,2025年10月,,3150.0,,photos/1799_第一建設工業/current/photo_02.jpg,True
-1802,大林組,佐藤 俊美,current,2011年1月,,248.14,,photos/1802_大林組/current/photo_01.jpg,True
-1803,清水建設,原点回帰,current,2025年9月,,1895.07,,photos/1803_清水建設/current/photo_01.jpg,True
-1808,長谷工コーポレーション,熊野 聡,current,2025年4月,,1908.41,,photos/1808_長谷工コーポレーション/current/photo_01.jpg,True
-1808,長谷工コーポレーション,熊野 聡,current,2025年4月,,1908.41,,photos/1808_長谷工コーポレーション/current/photo_02.jpg,True
-1801,大成建設,月 相川善,current,2025年3月,,6708.59,,photos/1801_大成建設/current/photo_01.jpg,True
-1811,錢高組,社会,current,,,,,photos/1811_錢高組/current/photo_01.jpg,True
-1787,ナカボーテック,宮地 誠,current,2025年6月,,5050.0,,photos/1787_ナカボーテック/current/photo_01.jpg,True
-1787,ナカボーテック,宮地 誠,current,2025年6月,,5050.0,,photos/1787_ナカボーテック/current/photo_02.jpg,True
+取締",current,,,,,photos/1776_三井住建道路/current/photo_01.jpg,False
+1783,fantasista,,current,,,,,photos/1783_fantasista/current/photo_01.jpg,False
+1793,大本組,三宅 啓一,current,,,,,photos/1793_大本組/current/photo_01.jpg,False
+1788,三東工業社,杉本　修啓,current,2024年7月,,3683.92,,photos/1788_三東工業社/current/photo_01.jpg,False
+1770,藤田エンジニアリング,,current,2025年3月,,1450.94,,photos/1770_藤田エンジニアリング/current/photo_01.jpg,False
+1770,藤田エンジニアリング,,current,2025年3月,,1450.94,,photos/1770_藤田エンジニアリング/current/photo_02.jpg,False
+1770,藤田エンジニアリング,,current,2025年3月,,1450.94,,photos/1770_藤田エンジニアリング/current/photo_03.jpg,False
+1770,藤田エンジニアリング,,current,2025年3月,,1450.94,,photos/1770_藤田エンジニアリング/current/photo_04.jpg,False
+1770,藤田エンジニアリング,,current,2025年3月,,1450.94,,photos/1770_藤田エンジニアリング/current/photo_05.jpg,False
+1799,第一建設工業,,current,2025年10月,,3150.0,,photos/1799_第一建設工業/current/photo_01.jpg,False
+1799,第一建設工業,,current,2025年10月,,3150.0,,photos/1799_第一建設工業/current/photo_02.jpg,False
+1802,大林組,佐藤 俊美,current,2011年1月,,248.14,,photos/1802_大林組/current/photo_01.jpg,False
+1803,清水建設,原点回帰,current,2025年9月,,1895.07,,photos/1803_清水建設/current/photo_01.jpg,False
+1808,長谷工コーポレーション,熊野 聡,current,2025年4月,,1908.41,,photos/1808_長谷工コーポレーション/current/photo_01.jpg,False
+1808,長谷工コーポレーション,熊野 聡,current,2025年4月,,1908.41,,photos/1808_長谷工コーポレーション/current/photo_02.jpg,False
+1801,大成建設,月 相川善,current,2025年3月,,6708.59,,photos/1801_大成建設/current/photo_01.jpg,False
+1811,錢高組,社会,current,,,,,photos/1811_錢高組/current/photo_01.jpg,False
+1787,ナカボーテック,宮地 誠,current,2025年6月,,5050.0,,photos/1787_ナカボーテック/current/photo_01.jpg,False
+1787,ナカボーテック,宮地 誠,current,2025年6月,,5050.0,,photos/1787_ナカボーテック/current/photo_02.jpg,False
 1813,不動テトラ,"社名
 
-株",current,2025年3月,,2133.39,,photos/1813_不動テトラ/current/photo_01.jpg,True
+株",current,2025年3月,,2133.39,,photos/1813_不動テトラ/current/photo_01.jpg,False
 1813,不動テトラ,"社名
 
-株",current,2025年3月,,2133.39,,photos/1813_不動テトラ/current/photo_02.jpg,True
+株",current,2025年3月,,2133.39,,photos/1813_不動テトラ/current/photo_02.jpg,False
 1813,不動テトラ,"社名
 
-株",current,2025年3月,,2133.39,,photos/1813_不動テトラ/current/photo_03.jpg,True
+株",current,2025年3月,,2133.39,,photos/1813_不動テトラ/current/photo_03.jpg,False
 1813,不動テトラ,"社名
 
-株",current,2025年3月,,2133.39,,photos/1813_不動テトラ/current/photo_04.jpg,True
+株",current,2025年3月,,2133.39,,photos/1813_不動テトラ/current/photo_04.jpg,False
 1813,不動テトラ,"社名
 
-株",current,2025年3月,,2133.39,,photos/1813_不動テトラ/current/photo_05.jpg,True
+株",current,2025年3月,,2133.39,,photos/1813_不動テトラ/current/photo_05.jpg,False
 1820,西松建設,"区分
-業績連",current,2024年6月,,4257.69,,photos/1820_西松建設/current/photo_01.jpg,True
-1827,ナカノフドー建設,,current,,,,,photos/1827_ナカノフドー建設/current/photo_01.jpg,True
-1814,大末建設,当社,current,,,,,photos/1814_大末建設/current/photo_01.jpg,True
-1814,大末建設,当社,current,,,,,photos/1814_大末建設/current/photo_02.jpg,True
+業績連",current,2024年6月,,4257.69,,photos/1820_西松建設/current/photo_01.jpg,False
+1827,ナカノフドー建設,,current,,,,,photos/1827_ナカノフドー建設/current/photo_01.jpg,False
+1814,大末建設,当社,current,,,,,photos/1814_大末建設/current/photo_01.jpg,False
+1814,大末建設,当社,current,,,,,photos/1814_大末建設/current/photo_02.jpg,False
 1850,南海辰村建設,"貢献
-当社",current,,,,,photos/1850_南海辰村建設/current/photo_01.jpg,True
-1853,森組,平素,current,2024年6月,,304.22,,photos/1853_森組/current/photo_01.jpg,True
-1853,森組,平素,current,2024年6月,,304.22,,photos/1853_森組/current/photo_02.jpg,True
-1848,富士ピー・エス,減災　国土強,current,2021年５月,,529.6,,photos/1848_富士ピー・エス/current/photo_01.jpg,True
-1861,熊谷組,株主,current,,,,,photos/1861_熊谷組/current/photo_01.jpg,True
-1860,戸田建設,,current,2025年6月,,900.53,,photos/1860_戸田建設/current/photo_01.jpg,True
-1860,戸田建設,,current,2025年6月,,900.53,,photos/1860_戸田建設/current/photo_02.jpg,True
-1860,戸田建設,,current,2025年6月,,900.53,,photos/1860_戸田建設/current/photo_03.jpg,True
-1860,戸田建設,,current,2025年6月,,900.53,,photos/1860_戸田建設/current/photo_04.jpg,True
-1860,戸田建設,,current,2025年6月,,900.53,,photos/1860_戸田建設/current/photo_05.jpg,True
-1867,植木組,下部 久夫,current,,,,,photos/1867_植木組/current/photo_01.jpg,True
+当社",current,,,,,photos/1850_南海辰村建設/current/photo_01.jpg,False
+1853,森組,平素,current,2024年6月,,304.22,,photos/1853_森組/current/photo_01.jpg,False
+1853,森組,平素,current,2024年6月,,304.22,,photos/1853_森組/current/photo_02.jpg,False
+1848,富士ピー・エス,減災　国土強,current,2021年５月,,529.6,,photos/1848_富士ピー・エス/current/photo_01.jpg,False
+1861,熊谷組,株主,current,,,,,photos/1861_熊谷組/current/photo_01.jpg,False
+1860,戸田建設,,current,2025年6月,,900.53,,photos/1860_戸田建設/current/photo_01.jpg,False
+1860,戸田建設,,current,2025年6月,,900.53,,photos/1860_戸田建設/current/photo_02.jpg,False
+1860,戸田建設,,current,2025年6月,,900.53,,photos/1860_戸田建設/current/photo_03.jpg,False
+1860,戸田建設,,current,2025年6月,,900.53,,photos/1860_戸田建設/current/photo_04.jpg,False
+1860,戸田建設,,current,2025年6月,,900.53,,photos/1860_戸田建設/current/photo_05.jpg,False
+1867,植木組,下部 久夫,current,,,,,photos/1867_植木組/current/photo_01.jpg,False
+1882,東亜道路工業,企業,current,,,,,photos/1882_東亜道路工業/current/photo_01.jpg,True
+1882,東亜道路工業,企業,current,,,,,photos/1882_東亜道路工業/current/photo_02.jpg,True
+1882,東亜道路工業,企業,current,,,,,photos/1882_東亜道路工業/current/photo_03.jpg,True
+1878,大東建託,竹内,current,,,,,photos/1878_大東建託/current/photo_01.jpg,True
+1887,日本国土開発,,current,,,,,photos/1887_日本国土開発/current/photo_01.jpg,True
+1904,大成温調,当社 執行役,current,2003年4月,,237.45,,photos/1904_大成温調/current/photo_01.jpg,True
+1899,福田組,"締役
+執行役",current,2003年3月,,1052.62,,photos/1899_福田組/current/photo_01.jpg,True
+1909,日本ドライケミカル,,current,2025年4月,,4043.85,,photos/1909_日本ドライケミカル/current/photo_01.jpg,True
+1909,日本ドライケミカル,,current,2025年4月,,4043.85,,photos/1909_日本ドライケミカル/current/photo_02.jpg,True
+1909,日本ドライケミカル,,current,2025年4月,,4043.85,,photos/1909_日本ドライケミカル/current/photo_03.jpg,True
+1909,日本ドライケミカル,,current,2025年4月,,4043.85,,photos/1909_日本ドライケミカル/current/photo_04.jpg,True
+1909,日本ドライケミカル,,current,2025年4月,,4043.85,,photos/1909_日本ドライケミカル/current/photo_05.jpg,True
+1911,住友林業,住友林業,current,,,,,photos/1911_住友林業/current/photo_01.jpg,True
+1911,住友林業,住友林業,current,,,,,photos/1911_住友林業/current/photo_02.jpg,True
+1911,住友林業,住友林業,current,,,,,photos/1911_住友林業/current/photo_03.jpg,True
+1914,日本基礎技術,,current,令和4年11月,,382.92,,photos/1914_日本基礎技術/current/photo_01.jpg,True
+1914,日本基礎技術,,current,令和4年11月,,382.92,,photos/1914_日本基礎技術/current/photo_02.jpg,True
+1914,日本基礎技術,,current,令和4年11月,,382.92,,photos/1914_日本基礎技術/current/photo_03.jpg,True
+1914,日本基礎技術,,current,令和4年11月,,382.92,,photos/1914_日本基礎技術/current/photo_04.jpg,True
+1926,ライト工業,"一覧
+組織図",current,,,,,photos/1926_ライト工業/current/photo_01.jpg,True
+1926,ライト工業,"一覧
+組織図",current,,,,,photos/1926_ライト工業/current/photo_02.jpg,True
+1926,ライト工業,"一覧
+組織図",current,,,,,photos/1926_ライト工業/current/photo_03.jpg,True
+1926,ライト工業,"一覧
+組織図",current,,,,,photos/1926_ライト工業/current/photo_04.jpg,True
+1926,ライト工業,"一覧
+組織図",current,,,,,photos/1926_ライト工業/current/photo_05.jpg,True
+1921,巴コーポレーション,,current,,,,,photos/1921_巴コーポレーション/current/photo_01.jpg,True
+1921,巴コーポレーション,,current,,,,,photos/1921_巴コーポレーション/current/photo_02.jpg,True
+1898,世紀東急工業,"理念
+
+豊",current,2025年3月,,1471.89,,photos/1898_世紀東急工業/current/photo_01.jpg,True
+1898,世紀東急工業,"理念
+
+豊",current,2025年3月,,1471.89,,photos/1898_世紀東急工業/current/photo_02.jpg,True
+1898,世紀東急工業,"理念
+
+豊",current,2025年3月,,1471.89,,photos/1898_世紀東急工業/current/photo_03.jpg,True
+1938,日本リーテック,,current,2025年6月,,1654.0,,photos/1938_日本リーテック/current/photo_01.jpg,True
+1929,日特建設,"方針
+私",current,,,,,photos/1929_日特建設/current/photo_01.jpg,True
+1952,新日本空調,持続可能,current,2025年3月,,1611.59,,photos/1952_新日本空調/current/photo_01.jpg,True
+1950,日本電設工業,安田 一成,current,,,,,photos/1950_日本電設工業/current/photo_01.jpg,True
+1950,日本電設工業,安田 一成,current,,,,,photos/1950_日本電設工業/current/photo_02.jpg,True
+1951,エクシオグループ,,current,,,,,photos/1951_エクシオグループ/current/photo_01.jpg,True
+1961,三機工業,石田 博一,current,,,,,photos/1961_三機工業/current/photo_01.jpg,True
+1963,日揮ホールディングス,佐藤 雅之,current,,,,,photos/1963_日揮ホールディングス/current/photo_01.jpg,True
+1968,太平電業,,current,,,,,photos/1968_太平電業/current/photo_01.jpg,True
+1966,高田工業所,髙田 寿一郎,current,,,,,photos/1966_高田工業所/current/photo_01.jpg,True
+1965,テクノ菱和,"会長
+黒田",current,2003年10月,,207.74,,photos/1965_テクノ菱和/current/photo_01.jpg,True
+1969,高砂熱学工業,環境革新,current,2023年11月,,1330.92,,photos/1969_高砂熱学工業/current/photo_01.jpg,True
+1972,三晃金属工業,青木　栄一,current,,,,,photos/1972_三晃金属工業/current/photo_01.jpg,True
+1979,大氣社,,current,,,,,photos/1979_大氣社/current/photo_01.jpg,True
+1976,明星工業,栁瀬 徹次,current,2008年4月,,141.61,,photos/1976_明星工業/current/photo_01.jpg,True
+1975,朝日工業社,平素,current,,,,,photos/1975_朝日工業社/current/photo_01.jpg,True
+1982,日比谷総合設備,中北　英孝,current,2025年6月,,3283.79,,photos/1982_日比谷総合設備/current/photo_01.jpg,True
+1994,高橋カーテンウォール工業,高橋 武治,current,,,,,photos/1994_高橋カーテンウォール工業/current/photo_01.jpg,True
+2060,フィード・ワン,日本配合,current,2014年10月,,412.16,,photos/2060_フィード・ワン/current/photo_01.jpg,True
+2053,中部飼料,藤田 京一,current,,,,,photos/2053_中部飼料/current/photo_01.jpg,True
+2108,日本甜菜製糖,"月
+日本甜",current,2025年7月,,2321.0,,photos/2108_日本甜菜製糖/current/photo_01.jpg,True
+2108,日本甜菜製糖,"月
+日本甜",current,2025年7月,,2321.0,,photos/2108_日本甜菜製糖/current/photo_02.jpg,True
+2108,日本甜菜製糖,"月
+日本甜",current,2025年7月,,2321.0,,photos/2108_日本甜菜製糖/current/photo_03.jpg,True
+2004,昭和産業,"日
+昭和産",current,2026年２月,,3185.0,,photos/2004_昭和産業/current/photo_01.jpg,True
+2120,LIFULL,"理念
+
+社名",current,2025年12月,,165.0,,photos/2120_LIFULL/current/photo_01.jpg,True
+2121,MIXI,木村 弘毅,current,,,,,photos/2121_MIXI/current/photo_01.jpg,True
+2138,クルーズ,小渕 宏二,current,,,,,photos/2138_クルーズ/current/photo_01.jpg,True
+2146,UTグループ,外村　学,current,,,,,photos/2146_UTグループ/current/photo_01.jpg,True
+2153,E・Jホールディングス,小谷 裕司,current,2007年6月,,479.56,,photos/2153_E・Jホールディングス/current/photo_01.jpg,True
+2154,オープンアップグループ,西田 穣,current,,,,,photos/2154_オープンアップグループ/current/photo_01.jpg,True
+2160,ジーエヌアイグループ,上海,current,,,,,photos/2160_ジーエヌアイグループ/current/photo_01.jpg,True
+2130,メンバーズ,締役 兼,current,,,,,photos/2130_メンバーズ/current/photo_01.jpg,True
+2158,FRONTEO,守本 正宏,current,2020年2月,,314.0,,photos/2158_FRONTEO/current/photo_01.jpg,True
+2170,リンクアンドモチベーション,"会長
+小笹",current,,,,,photos/2170_リンクアンドモチベーション/current/photo_01.jpg,True
+2185,シイエム・シイ,幸恭,current,,,,,photos/2185_シイエム・シイ/current/photo_01.jpg,True
+2175,エス・エム・エス,髙畑 正樹,current,,,,,photos/2175_エス・エム・エス/current/photo_01.jpg,True
+2163,アルトナー,関口 相三,current,,,,,photos/2163_アルトナー/current/photo_01.jpg,True
+2163,アルトナー,関口 相三,current,,,,,photos/2163_アルトナー/current/photo_02.jpg,True
+2163,アルトナー,関口 相三,current,,,,,photos/2163_アルトナー/current/photo_03.jpg,True

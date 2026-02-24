@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "title": "代表取締役社長",
+  "appointment_info": "2021年1月",
+  "source_url": "https://ficha.jp/company/management/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-01-01",
+    "open_on_date": 1510.0,
+    "close_on_date": 1499.0,
+    "high_on_date": 1550.0,
+    "low_on_date": 1451.0,
+    "trading_date": "2020-12-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1510.0
+}

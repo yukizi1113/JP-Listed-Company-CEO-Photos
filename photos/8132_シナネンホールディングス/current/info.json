@@ -1,0 +1,22 @@
+{
+  "name": "家庭向",
+  "title": "代表取締役社長",
+  "appointment_info": "2024年12月",
+  "source_url": "https://sinanengroup.co.jp/company/message.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2024-12-01",
+    "open_on_date": 6211.96,
+    "close_on_date": 6192.24,
+    "high_on_date": 6261.26,
+    "low_on_date": 6182.38,
+    "trading_date": "2024-11-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 6211.96
+}

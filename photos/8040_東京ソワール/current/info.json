@@ -1,0 +1,22 @@
+{
+  "name": "方針\n東京",
+  "title": "代表取締役社長",
+  "appointment_info": "2024年3月",
+  "source_url": "https://www.soir.co.jp/sustainability/management/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2024-03-01",
+    "open_on_date": 777.42,
+    "close_on_date": 780.14,
+    "high_on_date": 782.87,
+    "low_on_date": 777.42,
+    "trading_date": "2024-02-20",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 777.42
+}

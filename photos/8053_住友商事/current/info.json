@@ -1,0 +1,21 @@
+{
+  "name": "上野 真吾",
+  "title": "代表取締役 社長",
+  "appointment_info": "2024年5月",
+  "source_url": "https://www.sumitomocorp.com/ja/global/about/message",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2024-05-01",
+    "open_on_date": 3571.19,
+    "close_on_date": 3583.51,
+    "high_on_date": 3610.04,
+    "low_on_date": 3550.33,
+    "trading_date": "2024-04-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 3571.19
+}

@@ -2250,84 +2250,193 @@
 7826,フルヤ金属,古屋 堯民,current,,,,,photos/7826_フルヤ金属/current/photo_02.jpg,False
 7826,フルヤ金属,古屋 堯民,current,,,,,photos/7826_フルヤ金属/current/photo_03.jpg,False
 7826,フルヤ金属,古屋 堯民,current,,,,,photos/7826_フルヤ金属/current/photo_04.jpg,False
-7832,バンダイナムコホールディングス,浅古 有寿,current,,,,,photos/7832_バンダイナムコホールディングス/current/photo_01.jpg,True
-7841,遠藤製作所,渡部　大史,current,2017年4月,,614.03,,photos/7841_遠藤製作所/current/photo_01.jpg,True
-7851,カワセコンピュータサプライ,,current,2025年3月,,237.94,,photos/7851_カワセコンピュータサプライ/current/photo_01.jpg,True
-7851,カワセコンピュータサプライ,,current,2025年3月,,237.94,,photos/7851_カワセコンピュータサプライ/current/photo_02.jpg,True
-7860,エイベックス,会長 松浦,current,2022年5月,,1248.44,,photos/7860_エイベックス/current/photo_01.jpg,True
-7860,エイベックス,会長 松浦,current,2022年5月,,1248.44,,photos/7860_エイベックス/current/photo_02.jpg,True
-7856,萩原工業,浅野 和志,current,2025年12月,,1553.0,,photos/7856_萩原工業/current/photo_01.jpg,True
-7856,萩原工業,浅野 和志,current,2025年12月,,1553.0,,photos/7856_萩原工業/current/photo_02.jpg,True
-7856,萩原工業,浅野 和志,current,2025年12月,,1553.0,,photos/7856_萩原工業/current/photo_03.jpg,True
-7856,萩原工業,浅野 和志,current,2025年12月,,1553.0,,photos/7856_萩原工業/current/photo_04.jpg,True
-7856,萩原工業,浅野 和志,current,2025年12月,,1553.0,,photos/7856_萩原工業/current/photo_05.jpg,True
-7863,平賀,中前 圭司,current,2005年4月,,533.07,,photos/7863_平賀/current/photo_01.jpg,True
-7867,タカラトミー,小島 一洋,current,2024年６月,,2645.6,,photos/7867_タカラトミー/current/photo_01.jpg,True
-7867,タカラトミー,小島 一洋,current,2024年６月,,2645.6,,photos/7867_タカラトミー/current/photo_02.jpg,True
-7875,竹田iPホールディングス,木全　幸治,current,2002年6月,,,,photos/7875_竹田iPホールディングス/current/photo_01.jpg,True
-7875,竹田iPホールディングス,木全　幸治,current,2002年6月,,,,photos/7875_竹田iPホールディングス/current/photo_02.jpg,True
-7875,竹田iPホールディングス,木全　幸治,current,2002年6月,,,,photos/7875_竹田iPホールディングス/current/photo_03.jpg,True
-7875,竹田iPホールディングス,木全　幸治,current,2002年6月,,,,photos/7875_竹田iPホールディングス/current/photo_04.jpg,True
-7875,竹田iPホールディングス,木全　幸治,current,2002年6月,,,,photos/7875_竹田iPホールディングス/current/photo_05.jpg,True
-7878,光・彩,世界,current,,,,,photos/7878_光・彩/current/photo_01.jpg,True
-7878,光・彩,世界,current,,,,,photos/7878_光・彩/current/photo_02.jpg,True
-7883,サンメッセ,病院 乳腺外,current,2025年10月,,346.01,,photos/7883_サンメッセ/current/photo_01.jpg,True
-7893,プロネクサス,上野 剛史,current,2020年12月,,956.54,,photos/7893_プロネクサス/current/photo_01.jpg,True
+7832,バンダイナムコホールディングス,浅古 有寿,current,,,,,photos/7832_バンダイナムコホールディングス/current/photo_01.jpg,False
+7841,遠藤製作所,渡部　大史,current,2017年4月,,614.03,,photos/7841_遠藤製作所/current/photo_01.jpg,False
+7851,カワセコンピュータサプライ,,current,2025年3月,,237.94,,photos/7851_カワセコンピュータサプライ/current/photo_01.jpg,False
+7851,カワセコンピュータサプライ,,current,2025年3月,,237.94,,photos/7851_カワセコンピュータサプライ/current/photo_02.jpg,False
+7860,エイベックス,会長 松浦,current,2022年5月,,1248.44,,photos/7860_エイベックス/current/photo_01.jpg,False
+7860,エイベックス,会長 松浦,current,2022年5月,,1248.44,,photos/7860_エイベックス/current/photo_02.jpg,False
+7856,萩原工業,浅野 和志,current,2025年12月,,1553.0,,photos/7856_萩原工業/current/photo_01.jpg,False
+7856,萩原工業,浅野 和志,current,2025年12月,,1553.0,,photos/7856_萩原工業/current/photo_02.jpg,False
+7856,萩原工業,浅野 和志,current,2025年12月,,1553.0,,photos/7856_萩原工業/current/photo_03.jpg,False
+7856,萩原工業,浅野 和志,current,2025年12月,,1553.0,,photos/7856_萩原工業/current/photo_04.jpg,False
+7856,萩原工業,浅野 和志,current,2025年12月,,1553.0,,photos/7856_萩原工業/current/photo_05.jpg,False
+7863,平賀,中前 圭司,current,2005年4月,,533.07,,photos/7863_平賀/current/photo_01.jpg,False
+7867,タカラトミー,小島 一洋,current,2024年６月,,2645.6,,photos/7867_タカラトミー/current/photo_01.jpg,False
+7867,タカラトミー,小島 一洋,current,2024年６月,,2645.6,,photos/7867_タカラトミー/current/photo_02.jpg,False
+7875,竹田iPホールディングス,木全　幸治,current,2002年6月,,,,photos/7875_竹田iPホールディングス/current/photo_01.jpg,False
+7875,竹田iPホールディングス,木全　幸治,current,2002年6月,,,,photos/7875_竹田iPホールディングス/current/photo_02.jpg,False
+7875,竹田iPホールディングス,木全　幸治,current,2002年6月,,,,photos/7875_竹田iPホールディングス/current/photo_03.jpg,False
+7875,竹田iPホールディングス,木全　幸治,current,2002年6月,,,,photos/7875_竹田iPホールディングス/current/photo_04.jpg,False
+7875,竹田iPホールディングス,木全　幸治,current,2002年6月,,,,photos/7875_竹田iPホールディングス/current/photo_05.jpg,False
+7878,光・彩,世界,current,,,,,photos/7878_光・彩/current/photo_01.jpg,False
+7878,光・彩,世界,current,,,,,photos/7878_光・彩/current/photo_02.jpg,False
+7883,サンメッセ,病院 乳腺外,current,2025年10月,,346.01,,photos/7883_サンメッセ/current/photo_01.jpg,False
+7893,プロネクサス,上野 剛史,current,2020年12月,,956.54,,photos/7893_プロネクサス/current/photo_01.jpg,False
 7906,ヨネックス,"役職
-氏名",current,,,,,photos/7906_ヨネックス/current/photo_01.jpg,True
+氏名",current,,,,,photos/7906_ヨネックス/current/photo_01.jpg,False
 7906,ヨネックス,"役職
-氏名",current,,,,,photos/7906_ヨネックス/current/photo_02.jpg,True
+氏名",current,,,,,photos/7906_ヨネックス/current/photo_02.jpg,False
 7906,ヨネックス,"役職
-氏名",current,,,,,photos/7906_ヨネックス/current/photo_03.jpg,True
+氏名",current,,,,,photos/7906_ヨネックス/current/photo_03.jpg,False
 7906,ヨネックス,"役職
-氏名",current,,,,,photos/7906_ヨネックス/current/photo_04.jpg,True
-7911,TOPPANホールディングス,麿 秀晴,current,,,,,photos/7911_TOPPANホールディングス/current/photo_01.jpg,True
+氏名",current,,,,,photos/7906_ヨネックス/current/photo_04.jpg,False
+7911,TOPPANホールディングス,麿 秀晴,current,,,,,photos/7911_TOPPANホールディングス/current/photo_01.jpg,False
 7912,大日本印刷,"月
- 北島義",current,2025年10月,,2511.11,,photos/7912_大日本印刷/current/photo_01.jpg,True
-7908,きもと,小林 正一,current,,,,,photos/7908_きもと/current/photo_01.jpg,True
-7914,共同印刷,藤森 康彰,current,,,,,photos/7914_共同印刷/current/photo_01.jpg,True
+ 北島義",current,2025年10月,,2511.11,,photos/7912_大日本印刷/current/photo_01.jpg,False
+7908,きもと,小林 正一,current,,,,,photos/7908_きもと/current/photo_01.jpg,False
+7914,共同印刷,藤森 康彰,current,,,,,photos/7914_共同印刷/current/photo_01.jpg,False
 7915,NISSHA,"役会
-当社",current,2025年1月,,1506.1,,photos/7915_NISSHA/current/photo_01.jpg,True
-7919,野崎印刷紙業,,current,2024年4月,,150.91,,photos/7919_野崎印刷紙業/current/photo_01.jpg,True
-7919,野崎印刷紙業,,current,2024年4月,,150.91,,photos/7919_野崎印刷紙業/current/photo_02.jpg,True
-7919,野崎印刷紙業,,current,2024年4月,,150.91,,photos/7919_野崎印刷紙業/current/photo_03.jpg,True
-7919,野崎印刷紙業,,current,2024年4月,,150.91,,photos/7919_野崎印刷紙業/current/photo_04.jpg,True
-7922,三光産業,石井 正和,current,,,,,photos/7922_三光産業/current/photo_01.jpg,True
-7927,ムトー精工,,current,2024年3月,,1805.89,,photos/7927_ムトー精工/current/photo_01.jpg,True
-7936,アシックス,富永 満之,current,,,,,photos/7936_アシックス/current/photo_01.jpg,True
-7932,ニッピ,伊藤 裕子,current,,,,,photos/7932_ニッピ/current/photo_01.jpg,True
+当社",current,2025年1月,,1506.1,,photos/7915_NISSHA/current/photo_01.jpg,False
+7919,野崎印刷紙業,,current,2024年4月,,150.91,,photos/7919_野崎印刷紙業/current/photo_01.jpg,False
+7919,野崎印刷紙業,,current,2024年4月,,150.91,,photos/7919_野崎印刷紙業/current/photo_02.jpg,False
+7919,野崎印刷紙業,,current,2024年4月,,150.91,,photos/7919_野崎印刷紙業/current/photo_03.jpg,False
+7919,野崎印刷紙業,,current,2024年4月,,150.91,,photos/7919_野崎印刷紙業/current/photo_04.jpg,False
+7922,三光産業,石井 正和,current,,,,,photos/7922_三光産業/current/photo_01.jpg,False
+7927,ムトー精工,,current,2024年3月,,1805.89,,photos/7927_ムトー精工/current/photo_01.jpg,False
+7936,アシックス,富永 満之,current,,,,,photos/7936_アシックス/current/photo_01.jpg,False
+7932,ニッピ,伊藤 裕子,current,,,,,photos/7932_ニッピ/current/photo_01.jpg,False
 7942,JSP,"方針
-業績",current,2024年4月,,2132.0,,photos/7942_JSP/current/photo_01.jpg,True
+業績",current,2024年4月,,2132.0,,photos/7942_JSP/current/photo_01.jpg,False
 7949,小松ウオール工業,"体制
-当社",current,,,,,photos/7949_小松ウオール工業/current/photo_01.jpg,True
-7952,河合楽器製作所,部長 兼,current,,,,,photos/7952_河合楽器製作所/current/photo_01.jpg,True
-7952,河合楽器製作所,部長 兼,current,,,,,photos/7952_河合楽器製作所/current/photo_02.jpg,True
-7952,河合楽器製作所,部長 兼,current,,,,,photos/7952_河合楽器製作所/current/photo_03.jpg,True
-7952,河合楽器製作所,部長 兼,current,,,,,photos/7952_河合楽器製作所/current/photo_04.jpg,True
-7952,河合楽器製作所,部長 兼,current,,,,,photos/7952_河合楽器製作所/current/photo_05.jpg,True
-7956,ピジョン,,current,,,,,photos/7956_ピジョン/current/photo_01.jpg,True
-7917,ZACROS,下田拓,current,,,,,photos/7917_ZACROS/current/photo_01.jpg,True
-7962,キングジム,木村 美代子,current,,,,,photos/7962_キングジム/current/photo_01.jpg,True
-7965,象印マホービン,,current,,,,,photos/7965_象印マホービン/current/photo_01.jpg,True
-7957,フジコピアン,木 敏樹,current,,,,,photos/7957_フジコピアン/current/photo_01.jpg,True
-7971,東リ,,current,2019年12月,,238.7,,photos/7971_東リ/current/photo_01.jpg,True
-7981,タカラスタンダード,会長 渡辺岳,current,,,,,photos/7981_タカラスタンダード/current/photo_01.jpg,True
-7983,ミロク,明治,current,,,,,photos/7983_ミロク/current/photo_01.jpg,True
-7983,ミロク,明治,current,,,,,photos/7983_ミロク/current/photo_02.jpg,True
-7944,ローランド,地位,current,2022年3月,,3458.94,,photos/7944_ローランド/current/photo_01.jpg,True
-7944,ローランド,地位,current,2022年3月,,3458.94,,photos/7944_ローランド/current/photo_02.jpg,True
-7944,ローランド,地位,current,2022年3月,,3458.94,,photos/7944_ローランド/current/photo_03.jpg,True
-7944,ローランド,地位,current,2022年3月,,3458.94,,photos/7944_ローランド/current/photo_04.jpg,True
-7944,ローランド,地位,current,2022年3月,,3458.94,,photos/7944_ローランド/current/photo_05.jpg,True
-7988,ニフコ,柴尾　雅春,current,2025年06月,,3383.87,,photos/7988_ニフコ/current/photo_01.jpg,True
-7988,ニフコ,柴尾　雅春,current,2025年06月,,3383.87,,photos/7988_ニフコ/current/photo_02.jpg,True
-7988,ニフコ,柴尾　雅春,current,2025年06月,,3383.87,,photos/7988_ニフコ/current/photo_03.jpg,True
-7988,ニフコ,柴尾　雅春,current,2025年06月,,3383.87,,photos/7988_ニフコ/current/photo_04.jpg,True
-7988,ニフコ,柴尾　雅春,current,2025年06月,,3383.87,,photos/7988_ニフコ/current/photo_05.jpg,True
-7989,立川ブラインド工業,当社,current,,,,,photos/7989_立川ブラインド工業/current/photo_01.jpg,True
-7989,立川ブラインド工業,当社,current,,,,,photos/7989_立川ブラインド工業/current/photo_02.jpg,True
-7989,立川ブラインド工業,当社,current,,,,,photos/7989_立川ブラインド工業/current/photo_03.jpg,True
-7985,ネポン,福田 晴久,current,,,,,photos/7985_ネポン/current/photo_01.jpg,True
-7990,グローブライド,自然志向,current,,,,,photos/7990_グローブライド/current/photo_01.jpg,True
-7990,グローブライド,自然志向,current,,,,,photos/7990_グローブライド/current/photo_02.jpg,True
-7994,オカムラ,,current,,,,,photos/7994_オカムラ/current/photo_01.jpg,True
+当社",current,,,,,photos/7949_小松ウオール工業/current/photo_01.jpg,False
+7952,河合楽器製作所,部長 兼,current,,,,,photos/7952_河合楽器製作所/current/photo_01.jpg,False
+7952,河合楽器製作所,部長 兼,current,,,,,photos/7952_河合楽器製作所/current/photo_02.jpg,False
+7952,河合楽器製作所,部長 兼,current,,,,,photos/7952_河合楽器製作所/current/photo_03.jpg,False
+7952,河合楽器製作所,部長 兼,current,,,,,photos/7952_河合楽器製作所/current/photo_04.jpg,False
+7952,河合楽器製作所,部長 兼,current,,,,,photos/7952_河合楽器製作所/current/photo_05.jpg,False
+7956,ピジョン,,current,,,,,photos/7956_ピジョン/current/photo_01.jpg,False
+7917,ZACROS,下田拓,current,,,,,photos/7917_ZACROS/current/photo_01.jpg,False
+7962,キングジム,木村 美代子,current,,,,,photos/7962_キングジム/current/photo_01.jpg,False
+7965,象印マホービン,,current,,,,,photos/7965_象印マホービン/current/photo_01.jpg,False
+7957,フジコピアン,木 敏樹,current,,,,,photos/7957_フジコピアン/current/photo_01.jpg,False
+7971,東リ,,current,2019年12月,,238.7,,photos/7971_東リ/current/photo_01.jpg,False
+7981,タカラスタンダード,会長 渡辺岳,current,,,,,photos/7981_タカラスタンダード/current/photo_01.jpg,False
+7983,ミロク,明治,current,,,,,photos/7983_ミロク/current/photo_01.jpg,False
+7983,ミロク,明治,current,,,,,photos/7983_ミロク/current/photo_02.jpg,False
+7944,ローランド,地位,current,2022年3月,,3458.94,,photos/7944_ローランド/current/photo_01.jpg,False
+7944,ローランド,地位,current,2022年3月,,3458.94,,photos/7944_ローランド/current/photo_02.jpg,False
+7944,ローランド,地位,current,2022年3月,,3458.94,,photos/7944_ローランド/current/photo_03.jpg,False
+7944,ローランド,地位,current,2022年3月,,3458.94,,photos/7944_ローランド/current/photo_04.jpg,False
+7944,ローランド,地位,current,2022年3月,,3458.94,,photos/7944_ローランド/current/photo_05.jpg,False
+7988,ニフコ,柴尾　雅春,current,2025年06月,,3383.87,,photos/7988_ニフコ/current/photo_01.jpg,False
+7988,ニフコ,柴尾　雅春,current,2025年06月,,3383.87,,photos/7988_ニフコ/current/photo_02.jpg,False
+7988,ニフコ,柴尾　雅春,current,2025年06月,,3383.87,,photos/7988_ニフコ/current/photo_03.jpg,False
+7988,ニフコ,柴尾　雅春,current,2025年06月,,3383.87,,photos/7988_ニフコ/current/photo_04.jpg,False
+7988,ニフコ,柴尾　雅春,current,2025年06月,,3383.87,,photos/7988_ニフコ/current/photo_05.jpg,False
+7989,立川ブラインド工業,当社,current,,,,,photos/7989_立川ブラインド工業/current/photo_01.jpg,False
+7989,立川ブラインド工業,当社,current,,,,,photos/7989_立川ブラインド工業/current/photo_02.jpg,False
+7989,立川ブラインド工業,当社,current,,,,,photos/7989_立川ブラインド工業/current/photo_03.jpg,False
+7985,ネポン,福田 晴久,current,,,,,photos/7985_ネポン/current/photo_01.jpg,False
+7990,グローブライド,自然志向,current,,,,,photos/7990_グローブライド/current/photo_01.jpg,False
+7990,グローブライド,自然志向,current,,,,,photos/7990_グローブライド/current/photo_02.jpg,False
+7994,オカムラ,,current,,,,,photos/7994_オカムラ/current/photo_01.jpg,False
+7997,くろがね工作所,作所 田中,current,,,,,photos/7997_くろがね工作所/current/photo_01.jpg,True
+7999,MUTOHホールディングス,,current,,,,,photos/7999_MUTOHホールディングス/current/photo_01.jpg,True
+8006,ユアサ・フナショク,,current,,,,,photos/8006_ユアサ・フナショク/current/photo_01.jpg,True
+7995,バルカー,"役職
+氏名",current,2025年6月,,2863.12,,photos/7995_バルカー/current/photo_01.jpg,True
+8005,スクロール,"日生
+
+略歴",current,2012年4月,,196.71,,photos/8005_スクロール/current/photo_01.jpg,True
+8005,スクロール,"日生
+
+略歴",current,2012年4月,,196.71,,photos/8005_スクロール/current/photo_02.jpg,True
+8012,長瀬産業,上島宏之,current,2023年11月,,2169.42,,photos/8012_長瀬産業/current/photo_01.jpg,True
+8014,蝶理,迫田　竜之,current,2024年4月,,3164.85,,photos/8014_蝶理/current/photo_01.jpg,True
+8014,蝶理,迫田　竜之,current,2024年4月,,3164.85,,photos/8014_蝶理/current/photo_02.jpg,True
+8016,オンワードホールディングス,,current,2024年4月,,496.37,,photos/8016_オンワードホールディングス/current/photo_01.jpg,True
+8015,豊田通商,貸谷　伊知郎,current,2005年4月,,344.24,,photos/8015_豊田通商/current/photo_01.jpg,True
+8022,美津濃,世界,current,,,,,photos/8022_美津濃/current/photo_01.jpg,True
+8022,美津濃,世界,current,,,,,photos/8022_美津濃/current/photo_02.jpg,True
+8029,ルックホールディングス,"月
+株",current,2025年3月,,2192.26,,photos/8029_ルックホールディングス/current/photo_01.jpg,True
+8023,DAIKO　XTECH,松山 晃一郎,current,2004年4月,,175.68,,photos/8023_DAIKO_XTECH/current/photo_01.jpg,True
+8023,DAIKO　XTECH,松山 晃一郎,current,2004年4月,,175.68,,photos/8023_DAIKO_XTECH/current/photo_02.jpg,True
+8023,DAIKO　XTECH,松山 晃一郎,current,2004年4月,,175.68,,photos/8023_DAIKO_XTECH/current/photo_03.jpg,True
+8023,DAIKO　XTECH,松山 晃一郎,current,2004年4月,,175.68,,photos/8023_DAIKO_XTECH/current/photo_04.jpg,True
+8023,DAIKO　XTECH,松山 晃一郎,current,2004年4月,,175.68,,photos/8023_DAIKO_XTECH/current/photo_05.jpg,True
+8018,三共生興,上 明,current,2025年3月,,601.62,,photos/8018_三共生興/current/photo_01.jpg,True
+8031,三井物産,"月
+ 堀",current,2025年4月,,2917.63,,photos/8031_三井物産/current/photo_01.jpg,True
+8020,兼松,宮部　佳也,current,,,,,photos/8020_兼松/current/photo_01.jpg,True
+8035,東京エレクトロン,平素,current,,,,,photos/8035_東京エレクトロン/current/photo_01.jpg,True
+8040,東京ソワール,"方針
+東京",current,2024年3月,,777.42,,photos/8040_東京ソワール/current/photo_01.jpg,True
+8040,東京ソワール,"方針
+東京",current,2024年3月,,777.42,,photos/8040_東京ソワール/current/photo_02.jpg,True
+8043,スターゼン,感動体験,current,2024年4月,,902.93,,photos/8043_スターゼン/current/photo_01.jpg,True
+8043,スターゼン,感動体験,current,2024年4月,,902.93,,photos/8043_スターゼン/current/photo_02.jpg,True
+8050,セイコーグループ,"修司
+近年我",current,,,,,photos/8050_セイコーグループ/current/photo_01.jpg,True
+8051,山善,岸田　 貢司,current,,,,,photos/8051_山善/current/photo_01.jpg,True
+8052,椿本興業,香田 昌司,current,2025年5月,,2130.04,,photos/8052_椿本興業/current/photo_01.jpg,True
+8046,丸藤シートパイル,,current,2025年6月,,2866.0,,photos/8046_丸藤シートパイル/current/photo_01.jpg,True
+8045,横浜丸魚,横浜丸,current,2026年2月,,1611.0,,photos/8045_横浜丸魚/current/photo_01.jpg,True
+8045,横浜丸魚,横浜丸,current,2026年2月,,1611.0,,photos/8045_横浜丸魚/current/photo_02.jpg,True
+8045,横浜丸魚,横浜丸,current,2026年2月,,1611.0,,photos/8045_横浜丸魚/current/photo_03.jpg,True
+8045,横浜丸魚,横浜丸,current,2026年2月,,1611.0,,photos/8045_横浜丸魚/current/photo_04.jpg,True
+8045,横浜丸魚,横浜丸,current,2026年2月,,1611.0,,photos/8045_横浜丸魚/current/photo_05.jpg,True
+8056,BIPROGY,齊藤　昇,current,,,,,photos/8056_BIPROGY/current/photo_01.jpg,True
+8059,第一実業,船渡 雄司,current,,,,,photos/8059_第一実業/current/photo_01.jpg,True
+8061,西華産業,,current,2005年4月,,260.82,,photos/8061_西華産業/current/photo_01.jpg,True
+8074,ユアサ商事,田村　博之,current,2023年4月,,3313.25,,photos/8074_ユアサ商事/current/photo_01.jpg,True
+8075,神鋼商事,明日,current,,,,,photos/8075_神鋼商事/current/photo_01.jpg,True
+8053,住友商事,上野 真吾,current,2024年5月,,3571.19,,photos/8053_住友商事/current/photo_01.jpg,True
+8076,カノークス,"方針
+当社",current,2015年4月,,,,photos/8076_カノークス/current/photo_01.jpg,True
+8081,カナデン,守屋　太,current,2025年10月,,2042.88,,photos/8081_カナデン/current/photo_01.jpg,True
+8070,東京産業,,current,,,,,photos/8070_東京産業/current/photo_01.jpg,True
+8070,東京産業,,current,,,,,photos/8070_東京産業/current/photo_02.jpg,True
+8070,東京産業,,current,,,,,photos/8070_東京産業/current/photo_03.jpg,True
+8070,東京産業,,current,,,,,photos/8070_東京産業/current/photo_04.jpg,True
+8070,東京産業,,current,,,,,photos/8070_東京産業/current/photo_05.jpg,True
+8085,ナラサキ産業,兼 中村,current,,,,,photos/8085_ナラサキ産業/current/photo_01.jpg,True
+8089,ナイス,演会　第二部,current,,,,,photos/8089_ナイス/current/photo_01.jpg,True
+8089,ナイス,演会　第二部,current,,,,,photos/8089_ナイス/current/photo_02.jpg,True
+8095,アステナホールディングス,戸口 智,current,,,,,photos/8095_アステナホールディングス/current/photo_01.jpg,True
+8101,GSIクレオス,,current,,,,,photos/8101_GSIクレオス/current/photo_01.jpg,True
+8101,GSIクレオス,,current,,,,,photos/8101_GSIクレオス/current/photo_02.jpg,True
+8101,GSIクレオス,,current,,,,,photos/8101_GSIクレオス/current/photo_03.jpg,True
+8101,GSIクレオス,,current,,,,,photos/8101_GSIクレオス/current/photo_04.jpg,True
+8113,ユニ・チャーム,,current,2026年02月,,931.0,,photos/8113_ユニ・チャーム/current/photo_01.jpg,True
+8113,ユニ・チャーム,,current,2026年02月,,931.0,,photos/8113_ユニ・チャーム/current/photo_02.jpg,True
+8113,ユニ・チャーム,,current,2026年02月,,931.0,,photos/8113_ユニ・チャーム/current/photo_03.jpg,True
+8113,ユニ・チャーム,,current,2026年02月,,931.0,,photos/8113_ユニ・チャーム/current/photo_04.jpg,True
+8113,ユニ・チャーム,,current,2026年02月,,931.0,,photos/8113_ユニ・チャーム/current/photo_05.jpg,True
+8111,ゴールドウイン,自然,current,2024年5月,,2941.34,,photos/8111_ゴールドウイン/current/photo_01.jpg,True
+8111,ゴールドウイン,自然,current,2024年5月,,2941.34,,photos/8111_ゴールドウイン/current/photo_02.jpg,True
+8119,三栄コーポレーション,"月
+株",current,2026年3月,,,,photos/8119_三栄コーポレーション/current/photo_01.jpg,True
+8098,稲畑産業,,current,2000年7月,,,,photos/8098_稲畑産業/current/photo_01.jpg,True
+8098,稲畑産業,"情報
+新",prev_1,2025年3月,2015年8月,3019.13,885.17,,False
+8098,稲畑産業,稲畑 勝太郎,prev_2,2025年3月,2015年8月,3019.13,885.17,,False
+8098,稲畑産業,当社 代表取,prev_3,2025年3月,2015年8月,3019.13,885.17,,False
+8098,稲畑産業,月	同社,prev_4,2025年3月,2015年8月,3019.13,885.17,,False
+8098,稲畑産業,藤田 裕治,prev_5,2005年12月08日,平成07年06月,573.36,,,False
+8115,ムーンバット,,current,,,,,photos/8115_ムーンバット/current/photo_01.jpg,True
+8115,ムーンバット,,current,,,,,photos/8115_ムーンバット/current/photo_02.jpg,True
+8127,ヤマトインターナショナル,盤若　智基,current,,,,,photos/8127_ヤマトインターナショナル/current/photo_01.jpg,True
+8131,ミツウロコグループホールディングス,田島 晃平,current,,,,,photos/8131_ミツウロコグループホールディングス/current/photo_01.jpg,True
+8132,シナネンホールディングス,家庭向,current,2024年12月,,6211.96,,photos/8132_シナネンホールディングス/current/photo_01.jpg,True
+8132,シナネンホールディングス,家庭向,current,2024年12月,,6211.96,,photos/8132_シナネンホールディングス/current/photo_02.jpg,True
+8135,ゼット,当社,current,,,,,photos/8135_ゼット/current/photo_01.jpg,True
+8133,伊藤忠エネクス,田畑　信幸,current,2025年6月,,1605.38,,photos/8133_伊藤忠エネクス/current/photo_01.jpg,True
+8133,伊藤忠エネクス,田畑　信幸,current,2025年6月,,1605.38,,photos/8133_伊藤忠エネクス/current/photo_02.jpg,True
+8133,伊藤忠エネクス,田畑　信幸,current,2025年6月,,1605.38,,photos/8133_伊藤忠エネクス/current/photo_03.jpg,True
+8133,伊藤忠エネクス,田畑　信幸,current,2025年6月,,1605.38,,photos/8133_伊藤忠エネクス/current/photo_04.jpg,True
+8138,三京化成,小川 和夫,current,,,,,photos/8138_三京化成/current/photo_01.jpg,True
+8138,三京化成,小川 和夫,current,,,,,photos/8138_三京化成/current/photo_02.jpg,True
+8142,トーホー,奥野 邦治,current,2025年4月,,1117.56,,photos/8142_トーホー/current/photo_01.jpg,True
+8141,新光商事,日本語,current,,,,,photos/8141_新光商事/current/photo_01.jpg,True
+8151,東陽テクニカ,,current,2025年9月,,1548.6,,photos/8151_東陽テクニカ/current/photo_01.jpg,True
+8151,東陽テクニカ,,current,2025年9月,,1548.6,,photos/8151_東陽テクニカ/current/photo_02.jpg,True
+8151,東陽テクニカ,,current,2025年9月,,1548.6,,photos/8151_東陽テクニカ/current/photo_03.jpg,True
+8151,東陽テクニカ,,current,2025年9月,,1548.6,,photos/8151_東陽テクニカ/current/photo_04.jpg,True
+8151,東陽テクニカ,,current,2025年9月,,1548.6,,photos/8151_東陽テクニカ/current/photo_05.jpg,True
+8153,モスフードサービス,"値観
+創業者",current,,,,,photos/8153_モスフードサービス/current/photo_01.jpg,True
+8157,都築電気,,current,,,,,photos/8157_都築電気/current/photo_01.jpg,True
+8158,ソーダニッカ,社会,current,,,,,photos/8158_ソーダニッカ/current/photo_01.jpg,True
+8159,立花エレテック,布山 尚,current,2021年9月,,1216.34,,photos/8159_立花エレテック/current/photo_01.jpg,True

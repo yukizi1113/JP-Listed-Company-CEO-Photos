@@ -1,0 +1,21 @@
+{
+  "name": "年当社",
+  "title": "代表取締役社長",
+  "appointment_info": "2019年3月",
+  "source_url": "https://www.ichigo.gr.jp/company/management.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2019-03-01",
+    "open_on_date": 326.53,
+    "close_on_date": 329.08,
+    "high_on_date": 330.77,
+    "low_on_date": 323.99,
+    "trading_date": "2019-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 326.53
+}

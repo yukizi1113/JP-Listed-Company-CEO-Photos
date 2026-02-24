@@ -1,0 +1,22 @@
+{
+  "name": "締役　大島正",
+  "title": "代表取締役社長",
+  "appointment_info": "2024年2月",
+  "source_url": "https://www.forside.co.jp/message/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2024-02-01",
+    "open_on_date": 75.0,
+    "close_on_date": 75.0,
+    "high_on_date": 76.0,
+    "low_on_date": 71.0,
+    "trading_date": "2024-01-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 75.0
+}

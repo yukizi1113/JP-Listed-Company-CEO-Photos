@@ -1,0 +1,23 @@
+{
+  "name": "社名\n株",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年3月",
+  "source_url": "https://www.cedar-group.co.jp/company/overview/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg"
+  ],
+  "photo_count": 3,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 216.11,
+    "close_on_date": 218.03,
+    "high_on_date": 221.87,
+    "low_on_date": 215.15,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 216.11
+}

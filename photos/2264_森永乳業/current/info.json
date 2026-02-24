@@ -1,0 +1,22 @@
+{
+  "name": "変化",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年5月",
+  "source_url": "https://www.morinagamilk.co.jp/sustainability/topmessage/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-05-01",
+    "open_on_date": 3436.55,
+    "close_on_date": 3498.76,
+    "high_on_date": 3528.39,
+    "low_on_date": 3436.55,
+    "trading_date": "2025-04-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 3436.55
+}

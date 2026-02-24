@@ -533,87 +533,151 @@
 3426,アトムリビンテック,引戸,current,令和3年4月,,1422.53,,photos/3426_アトムリビンテック/current/photo_01.jpg,False
 3426,アトムリビンテック,引戸,current,令和3年4月,,1422.53,,photos/3426_アトムリビンテック/current/photo_02.jpg,False
 3440,日創プロニティ,石田 徹,current,2025年8月,,1008.03,,photos/3440_日創プロニティ/current/photo_01.jpg,False
-3465,ケイアイスター不動産,塙 圭二,current,,,,,photos/3465_ケイアイスター不動産/current/photo_01.jpg,True
-3474,G-FACTORY,片平 雅之,current,,,,,photos/3474_G-FACTORY/current/photo_01.jpg,True
-3446,ジェイテックコーポレーション,津村 尚史,current,2021年5月,,2910.0,,photos/3446_ジェイテックコーポレーション/current/photo_01.jpg,True
-3446,ジェイテックコーポレーション,津村 尚史,current,2021年5月,,2910.0,,photos/3446_ジェイテックコーポレーション/current/photo_02.jpg,True
-3446,ジェイテックコーポレーション,津村 尚史,current,2021年5月,,2910.0,,photos/3446_ジェイテックコーポレーション/current/photo_03.jpg,True
-3446,ジェイテックコーポレーション,津村 尚史,current,2021年5月,,2910.0,,photos/3446_ジェイテックコーポレーション/current/photo_04.jpg,True
-3479,ティーケーピー,河野 貴輝,current,2005年8月,,,,photos/3479_ティーケーピー/current/photo_01.jpg,True
-3479,ティーケーピー,河野 貴輝,current,2005年8月,,,,photos/3479_ティーケーピー/current/photo_02.jpg,True
-3479,ティーケーピー,河野 貴輝,current,2005年8月,,,,photos/3479_ティーケーピー/current/photo_03.jpg,True
-3479,ティーケーピー,河野 貴輝,current,2005年8月,,,,photos/3479_ティーケーピー/current/photo_04.jpg,True
-3479,ティーケーピー,河野 貴輝,current,2005年8月,,,,photos/3479_ティーケーピー/current/photo_05.jpg,True
-3480,ジェイ・エス・ビー,森 高広,current,,,,,photos/3480_ジェイ・エス・ビー/current/photo_01.jpg,True
-3482,ロードスターキャピタル,月期　決算説,current,2026年2月,,3090.0,,photos/3482_ロードスターキャピタル/current/photo_01.jpg,True
-3482,ロードスターキャピタル,月期　決算説,current,2026年2月,,3090.0,,photos/3482_ロードスターキャピタル/current/photo_02.jpg,True
-3482,ロードスターキャピタル,月期　決算説,current,2026年2月,,3090.0,,photos/3482_ロードスターキャピタル/current/photo_03.jpg,True
-3484,イノベーションホールディングス,,current,2005年11月,,,,photos/3484_イノベーションホールディングス/current/photo_01.jpg,True
-3484,イノベーションホールディングス,,current,2005年11月,,,,photos/3484_イノベーションホールディングス/current/photo_02.jpg,True
+3465,ケイアイスター不動産,塙 圭二,current,,,,,photos/3465_ケイアイスター不動産/current/photo_01.jpg,False
+3474,G-FACTORY,片平 雅之,current,,,,,photos/3474_G-FACTORY/current/photo_01.jpg,False
+3446,ジェイテックコーポレーション,津村 尚史,current,2021年5月,,2910.0,,photos/3446_ジェイテックコーポレーション/current/photo_01.jpg,False
+3446,ジェイテックコーポレーション,津村 尚史,current,2021年5月,,2910.0,,photos/3446_ジェイテックコーポレーション/current/photo_02.jpg,False
+3446,ジェイテックコーポレーション,津村 尚史,current,2021年5月,,2910.0,,photos/3446_ジェイテックコーポレーション/current/photo_03.jpg,False
+3446,ジェイテックコーポレーション,津村 尚史,current,2021年5月,,2910.0,,photos/3446_ジェイテックコーポレーション/current/photo_04.jpg,False
+3479,ティーケーピー,河野 貴輝,current,2005年8月,,,,photos/3479_ティーケーピー/current/photo_01.jpg,False
+3479,ティーケーピー,河野 貴輝,current,2005年8月,,,,photos/3479_ティーケーピー/current/photo_02.jpg,False
+3479,ティーケーピー,河野 貴輝,current,2005年8月,,,,photos/3479_ティーケーピー/current/photo_03.jpg,False
+3479,ティーケーピー,河野 貴輝,current,2005年8月,,,,photos/3479_ティーケーピー/current/photo_04.jpg,False
+3479,ティーケーピー,河野 貴輝,current,2005年8月,,,,photos/3479_ティーケーピー/current/photo_05.jpg,False
+3480,ジェイ・エス・ビー,森 高広,current,,,,,photos/3480_ジェイ・エス・ビー/current/photo_01.jpg,False
+3482,ロードスターキャピタル,月期　決算説,current,2026年2月,,3090.0,,photos/3482_ロードスターキャピタル/current/photo_01.jpg,False
+3482,ロードスターキャピタル,月期　決算説,current,2026年2月,,3090.0,,photos/3482_ロードスターキャピタル/current/photo_02.jpg,False
+3482,ロードスターキャピタル,月期　決算説,current,2026年2月,,3090.0,,photos/3482_ロードスターキャピタル/current/photo_03.jpg,False
+3484,イノベーションホールディングス,,current,2005年11月,,,,photos/3484_イノベーションホールディングス/current/photo_01.jpg,False
+3484,イノベーションホールディングス,,current,2005年11月,,,,photos/3484_イノベーションホールディングス/current/photo_02.jpg,False
 3467,アグレ都市デザイン,"挨拶
 
-理想的",current,,,,,photos/3467_アグレ都市デザイン/current/photo_01.jpg,True
+理想的",current,,,,,photos/3467_アグレ都市デザイン/current/photo_01.jpg,False
 3467,アグレ都市デザイン,"挨拶
 
-理想的",current,,,,,photos/3467_アグレ都市デザイン/current/photo_02.jpg,True
-3469,デュアルタップ,臼井 貴弘,current,2006年8月,,,,photos/3469_デュアルタップ/current/photo_01.jpg,True
-3486,グローバル・リンク・マネジメント,金 大仲,current,2025年7月,,2030.16,,photos/3486_グローバル・リンク・マネジメント/current/photo_01.jpg,True
-3486,グローバル・リンク・マネジメント,金 大仲,current,2025年7月,,2030.16,,photos/3486_グローバル・リンク・マネジメント/current/photo_02.jpg,True
-3486,グローバル・リンク・マネジメント,金 大仲,current,2025年7月,,2030.16,,photos/3486_グローバル・リンク・マネジメント/current/photo_03.jpg,True
-3486,グローバル・リンク・マネジメント,金 大仲,current,2025年7月,,2030.16,,photos/3486_グローバル・リンク・マネジメント/current/photo_04.jpg,True
-3486,グローバル・リンク・マネジメント,金 大仲,current,2025年7月,,2030.16,,photos/3486_グローバル・リンク・マネジメント/current/photo_05.jpg,True
-3494,マリオン,,current,,,,,photos/3494_マリオン/current/photo_01.jpg,True
-3490,アズ企画設計,松本 俊人,current,2022年12月,,1216.56,,photos/3490_アズ企画設計/current/photo_01.jpg,True
-3475,グッドコムアセット,長嶋　義和,current,,,,,photos/3475_グッドコムアセット/current/photo_01.jpg,True
-3513,イチカワ,矢崎 孝信,current,,,,,photos/3513_イチカワ/current/photo_01.jpg,True
-3512,日本フエルト,,current,,,,,photos/3512_日本フエルト/current/photo_01.jpg,True
-3529,アツギ,日光 信二,current,,,,,photos/3529_アツギ/current/photo_01.jpg,True
-3542,ベガコーポレーション,浮城 智和,current,,,,,photos/3542_ベガコーポレーション/current/photo_01.jpg,True
-3542,ベガコーポレーション,浮城 智和,current,,,,,photos/3542_ベガコーポレーション/current/photo_02.jpg,True
-3542,ベガコーポレーション,浮城 智和,current,,,,,photos/3542_ベガコーポレーション/current/photo_03.jpg,True
-3542,ベガコーポレーション,浮城 智和,current,,,,,photos/3542_ベガコーポレーション/current/photo_04.jpg,True
-3542,ベガコーポレーション,浮城 智和,current,,,,,photos/3542_ベガコーポレーション/current/photo_05.jpg,True
-3543,コメダホールディングス,甘利祐一,current,2006年7月,,,,photos/3543_コメダホールディングス/current/photo_01.jpg,True
-3544,サツドラホールディングス,富山 浩樹,current,,,,,photos/3544_サツドラホールディングス/current/photo_01.jpg,True
-3559,ピーバンドットコム,,current,2023年6月,,474.35,,photos/3559_ピーバンドットコム/current/photo_01.jpg,True
-3559,ピーバンドットコム,,current,2023年6月,,474.35,,photos/3559_ピーバンドットコム/current/photo_02.jpg,True
-3559,ピーバンドットコム,,current,2023年6月,,474.35,,photos/3559_ピーバンドットコム/current/photo_03.jpg,True
-3559,ピーバンドットコム,,current,2023年6月,,474.35,,photos/3559_ピーバンドットコム/current/photo_04.jpg,True
-3559,ピーバンドットコム,,current,2023年6月,,474.35,,photos/3559_ピーバンドットコム/current/photo_05.jpg,True
-3562,No.1,辰巳　崇之,current,,,,,photos/3562_No_1/current/photo_01.jpg,True
-3562,No.1,辰巳　崇之,current,,,,,photos/3562_No_1/current/photo_02.jpg,True
-3562,No.1,辰巳　崇之,current,,,,,photos/3562_No_1/current/photo_03.jpg,True
-3562,No.1,辰巳　崇之,current,,,,,photos/3562_No_1/current/photo_04.jpg,True
-3562,No.1,辰巳　崇之,current,,,,,photos/3562_No_1/current/photo_05.jpg,True
-3563,FOOD　&　LIFE　COMPANIES,山本 雅啓,current,,,,,photos/3563_FOOD___LIFE_COMPANIES/current/photo_01.jpg,True
-3563,FOOD　&　LIFE　COMPANIES,山本 雅啓,current,,,,,photos/3563_FOOD___LIFE_COMPANIES/current/photo_02.jpg,True
-3571,ソトー,上田 康彦,current,,,,,photos/3571_ソトー/current/photo_01.jpg,True
-3571,ソトー,上田 康彦,current,,,,,photos/3571_ソトー/current/photo_02.jpg,True
-3571,ソトー,上田 康彦,current,,,,,photos/3571_ソトー/current/photo_03.jpg,True
-3571,ソトー,上田 康彦,current,,,,,photos/3571_ソトー/current/photo_04.jpg,True
-3571,ソトー,上田 康彦,current,,,,,photos/3571_ソトー/current/photo_05.jpg,True
-3608,TSIホールディングス,下地 毅,current,,,,,photos/3608_TSIホールディングス/current/photo_01.jpg,True
+理想的",current,,,,,photos/3467_アグレ都市デザイン/current/photo_02.jpg,False
+3469,デュアルタップ,臼井 貴弘,current,2006年8月,,,,photos/3469_デュアルタップ/current/photo_01.jpg,False
+3486,グローバル・リンク・マネジメント,金 大仲,current,2025年7月,,2030.16,,photos/3486_グローバル・リンク・マネジメント/current/photo_01.jpg,False
+3486,グローバル・リンク・マネジメント,金 大仲,current,2025年7月,,2030.16,,photos/3486_グローバル・リンク・マネジメント/current/photo_02.jpg,False
+3486,グローバル・リンク・マネジメント,金 大仲,current,2025年7月,,2030.16,,photos/3486_グローバル・リンク・マネジメント/current/photo_03.jpg,False
+3486,グローバル・リンク・マネジメント,金 大仲,current,2025年7月,,2030.16,,photos/3486_グローバル・リンク・マネジメント/current/photo_04.jpg,False
+3486,グローバル・リンク・マネジメント,金 大仲,current,2025年7月,,2030.16,,photos/3486_グローバル・リンク・マネジメント/current/photo_05.jpg,False
+3494,マリオン,,current,,,,,photos/3494_マリオン/current/photo_01.jpg,False
+3490,アズ企画設計,松本 俊人,current,2022年12月,,1216.56,,photos/3490_アズ企画設計/current/photo_01.jpg,False
+3475,グッドコムアセット,長嶋　義和,current,,,,,photos/3475_グッドコムアセット/current/photo_01.jpg,False
+3513,イチカワ,矢崎 孝信,current,,,,,photos/3513_イチカワ/current/photo_01.jpg,False
+3512,日本フエルト,,current,,,,,photos/3512_日本フエルト/current/photo_01.jpg,False
+3529,アツギ,日光 信二,current,,,,,photos/3529_アツギ/current/photo_01.jpg,False
+3542,ベガコーポレーション,浮城 智和,current,,,,,photos/3542_ベガコーポレーション/current/photo_01.jpg,False
+3542,ベガコーポレーション,浮城 智和,current,,,,,photos/3542_ベガコーポレーション/current/photo_02.jpg,False
+3542,ベガコーポレーション,浮城 智和,current,,,,,photos/3542_ベガコーポレーション/current/photo_03.jpg,False
+3542,ベガコーポレーション,浮城 智和,current,,,,,photos/3542_ベガコーポレーション/current/photo_04.jpg,False
+3542,ベガコーポレーション,浮城 智和,current,,,,,photos/3542_ベガコーポレーション/current/photo_05.jpg,False
+3543,コメダホールディングス,甘利祐一,current,2006年7月,,,,photos/3543_コメダホールディングス/current/photo_01.jpg,False
+3544,サツドラホールディングス,富山 浩樹,current,,,,,photos/3544_サツドラホールディングス/current/photo_01.jpg,False
+3559,ピーバンドットコム,,current,2023年6月,,474.35,,photos/3559_ピーバンドットコム/current/photo_01.jpg,False
+3559,ピーバンドットコム,,current,2023年6月,,474.35,,photos/3559_ピーバンドットコム/current/photo_02.jpg,False
+3559,ピーバンドットコム,,current,2023年6月,,474.35,,photos/3559_ピーバンドットコム/current/photo_03.jpg,False
+3559,ピーバンドットコム,,current,2023年6月,,474.35,,photos/3559_ピーバンドットコム/current/photo_04.jpg,False
+3559,ピーバンドットコム,,current,2023年6月,,474.35,,photos/3559_ピーバンドットコム/current/photo_05.jpg,False
+3562,No.1,辰巳　崇之,current,,,,,photos/3562_No_1/current/photo_01.jpg,False
+3562,No.1,辰巳　崇之,current,,,,,photos/3562_No_1/current/photo_02.jpg,False
+3562,No.1,辰巳　崇之,current,,,,,photos/3562_No_1/current/photo_03.jpg,False
+3562,No.1,辰巳　崇之,current,,,,,photos/3562_No_1/current/photo_04.jpg,False
+3562,No.1,辰巳　崇之,current,,,,,photos/3562_No_1/current/photo_05.jpg,False
+3563,FOOD　&　LIFE　COMPANIES,山本 雅啓,current,,,,,photos/3563_FOOD___LIFE_COMPANIES/current/photo_01.jpg,False
+3563,FOOD　&　LIFE　COMPANIES,山本 雅啓,current,,,,,photos/3563_FOOD___LIFE_COMPANIES/current/photo_02.jpg,False
+3571,ソトー,上田 康彦,current,,,,,photos/3571_ソトー/current/photo_01.jpg,False
+3571,ソトー,上田 康彦,current,,,,,photos/3571_ソトー/current/photo_02.jpg,False
+3571,ソトー,上田 康彦,current,,,,,photos/3571_ソトー/current/photo_03.jpg,False
+3571,ソトー,上田 康彦,current,,,,,photos/3571_ソトー/current/photo_04.jpg,False
+3571,ソトー,上田 康彦,current,,,,,photos/3571_ソトー/current/photo_05.jpg,False
+3608,TSIホールディングス,下地 毅,current,,,,,photos/3608_TSIホールディングス/current/photo_01.jpg,False
 3611,マツオカコーポレーション,"締役
-松岡",current,2000年6月,,,,photos/3611_マツオカコーポレーション/current/photo_01.jpg,True
-3622,ネットイヤーグループ,生成,current,2024年6月,,540.84,,photos/3622_ネットイヤーグループ/current/photo_01.jpg,True
-3622,ネットイヤーグループ,生成,current,2024年6月,,540.84,,photos/3622_ネットイヤーグループ/current/photo_02.jpg,True
+松岡",current,2000年6月,,,,photos/3611_マツオカコーポレーション/current/photo_01.jpg,False
+3622,ネットイヤーグループ,生成,current,2024年6月,,540.84,,photos/3622_ネットイヤーグループ/current/photo_01.jpg,False
+3622,ネットイヤーグループ,生成,current,2024年6月,,540.84,,photos/3622_ネットイヤーグループ/current/photo_02.jpg,False
 3591,ワコールホールディングス,"年
 株式会",prev_1,2023年02月28日,2023年2月24日,2164.6,2107.0,,False
 3591,ワコールホールディングス,"日
 株式会",prev_2,2023年02月28日,,2164.6,,,False
-3612,ワールド,鈴木 信輝,current,,,,,photos/3612_ワールド/current/photo_01.jpg,True
-3627,テクミラホールディングス,,current,,,,,photos/3627_テクミラホールディングス/current/photo_01.jpg,True
-3632,グリーホールディングス,田中 良和,current,2000年2月,,,,photos/3632_グリーホールディングス/current/photo_01.jpg,True
-3633,GMOペパボ,,current,,,,,photos/3633_GMOペパボ/current/photo_01.jpg,True
+3612,ワールド,鈴木 信輝,current,,,,,photos/3612_ワールド/current/photo_01.jpg,False
+3627,テクミラホールディングス,,current,,,,,photos/3627_テクミラホールディングス/current/photo_01.jpg,False
+3632,グリーホールディングス,田中 良和,current,2000年2月,,,,photos/3632_グリーホールディングス/current/photo_01.jpg,False
+3633,GMOペパボ,,current,,,,,photos/3633_GMOペパボ/current/photo_01.jpg,False
 3626,TIS,"月
-株",current,2000年6月,,,,photos/3626_TIS/current/photo_01.jpg,True
-3648,AGS,中野　真治,current,,,,,photos/3648_AGS/current/photo_01.jpg,True
-3649,ファインデックス,,current,,,,,photos/3649_ファインデックス/current/photo_01.jpg,True
-3655,ブレインパッド,号 六本木,current,2004年3月,,,,photos/3655_ブレインパッド/current/photo_01.jpg,True
-3652,ディジタルメディアプロフェッショナル,山本 達夫,current,,,,,photos/3652_ディジタルメディアプロフェッショナル/current/photo_01.jpg,True
-3656,KLab,真田 哲弥,current,,,,,photos/3656_KLab/current/photo_01.jpg,True
-3660,アイスタイル,合同 美容部,current,,,,,photos/3660_アイスタイル/current/photo_01.jpg,True
-3660,アイスタイル,合同 美容部,current,,,,,photos/3660_アイスタイル/current/photo_02.jpg,True
-3660,アイスタイル,合同 美容部,current,,,,,photos/3660_アイスタイル/current/photo_03.jpg,True
-3660,アイスタイル,合同 美容部,current,,,,,photos/3660_アイスタイル/current/photo_04.jpg,True
-3660,アイスタイル,合同 美容部,current,,,,,photos/3660_アイスタイル/current/photo_05.jpg,True
+株",current,2000年6月,,,,photos/3626_TIS/current/photo_01.jpg,False
+3648,AGS,中野　真治,current,,,,,photos/3648_AGS/current/photo_01.jpg,False
+3649,ファインデックス,,current,,,,,photos/3649_ファインデックス/current/photo_01.jpg,False
+3655,ブレインパッド,号 六本木,current,2004年3月,,,,photos/3655_ブレインパッド/current/photo_01.jpg,False
+3652,ディジタルメディアプロフェッショナル,山本 達夫,current,,,,,photos/3652_ディジタルメディアプロフェッショナル/current/photo_01.jpg,False
+3656,KLab,真田 哲弥,current,,,,,photos/3656_KLab/current/photo_01.jpg,False
+3660,アイスタイル,合同 美容部,current,,,,,photos/3660_アイスタイル/current/photo_01.jpg,False
+3660,アイスタイル,合同 美容部,current,,,,,photos/3660_アイスタイル/current/photo_02.jpg,False
+3660,アイスタイル,合同 美容部,current,,,,,photos/3660_アイスタイル/current/photo_03.jpg,False
+3660,アイスタイル,合同 美容部,current,,,,,photos/3660_アイスタイル/current/photo_04.jpg,False
+3660,アイスタイル,合同 美容部,current,,,,,photos/3660_アイスタイル/current/photo_05.jpg,False
+3668,コロプラ,"会長
+馬場",current,2003年3月,,,,photos/3668_コロプラ/current/photo_01.jpg,True
+3671,ソフトマックス,萩原 千恵子,current,2025年12月,,330.63,,photos/3671_ソフトマックス/current/photo_01.jpg,True
+3675,クロス・マーケティンググループ,十嵐　幹,current,2025年8月,,700.67,,photos/3675_クロス・マーケティンググループ/current/photo_01.jpg,True
+3676,デジタルハーツホールディングス,筑紫 敏矢,current,,,,,photos/3676_デジタルハーツホールディングス/current/photo_01.jpg,True
+3682,エンカレッジ・テクノロジ,"挨拶
+
+私",current,2025年7月,,619.0,,photos/3682_エンカレッジ・テクノロジ/current/photo_01.jpg,True
+3679,じげん,平尾 丈,current,,,,,photos/3679_じげん/current/photo_01.jpg,True
+3679,じげん,平尾 丈,current,,,,,photos/3679_じげん/current/photo_02.jpg,True
+3679,じげん,平尾 丈,current,,,,,photos/3679_じげん/current/photo_03.jpg,True
+3679,じげん,平尾 丈,current,,,,,photos/3679_じげん/current/photo_04.jpg,True
+3679,じげん,平尾 丈,current,,,,,photos/3679_じげん/current/photo_05.jpg,True
+3687,フィックスターズ,三木 聡,current,2002年8月,,,,photos/3687_フィックスターズ/current/photo_01.jpg,True
+3687,フィックスターズ,三木 聡,current,2002年8月,,,,photos/3687_フィックスターズ/current/photo_02.jpg,True
+3687,フィックスターズ,三木 聡,current,2002年8月,,,,photos/3687_フィックスターズ/current/photo_03.jpg,True
+3681,ブイキューブ,間下 直晃,current,2013年12月,,1232.48,,photos/3681_ブイキューブ/current/photo_01.jpg,True
+3681,ブイキューブ,間下 直晃,current,2013年12月,,1232.48,,photos/3681_ブイキューブ/current/photo_02.jpg,True
+3681,ブイキューブ,間下 直晃,current,2013年12月,,1232.48,,photos/3681_ブイキューブ/current/photo_03.jpg,True
+3681,ブイキューブ,間下 直晃,current,2013年12月,,1232.48,,photos/3681_ブイキューブ/current/photo_04.jpg,True
+3681,ブイキューブ,間下 直晃,current,2013年12月,,1232.48,,photos/3681_ブイキューブ/current/photo_05.jpg,True
+3708,特種東海製紙,特種東海,current,,,,,photos/3708_特種東海製紙/current/photo_01.jpg,True
+3698,CRI・ミドルウェア,押見 正雄,current,,,,,photos/3698_CRI・ミドルウェア/current/photo_01.jpg,True
+3697,SHIFT,丹下 大,current,2005年9月,,,,photos/3697_SHIFT/current/photo_01.jpg,True
+3726,フォーシーズHD,,current,2003年12月,,3820.0,,photos/3726_フォーシーズHD/current/photo_01.jpg,True
+3727,アプリックス,倉林 聡子,current,2022年3月,,111.74,,photos/3727_アプリックス/current/photo_01.jpg,True
+3727,アプリックス,倉林 聡子,current,2022年3月,,111.74,,photos/3727_アプリックス/current/photo_02.jpg,True
+3733,ソフトウェア・サービス,日 組織改,current,2025年11月,,13815.74,,photos/3733_ソフトウェア・サービス/current/photo_01.jpg,True
+3744,サイオス,多様性,current,,,,,photos/3744_サイオス/current/photo_01.jpg,True
+3762,テクマトリックス,,current,,,,,photos/3762_テクマトリックス/current/photo_01.jpg,True
+3762,テクマトリックス,,current,,,,,photos/3762_テクマトリックス/current/photo_02.jpg,True
+3769,GMOペイメントゲートウェイ,相浦 一成,current,,,,,photos/3769_GMOペイメントゲートウェイ/current/photo_01.jpg,True
+3766,システムズ・デザイン,,current,,,,,photos/3766_システムズ・デザイン/current/photo_01.jpg,True
+3773,アドバンスト・メディア,鈴木 清幸,current,,,,,photos/3773_アドバンスト・メディア/current/photo_01.jpg,True
+3778,さくらインターネット,挨拶,current,,,,,photos/3778_さくらインターネット/current/photo_01.jpg,True
+3771,システムリサーチ,平山 宏,current,2021年3月,,807.85,,photos/3771_システムリサーチ/current/photo_01.jpg,True
+3798,ULSグループ,"未来
+
+創業以",current,,,,,photos/3798_ULSグループ/current/photo_01.jpg,True
+3798,ULSグループ,"未来
+
+創業以",current,,,,,photos/3798_ULSグループ/current/photo_02.jpg,True
+3796,いい生活,中村 清高,current,,,,,photos/3796_いい生活/current/photo_01.jpg,True
+3804,システム　ディ,堂山　遼,current,2024年4月,,1273.78,,photos/3804_システム_ディ/current/photo_01.jpg,True
+3800,ユニリタ,共感,current,,,,,photos/3800_ユニリタ/current/photo_01.jpg,True
+3816,大和コンピューター,中村　憲司,current,,,,,photos/3816_大和コンピューター/current/photo_01.jpg,True
+3817,SRAホールディングス,,current,,,,,photos/3817_SRAホールディングス/current/photo_01.jpg,True
+3844,コムチュア,"方
+当社",current,,,,,photos/3844_コムチュア/current/photo_01.jpg,True
+3844,コムチュア,"方
+当社",current,,,,,photos/3844_コムチュア/current/photo_02.jpg,True
+3826,システムインテグレータ,梅田　弘之,current,2026年2月,,497.0,,photos/3826_システムインテグレータ/current/photo_01.jpg,True
+3826,システムインテグレータ,梅田　弘之,current,2026年2月,,497.0,,photos/3826_システムインテグレータ/current/photo_02.jpg,True
+3845,アイフリークモバイル,吉田 邦臣,current,2000年4月,,,,photos/3845_アイフリークモバイル/current/photo_01.jpg,True
+3853,アステリア,平野 洋一郎,current,,,,,photos/3853_アステリア/current/photo_01.jpg,True
+3853,アステリア,平野 洋一郎,current,,,,,photos/3853_アステリア/current/photo_02.jpg,True
+3853,アステリア,平野 洋一郎,current,,,,,photos/3853_アステリア/current/photo_03.jpg,True
+3853,アステリア,平野 洋一郎,current,,,,,photos/3853_アステリア/current/photo_04.jpg,True
+3853,アステリア,平野 洋一郎,current,,,,,photos/3853_アステリア/current/photo_05.jpg,True
+3863,日本製紙,瀬邊　明,current,,,,,photos/3863_日本製紙/current/photo_01.jpg,True
+3861,王子ホールディングス,,current,,,,,photos/3861_王子ホールディングス/current/photo_01.jpg,True
+3864,三菱製紙,,current,,,,,photos/3864_三菱製紙/current/photo_01.jpg,True
+3877,中越パルプ工業,福本　亮治,current,,,,,photos/3877_中越パルプ工業/current/photo_01.jpg,True
+3880,大王製紙,価値創造,current,,,,,photos/3880_大王製紙/current/photo_01.jpg,True

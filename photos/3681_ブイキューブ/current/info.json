@@ -1,0 +1,25 @@
+{
+  "name": "間下 直晃",
+  "title": "代表取締役社長",
+  "appointment_info": "2013年12月",
+  "source_url": "https://jp.vcube.com/company/officer.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2013-12-01",
+    "open_on_date": 1232.48,
+    "close_on_date": 1478.49,
+    "high_on_date": 1478.49,
+    "low_on_date": 1217.72,
+    "trading_date": "2013-12-10",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1232.48
+}

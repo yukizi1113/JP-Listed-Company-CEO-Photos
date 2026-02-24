@@ -1,0 +1,21 @@
+{
+  "name": "開始\n株",
+  "title": "代表取締役社長",
+  "appointment_info": "2026年1月",
+  "source_url": "https://corp.manabi-aid.jp/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2026-01-01",
+    "open_on_date": 447.0,
+    "close_on_date": 448.0,
+    "high_on_date": 450.0,
+    "low_on_date": 443.0,
+    "trading_date": "2025-12-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 447.0
+}

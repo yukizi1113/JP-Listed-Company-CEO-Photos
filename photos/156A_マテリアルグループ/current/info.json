@@ -1,0 +1,21 @@
+{
+  "name": "当社",
+  "title": "代表取締役CEO",
+  "appointment_info": "2025年10月",
+  "source_url": "https://materialgroup.jp/news/20251204/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-10-01",
+    "open_on_date": 881.0,
+    "close_on_date": 874.0,
+    "high_on_date": 885.0,
+    "low_on_date": 871.0,
+    "trading_date": "2025-09-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 881.0
+}

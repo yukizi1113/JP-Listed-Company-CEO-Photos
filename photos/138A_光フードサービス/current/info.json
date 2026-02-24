@@ -1,0 +1,22 @@
+{
+  "name": "短信\n決算説",
+  "title": "代表取締役社長",
+  "appointment_info": "2024年2月",
+  "source_url": "https://hikari-food-service.jp/ir/management.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2024-02-01",
+    "open_on_date": 5666.81,
+    "close_on_date": 6063.97,
+    "high_on_date": 6635.5,
+    "low_on_date": 5114.66,
+    "trading_date": "2024-02-29",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 5666.81
+}

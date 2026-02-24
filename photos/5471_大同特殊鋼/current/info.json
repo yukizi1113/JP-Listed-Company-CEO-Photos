@@ -1,0 +1,22 @@
+{
+  "name": "標準\n拡大",
+  "title": "代表取締役社長",
+  "appointment_info": "2023年10月",
+  "source_url": "https://www.daido.co.jp/about/message/index.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2023-10-01",
+    "open_on_date": 1190.0,
+    "close_on_date": 1192.95,
+    "high_on_date": 1215.8,
+    "low_on_date": 1188.9,
+    "trading_date": "2023-09-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1190.0
+}

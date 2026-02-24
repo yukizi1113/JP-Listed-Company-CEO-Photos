@@ -1,0 +1,21 @@
+{
+  "name": "山田 邦雄",
+  "title": "代表取締役社長",
+  "appointment_info": "2009年6月",
+  "source_url": "https://www.rohto.co.jp/company/profile/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2009-06-01",
+    "open_on_date": 402.32,
+    "close_on_date": 404.83,
+    "high_on_date": 404.83,
+    "low_on_date": 402.32,
+    "trading_date": "2009-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 402.32
+}

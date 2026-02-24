@@ -1,0 +1,22 @@
+{
+  "name": "組込",
+  "title": "代表取締役社長",
+  "appointment_info": "2019年4月",
+  "source_url": "https://www.witz-inc.co.jp/company/message/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2019-04-01",
+    "open_on_date": 2896.96,
+    "close_on_date": 3371.87,
+    "high_on_date": 3371.87,
+    "low_on_date": 2896.96,
+    "trading_date": "2019-04-09",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2896.96
+}

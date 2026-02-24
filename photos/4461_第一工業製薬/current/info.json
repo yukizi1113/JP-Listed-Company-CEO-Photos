@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "title": "代表取締役社長",
+  "appointment_info": "2020年4月",
+  "source_url": "https://www.dks-web.co.jp/ir/message/index.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg"
+  ],
+  "photo_count": 3,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2020-04-01",
+    "open_on_date": 2819.31,
+    "close_on_date": 2857.58,
+    "high_on_date": 2883.1,
+    "low_on_date": 2717.26,
+    "trading_date": "2020-03-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2819.31
+}

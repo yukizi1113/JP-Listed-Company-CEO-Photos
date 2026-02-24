@@ -1,0 +1,21 @@
+{
+  "name": "締役 髙間舘",
+  "title": "代表取締役社長",
+  "appointment_info": "2021年1月",
+  "source_url": "https://corp.smaregi.jp/corporate/directors.php",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-01-01",
+    "open_on_date": 2622.59,
+    "close_on_date": 2523.06,
+    "high_on_date": 2662.4,
+    "low_on_date": 2508.13,
+    "trading_date": "2020-12-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2622.59
+}

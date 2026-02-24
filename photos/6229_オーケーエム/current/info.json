@@ -1,0 +1,22 @@
+{
+  "name": "独創的",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年4月",
+  "source_url": "https://www.okm-net.jp/management/message/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-04-01",
+    "open_on_date": 1310.2,
+    "close_on_date": 1287.96,
+    "high_on_date": 1323.74,
+    "low_on_date": 1287.96,
+    "trading_date": "2025-03-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1310.2
+}

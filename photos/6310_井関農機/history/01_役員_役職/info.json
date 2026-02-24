@@ -1,0 +1,26 @@
+{
+  "name": "役員\n役職",
+  "appointment_date": "2026年1月1日",
+  "resignation_date": "2026年1月1日",
+  "source_url": "https://www.iseki.co.jp/news_jinji/18762/",
+  "stock_price_at_appointment": {
+    "date": "2026-01-01",
+    "open_on_date": 1857.92,
+    "close_on_date": 1874.56,
+    "high_on_date": 1880.43,
+    "low_on_date": 1839.32,
+    "trading_date": "2025-12-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1857.92,
+  "stock_price_at_resignation": {
+    "date": "2026-01-01",
+    "open_on_date": 1857.92,
+    "close_on_date": 1874.56,
+    "high_on_date": 1880.43,
+    "low_on_date": 1839.32,
+    "trading_date": "2025-12-22",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 1874.56
+}

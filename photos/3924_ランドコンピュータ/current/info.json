@@ -1,0 +1,21 @@
+{
+  "name": "福 島",
+  "title": "代表取締役社長",
+  "appointment_info": "2021年1月",
+  "source_url": "https://www.rand.co.jp/corporate/message.php",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-01-01",
+    "open_on_date": 310.91,
+    "close_on_date": 311.18,
+    "high_on_date": 312.28,
+    "low_on_date": 309.53,
+    "trading_date": "2020-12-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 310.91
+}

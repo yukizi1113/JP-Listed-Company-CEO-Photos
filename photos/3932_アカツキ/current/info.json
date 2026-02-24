@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "title": "代表取締役社長",
+  "appointment_info": "2022年4月",
+  "source_url": "https://aktsk.jp/company/executive/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2022-04-01",
+    "open_on_date": 2465.16,
+    "close_on_date": 2418.23,
+    "high_on_date": 2473.85,
+    "low_on_date": 2409.55,
+    "trading_date": "2022-03-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2465.16
+}

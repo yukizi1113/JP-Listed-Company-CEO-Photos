@@ -1,0 +1,22 @@
+{
+  "name": "会長　杉山卓",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年9月",
+  "source_url": "https://www.sasatoku.co.jp/company/company_message.php",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-09-01",
+    "open_on_date": 536.04,
+    "close_on_date": 535.06,
+    "high_on_date": 537.03,
+    "low_on_date": 535.06,
+    "trading_date": "2025-08-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 536.04
+}

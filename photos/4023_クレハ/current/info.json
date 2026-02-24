@@ -1,0 +1,22 @@
+{
+  "name": "小林 豊",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年5月",
+  "source_url": "https://www.kureha.co.jp/about/message.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-05-01",
+    "open_on_date": 2401.66,
+    "close_on_date": 2379.29,
+    "high_on_date": 2401.66,
+    "low_on_date": 2336.49,
+    "trading_date": "2025-04-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2401.66
+}

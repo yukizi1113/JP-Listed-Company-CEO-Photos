@@ -1,0 +1,828 @@
+[
+  {
+    "ticker": "1301",
+    "company_name": "極洋",
+    "previous_ceos": [
+      {
+        "name": "人　単独",
+        "title": "代表取締役社長",
+        "appointment_date": "2024年3月31日",
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:41:12.246137"
+  },
+  {
+    "ticker": "1333",
+    "company_name": "マルハニチロ",
+    "previous_ceos": [
+      {
+        "name": "月\n創業者",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%8F"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:41:39.244657"
+  },
+  {
+    "ticker": "1376",
+    "company_name": "カネコ種苗",
+    "previous_ceos": [
+      {
+        "name": "父\n島田弟",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%95%99%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "受賞\n高橋鉉",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%95%99%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "役者\n宮崎敬",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%95%99%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "設者\n松方幸",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%95%99%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "息子\n石井亮",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%95%99%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "油王\n松崎半",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%95%99%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "事長\n稲垣陽",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%95%99%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "一人\n歴代総",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%95%99%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:42:07.619957"
+  },
+  {
+    "ticker": "1332",
+    "company_name": "ニッスイ",
+    "previous_ceos": [
+      {
+        "name": "吾氏 的埜明",
+        "title": "代表取締役社長",
+        "appointment_date": "2022年11月28日",
+        "resignation_date": "2023年1月4日",
+        "source": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%83%E3%82%B9%E3%82%A4"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:42:37.865641"
+  },
+  {
+    "ticker": "1375",
+    "company_name": "ユキグニファクトリー",
+    "previous_ceos": [
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:43:04.619345"
+  },
+  {
+    "ticker": "1377",
+    "company_name": "サカタのタネ",
+    "previous_ceos": [
+      {
+        "name": "社長\n評議員",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "主筆\n渡辺茂",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "議員\n三辺金",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "会長\n加田哲",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "大卒\n小比賀",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "実兄\n隈研吾",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "締役\n曽根俊",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      },
+      {
+        "name": "会長\n石川七",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:43:32.386627"
+  },
+  {
+    "ticker": "1380",
+    "company_name": "秋川牧園",
+    "previous_ceos": [
+      {
+        "name": "会長 秋川實",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:43:58.882101"
+  },
+  {
+    "ticker": "1382",
+    "company_name": "ホーブ",
+    "previous_ceos": [
+      {
+        "name": "光章 受章",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E5%A4%A7%E5%AD%A6%E3%81%AE%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:44:28.972112"
+  },
+  {
+    "ticker": "1379",
+    "company_name": "ホクト",
+    "previous_ceos": [
+      {
+        "name": "年\n石坂泰",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%8A%9D",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      },
+      {
+        "name": "年\n土光敏",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%8A%9D"
+      },
+      {
+        "name": "年\n岩田弌",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%8A%9D",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      },
+      {
+        "name": "年\n佐波正",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%8A%9D"
+      },
+      {
+        "name": "月 西田厚",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%8A%9D"
+      },
+      {
+        "name": "月 佐",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%8A%9D"
+      },
+      {
+        "name": "月 田中久",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%8A%9D"
+      },
+      {
+        "name": "日 代表執",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%8A%9D"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:44:54.694374"
+  },
+  {
+    "ticker": "1401",
+    "company_name": "エムビーエス",
+    "previous_ceos": [
+      {
+        "name": "役員 西村",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:45:20.376681"
+  },
+  {
+    "ticker": "1384",
+    "company_name": "ホクリヨウ",
+    "previous_ceos": [],
+    "enriched_at": "2026-02-24T17:46:28.717179"
+  },
+  {
+    "ticker": "1407",
+    "company_name": "ウエストホールディングス",
+    "previous_ceos": [
+      {
+        "name": "聞社 新任代",
+        "title": "代表取締役社長",
+        "appointment_date": "2013年6月28日",
+        "resignation_date": "2018年4月30日",
+        "source": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E7%94%B0%E7%9A%93"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:47:00.160941"
+  },
+  {
+    "ticker": "1417",
+    "company_name": "ミライト・ワン",
+    "previous_ceos": [],
+    "enriched_at": "2026-02-24T17:48:11.323487"
+  },
+  {
+    "ticker": "1414",
+    "company_name": "ショーボンドホールディングス",
+    "previous_ceos": [
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:48:42.988585"
+  },
+  {
+    "ticker": "1418",
+    "company_name": "インターライフホールディングス",
+    "previous_ceos": [
+      {
+        "name": "役員 岩崎高",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:49:13.626477"
+  },
+  {
+    "ticker": "1420",
+    "company_name": "サンヨーホームズ",
+    "previous_ceos": [
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      },
+      {
+        "name": "業務 他",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:49:18.356599"
+  },
+  {
+    "ticker": "1381",
+    "company_name": "アクシーズ",
+    "previous_ceos": [
+      {
+        "name": "表明　検査不",
+        "title": "代表取締役社長",
+        "appointment_date": "2016年10月30日",
+        "resignation_date": "2026年1月15日",
+        "source": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:49:49.779405"
+  },
+  {
+    "ticker": "1429",
+    "company_name": "日本アクア",
+    "previous_ceos": [
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:50:17.618452"
+  },
+  {
+    "ticker": "1430",
+    "company_name": "ファーストコーポレーション",
+    "previous_ceos": [
+      {
+        "name": "人 単独",
+        "title": "代表取締役社長",
+        "appointment_date": "2023年8月31日",
+        "resignation_date": null,
+        "source": "wikipedia"
+      },
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:50:23.152435"
+  },
+  {
+    "ticker": "1419",
+    "company_name": "タマホーム",
+    "previous_ceos": [
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:50:52.282980"
+  },
+  {
+    "ticker": "1433",
+    "company_name": "ベステラ",
+    "previous_ceos": [
+      {
+        "name": "本田 豊",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:50:58.818396"
+  },
+  {
+    "ticker": "1383",
+    "company_name": "ベルグアース",
+    "previous_ceos": [
+      {
+        "name": "会長\n山下亀",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:51:35.535858"
+  },
+  {
+    "ticker": "1436",
+    "company_name": "グリーンエナジー&カンパニー",
+    "previous_ceos": [
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:52:02.862123"
+  },
+  {
+    "ticker": "1435",
+    "company_name": "robot　home",
+    "previous_ceos": [
+      {
+        "name": "古木 大咲",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:52:31.549975"
+  },
+  {
+    "ticker": "1434",
+    "company_name": "JESCOホールディングス",
+    "previous_ceos": [
+      {
+        "name": "田辺 博",
+        "title": "代表取締役社長",
+        "appointment_date": "2025年6月27日",
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:53:00.652878"
+  },
+  {
+    "ticker": "1443",
+    "company_name": "技研ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "号 虎",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia"
+      },
+      {
+        "name": "神子柴 寿昭",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      },
+      {
+        "name": "三部 敏宏",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      },
+      {
+        "name": "倉石 誠司",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      },
+      {
+        "name": "竹内 弘平",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      },
+      {
+        "name": "鈴木 麻子",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      },
+      {
+        "name": "貝原 典也",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      },
+      {
+        "name": "日本本部長 兼 安全運転普及本部長",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:53:18.906494"
+  },
+  {
+    "ticker": "1438",
+    "company_name": "岐阜造園",
+    "previous_ceos": [
+      {
+        "name": "会長\n梅棹",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E9%BE%8D%E8%B0%B7%E5%A4%A7%E5%AD%A6%E4%BB%98%E5%B1%9E%E5%B9%B3%E5%AE%89%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%83%BB%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:53:44.305256"
+  },
+  {
+    "ticker": "1446",
+    "company_name": "キャンディル",
+    "previous_ceos": [
+      {
+        "name": "光雄\n代表取",
+        "title": "代表取締役社長",
+        "appointment_date": "2023年3月31日",
+        "resignation_date": "2023年3月",
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC"
+      },
+      {
+        "name": "和彦\n資本金",
+        "title": "代表取締役社長",
+        "appointment_date": "2023年3月31日",
+        "resignation_date": "2023年3月",
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:53:52.246649"
+  },
+  {
+    "ticker": "1450",
+    "company_name": "TANAKEN",
+    "previous_ceos": [],
+    "enriched_at": "2026-02-24T17:55:17.789396"
+  },
+  {
+    "ticker": "1491",
+    "company_name": "中外鉱業",
+    "previous_ceos": [
+      {
+        "name": "名　単独",
+        "title": "代表取締役社長",
+        "appointment_date": "2023年3月31日",
+        "resignation_date": null,
+        "source": "wikipedia"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:55:46.678337"
+  },
+  {
+    "ticker": "1514",
+    "company_name": "住石ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "長森　省輔",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:56:15.557731"
+  },
+  {
+    "ticker": "1515",
+    "company_name": "日鉄鉱業",
+    "previous_ceos": [
+      {
+        "name": "小山　博司",
+        "title": "代表取締役社長",
+        "appointment_date": "2014年頃",
+        "resignation_date": null,
+        "source": "wayback_machine"
+      }
+    ],
+    "enriched_at": "2026-02-24T17:57:54.519255"
+  },
+  {
+    "ticker": "1431",
+    "company_name": "Lib　Work",
+    "previous_ceos": [],
+    "enriched_at": "2026-02-24T17:59:12.459451"
+  },
+  {
+    "ticker": "1605",
+    "company_name": "INPEX",
+    "previous_ceos": [
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T17:59:37.679652"
+  },
+  {
+    "ticker": "1518",
+    "company_name": "三井松島ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T18:00:04.830146"
+  },
+  {
+    "ticker": "1662",
+    "company_name": "石油資源開発",
+    "previous_ceos": [
+      {
+        "name": "名 単体",
+        "title": "代表取締役社長",
+        "appointment_date": "2024年3月31日",
+        "resignation_date": null,
+        "source": "wikipedia"
+      }
+    ],
+    "enriched_at": "2026-02-24T18:00:31.596413"
+  },
+  {
+    "ticker": "1447",
+    "company_name": "SAAFホールディングス",
+    "previous_ceos": [
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T18:00:57.141364"
+  },
+  {
+    "ticker": "1711",
+    "company_name": "SDSホールディングス",
+    "previous_ceos": [
+      {
+        "name": "公平\n代表取",
+        "title": "代表取締役社長",
+        "appointment_date": "2021年3月",
+        "resignation_date": "2023年3月",
+        "source": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89"
+      }
+    ],
+    "enriched_at": "2026-02-24T18:01:23.571895"
+  },
+  {
+    "ticker": "1716",
+    "company_name": "第一カッター興業",
+    "previous_ceos": [
+      {
+        "name": "度 東経",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia",
+        "photos_saved": [
+          "photo_01.jpg"
+        ]
+      }
+    ],
+    "enriched_at": "2026-02-24T18:01:51.600351"
+  },
+  {
+    "ticker": "1663",
+    "company_name": "K&Oエナジーグループ",
+    "previous_ceos": [
+      {
+        "name": "森 武",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia"
+      }
+    ],
+    "enriched_at": "2026-02-24T18:02:26.137111"
+  }
+]

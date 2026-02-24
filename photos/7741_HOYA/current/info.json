@@ -1,0 +1,21 @@
+{
+  "name": "締役\r\n指名委",
+  "title": "代表取締役社長",
+  "appointment_info": "2018年6月",
+  "source_url": "https://www.hoya.com/company/directors/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2018-06-01",
+    "open_on_date": 5955.41,
+    "close_on_date": 6002.23,
+    "high_on_date": 6034.99,
+    "low_on_date": 5918.9,
+    "trading_date": "2018-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 5955.41
+}

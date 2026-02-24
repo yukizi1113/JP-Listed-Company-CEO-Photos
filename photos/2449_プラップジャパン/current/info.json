@@ -1,0 +1,21 @@
+{
+  "name": "締役  鈴木",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年8月",
+  "source_url": "https://www.prap.co.jp/company/profile/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-08-01",
+    "open_on_date": 998.2,
+    "close_on_date": 1003.02,
+    "high_on_date": 1005.91,
+    "low_on_date": 998.2,
+    "trading_date": "2025-07-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 998.2
+}

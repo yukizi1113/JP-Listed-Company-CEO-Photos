@@ -72824,5 +72824,612 @@
     "ticker": "8282",
     "company_name": "ケーズホールディングス",
     "previous_ceos": []
+  },
+  {
+    "ticker": "8542",
+    "company_name": "トマト銀行",
+    "previous_ceos": [
+      {
+        "name": "渡辺源太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "奥多計三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "寺尾知之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日下辰太",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8542_トマト銀行\\history\\04_日下辰太\\photo_01.jpg"
+      },
+      {
+        "name": "立林文二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "前田勇",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉田憲治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8542_トマト銀行\\history\\07_吉田憲治\\photo_01.jpg"
+      },
+      {
+        "name": "吉田忠明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中川隆進",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高木晶悟",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8551",
+    "company_name": "北日本銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8544",
+    "company_name": "京葉銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8558",
+    "company_name": "東和銀行",
+    "previous_ceos": [
+      {
+        "name": "高木祥吉",
+        "appointment_date": "2007-10-01",
+        "resignation_date": "2009-11-20",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井澤吉幸",
+        "appointment_date": "2009-12-01",
+        "resignation_date": "2015-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "2015-04-01",
+        "resignation_date": "2015-05-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8558_東和銀行\\history\\03_西室泰三\\photo_01.jpg"
+      },
+      {
+        "name": "長門正貢",
+        "appointment_date": "2015-05-01",
+        "resignation_date": "2016-03-31",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8558_東和銀行\\history\\04_長門正貢\\photo_01.jpg"
+      },
+      {
+        "name": "池田憲人",
+        "appointment_date": "2016-04-01",
+        "resignation_date": "2024-03-31",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8558_東和銀行\\history\\05_池田憲人\\photo_01.jpg"
+      },
+      {
+        "name": "笠間貴之",
+        "appointment_date": "2024-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8550",
+    "company_name": "栃木銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8566",
+    "company_name": "リコーリース",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8563",
+    "company_name": "大東銀行",
+    "previous_ceos": [
+      {
+        "name": "多田勝美",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "麻田守孝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三鍋伊佐雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "熊切直美",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小林克満",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹内啓",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8562",
+    "company_name": "福島銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8572",
+    "company_name": "アコム",
+    "previous_ceos": [
+      {
+        "name": "畔柳信雄",
+        "appointment_date": "2005-10-01",
+        "resignation_date": "2010-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "永易克典",
+        "appointment_date": "2010-04-01",
+        "resignation_date": "2013-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平野信行",
+        "appointment_date": "2013-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三毛兼承",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2020-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "亀澤宏規",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2026-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "半沢淳一",
+        "appointment_date": "2026-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8591",
+    "company_name": "オリックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8585",
+    "company_name": "オリエントコーポレーション",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8593",
+    "company_name": "三菱HCキャピタル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8595",
+    "company_name": "ジャフコ　グループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8600",
+    "company_name": "トモニホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8596",
+    "company_name": "九州リースサービス",
+    "previous_ceos": [
+      {
+        "name": "石井幸孝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田中浩二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石原進",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "唐池恒二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青柳俊彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古宮洋二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8601",
+    "company_name": "大和証券グループ本社",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8604",
+    "company_name": "野村ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\8604_野村ホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "8609",
+    "company_name": "岡三証券グループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8613",
+    "company_name": "丸三証券",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8614",
+    "company_name": "東洋証券",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8616",
+    "company_name": "東海東京フィナンシャル・ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "畔柳信雄",
+        "appointment_date": "2005-10-01",
+        "resignation_date": "2010-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "永易克典",
+        "appointment_date": "2010-04-01",
+        "resignation_date": "2013-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平野信行",
+        "appointment_date": "2013-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三毛兼承",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2020-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "亀澤宏規",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2026-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "半沢淳一",
+        "appointment_date": "2026-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8617",
+    "company_name": "光世証券",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8622",
+    "company_name": "水戸証券",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8628",
+    "company_name": "松井証券",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8630",
+    "company_name": "SOMPOホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8697",
+    "company_name": "日本取引所グループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8624",
+    "company_name": "いちよし証券",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8699",
+    "company_name": "HSホールディングス",
+    "previous_ceos": [
+      {
+        "name": "松下幸之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8699_HSホールディングス\\history\\01_松下幸之助\\photo_01.jpg"
+      },
+      {
+        "name": "松下正治",
+        "appointment_date": "1961-01-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山下俊彦",
+        "appointment_date": "1977-02-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "谷井昭雄",
+        "appointment_date": "1986-02-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森下洋一",
+        "appointment_date": "1993-02-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村邦夫",
+        "appointment_date": "2000-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大坪文雄",
+        "appointment_date": "2006-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "津賀一宏",
+        "appointment_date": "2012-06-01",
+        "resignation_date": "2021-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "楠見雄規",
+        "appointment_date": "2021-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8700",
+    "company_name": "丸八証券",
+    "previous_ceos": [
+      {
+        "name": "中村金一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "太刀川高利",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "吉田則雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "井戸辻康行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "山崎正行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "島田守",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "中村吉孝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "駒林秀雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "伊沢健",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "星野泰則",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鈴木卓也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\8700_丸八証券\\history\\11_鈴木卓也\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "8704",
+    "company_name": "トレイダーズホールディングス",
+    "previous_ceos": [
+      {
+        "name": "服部金太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "服部玄三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8704_トレイダーズホールディングス\\history\\02_服部玄三\\photo_01.jpg"
+      },
+      {
+        "name": "服部正次",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "服部謙太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "服部禮次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉村司郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "関本昌弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井上仲七",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村野晃一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "服部真二",
+        "appointment_date": "2012-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村吉伸",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高橋修司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   }
 ]

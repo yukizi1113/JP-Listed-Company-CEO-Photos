@@ -83461,5 +83461,578 @@
     "ticker": "228A",
     "company_name": "オプロ",
     "previous_ceos": []
+  },
+  {
+    "ticker": "241A",
+    "company_name": "ROXX",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "244A",
+    "company_name": "グロースエクスパートナーズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "245A",
+    "company_name": "INGS",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "246A",
+    "company_name": "アスア",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "247A",
+    "company_name": "Aiロボティクス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "248A",
+    "company_name": "キッズスター",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9962",
+    "company_name": "ミスミグループ本社",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "250A",
+    "company_name": "シマダヤ",
+    "previous_ceos": [
+      {
+        "name": "二代目鈴木三郎助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木忠治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\250A_シマダヤ\\history\\02_鈴木忠治\\photo_01.jpg"
+      },
+      {
+        "name": "三代目鈴木三郎助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "道面豊信",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木恭二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺文蔵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "歌田勝弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鳥羽董",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "稲森俊介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "江頭邦雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山口範雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊藤雅俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西井孝明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤江太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村茂雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "253A",
+    "company_name": "ETSグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "255A",
+    "company_name": "ジーエルテクノホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "254A",
+    "company_name": "AIフュージョンキャピタルグループ",
+    "previous_ceos": [
+      {
+        "name": "鮎川 義介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "淺原 源七",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "工藤 治人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本 惣治",
+        "appointment_date": "1945-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川又 克二",
+        "appointment_date": "1957-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩越 忠恕",
+        "appointment_date": "1973-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石原 俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久米 豊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "辻 義文",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塙 義一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西川 廣人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内 康裕",
+        "appointment_date": "2019-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "内田 誠",
+        "appointment_date": "2019-12-01",
+        "resignation_date": "2025-03-01",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "256A",
+    "company_name": "飛島ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "下垣内洋一",
+        "appointment_date": "2002-09-01",
+        "resignation_date": "2005-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\256A_飛島ホールディングス\\history\\01_下垣内洋一\\photo_01.jpg"
+      },
+      {
+        "name": "數土文夫",
+        "appointment_date": "2005-04-01",
+        "resignation_date": "2010-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\256A_飛島ホールディングス\\history\\02_數土文夫\\photo_01.jpg"
+      },
+      {
+        "name": "馬田一",
+        "appointment_date": "2010-04-01",
+        "resignation_date": "2015-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\256A_飛島ホールディングス\\history\\03_馬田一\\photo_01.jpg"
+      },
+      {
+        "name": "林田英治",
+        "appointment_date": "2015-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿木厚司",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2024-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "北野嘉久",
+        "appointment_date": "2024-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "262A",
+    "company_name": "インターメスティック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "261A",
+    "company_name": "日水コン",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\261A_日水コン\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\261A_日水コン\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\261A_日水コン\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "264A",
+    "company_name": "Schoo",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "265A",
+    "company_name": "Hmcomm",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "269A",
+    "company_name": "Sapeet",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "268A",
+    "company_name": "リガク・ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "早川徳次",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐伯旭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "辻晴雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "町田勝彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "片山幹雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "奥田隆司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高橋興三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "戴正呉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "野村勝明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "呉柏勲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "沖津雅浩",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "276A",
+    "company_name": "ククレブ・アドバイザーズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "274A",
+    "company_name": "ガーデン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "277A",
+    "company_name": "グロービング",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "278A",
+    "company_name": "Terra　Drone",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "280A",
+    "company_name": "TMH",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9997",
+    "company_name": "ベルーナ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "285A",
+    "company_name": "キオクシアホールディングス",
+    "previous_ceos": [
+      {
+        "name": "石坂泰三",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1957-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\285A_キオクシアホールディングス\\history\\01_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岩下文雄",
+        "appointment_date": "1957-11-01",
+        "resignation_date": "1965-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土光敏夫",
+        "appointment_date": "1965-05-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置敬三",
+        "appointment_date": "1972-08-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田弐夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐波正一",
+        "appointment_date": "1986-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡里杉一郎",
+        "appointment_date": "1986-04-01",
+        "resignation_date": "1987-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青井舒一",
+        "appointment_date": "1987-07-01",
+        "resignation_date": "1992-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤文夫",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村正",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西田厚聰",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\285A_キオクシアホールディングス\\history\\12_西田厚聰\\photo_01.jpg"
+      },
+      {
+        "name": "田中久雄",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2015-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "室町正志",
+        "appointment_date": "2015-07-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綱川智",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "車谷暢昭",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2021-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島田太郎",
+        "appointment_date": "2022-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "281A",
+    "company_name": "インフォメティス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "287A",
+    "company_name": "黒田グループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "288A",
+    "company_name": "ラクサス・テクノロジーズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "286A",
+    "company_name": "ユカリア",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "195A",
+    "company_name": "ライスカレー",
+    "previous_ceos": []
   }
 ]

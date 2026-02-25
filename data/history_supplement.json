@@ -80881,5 +80881,401 @@
     "ticker": "9682",
     "company_name": "DTS",
     "previous_ceos": []
+  },
+  {
+    "ticker": "9687",
+    "company_name": "KSK",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9692",
+    "company_name": "シーイーシー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9686",
+    "company_name": "東洋テック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9697",
+    "company_name": "カプコン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9691",
+    "company_name": "両毛システムズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9698",
+    "company_name": "クレオ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9701",
+    "company_name": "東京會舘",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9702",
+    "company_name": "アイ・エス・ビー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9612",
+    "company_name": "ラックランド",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9612_ラックランド\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9612_ラックランド\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9612_ラックランド\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9699",
+    "company_name": "ニシオホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9699_ニシオホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9704",
+    "company_name": "アゴーラ　ホスピタリティー　グループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9708",
+    "company_name": "帝国ホテル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9706",
+    "company_name": "日本空港ビルデング",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9715",
+    "company_name": "トランス・コスモス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9716",
+    "company_name": "乃村工藝社",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9719",
+    "company_name": "SCSK",
+    "previous_ceos": [
+      {
+        "name": "初代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9719_SCSK\\history\\01_初代\\photo_01.jpg"
+      },
+      {
+        "name": "第二代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第三代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第四代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第五代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第六代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第七代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第八代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第九代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第十代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第十一代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第十二代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9720",
+    "company_name": "ホテル、ニューグランド",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9722",
+    "company_name": "藤田観光",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9709",
+    "company_name": "NCS&A",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9726",
+    "company_name": "KNT-CTホールディングス",
+    "previous_ceos": [
+      {
+        "name": "参急が合併",
+        "appointment_date": "1937-02-01",
+        "resignation_date": "1947-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "運輸大臣",
+        "appointment_date": "1947-04-01",
+        "resignation_date": "1951-12-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "金森又一郎の孫",
+        "appointment_date": "1987-06-01",
+        "resignation_date": "1994-06-01",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9729",
+    "company_name": "トーカイ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9731",
+    "company_name": "白洋舎",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9733",
+    "company_name": "ナガセ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9735",
+    "company_name": "セコム",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9740",
+    "company_name": "セントラル警備保障",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9739",
+    "company_name": "NSW",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9713",
+    "company_name": "ロイヤルホテル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9744",
+    "company_name": "メイテックグループホールディングス",
+    "previous_ceos": [
+      {
+        "name": "石坂泰三",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1957-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9744_メイテックグループホールディングス\\history\\01_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岩下文雄",
+        "appointment_date": "1957-11-01",
+        "resignation_date": "1965-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土光敏夫",
+        "appointment_date": "1965-05-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置敬三",
+        "appointment_date": "1972-08-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田弐夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐波正一",
+        "appointment_date": "1986-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡里杉一郎",
+        "appointment_date": "1986-04-01",
+        "resignation_date": "1987-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青井舒一",
+        "appointment_date": "1987-07-01",
+        "resignation_date": "1992-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤文夫",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村正",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西田厚聰",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9744_メイテックグループホールディングス\\history\\12_西田厚聰\\photo_01.jpg"
+      },
+      {
+        "name": "田中久雄",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2015-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "室町正志",
+        "appointment_date": "2015-07-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綱川智",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "車谷暢昭",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2021-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島田太郎",
+        "appointment_date": "2022-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9746",
+    "company_name": "TKC",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9743",
+    "company_name": "丹青社",
+    "previous_ceos": []
   }
 ]

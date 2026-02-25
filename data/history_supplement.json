@@ -64615,5 +64615,414 @@
     "ticker": "7603",
     "company_name": "マックハウス",
     "previous_ceos": []
+  },
+  {
+    "ticker": "7600",
+    "company_name": "日本エム・ディ・エム",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7604",
+    "company_name": "梅の花",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7607",
+    "company_name": "進和",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7607_進和\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7607_進和\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7607_進和\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7606",
+    "company_name": "ユナイテッドアローズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7608",
+    "company_name": "エスケイジャパン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7609",
+    "company_name": "ダイトロン",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7609_ダイトロン\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7609_ダイトロン\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7609_ダイトロン\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7611",
+    "company_name": "ハイデイ日高",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7610",
+    "company_name": "テイツー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7602",
+    "company_name": "レダックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7615",
+    "company_name": "京都きもの友禅ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7616",
+    "company_name": "コロワイド",
+    "previous_ceos": [
+      {
+        "name": "蔵人金男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺順寛",
+        "appointment_date": "2002-01-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "野尻公平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7614",
+    "company_name": "オーエムツーネットワーク",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7524",
+    "company_name": "マルシェ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7624",
+    "company_name": "NaITO",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7619",
+    "company_name": "田中商事",
+    "previous_ceos": [
+      {
+        "name": "初代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7619_田中商事\\history\\01_初代\\photo_01.jpg"
+      },
+      {
+        "name": "二代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "三代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "四代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "五代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "六代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7619_田中商事\\history\\06_六代\\photo_01.jpg"
+      },
+      {
+        "name": "七代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "八代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "九代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十一代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十二代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十三代",
+        "appointment_date": "2021-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "7628",
+    "company_name": "オーハシテクニカ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7621",
+    "company_name": "うかい",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7613",
+    "company_name": "シークス",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7613_シークス\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7613_シークス\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7613_シークス\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7630",
+    "company_name": "壱番屋",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7625",
+    "company_name": "グローバルダイニング",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7635",
+    "company_name": "杉田エース",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7636",
+    "company_name": "ハンズマン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7634",
+    "company_name": "星医療酸器",
+    "previous_ceos": [
+      {
+        "name": "竹中登一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "野木森雅郁",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "畑中好彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安川健司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村直樹",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7637",
+    "company_name": "白銅",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7638",
+    "company_name": "NEW　ART　HOLDINGS",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7646",
+    "company_name": "PLANT",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7643",
+    "company_name": "ダイイチ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7649",
+    "company_name": "スギホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AE%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+        "photo_path": "photos_2\\7649_スギホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "7640",
+    "company_name": "トップカルチャー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7677",
+    "company_name": "ヤシマキザイ",
+    "previous_ceos": []
   }
 ]

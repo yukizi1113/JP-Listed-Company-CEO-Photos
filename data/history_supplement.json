@@ -66185,5 +66185,603 @@
         "source": "wikipedia_table"
       }
     ]
+  },
+  {
+    "ticker": "7782",
+    "company_name": "シンシア",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7774",
+    "company_name": "ジャパン・ティッシュエンジニアリング",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7794",
+    "company_name": "イーディーピー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7791",
+    "company_name": "ドリームベッド",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7800",
+    "company_name": "アミファ",
+    "previous_ceos": [
+      {
+        "name": "越寿三郎",
+        "appointment_date": "1926-09-01",
+        "resignation_date": "1930-05-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7800_アミファ\\history\\01_越寿三郎\\photo_01.jpg"
+      },
+      {
+        "name": "名取和作",
+        "appointment_date": "1930-07-01",
+        "resignation_date": "1931-05-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7800_アミファ\\history\\02_名取和作\\photo_01.jpg"
+      },
+      {
+        "name": "小坂順造",
+        "appointment_date": "1931-05-01",
+        "resignation_date": "1956-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小坂徳三郎",
+        "appointment_date": "1956-07-01",
+        "resignation_date": "1971-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小林周蔵",
+        "appointment_date": "1971-07-01",
+        "resignation_date": "1975-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小田切新太郎",
+        "appointment_date": "1974-07-01",
+        "resignation_date": "1983-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小坂雄太郎",
+        "appointment_date": "1983-08-01",
+        "resignation_date": "1990-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金川千尋",
+        "appointment_date": "1990-08-01",
+        "resignation_date": "2010-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森俊三",
+        "appointment_date": "2010-06-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "斉藤恭彦",
+        "appointment_date": "2016-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7793",
+    "company_name": "イメージ・マジック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7803",
+    "company_name": "ブシロード",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7805",
+    "company_name": "プリントネット",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7806",
+    "company_name": "MTG",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7795",
+    "company_name": "KYORITSU",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7804",
+    "company_name": "ビーアンドピー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7792",
+    "company_name": "コラントッテ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7809",
+    "company_name": "壽屋",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7810",
+    "company_name": "クロスフォー",
+    "previous_ceos": [
+      {
+        "name": "現在",
+        "appointment_date": "2024-06-01",
+        "resignation_date": "2024-06-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "7807",
+    "company_name": "幸和製作所",
+    "previous_ceos": [
+      {
+        "name": "石坂泰三",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1957-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7807_幸和製作所\\history\\01_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岩下文雄",
+        "appointment_date": "1957-11-01",
+        "resignation_date": "1965-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土光敏夫",
+        "appointment_date": "1965-05-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置敬三",
+        "appointment_date": "1972-08-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田弐夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐波正一",
+        "appointment_date": "1986-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡里杉一郎",
+        "appointment_date": "1986-04-01",
+        "resignation_date": "1987-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青井舒一",
+        "appointment_date": "1987-07-01",
+        "resignation_date": "1992-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤文夫",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村正",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西田厚聰",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7807_幸和製作所\\history\\12_西田厚聰\\photo_01.jpg"
+      },
+      {
+        "name": "田中久雄",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2015-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "室町正志",
+        "appointment_date": "2015-07-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綱川智",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "車谷暢昭",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2021-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島田太郎",
+        "appointment_date": "2022-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7811",
+    "company_name": "中本パックス",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7811_中本パックス\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7811_中本パックス\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7812",
+    "company_name": "クレステック",
+    "previous_ceos": [
+      {
+        "name": "越寿三郎",
+        "appointment_date": "1926-09-01",
+        "resignation_date": "1930-05-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7812_クレステック\\history\\01_越寿三郎\\photo_01.jpg"
+      },
+      {
+        "name": "名取和作",
+        "appointment_date": "1930-07-01",
+        "resignation_date": "1931-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小坂順造",
+        "appointment_date": "1931-05-01",
+        "resignation_date": "1956-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小坂徳三郎",
+        "appointment_date": "1956-07-01",
+        "resignation_date": "1971-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小林周蔵",
+        "appointment_date": "1971-07-01",
+        "resignation_date": "1975-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小田切新太郎",
+        "appointment_date": "1974-07-01",
+        "resignation_date": "1983-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小坂雄太郎",
+        "appointment_date": "1983-08-01",
+        "resignation_date": "1990-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金川千尋",
+        "appointment_date": "1990-08-01",
+        "resignation_date": "2010-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森俊三",
+        "appointment_date": "2010-06-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "斉藤恭彦",
+        "appointment_date": "2016-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7813",
+    "company_name": "プラッツ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7817",
+    "company_name": "パラマウントベッドホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7815",
+    "company_name": "東京ボード工業",
+    "previous_ceos": [
+      {
+        "name": "沖電気",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7815_東京ボード工業\\history\\01_沖電気\\photo_01.jpg"
+      },
+      {
+        "name": "浅野総一郎",
+        "appointment_date": "1912-08-01",
+        "resignation_date": "1930-11-09",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7815_東京ボード工業\\history\\02_浅野総一郎\\photo_01.jpg"
+      },
+      {
+        "name": "浅野泰治郎",
+        "appointment_date": "1930-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小沢仙吉",
+        "appointment_date": "1944-04-01",
+        "resignation_date": "1945-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "楊井勇三",
+        "appointment_date": "1945-11-01",
+        "resignation_date": "1947-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井上良治",
+        "appointment_date": "1947-08-01",
+        "resignation_date": "1948-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "神戸捨二",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1949-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森章",
+        "appointment_date": "1966-01-01",
+        "resignation_date": "1972-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本正明",
+        "appointment_date": "1972-11-01",
+        "resignation_date": "1978-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三宅正男",
+        "appointment_date": "1978-04-01",
+        "resignation_date": "1982-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "橋本南海男",
+        "appointment_date": "1982-05-01",
+        "resignation_date": "1988-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小杉信光",
+        "appointment_date": "1988-06-01",
+        "resignation_date": "1992-10-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "神宮司順",
+        "appointment_date": "1992-10-01",
+        "resignation_date": "1995-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "沢村紫光",
+        "appointment_date": "1995-08-01",
+        "resignation_date": "1998-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7815_東京ボード工業\\history\\14_沢村紫光\\photo_01.jpg"
+      },
+      {
+        "name": "篠塚勝正",
+        "appointment_date": "1998-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川崎秀一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鎌上信也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森孝廣",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7818",
+    "company_name": "トランザクション",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7819",
+    "company_name": "粧美堂",
+    "previous_ceos": [
+      {
+        "name": "小林忠兵衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7819_粧美堂\\history\\01_小林忠兵衛\\photo_01.jpg"
+      },
+      {
+        "name": "曽祖父は忠兵衛で",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "7814",
+    "company_name": "日本創発グループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7822",
+    "company_name": "永大産業",
+    "previous_ceos": [
+      {
+        "name": "太田治作",
+        "appointment_date": "1951-03-01",
+        "resignation_date": "1954-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "太田敏郎",
+        "appointment_date": "1954-08-01",
+        "resignation_date": "1962-12-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7822_永大産業\\history\\02_太田敏郎\\photo_01.jpg"
+      },
+      {
+        "name": "松本良太",
+        "appointment_date": "1995-01-01",
+        "resignation_date": "1999-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹下克彦",
+        "appointment_date": "1999-01-01",
+        "resignation_date": "2004-07-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7822_永大産業\\history\\04_竹下克彦\\photo_01.jpg"
+      },
+      {
+        "name": "神崎茂治",
+        "appointment_date": "2004-07-01",
+        "resignation_date": "2009-09-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7822_永大産業\\history\\05_神崎茂治\\photo_01.jpg"
+      },
+      {
+        "name": "國井総一郎",
+        "appointment_date": "2009-09-01",
+        "resignation_date": "2020-10-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "腹巻知",
+        "appointment_date": "2020-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7823",
+    "company_name": "アートネイチャー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7826",
+    "company_name": "フルヤ金属",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7820",
+    "company_name": "ニホンフラッシュ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7821",
+    "company_name": "前田工繊",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7827",
+    "company_name": "オービス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7808",
+    "company_name": "シー・エス・ランバー",
+    "previous_ceos": []
   }
 ]

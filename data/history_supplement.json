@@ -74957,5 +74957,468 @@
     "ticker": "8927",
     "company_name": "明豊エンタープライズ",
     "previous_ceos": []
+  },
+  {
+    "ticker": "8929",
+    "company_name": "青山財産ネットワークス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8934",
+    "company_name": "サンフロンティア不動産",
+    "previous_ceos": [
+      {
+        "name": "小池正彪",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8934_サンフロンティア不動産\\history\\01_小池正彪\\photo_01.jpg"
+      },
+      {
+        "name": "井上逸郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山尾忠治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "江戸英雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8934_サンフロンティア不動産\\history\\04_江戸英雄\\photo_01.jpg"
+      },
+      {
+        "name": "坪井東",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田中順一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩沙弘道",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菰田正信",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "植田俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8935",
+    "company_name": "FJネクストホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8938",
+    "company_name": "グローム・ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8940",
+    "company_name": "インテリックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8944",
+    "company_name": "ランドビジネス",
+    "previous_ceos": [
+      {
+        "name": "現在",
+        "appointment_date": "2024-06-01",
+        "resignation_date": "2024-06-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "8945",
+    "company_name": "サンネクスタグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8931",
+    "company_name": "和田興産",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8584",
+    "company_name": "ジャックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8698",
+    "company_name": "マネックスグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8996",
+    "company_name": "ハウスフリーダム",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8999",
+    "company_name": "グランディハウス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9001",
+    "company_name": "東武鉄道",
+    "previous_ceos": [
+      {
+        "name": "吉野伝治",
+        "appointment_date": "1940-01-01",
+        "resignation_date": "1940-02-03",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9001_東武鉄道\\history\\01_吉野伝治\\photo_01.jpg"
+      },
+      {
+        "name": "原邦造",
+        "appointment_date": "1940-04-01",
+        "resignation_date": "1941-06-25",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9001_東武鉄道\\history\\02_原邦造\\photo_01.jpg"
+      },
+      {
+        "name": "内田隆滋",
+        "appointment_date": "1994-06-01",
+        "resignation_date": "1999-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "根津嘉澄",
+        "appointment_date": "1999-06-01",
+        "resignation_date": "2023-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "都筑豊",
+        "appointment_date": "2023-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9001_東武鉄道\\history\\05_都筑豊\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9003",
+    "company_name": "相鉄ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9006",
+    "company_name": "京浜急行電鉄",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9005",
+    "company_name": "東急",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9008",
+    "company_name": "京王電鉄",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8946",
+    "company_name": "ASIAN　STAR",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9009",
+    "company_name": "京成電鉄",
+    "previous_ceos": [
+      {
+        "name": "本多貞次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9009_京成電鉄\\history\\01_本多貞次郎\\photo_01.jpg"
+      },
+      {
+        "name": "後藤圀彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉田秀弥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大山秀雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤光夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村田倉夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "妹尾弘人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大塚弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "花田力",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三枝紀生",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小林敏也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9010",
+    "company_name": "富士急行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9017",
+    "company_name": "新潟交通",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9020",
+    "company_name": "東日本旅客鉄道",
+    "previous_ceos": [
+      {
+        "name": "住田正二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9020_東日本旅客鉄道\\history\\01_住田正二\\photo_01.jpg"
+      },
+      {
+        "name": "松田昌士",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大塚陸毅",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清野智",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9020_東日本旅客鉄道\\history\\04_清野智\\photo_01.jpg"
+      },
+      {
+        "name": "冨田哲郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "深澤祐二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8995",
+    "company_name": "誠建設工業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9007",
+    "company_name": "小田急電鉄",
+    "previous_ceos": [
+      {
+        "name": "利光鶴松",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9007_小田急電鉄\\history\\01_利光鶴松\\photo_01.jpg"
+      },
+      {
+        "name": "五島慶太",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安藤楢六",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9021",
+    "company_name": "西日本旅客鉄道",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9022",
+    "company_name": "東海旅客鉄道",
+    "previous_ceos": [
+      {
+        "name": "須田寬",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "葛西敬之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松本正之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9022_東海旅客鉄道\\history\\03_松本正之\\photo_01.jpg"
+      },
+      {
+        "name": "山田佳臣",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9022_東海旅客鉄道\\history\\04_山田佳臣\\photo_01.jpg"
+      },
+      {
+        "name": "柘植康英",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金子慎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "丹羽俊介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9025",
+    "company_name": "鴻池運輸",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9024",
+    "company_name": "西武ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9023",
+    "company_name": "東京地下鉄",
+    "previous_ceos": [
+      {
+        "name": "奥義光",
+        "appointment_date": "2011-06-01",
+        "resignation_date": "2017-06-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山村明義",
+        "appointment_date": "2017-06-01",
+        "resignation_date": "2025-06-25",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "濱中昭一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉田二郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安富正文",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "本田勝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川澄俊文",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9029",
+    "company_name": "ヒガシホールディングス",
+    "previous_ceos": []
   }
 ]

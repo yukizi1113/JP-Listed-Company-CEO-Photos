@@ -78712,5 +78712,878 @@
     "ticker": "9423",
     "company_name": "フォーバル・リアルストレート",
     "previous_ceos": []
+  },
+  {
+    "ticker": "9435",
+    "company_name": "光通信",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9433",
+    "company_name": "KDDI",
+    "previous_ceos": [
+      {
+        "name": "現在",
+        "appointment_date": "2024-06-01",
+        "resignation_date": "2024-06-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9436",
+    "company_name": "沖縄セルラー電話",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9434",
+    "company_name": "ソフトバンク",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9438",
+    "company_name": "エムティーアイ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9441",
+    "company_name": "ベルパーク",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9445",
+    "company_name": "フォーバルテレコム",
+    "previous_ceos": [
+      {
+        "name": "初代法人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "宇野康秀",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鈴木達",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "武林聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鈴木孝博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "大澤智憲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9446",
+    "company_name": "サカイホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9432",
+    "company_name": "日本電信電話",
+    "previous_ceos": [
+      {
+        "name": "真藤恒",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山口開生",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9432_日本電信電話\\history\\02_山口開生\\photo_01.jpg"
+      },
+      {
+        "name": "児島仁",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮津純一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9432_日本電信電話\\history\\04_宮津純一郎\\photo_01.jpg"
+      },
+      {
+        "name": "和田紀夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三浦惺",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鵜浦博夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "澤田純",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9432_日本電信電話\\history\\08_澤田純\\photo_01.jpg"
+      },
+      {
+        "name": "島田明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9450",
+    "company_name": "ファイバーゲート",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9444",
+    "company_name": "トーシンホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9449",
+    "company_name": "GMOインターネットグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9439",
+    "company_name": "エム・エイチ・グループ",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9439_エム・エイチ・グループ\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9467",
+    "company_name": "アルファポリス",
+    "previous_ceos": [
+      {
+        "name": "杉浦幸昌",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "伍賀槌太",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "福田祐介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9467_アルファポリス\\history\\03_福田祐介\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9466",
+    "company_name": "アイドママーケティングコミュニケーション",
+    "previous_ceos": [
+      {
+        "name": "石坂泰三",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1957-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9466_アイドママーケティングコミュニケーション\\history\\01_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岩下文雄",
+        "appointment_date": "1957-11-01",
+        "resignation_date": "1965-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土光敏夫",
+        "appointment_date": "1965-05-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置敬三",
+        "appointment_date": "1972-08-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田弐夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐波正一",
+        "appointment_date": "1986-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡里杉一郎",
+        "appointment_date": "1986-04-01",
+        "resignation_date": "1987-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青井舒一",
+        "appointment_date": "1987-07-01",
+        "resignation_date": "1992-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤文夫",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村正",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西田厚聰",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9466_アイドママーケティングコミュニケーション\\history\\12_西田厚聰\\photo_01.jpg"
+      },
+      {
+        "name": "田中久雄",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2015-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "室町正志",
+        "appointment_date": "2015-07-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綱川智",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "車谷暢昭",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2021-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島田太郎",
+        "appointment_date": "2022-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9470",
+    "company_name": "学研ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9476",
+    "company_name": "中央経済社ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9474",
+    "company_name": "ゼンリン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9468",
+    "company_name": "KADOKAWA",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9478",
+    "company_name": "SEホールディングス・アンド・インキュベーションズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9501",
+    "company_name": "東京電力ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "安蔵弥輔",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9501_東京電力ホールディングス\\history\\01_安蔵弥輔\\photo_01.jpg"
+      },
+      {
+        "name": "高井亮太郎",
+        "appointment_date": "1952-09-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9501_東京電力ホールディングス\\history\\02_高井亮太郎\\photo_01.jpg"
+      },
+      {
+        "name": "青木均一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9501_東京電力ホールディングス\\history\\03_青木均一\\photo_01.jpg"
+      },
+      {
+        "name": "木川田一隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9501_東京電力ホールディングス\\history\\04_木川田一隆\\photo_01.jpg"
+      },
+      {
+        "name": "水野久男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9501_東京電力ホールディングス\\history\\05_水野久男\\photo_01.jpg"
+      },
+      {
+        "name": "平岩外四",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "那須翔",
+        "appointment_date": "1984-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "荒木浩",
+        "appointment_date": "1993-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "南直哉",
+        "appointment_date": "1999-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "勝俣恒久",
+        "appointment_date": "2002-09-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清水正孝",
+        "appointment_date": "2008-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西澤俊夫",
+        "appointment_date": "2012-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9501_東京電力ホールディングス\\history\\12_西澤俊夫\\photo_01.jpg"
+      },
+      {
+        "name": "廣瀬直己",
+        "appointment_date": "2012-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小早川智明",
+        "appointment_date": "2017-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "新木栄吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9501_東京電力ホールディングス\\history\\15_新木栄吉\\photo_01.jpg"
+      },
+      {
+        "name": "新井章治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菅礼之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田村滋美",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "下河邉和彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "数土文夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9501_東京電力ホールディングス\\history\\20_数土文夫\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9475",
+    "company_name": "昭文社ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9502",
+    "company_name": "中部電力",
+    "previous_ceos": [
+      {
+        "name": "井上五郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "横山通夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9502_中部電力\\history\\02_横山通夫\\photo_01.jpg"
+      },
+      {
+        "name": "加藤乙三郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田中精一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松永亀三郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9502_中部電力\\history\\05_松永亀三郎\\photo_01.jpg"
+      },
+      {
+        "name": "安部浩平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "太田宏次",
+        "appointment_date": "1995-06-01",
+        "resignation_date": "2001-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川口文夫",
+        "appointment_date": "2001-06-01",
+        "resignation_date": "2006-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三田敏雄",
+        "appointment_date": "2006-06-01",
+        "resignation_date": "2010-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水野明久",
+        "appointment_date": "2010-06-01",
+        "resignation_date": "2015-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "勝野哲",
+        "appointment_date": "2015-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "林欣吾",
+        "appointment_date": "2020-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9505",
+    "company_name": "北陸電力",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9503",
+    "company_name": "関西電力",
+    "previous_ceos": [
+      {
+        "name": "太田垣士郎",
+        "appointment_date": "1951-05-01",
+        "resignation_date": "1959-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9503_関西電力\\history\\01_太田垣士郎\\photo_01.jpg"
+      },
+      {
+        "name": "芦原義重",
+        "appointment_date": "1959-11-01",
+        "resignation_date": "1970-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉村清三",
+        "appointment_date": "1970-11-01",
+        "resignation_date": "1975-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森岡俊男",
+        "appointment_date": "1975-05-01",
+        "resignation_date": "1977-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小林庄一郎",
+        "appointment_date": "1977-06-01",
+        "resignation_date": "1985-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森井清二",
+        "appointment_date": "1985-11-01",
+        "resignation_date": "1991-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "秋山喜久",
+        "appointment_date": "1991-11-01",
+        "resignation_date": "1999-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石川博志",
+        "appointment_date": "1999-06-01",
+        "resignation_date": "2001-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤洋作",
+        "appointment_date": "2001-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森詳介",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2010-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9503_関西電力\\history\\10_森詳介\\photo_01.jpg"
+      },
+      {
+        "name": "八木誠",
+        "appointment_date": "2010-06-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩根茂樹",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森本孝",
+        "appointment_date": "2020-03-01",
+        "resignation_date": "2022-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森望",
+        "appointment_date": "2022-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9504",
+    "company_name": "中国電力",
+    "previous_ceos": [
+      {
+        "name": "島田兵蔵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "櫻内乾雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山根寛作",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松谷健一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "多田公煕",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "髙須司登",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "白倉茂生",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山下隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9504_中国電力\\history\\08_山下隆\\photo_01.jpg"
+      },
+      {
+        "name": "苅田知英",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清水希茂",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "瀧本夏彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中川賢剛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9507",
+    "company_name": "四国電力",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9509",
+    "company_name": "北海道電力",
+    "previous_ceos": [
+      {
+        "name": "安蔵弥輔",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9509_北海道電力\\history\\01_安蔵弥輔\\photo_01.jpg"
+      },
+      {
+        "name": "高井亮太郎",
+        "appointment_date": "1952-09-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9509_北海道電力\\history\\02_高井亮太郎\\photo_01.jpg"
+      },
+      {
+        "name": "青木均一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "木川田一隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水野久男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平岩外四",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "那須翔",
+        "appointment_date": "1984-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "荒木浩",
+        "appointment_date": "1993-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "南直哉",
+        "appointment_date": "1999-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "勝俣恒久",
+        "appointment_date": "2002-09-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清水正孝",
+        "appointment_date": "2008-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西澤俊夫",
+        "appointment_date": "2012-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "廣瀬直己",
+        "appointment_date": "2012-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小早川智明",
+        "appointment_date": "2017-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "新木栄吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "新井章治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菅礼之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田村滋美",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "下河邉和彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "数土文夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9513",
+    "company_name": "電源開発",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9511",
+    "company_name": "沖縄電力",
+    "previous_ceos": []
   }
 ]

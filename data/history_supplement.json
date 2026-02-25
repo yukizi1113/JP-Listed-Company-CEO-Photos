@@ -2825,21 +2825,24 @@
         "title": "代表取締役社長",
         "appointment_date": "2022年2月19日",
         "resignation_date": "2018年7月18日",
-        "source": "https://ja.wikipedia.org/wiki/%E5%89%8D%E6%BE%A4%E5%8F%8B%E4%BD%9C"
+        "source": "https://ja.wikipedia.org/wiki/%E5%89%8D%E6%BE%A4%E5%8F%8B%E4%BD%9C",
+        "photo_path": "photos_1\\3092_ZOZO\\history\\01_拒否_新規参\\photo_01.jpg"
       },
       {
         "name": "澤氏 千葉",
         "title": "代表取締役社長",
         "appointment_date": "2019年12月25日",
         "resignation_date": "2019年12月25日",
-        "source": "https://ja.wikipedia.org/wiki/%E5%89%8D%E6%BE%A4%E5%8F%8B%E4%BD%9C"
+        "source": "https://ja.wikipedia.org/wiki/%E5%89%8D%E6%BE%A4%E5%8F%8B%E4%BD%9C",
+        "photo_path": "photos_1\\3092_ZOZO\\history\\02_澤氏_千葉\\photo_01.jpg"
       },
       {
         "name": "落札 資金繰",
         "title": "代表取締役社長",
         "appointment_date": "2019年5月13日",
         "resignation_date": "2019年5月17日",
-        "source": "https://ja.wikipedia.org/wiki/%E5%89%8D%E6%BE%A4%E5%8F%8B%E4%BD%9C"
+        "source": "https://ja.wikipedia.org/wiki/%E5%89%8D%E6%BE%A4%E5%8F%8B%E4%BD%9C",
+        "photo_path": "photos_1\\3092_ZOZO\\history\\03_落札_資金繰\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T22:59:47.136679"
@@ -2856,7 +2859,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3075_銚子丸\\history\\01_植村甲午郎\\photo_01.jpg"
       },
       {
         "name": "水野成夫",
@@ -2866,7 +2870,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3075_銚子丸\\history\\02_水野成夫\\photo_01.jpg"
       },
       {
         "name": "鹿内信隆",
@@ -2883,7 +2888,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3075_銚子丸\\history\\04_浅野賢澄\\photo_01.jpg"
       },
       {
         "name": "鹿内春雄",
@@ -2893,7 +2899,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3075_銚子丸\\history\\05_鹿内春雄\\photo_01.jpg"
       },
       {
         "name": "鹿内宏明",
@@ -2903,7 +2910,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3075_銚子丸\\history\\06_鹿内宏明\\photo_01.jpg"
       },
       {
         "name": "日枝久",
@@ -2913,7 +2921,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3075_銚子丸\\history\\07_日枝久\\photo_01.jpg"
       },
       {
         "name": "嘉納修治",
@@ -2923,7 +2932,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3075_銚子丸\\history\\08_嘉納修治\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:02:19.928157"
@@ -2954,14 +2964,16 @@
         "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3137_ファンデリー\\history\\01_娼館_望郷\\photo_01.jpg"
       },
       {
         "name": "七号 君想",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB"
+        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB",
+        "photo_path": "photos_1\\3137_ファンデリー\\history\\02_七号_君想\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:16:39.041185"
@@ -2975,7 +2987,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2026年2月24日",
         "resignation_date": null,
-        "source": "https://www.marketenterprise.co.jp/news/202602249623.html"
+        "source": "https://www.marketenterprise.co.jp/news/202602249623.html",
+        "photo_path": "photos_1\\3135_マーケットエンタープライズ\\history\\01_小林_泰士\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:16:51.209154"
@@ -2989,7 +3002,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2013年01月10日",
         "resignation_date": null,
-        "source": "https://mbkworld.co.jp/press/3642/"
+        "source": "https://mbkworld.co.jp/press/3642/",
+        "photo_path": "photos_1\\3121_マーチャント・バンカーズ\\history\\01_経済_研究\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:17:33.372759"
@@ -3006,7 +3020,8 @@
         "source": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%8D%B0%E5%88%B7",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3159_丸善CHIホールディングス\\history\\01_万円_日本人\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:24:13.473994"
@@ -3020,7 +3035,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3161_アゼアス\\history\\01_斉藤_文明\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:24:46.276922"
@@ -3034,7 +3050,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2022年頃",
         "resignation_date": null,
-        "source": "wayback_machine"
+        "source": "wayback_machine",
+        "photo_path": "photos_1\\3176_三洋貿易\\history\\01_新谷_正伸\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:34:17.872437"
@@ -3048,7 +3065,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3175_エー・ピーホールディングス\\history\\01_院前_伊集院\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:35:06.054041"
@@ -3065,7 +3083,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3178_チムニー\\history\\01_茨田_篤司\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:35:48.551764"
@@ -3079,7 +3098,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2019年3月31日",
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3184_ICDAホールディングス\\history\\01_向井_俊樹\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:41:38.291960"
@@ -3096,7 +3116,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3186_ネクステージ\\history\\01_植村甲午郎\\photo_01.jpg"
       },
       {
         "name": "水野成夫",
@@ -3106,7 +3127,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3186_ネクステージ\\history\\02_水野成夫\\photo_01.jpg"
       },
       {
         "name": "鹿内信隆",
@@ -3120,21 +3142,24 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3186_ネクステージ\\history\\04_浅野賢澄\\photo_01.jpg"
       },
       {
         "name": "鹿内春雄",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3186_ネクステージ\\history\\05_鹿内春雄\\photo_01.jpg"
       },
       {
         "name": "鹿内宏明",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3186_ネクステージ\\history\\06_鹿内宏明\\photo_01.jpg"
       },
       {
         "name": "日枝久",
@@ -3144,7 +3169,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3186_ネクステージ\\history\\07_日枝久\\photo_01.jpg"
       },
       {
         "name": "嘉納修治",
@@ -3154,7 +3180,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3186_ネクステージ\\history\\08_嘉納修治\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:42:19.154747"
@@ -3168,7 +3195,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2025年3月",
         "resignation_date": null,
-        "source": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3%20%28%E4%BC%81%E6%A5%AD%29"
+        "source": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3%20%28%E4%BC%81%E6%A5%AD%29",
+        "photo_path": "photos_1\\3190_ホットマン\\history\\01_坂本_将之資\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:45:03.566486"
@@ -3185,7 +3213,8 @@
         "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9E%9D%E4%B9%85",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3197_すかいらーくホールディングス\\history\\01_言及_金額\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T23:47:42.945442"
@@ -3199,7 +3228,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3238_セントラル総合開発\\history\\01_田中_洋一\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:03:26.750730"
@@ -3213,7 +3243,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2022年頃",
         "resignation_date": null,
-        "source": "wayback_machine"
+        "source": "wayback_machine",
+        "photo_path": "photos_1\\3245_ディア・ライフ\\history\\01_阿部幸広\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:05:00.810472"
@@ -3227,7 +3258,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://www.kobe-np.co.jp/news/economy/202510/0019620756.shtml"
+        "source": "https://www.kobe-np.co.jp/news/economy/202510/0019620756.shtml",
+        "photo_path": "photos_1\\3241_ウィル\\history\\01_次氏_社員\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:06:07.257442"
@@ -3241,7 +3273,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3252_地主\\history\\01_業者_松岡\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:06:36.154019"
@@ -3268,7 +3301,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3246_コーセーアールイー\\history\\02_手塚卓志\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:11:30.391843"
@@ -3282,14 +3316,16 @@
         "title": "代表取締役社長",
         "appointment_date": "2025年12月23日",
         "resignation_date": "2025年12月23日",
-        "source": "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97"
+        "source": "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+        "photo_path": "photos_1\\3286_トラストホールディングス\\history\\01_山氏_三井住\\photo_01.jpg"
       },
       {
         "name": "山氏　海外",
         "title": "代表取締役社長",
         "appointment_date": "2025年7月31日",
         "resignation_date": "2025年12月23日",
-        "source": "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97"
+        "source": "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+        "photo_path": "photos_1\\3286_トラストホールディングス\\history\\02_山氏_海外\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:11:39.337993"
@@ -3306,7 +3342,8 @@
         "source": "wayback_machine",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3293_アズマハウス\\history\\01_和歌山市\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:15:46.309189"
@@ -3320,7 +3357,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3297_東武住販\\history\\01_荻野_利浩\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:18:29.140142"
@@ -3337,7 +3375,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3306_日本製麻\\history\\01_進士仁一\\photo_01.jpg"
       },
       {
         "name": "手塚卓志",
@@ -3347,7 +3386,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3306_日本製麻\\history\\02_手塚卓志\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:25:21.638279"
@@ -3364,7 +3404,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3355_クリヤマホールディングス\\history\\01_植村甲午郎\\photo_01.jpg"
       },
       {
         "name": "水野成夫",
@@ -3374,7 +3415,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3355_クリヤマホールディングス\\history\\02_水野成夫\\photo_01.jpg"
       },
       {
         "name": "鹿内信隆",
@@ -3401,7 +3443,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3355_クリヤマホールディングス\\history\\05_鹿内春雄\\photo_01.jpg"
       },
       {
         "name": "鹿内宏明",
@@ -3411,7 +3454,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3355_クリヤマホールディングス\\history\\06_鹿内宏明\\photo_01.jpg"
       },
       {
         "name": "日枝久",
@@ -3421,7 +3465,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3355_クリヤマホールディングス\\history\\07_日枝久\\photo_01.jpg"
       },
       {
         "name": "嘉納修治",
@@ -3431,7 +3476,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3355_クリヤマホールディングス\\history\\08_嘉納修治\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:27:36.389639"
@@ -3448,7 +3494,8 @@
         "source": "wayback_machine",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3289_東急不動産ホールディングス\\history\\01_西川_弘典\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:29:45.511036"
@@ -3465,14 +3512,16 @@
         "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3361_トーエル\\history\\01_娼館_望郷\\photo_01.jpg"
       },
       {
         "name": "七号 君想",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB"
+        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB",
+        "photo_path": "photos_1\\3361_トーエル\\history\\02_七号_君想\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:29:57.432384"
@@ -3486,7 +3535,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3371_ソフトクリエイトホールディングス\\history\\01_院前_伊集院\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:30:27.762065"
@@ -3503,7 +3553,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3374_内外テック\\history\\01_神子柴_寿昭\\photo_01.jpg"
       },
       {
         "name": "三部 敏宏",
@@ -3513,7 +3564,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3374_内外テック\\history\\02_三部_敏宏\\photo_01.jpg"
       },
       {
         "name": "倉石 誠司",
@@ -3523,7 +3575,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3374_内外テック\\history\\03_倉石_誠司\\photo_01.jpg"
       },
       {
         "name": "竹内 弘平",
@@ -3537,7 +3590,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3374_内外テック\\history\\05_鈴木_麻子\\photo_01.jpg"
       },
       {
         "name": "貝原 典也",
@@ -3547,7 +3601,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3374_内外テック\\history\\06_貝原_典也\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:33:10.689229"
@@ -3561,7 +3616,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3382_セブン&アイ・ホールディングス\\history\\01_院前_伊集院\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:33:31.118978"
@@ -3575,7 +3631,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2020年1月9日",
         "resignation_date": "2024年1月20日",
-        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%9F%E3%81%B0%E3%81%93%E7%94%A3%E6%A5%AD"
+        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%9F%E3%81%B0%E3%81%93%E7%94%A3%E6%A5%AD",
+        "photo_path": "photos_1\\3387_クリエイト・レストランツ・ホールディングス\\history\\01_彦氏_寺畠正\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:35:43.141749"
@@ -3592,7 +3649,8 @@
         "source": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%9E%E3%83%AB%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3395_サンマルクホールディングス\\history\\01_藤川_祐樹社\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:36:08.697745"
@@ -3609,7 +3667,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3392_デリカフーズホールディングス\\history\\01_阪急_大井町\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:36:45.315526"
@@ -3623,7 +3682,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2005年8月25日",
         "resignation_date": "2024年12月",
-        "source": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AF%E3%82%B9%E3%82%BF"
+        "source": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AF%E3%82%B9%E3%82%BF",
+        "photo_path": "photos_1\\3416_ピクスタ\\history\\01_古俣_大介資\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:42:36.100720"
@@ -3640,7 +3700,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3426_アトムリビンテック\\history\\01_植村甲午郎\\photo_01.jpg"
       },
       {
         "name": "水野成夫",
@@ -3650,7 +3711,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3426_アトムリビンテック\\history\\02_水野成夫\\photo_01.jpg"
       },
       {
         "name": "鹿内信隆",
@@ -3670,7 +3732,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3426_アトムリビンテック\\history\\04_浅野賢澄\\photo_01.jpg"
       },
       {
         "name": "鹿内春雄",
@@ -3680,7 +3743,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3426_アトムリビンテック\\history\\05_鹿内春雄\\photo_01.jpg"
       },
       {
         "name": "鹿内宏明",
@@ -3690,7 +3754,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3426_アトムリビンテック\\history\\06_鹿内宏明\\photo_01.jpg"
       },
       {
         "name": "日枝久",
@@ -3700,7 +3765,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3426_アトムリビンテック\\history\\07_日枝久\\photo_01.jpg"
       },
       {
         "name": "嘉納修治",
@@ -3710,7 +3776,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3426_アトムリビンテック\\history\\08_嘉納修治\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:52:42.398047"
@@ -3727,7 +3794,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3436_SUMCO\\history\\01_阿波_俊弘\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:53:13.636638"
@@ -3744,7 +3812,8 @@
         "source": "https://ja.wikipedia.org/wiki/%E5%BB%B6%E6%9A%A6%E5%AF%BA",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3441_山王\\history\\01_送検_大津\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:55:41.938770"
@@ -3761,7 +3830,8 @@
         "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9E%9D%E4%B9%85",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3443_川田テクノロジーズ\\history\\01_言及_金額\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T00:57:57.177544"
@@ -3778,7 +3848,8 @@
         "source": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%91%E3%82%B9",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3449_テクノフレックス\\history\\01_辞任_違法薬\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:02:22.573723"
@@ -3795,7 +3866,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3447_信和\\history\\01_工法_受注棟\\photo_01.jpg"
       },
       {
         "name": "戸数　近畿",
@@ -3805,7 +3877,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3447_信和\\history\\02_戸数_近畿\\photo_01.jpg"
       },
       {
         "name": "棟数　近畿",
@@ -3815,21 +3888,24 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3447_信和\\history\\03_棟数_近畿\\photo_01.jpg"
       },
       {
         "name": "議室　大阪研",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3447_信和\\history\\04_議室_大阪研\\photo_01.jpg"
       },
       {
         "name": "議室 大阪研",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3447_信和\\history\\05_議室_大阪研\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:05:15.242166"
@@ -3843,7 +3919,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3474_G-FACTORY\\history\\01_王洲_銀河劇\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:06:15.032980"
@@ -3860,7 +3937,8 @@
         "source": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%88%86%E3%83%88%E3%83%AA%E3%83%8B%E3%83%BC%E3%82%BF",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3479_ティーケーピー\\history\\01_地獄_大分\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:08:45.096449"
@@ -3874,7 +3952,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2022年頃",
         "resignation_date": null,
-        "source": "wayback_machine"
+        "source": "wayback_machine",
+        "photo_path": "photos_1\\3480_ジェイ・エス・ビー\\history\\01_近藤_雅彦\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:10:59.779364"
@@ -3888,7 +3967,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2012年6月6日",
         "resignation_date": "2012年6月10日",
-        "source": "https://ja.wikipedia.org/wiki/Wii%20U"
+        "source": "https://ja.wikipedia.org/wiki/Wii%20U",
+        "photo_path": "photos_1\\3469_デュアルタップ\\history\\01_田聡_講演内\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:14:28.436108"
@@ -3902,7 +3982,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2021年11月22日",
         "resignation_date": "2021年10月7日",
-        "source": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%20%28%E6%97%A5%E6%9C%AC%29"
+        "source": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%20%28%E6%97%A5%E6%9C%AC%29",
+        "photo_path": "photos_1\\3495_香陵住販\\history\\01_藤氏_日本経\\photo_01.jpg"
       },
       {
         "name": "昇格 小杉氏",
@@ -3912,7 +3993,8 @@
         "source": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%20%28%E6%97%A5%E6%9C%AC%29",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3495_香陵住販\\history\\02_昇格_小杉氏\\photo_01.jpg"
       },
       {
         "name": "空席 山陽新",
@@ -3922,7 +4004,8 @@
         "source": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%20%28%E6%97%A5%E6%9C%AC%29",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3495_香陵住販\\history\\03_空席_山陽新\\photo_01.jpg"
       },
       {
         "name": "死去 岡山経",
@@ -3932,14 +4015,16 @@
         "source": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%20%28%E6%97%A5%E6%9C%AC%29",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3495_香陵住販\\history\\04_死去_岡山経\\photo_01.jpg"
       },
       {
         "name": "辞任 女性",
         "title": "代表取締役社長",
         "appointment_date": "2021年2月10日",
         "resignation_date": "2019年4月9日",
-        "source": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%20%28%E6%97%A5%E6%9C%AC%29"
+        "source": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%20%28%E6%97%A5%E6%9C%AC%29",
+        "photo_path": "photos_1\\3495_香陵住販\\history\\05_辞任_女性\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:16:38.141787"
@@ -3956,7 +4041,8 @@
         "source": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3491_GA_technologies\\history\\01_神戸_肇外部\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:17:13.949265"
@@ -3983,7 +4069,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3475_グッドコムアセット\\history\\02_手塚卓志\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:17:35.327418"
@@ -4000,7 +4087,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3521_エコナックホールディングス\\history\\01_植村甲午郎\\photo_01.jpg"
       },
       {
         "name": "水野成夫",
@@ -4010,7 +4098,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3521_エコナックホールディングス\\history\\02_水野成夫\\photo_01.jpg"
       },
       {
         "name": "鹿内信隆",
@@ -4024,21 +4113,24 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3521_エコナックホールディングス\\history\\04_浅野賢澄\\photo_01.jpg"
       },
       {
         "name": "鹿内春雄",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3521_エコナックホールディングス\\history\\05_鹿内春雄\\photo_01.jpg"
       },
       {
         "name": "鹿内宏明",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3521_エコナックホールディングス\\history\\06_鹿内宏明\\photo_01.jpg"
       },
       {
         "name": "日枝久",
@@ -4048,7 +4140,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3521_エコナックホールディングス\\history\\07_日枝久\\photo_01.jpg"
       },
       {
         "name": "嘉納修治",
@@ -4058,7 +4151,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3521_エコナックホールディングス\\history\\08_嘉納修治\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:19:40.648594"
@@ -4072,7 +4166,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3546_アレンザホールディングス\\history\\01_海空_地球征\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:27:57.612797"
@@ -4089,7 +4184,8 @@
         "source": "https://ja.wikipedia.org/wiki/ZERO1",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3547_串カツ田中ホールディングス\\history\\01_移行_笹崎\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T01:28:52.093718"

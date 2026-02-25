@@ -82641,5 +82641,448 @@
     "ticker": "9976",
     "company_name": "セキチュー",
     "previous_ceos": []
+  },
+  {
+    "ticker": "9979",
+    "company_name": "大庄",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9980",
+    "company_name": "MRKホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9983",
+    "company_name": "ファーストリテイリング",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": "2005-09-01",
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9983_ファーストリテイリング\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9982",
+    "company_name": "タキヒヨー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9978",
+    "company_name": "文教堂グループホールディングス",
+    "previous_ceos": [
+      {
+        "name": "増田義一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青木弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐久間長吉郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9978_文教堂グループホールディングス\\history\\03_佐久間長吉郎\\photo_01.jpg"
+      },
+      {
+        "name": "北島織衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9978_文教堂グループホールディングス\\history\\04_北島織衛\\photo_01.jpg"
+      },
+      {
+        "name": "北島義俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北島義斉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9987",
+    "company_name": "スズケン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9984",
+    "company_name": "ソフトバンクグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9986",
+    "company_name": "蔵王産業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9991",
+    "company_name": "ジェコス",
+    "previous_ceos": [
+      {
+        "name": "數土文夫",
+        "appointment_date": "2003-04-01",
+        "resignation_date": "2005-04-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9991_ジェコス\\history\\01_數土文夫\\photo_01.jpg"
+      },
+      {
+        "name": "馬田一",
+        "appointment_date": "2005-04-01",
+        "resignation_date": "2010-04-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9991_ジェコス\\history\\02_馬田一\\photo_01.jpg"
+      },
+      {
+        "name": "林田英治",
+        "appointment_date": "2010-04-01",
+        "resignation_date": "2015-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "柿木厚司",
+        "appointment_date": "2015-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9991_ジェコス\\history\\04_柿木厚司\\photo_01.jpg"
+      },
+      {
+        "name": "北野嘉久",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2024-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "広瀬政之",
+        "appointment_date": "2024-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "半名正之",
+        "appointment_date": "2003-04-01",
+        "resignation_date": "2007-04-01",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9989",
+    "company_name": "サンドラッグ",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9989_サンドラッグ\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9990",
+    "company_name": "サックスバー　ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9994",
+    "company_name": "やまや",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9993",
+    "company_name": "ヤマザワ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9996",
+    "company_name": "サトー商会",
+    "previous_ceos": [
+      {
+        "name": "森岡昌純",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9996_サトー商会\\history\\01_森岡昌純\\photo_01.jpg"
+      },
+      {
+        "name": "吉川泰二郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9996_サトー商会\\history\\02_吉川泰二郎\\photo_01.jpg"
+      },
+      {
+        "name": "近藤廉平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9996_サトー商会\\history\\03_近藤廉平\\photo_01.jpg"
+      },
+      {
+        "name": "伊東米治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "白仁武",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9996_サトー商会\\history\\05_白仁武\\photo_01.jpg"
+      },
+      {
+        "name": "各務鎌吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大谷登",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "寺井久信",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9996_サトー商会\\history\\08_寺井久信\\photo_01.jpg"
+      },
+      {
+        "name": "市原章則",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "浅尾新甫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "児玉忠康",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "有吉義弥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菊地庄次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小野晋",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮岡公夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "根本二郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "河村健太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "草刈隆郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮原耕治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9996_サトー商会\\history\\19_宮原耕治\\photo_01.jpg"
+      },
+      {
+        "name": "工藤泰三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "135A",
+    "company_name": "VRAIN　Solution",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "130A",
+    "company_name": "Veritas　In　Silico",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "138A",
+    "company_name": "光フードサービス",
+    "previous_ceos": [
+      {
+        "name": "真藤恒",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山口開生",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\138A_光フードサービス\\history\\02_山口開生\\photo_01.jpg"
+      },
+      {
+        "name": "児島仁",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮津純一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\138A_光フードサービス\\history\\04_宮津純一郎\\photo_01.jpg"
+      },
+      {
+        "name": "和田紀夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三浦惺",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鵜浦博夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "澤田純",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\138A_光フードサービス\\history\\08_澤田純\\photo_01.jpg"
+      },
+      {
+        "name": "島田明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "141A",
+    "company_name": "トライアルホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "142A",
+    "company_name": "ジンジブ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "143A",
+    "company_name": "イシン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "137A",
+    "company_name": "Cocolive",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "145A",
+    "company_name": "L　is　B",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "146A",
+    "company_name": "コロンビア・ワークス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "147A",
+    "company_name": "ソラコム",
+    "previous_ceos": [
+      {
+        "name": "現在",
+        "appointment_date": "2024-06-01",
+        "resignation_date": "2024-06-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "148A",
+    "company_name": "ハッチ・ワーク",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "150A",
+    "company_name": "JSH",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "151A",
+    "company_name": "ダイブ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "149A",
+    "company_name": "シンカ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "153A",
+    "company_name": "カウリス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "156A",
+    "company_name": "マテリアルグループ",
+    "previous_ceos": []
   }
 ]

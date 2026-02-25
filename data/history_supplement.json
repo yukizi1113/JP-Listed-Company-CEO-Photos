@@ -77068,5 +77068,428 @@
     "ticker": "9206",
     "company_name": "スターフライヤー",
     "previous_ceos": []
+  },
+  {
+    "ticker": "9211",
+    "company_name": "エフ・コード",
+    "previous_ceos": [
+      {
+        "name": "立石電機",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9211_エフ・コード\\history\\01_立石電機\\photo_01.jpg"
+      },
+      {
+        "name": "立石一真",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9211_エフ・コード\\history\\02_立石一真\\photo_01.jpg"
+      },
+      {
+        "name": "立石孝雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9211_エフ・コード\\history\\03_立石孝雄\\photo_01.jpg"
+      },
+      {
+        "name": "立石義雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "オムロン",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "作田久男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山田義仁",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "辻永順太",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9212",
+    "company_name": "Green　Earth　Institute",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9168",
+    "company_name": "ライズ・コンサルティング・グループ",
+    "previous_ceos": [
+      {
+        "name": "西川善文",
+        "appointment_date": "2002-12-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北山禎介",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2011-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮田孝一",
+        "appointment_date": "2011-04-01",
+        "resignation_date": "2017-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9168_ライズ・コンサルティング・グループ\\history\\03_宮田孝一\\photo_01.jpg"
+      },
+      {
+        "name": "國部毅",
+        "appointment_date": "2017-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "太田純",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2023-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中島達",
+        "appointment_date": "2023-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9214",
+    "company_name": "Recovery　International",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9213",
+    "company_name": "セイファート",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9216",
+    "company_name": "ビーウィズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9215",
+    "company_name": "CaSy",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9218",
+    "company_name": "メンタルヘルステクノロジーズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9220",
+    "company_name": "エフビー介護サービス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9221",
+    "company_name": "フルハシEPO",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9223",
+    "company_name": "ASNOVA",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9225",
+    "company_name": "ブリッジコンサルティンググループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9219",
+    "company_name": "ギックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9227",
+    "company_name": "マイクロ波化学",
+    "previous_ceos": [
+      {
+        "name": "岩垂邦彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9227_マイクロ波化学\\history\\01_岩垂邦彦\\photo_01.jpg"
+      },
+      {
+        "name": "大畑源一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "志田文雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9227_マイクロ波化学\\history\\03_志田文雄\\photo_01.jpg"
+      },
+      {
+        "name": "梶井剛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐伯長生",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺斌衡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小林宏治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田中忠雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "関本忠弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金子尚志",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西垣浩司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金杉明信",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "矢野薫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "遠藤信博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9227_マイクロ波化学\\history\\14_遠藤信博\\photo_01.jpg"
+      },
+      {
+        "name": "新野隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森田隆之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9229",
+    "company_name": "サンウェルズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9233",
+    "company_name": "アジア航測",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9235",
+    "company_name": "売れるネット広告社グループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9236",
+    "company_name": "ジャパンM&Aソリューション",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9201",
+    "company_name": "日本航空",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9202",
+    "company_name": "ANAホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9241",
+    "company_name": "フューチャーリンクネットワーク",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9237",
+    "company_name": "笑美面",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9242",
+    "company_name": "メディア総研",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9245",
+    "company_name": "リベロ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9244",
+    "company_name": "デジタリフト",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9246",
+    "company_name": "プロジェクトホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9247",
+    "company_name": "TREホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9238",
+    "company_name": "バリュークリエーション",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9249",
+    "company_name": "日本エコシステム",
+    "previous_ceos": [
+      {
+        "name": "小平浪平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9249_日本エコシステム\\history\\01_小平浪平\\photo_01.jpg"
+      },
+      {
+        "name": "倉田主税",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9249_日本エコシステム\\history\\02_倉田主税\\photo_01.jpg"
+      },
+      {
+        "name": "駒井健一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9249_日本エコシステム\\history\\03_駒井健一郎\\photo_01.jpg"
+      },
+      {
+        "name": "吉山博吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三田勝茂",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金井務",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "庄山悦彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川一夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川村隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中西宏明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東原敏昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小島啓二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "德永俊昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9249_日本エコシステム\\history\\13_德永俊昭\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9240",
+    "company_name": "デリバリーコンサルティング",
+    "previous_ceos": []
   }
 ]

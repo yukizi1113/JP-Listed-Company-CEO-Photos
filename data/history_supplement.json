@@ -59913,5 +59913,1277 @@
         "source": "wikipedia_table"
       }
     ]
+  },
+  {
+    "ticker": "7189",
+    "company_name": "西日本フィナンシャルホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7196",
+    "company_name": "Casa",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7192",
+    "company_name": "日本モーゲージサービス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7201",
+    "company_name": "日産自動車",
+    "previous_ceos": [
+      {
+        "name": "鮎川 義介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "淺原 源七",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "工藤 治人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本 惣治",
+        "appointment_date": "1945-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川又 克二",
+        "appointment_date": "1957-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩越 忠恕",
+        "appointment_date": "1973-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石原 俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久米 豊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "辻 義文",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塙 義一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西川 廣人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内 康裕",
+        "appointment_date": "2019-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "内田 誠",
+        "appointment_date": "2019-12-01",
+        "resignation_date": "2025-03-01",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7198",
+    "company_name": "SBIアルヒ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7202",
+    "company_name": "いすゞ自動車",
+    "previous_ceos": [
+      {
+        "name": "東京自動車工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7202_いすゞ自動車\\history\\01_東京自動車工業\\photo_01.jpg"
+      },
+      {
+        "name": "松方五郎",
+        "appointment_date": "1937-04-01",
+        "resignation_date": "1940-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木重康",
+        "appointment_date": "1940-05-01",
+        "resignation_date": "1941-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "ヂーゼル自動車工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7202_いすゞ自動車\\history\\04_ヂーゼル自動車工業\\photo_01.jpg"
+      },
+      {
+        "name": "林桂",
+        "appointment_date": "1942-01-01",
+        "resignation_date": "1945-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "弓削靖",
+        "appointment_date": "1945-07-01",
+        "resignation_date": "1946-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三宮吾郎",
+        "appointment_date": "1946-12-01",
+        "resignation_date": "1949-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "いすゞ自動車",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7202_いすゞ自動車\\history\\08_いすゞ自動車\\photo_01.jpg"
+      },
+      {
+        "name": "楠木直道",
+        "appointment_date": "1962-01-01",
+        "resignation_date": "1965-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大橋英吉",
+        "appointment_date": "1965-06-01",
+        "resignation_date": "1970-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "荒牧寅雄",
+        "appointment_date": "1970-06-01",
+        "resignation_date": "1976-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡本利雄",
+        "appointment_date": "1976-01-01",
+        "resignation_date": "1984-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "飛山一男",
+        "appointment_date": "1984-01-01",
+        "resignation_date": "1992-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "関和平",
+        "appointment_date": "1992-01-01",
+        "resignation_date": "1998-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7202_いすゞ自動車\\history\\14_関和平\\photo_01.jpg"
+      },
+      {
+        "name": "稲生武",
+        "appointment_date": "1998-06-01",
+        "resignation_date": "2000-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井田義則",
+        "appointment_date": "2000-12-01",
+        "resignation_date": "2007-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "細井行",
+        "appointment_date": "2007-06-01",
+        "resignation_date": "2015-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7202_いすゞ自動車\\history\\17_細井行\\photo_01.jpg"
+      },
+      {
+        "name": "片山正則",
+        "appointment_date": "2015-06-01",
+        "resignation_date": "2023-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "南真介",
+        "appointment_date": "2023-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7203",
+    "company_name": "トヨタ自動車",
+    "previous_ceos": [
+      {
+        "name": "豊田利三郎",
+        "appointment_date": "1937-08-01",
+        "resignation_date": "1941-01-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7203_トヨタ自動車\\history\\01_豊田利三郎\\photo_01.jpg"
+      },
+      {
+        "name": "豊田喜一郎",
+        "appointment_date": "1941-01-01",
+        "resignation_date": "1950-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7203_トヨタ自動車\\history\\02_豊田喜一郎\\photo_01.jpg"
+      },
+      {
+        "name": "石田退三",
+        "appointment_date": "1950-07-01",
+        "resignation_date": "1961-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中川不器男",
+        "appointment_date": "1961-08-01",
+        "resignation_date": "1967-10-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7203_トヨタ自動車\\history\\04_中川不器男\\photo_01.jpg"
+      },
+      {
+        "name": "豊田英二",
+        "appointment_date": "1967-10-01",
+        "resignation_date": "1982-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "神谷正太郎",
+        "appointment_date": "1950-04-01",
+        "resignation_date": "1975-12-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7203_トヨタ自動車\\history\\06_神谷正太郎\\photo_01.jpg"
+      },
+      {
+        "name": "加藤誠之",
+        "appointment_date": "1975-12-01",
+        "resignation_date": "1979-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本定蔵",
+        "appointment_date": "1979-06-01",
+        "resignation_date": "1981-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "豊田章一郎",
+        "appointment_date": "1981-06-01",
+        "resignation_date": "1982-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "豊田達郎",
+        "appointment_date": "1992-09-01",
+        "resignation_date": "1995-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "奥田碩",
+        "appointment_date": "1995-08-01",
+        "resignation_date": "1999-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "張富士夫",
+        "appointment_date": "1999-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺捷昭",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7203_トヨタ自動車\\history\\13_渡辺捷昭\\photo_01.jpg"
+      },
+      {
+        "name": "豊田章男",
+        "appointment_date": "2009-06-01",
+        "resignation_date": "2023-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤恒治",
+        "appointment_date": "2023-04-01",
+        "resignation_date": "2026-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "近健太",
+        "appointment_date": "2026-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7205",
+    "company_name": "日野自動車",
+    "previous_ceos": [
+      {
+        "name": "日野重工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松井命",
+        "appointment_date": "1942-05-01",
+        "resignation_date": "1945-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日野産業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7205_日野自動車\\history\\03_日野産業\\photo_01.jpg"
+      },
+      {
+        "name": "大久保正二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日野ヂーゼル工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日野自動車工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7205_日野自動車\\history\\06_日野自動車工業\\photo_01.jpg"
+      },
+      {
+        "name": "松方正信",
+        "appointment_date": "1961-05-01",
+        "resignation_date": "1961-05-04",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "荒川政司",
+        "appointment_date": "1974-05-01",
+        "resignation_date": "1974-05-30",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "深澤俊勇",
+        "appointment_date": "1983-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "二見富雄",
+        "appointment_date": "1987-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "湯浅浩",
+        "appointment_date": "1997-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日野自動車",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7205_日野自動車\\history\\12_日野自動車\\photo_01.jpg"
+      },
+      {
+        "name": "蛇川忠暉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "近藤詔治",
+        "appointment_date": "2004-06-01",
+        "resignation_date": "2008-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "白井芳夫",
+        "appointment_date": "2008-06-01",
+        "resignation_date": "2013-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "市橋保彦",
+        "appointment_date": "2013-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "下義生",
+        "appointment_date": "2021-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小木曽聡",
+        "appointment_date": "2021-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7211",
+    "company_name": "三菱自動車工業",
+    "previous_ceos": [
+      {
+        "name": "佐藤勇二",
+        "appointment_date": "1970-04-01",
+        "resignation_date": "1973-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久保富夫",
+        "appointment_date": "1973-05-01",
+        "resignation_date": "1979-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "曽根嘉年",
+        "appointment_date": "1979-06-01",
+        "resignation_date": "1981-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東条輝雄",
+        "appointment_date": "1981-06-01",
+        "resignation_date": "1983-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7211_三菱自動車工業\\history\\04_東条輝雄\\photo_01.jpg"
+      },
+      {
+        "name": "舘豊夫",
+        "appointment_date": "1983-06-01",
+        "resignation_date": "1989-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村裕一",
+        "appointment_date": "1989-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塚原董久",
+        "appointment_date": "1995-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7211_三菱自動車工業\\history\\07_塚原董久\\photo_01.jpg"
+      },
+      {
+        "name": "木村雄宗",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "1997-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "河添克彦",
+        "appointment_date": "1997-11-01",
+        "resignation_date": "2000-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "園部孝",
+        "appointment_date": "2000-11-01",
+        "resignation_date": "2002-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "ロルフ・エクロート",
+        "appointment_date": "2002-06-01",
+        "resignation_date": "2004-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "多賀谷秀保",
+        "appointment_date": "2004-06-01",
+        "resignation_date": "2005-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "益子修",
+        "appointment_date": "2005-01-01",
+        "resignation_date": "2014-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "相川哲郎",
+        "appointment_date": "2014-06-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7211_三菱自動車工業\\history\\14_相川哲郎\\photo_01.jpg"
+      },
+      {
+        "name": "加藤隆雄",
+        "appointment_date": "2019-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7208",
+    "company_name": "カネミツ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7213",
+    "company_name": "レシップホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7213_レシップホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "7214",
+    "company_name": "GMB",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7214_GMB\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7214_GMB\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7214_GMB\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7212",
+    "company_name": "エフテック",
+    "previous_ceos": [
+      {
+        "name": "本田 宗一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "河島 喜好",
+        "appointment_date": "1973-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久米 是志",
+        "appointment_date": "1983-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川本 信彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉野 浩行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福井 威夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊東 孝紳",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "八郷 隆弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三部 敏宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7217",
+    "company_name": "テイン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7218",
+    "company_name": "田中精密工業",
+    "previous_ceos": [
+      {
+        "name": "本田 宗一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "河島 喜好",
+        "appointment_date": "1973-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久米 是志",
+        "appointment_date": "1983-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川本 信彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉野 浩行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福井 威夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊東 孝紳",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "八郷 隆弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三部 敏宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7219",
+    "company_name": "エッチ・ケー・エス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7220",
+    "company_name": "武蔵精密工業",
+    "previous_ceos": [
+      {
+        "name": "本田 宗一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "河島 喜好",
+        "appointment_date": "1973-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久米 是志",
+        "appointment_date": "1983-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川本 信彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉野 浩行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福井 威夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊東 孝紳",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "八郷 隆弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三部 敏宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7199",
+    "company_name": "プレミアグループ",
+    "previous_ceos": [
+      {
+        "name": "西川善文",
+        "appointment_date": "2002-12-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北山禎介",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2011-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮田孝一",
+        "appointment_date": "2011-04-01",
+        "resignation_date": "2017-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7199_プレミアグループ\\history\\03_宮田孝一\\photo_01.jpg"
+      },
+      {
+        "name": "國部毅",
+        "appointment_date": "2017-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "太田純",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2023-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中島達",
+        "appointment_date": "2023-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7222",
+    "company_name": "日産車体",
+    "previous_ceos": [
+      {
+        "name": "鮎川 義介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "淺原 源七",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "工藤 治人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本 惣治",
+        "appointment_date": "1945-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川又 克二",
+        "appointment_date": "1957-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩越 忠恕",
+        "appointment_date": "1973-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石原 俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久米 豊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "辻 義文",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塙 義一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西川 廣人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内 康裕",
+        "appointment_date": "2019-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "内田 誠",
+        "appointment_date": "2019-12-01",
+        "resignation_date": "2025-03-01",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7224",
+    "company_name": "新明和工業",
+    "previous_ceos": [
+      {
+        "name": "ダイハツ工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7224_新明和工業\\history\\01_ダイハツ工業\\photo_01.jpg"
+      },
+      {
+        "name": "ダイハツ自動車販売",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7226",
+    "company_name": "極東開発工業",
+    "previous_ceos": [
+      {
+        "name": "佐藤勇二",
+        "appointment_date": "1970-04-01",
+        "resignation_date": "1973-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久保富夫",
+        "appointment_date": "1973-05-01",
+        "resignation_date": "1979-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7226_極東開発工業\\history\\02_久保富夫\\photo_01.jpg"
+      },
+      {
+        "name": "曽根嘉年",
+        "appointment_date": "1979-06-01",
+        "resignation_date": "1981-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7226_極東開発工業\\history\\03_曽根嘉年\\photo_01.jpg"
+      },
+      {
+        "name": "東条輝雄",
+        "appointment_date": "1981-06-01",
+        "resignation_date": "1983-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7226_極東開発工業\\history\\04_東条輝雄\\photo_01.jpg"
+      },
+      {
+        "name": "舘豊夫",
+        "appointment_date": "1983-06-01",
+        "resignation_date": "1989-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村裕一",
+        "appointment_date": "1989-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塚原董久",
+        "appointment_date": "1995-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "木村雄宗",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "1997-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "河添克彦",
+        "appointment_date": "1997-11-01",
+        "resignation_date": "2000-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "園部孝",
+        "appointment_date": "2000-11-01",
+        "resignation_date": "2002-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "ロルフ・エクロート",
+        "appointment_date": "2002-06-01",
+        "resignation_date": "2004-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "多賀谷秀保",
+        "appointment_date": "2004-06-01",
+        "resignation_date": "2005-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "益子修",
+        "appointment_date": "2005-01-01",
+        "resignation_date": "2014-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7226_極東開発工業\\history\\13_益子修\\photo_01.jpg"
+      },
+      {
+        "name": "相川哲郎",
+        "appointment_date": "2014-06-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "加藤隆雄",
+        "appointment_date": "2019-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7228",
+    "company_name": "デイトナ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7231",
+    "company_name": "トピー工業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7183",
+    "company_name": "あんしん保証",
+    "previous_ceos": [
+      {
+        "name": "石原邦夫",
+        "appointment_date": "2002-04-01",
+        "resignation_date": "2007-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7183_あんしん保証\\history\\01_石原邦夫\\photo_01.jpg"
+      },
+      {
+        "name": "隅修三",
+        "appointment_date": "2007-06-01",
+        "resignation_date": "2008-07-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7183_あんしん保証\\history\\02_隅修三\\photo_01.jpg"
+      },
+      {
+        "name": "永野毅",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2019-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小宮暁",
+        "appointment_date": "2019-06-01",
+        "resignation_date": "2025-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小池昌洋",
+        "appointment_date": "2025-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7235",
+    "company_name": "東京ラヂエーター製造",
+    "previous_ceos": [
+      {
+        "name": "日野重工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松井命",
+        "appointment_date": "1942-05-01",
+        "resignation_date": "1945-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日野産業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7235_東京ラヂエーター製造\\history\\03_日野産業\\photo_01.jpg"
+      },
+      {
+        "name": "大久保正二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日野ヂーゼル工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7235_東京ラヂエーター製造\\history\\05_日野ヂーゼル工業\\photo_01.jpg"
+      },
+      {
+        "name": "日野自動車工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松方正信",
+        "appointment_date": "1961-05-01",
+        "resignation_date": "1961-05-04",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "荒川政司",
+        "appointment_date": "1974-05-01",
+        "resignation_date": "1974-05-30",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "深澤俊勇",
+        "appointment_date": "1983-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "二見富雄",
+        "appointment_date": "1987-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "湯浅浩",
+        "appointment_date": "1997-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日野自動車",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7235_東京ラヂエーター製造\\history\\12_日野自動車\\photo_01.jpg"
+      },
+      {
+        "name": "蛇川忠暉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "近藤詔治",
+        "appointment_date": "2004-06-01",
+        "resignation_date": "2008-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "白井芳夫",
+        "appointment_date": "2008-06-01",
+        "resignation_date": "2013-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "市橋保彦",
+        "appointment_date": "2013-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "下義生",
+        "appointment_date": "2021-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小木曽聡",
+        "appointment_date": "2021-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7238",
+    "company_name": "曙ブレーキ工業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7236",
+    "company_name": "ティラド",
+    "previous_ceos": [
+      {
+        "name": "小林三午郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小野金雄",
+        "appointment_date": "1949-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩崎宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "橋本修ニ",
+        "appointment_date": "1999-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "嘉納裕躬",
+        "appointment_date": "2008-04-01",
+        "resignation_date": "2018-06-01",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7240",
+    "company_name": "NOK",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7215",
+    "company_name": "ファルテック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7239",
+    "company_name": "タチエス",
+    "previous_ceos": []
   }
 ]

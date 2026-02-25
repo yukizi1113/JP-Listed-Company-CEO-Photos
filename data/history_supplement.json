@@ -61926,5 +61926,595 @@
     "ticker": "7287",
     "company_name": "日本精機",
     "previous_ceos": []
+  },
+  {
+    "ticker": "7294",
+    "company_name": "ヨロズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7299",
+    "company_name": "フジオーゼックス",
+    "previous_ceos": [
+      {
+        "name": "電気製鋼所",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "下出民義",
+        "appointment_date": "1916-08-01",
+        "resignation_date": "1917-09-12",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福澤桃介",
+        "appointment_date": "1917-09-01",
+        "resignation_date": "1922-07-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "寒川恒貞",
+        "appointment_date": "1922-07-01",
+        "resignation_date": "1931-06-11",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "下出義雄",
+        "appointment_date": "1931-06-01",
+        "resignation_date": "1946-02-25",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村秀夫",
+        "appointment_date": "1946-03-01",
+        "resignation_date": "1946-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "末廣幸次郎",
+        "appointment_date": "1951-01-01",
+        "resignation_date": "1953-08-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "里村伸二",
+        "appointment_date": "1953-08-01",
+        "resignation_date": "1958-03-11",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石井健一郎",
+        "appointment_date": "1958-03-01",
+        "resignation_date": "1973-08-30",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "武田喜三",
+        "appointment_date": "1973-08-01",
+        "resignation_date": "1982-09-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "秋田正彌",
+        "appointment_date": "1982-09-01",
+        "resignation_date": "1986-05-30",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "木下浩次",
+        "appointment_date": "1986-05-01",
+        "resignation_date": "1988-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岸田寿夫",
+        "appointment_date": "1988-06-01",
+        "resignation_date": "1992-06-26",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7299_フジオーゼックス\\history\\13_岸田寿夫\\photo_01.jpg"
+      },
+      {
+        "name": "冨田寛治",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1998-06-26",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高山剛",
+        "appointment_date": "1998-06-01",
+        "resignation_date": "2004-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小澤正俊",
+        "appointment_date": "2004-06-01",
+        "resignation_date": "2010-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "嶋尾正",
+        "appointment_date": "2010-06-01",
+        "resignation_date": "2016-06-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石黒武",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2023-06-27",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清水哲也",
+        "appointment_date": "2023-06-01",
+        "resignation_date": "2023-06-27",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7297",
+    "company_name": "カーメイト",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7305",
+    "company_name": "新家工業",
+    "previous_ceos": [
+      {
+        "name": "ダイハツ工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7305_新家工業\\history\\01_ダイハツ工業\\photo_01.jpg"
+      },
+      {
+        "name": "ダイハツ自動車販売",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7296",
+    "company_name": "エフ・シー・シー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7309",
+    "company_name": "シマノ",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7309_シマノ\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7309_シマノ\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7309_シマノ\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7313",
+    "company_name": "テイ・エス　テック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7318",
+    "company_name": "セレンディップ・ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7314",
+    "company_name": "小田原機器",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7322",
+    "company_name": "三十三フィナンシャルグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7317",
+    "company_name": "松屋アールアンドディ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7320",
+    "company_name": "Solvvy",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7280",
+    "company_name": "ミツバ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7327",
+    "company_name": "第四北越フィナンシャルグループ",
+    "previous_ceos": [
+      {
+        "name": "菅哲哉",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2023-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西山和宏",
+        "appointment_date": "2023-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7326",
+    "company_name": "SBIインシュアランスグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7337",
+    "company_name": "ひろぎんホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7343",
+    "company_name": "ブロードマインド",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7325",
+    "company_name": "アイリックコーポレーション",
+    "previous_ceos": [
+      {
+        "name": "柳沢保恵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "矢野恒太",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7325_アイリックコーポレーション\\history\\02_矢野恒太\\photo_01.jpg"
+      },
+      {
+        "name": "石坂泰三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7325_アイリックコーポレーション\\history\\03_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "矢野一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "浜口吉兵衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "矢田恒久",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塚本亮一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "牧山公郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西尾信一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "桜井孝頴",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7325_アイリックコーポレーション\\history\\10_桜井孝頴\\photo_01.jpg"
+      },
+      {
+        "name": "森田富治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "斎藤勝利",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡邉光一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "稲垣精二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菊田徹也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7350",
+    "company_name": "おきなわフィナンシャルグループ",
+    "previous_ceos": [
+      {
+        "name": "福田浩一",
+        "appointment_date": "2006-10-01",
+        "resignation_date": "2016-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉村猛",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-06-25",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "椋梨敬介",
+        "appointment_date": "2020-06-01",
+        "resignation_date": "2020-06-25",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7345",
+    "company_name": "アイ・パートナーズフィナンシャル",
+    "previous_ceos": [
+      {
+        "name": "西川善文",
+        "appointment_date": "2002-12-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北山禎介",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2011-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮田孝一",
+        "appointment_date": "2011-04-01",
+        "resignation_date": "2017-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7345_アイ・パートナーズフィナンシャル\\history\\03_宮田孝一\\photo_01.jpg"
+      },
+      {
+        "name": "國部毅",
+        "appointment_date": "2017-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "太田純",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2023-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中島達",
+        "appointment_date": "2023-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7347",
+    "company_name": "マーキュリアホールディングス",
+    "previous_ceos": [
+      {
+        "name": "石坂泰三",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1957-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7347_マーキュリアホールディングス\\history\\01_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岩下文雄",
+        "appointment_date": "1957-11-01",
+        "resignation_date": "1965-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土光敏夫",
+        "appointment_date": "1965-05-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置敬三",
+        "appointment_date": "1972-08-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田弐夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐波正一",
+        "appointment_date": "1986-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡里杉一郎",
+        "appointment_date": "1986-04-01",
+        "resignation_date": "1987-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青井舒一",
+        "appointment_date": "1987-07-01",
+        "resignation_date": "1992-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤文夫",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7347_マーキュリアホールディングス\\history\\10_西室泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岡村正",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西田厚聰",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7347_マーキュリアホールディングス\\history\\12_西田厚聰\\photo_01.jpg"
+      },
+      {
+        "name": "田中久雄",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2015-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "室町正志",
+        "appointment_date": "2015-07-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綱川智",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "車谷暢昭",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2021-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島田太郎",
+        "appointment_date": "2022-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7353",
+    "company_name": "KIYOラーニング",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7352",
+    "company_name": "TWOSTONE&Sons",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7356",
+    "company_name": "Retty",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7351",
+    "company_name": "グッドパッチ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7354",
+    "company_name": "ダイレクトマーケティングミックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7358",
+    "company_name": "ポピンズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7359",
+    "company_name": "東京通信グループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7362",
+    "company_name": "T.S.I",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7357",
+    "company_name": "ジオコード",
+    "previous_ceos": []
   }
 ]

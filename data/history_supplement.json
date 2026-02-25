@@ -72434,5 +72434,395 @@
     "ticker": "8368",
     "company_name": "百五銀行",
     "previous_ceos": []
+  },
+  {
+    "ticker": "8367",
+    "company_name": "南都銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8377",
+    "company_name": "ほくほくフィナンシャルグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8370",
+    "company_name": "紀陽銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8383",
+    "company_name": "鳥取銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8381",
+    "company_name": "山陰合同銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8387",
+    "company_name": "四国銀行",
+    "previous_ceos": [
+      {
+        "name": "伊東弘敦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8387_四国銀行\\history\\01_伊東弘敦\\photo_01.jpg"
+      },
+      {
+        "name": "梅原利之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8387_四国銀行\\history\\02_梅原利之\\photo_01.jpg"
+      },
+      {
+        "name": "松田清宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "泉雅文",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8387_四国銀行\\history\\04_泉雅文\\photo_01.jpg"
+      },
+      {
+        "name": "半井真司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西牧世博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "四之宮和幸",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8386",
+    "company_name": "百十四銀行",
+    "previous_ceos": [
+      {
+        "name": "宮本園丸",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鎌田房次",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井上耕作",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村新太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8386_百十四銀行\\history\\04_中村新太郎\\photo_01.jpg"
+      },
+      {
+        "name": "宮武耕造",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塩田伊三郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "里見信三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綾田整治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8386_百十四銀行\\history\\08_綾田整治\\photo_01.jpg"
+      },
+      {
+        "name": "中條晴夫",
+        "appointment_date": "1995-05-01",
+        "resignation_date": "1995-05-17",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三野 博",
+        "appointment_date": "1994-04-01",
+        "resignation_date": "1994-04-08",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松本恭輔",
+        "appointment_date": "2005-09-01",
+        "resignation_date": "2005-09-04",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8386_百十四銀行\\history\\11_松本恭輔\\photo_01.jpg"
+      },
+      {
+        "name": "綾田修作",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹崎克彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡邉智樹",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綾田裕次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8388",
+    "company_name": "阿波銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8392",
+    "company_name": "大分銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8393",
+    "company_name": "宮崎銀行",
+    "previous_ceos": [
+      {
+        "name": "副頭取",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "退任日",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安田善之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\8393_宮崎銀行\\history\\03_安田善之助\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "8366",
+    "company_name": "滋賀銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8399",
+    "company_name": "琉球銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8395",
+    "company_name": "佐賀銀行",
+    "previous_ceos": [
+      {
+        "name": "副頭取",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "退任日",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安田善之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\8395_佐賀銀行\\history\\03_安田善之助\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "8410",
+    "company_name": "セブン銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8411",
+    "company_name": "みずほフィナンシャルグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8424",
+    "company_name": "芙蓉総合リース",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8418",
+    "company_name": "山口フィナンシャルグループ",
+    "previous_ceos": [
+      {
+        "name": "福田浩一",
+        "appointment_date": "2006-10-01",
+        "resignation_date": "2016-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉村猛",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-06-25",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "椋梨敬介",
+        "appointment_date": "2020-06-01",
+        "resignation_date": "2020-06-25",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "8425",
+    "company_name": "みずほリース",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8416",
+    "company_name": "高知銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8473",
+    "company_name": "SBIホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\8473_SBIホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "8439",
+    "company_name": "東京センチュリー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8508",
+    "company_name": "Jトラスト",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8511",
+    "company_name": "日本証券金融",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8522",
+    "company_name": "名古屋銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8515",
+    "company_name": "アイフル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8518",
+    "company_name": "日本アジア投資",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8524",
+    "company_name": "北洋銀行",
+    "previous_ceos": [
+      {
+        "name": "武井正直",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\8524_北洋銀行\\history\\01_武井正直\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "8537",
+    "company_name": "大光銀行",
+    "previous_ceos": [
+      {
+        "name": "東大法学部卒",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "元大蔵省",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "京大法学部卒",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "新潟県出身",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "8541",
+    "company_name": "愛媛銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "8282",
+    "company_name": "ケーズホールディングス",
+    "previous_ceos": []
   }
 ]

@@ -79585,5 +79585,585 @@
     "ticker": "9511",
     "company_name": "沖縄電力",
     "previous_ceos": []
+  },
+  {
+    "ticker": "9508",
+    "company_name": "九州電力",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9514",
+    "company_name": "エフオン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9506",
+    "company_name": "東北電力",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9532",
+    "company_name": "大阪瓦斯",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9519",
+    "company_name": "レノバ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9533",
+    "company_name": "東邦瓦斯",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9531",
+    "company_name": "東京瓦斯",
+    "previous_ceos": [
+      {
+        "name": "渋沢栄一",
+        "appointment_date": "1909-07-01",
+        "resignation_date": "1909-07-20",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高松豊吉",
+        "appointment_date": "1909-07-01",
+        "resignation_date": "1914-06-17",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9531_東京瓦斯\\history\\02_高松豊吉\\photo_01.jpg"
+      },
+      {
+        "name": "久米良作",
+        "appointment_date": "1914-06-01",
+        "resignation_date": "1919-07-12",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石渡敏一",
+        "appointment_date": "1919-07-01",
+        "resignation_date": "1922-07-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小池国三",
+        "appointment_date": "1922-07-01",
+        "resignation_date": "1925-07-27",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺勝三郎",
+        "appointment_date": "1925-07-01",
+        "resignation_date": "1927-04-09",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩崎清七",
+        "appointment_date": "1927-04-01",
+        "resignation_date": "1932-12-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井坂孝",
+        "appointment_date": "1932-12-01",
+        "resignation_date": "1943-06-28",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9531_東京瓦斯\\history\\08_井坂孝\\photo_01.jpg"
+      },
+      {
+        "name": "原邦造",
+        "appointment_date": "1943-06-01",
+        "resignation_date": "1945-03-10",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9531_東京瓦斯\\history\\09_原邦造\\photo_01.jpg"
+      },
+      {
+        "name": "太田半六",
+        "appointment_date": "1945-03-01",
+        "resignation_date": "1946-11-30",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9531_東京瓦斯\\history\\10_太田半六\\photo_01.jpg"
+      },
+      {
+        "name": "高田五郎",
+        "appointment_date": "1946-11-01",
+        "resignation_date": "1953-12-26",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "本田弘敏",
+        "appointment_date": "1953-12-01",
+        "resignation_date": "1967-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安西浩",
+        "appointment_date": "1967-11-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9531_東京瓦斯\\history\\13_安西浩\\photo_01.jpg"
+      },
+      {
+        "name": "都留勝利",
+        "appointment_date": "1972-08-01",
+        "resignation_date": "1976-01-08",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村上武雄",
+        "appointment_date": "1976-01-01",
+        "resignation_date": "1981-07-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9531_東京瓦斯\\history\\15_村上武雄\\photo_01.jpg"
+      },
+      {
+        "name": "渡辺宏",
+        "appointment_date": "1981-07-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安西邦夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "上原英治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9531_東京瓦斯\\history\\18_上原英治\\photo_01.jpg"
+      },
+      {
+        "name": "市野紀生",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鳥原光憲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9534",
+    "company_name": "北海道瓦斯",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9535",
+    "company_name": "広島ガス",
+    "previous_ceos": [
+      {
+        "name": "世代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "片岡直輝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大正",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松本勝太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "昭和",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平成",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松藤研介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9537",
+    "company_name": "北陸瓦斯",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9536",
+    "company_name": "西部ガスホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9517",
+    "company_name": "イーレックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9551",
+    "company_name": "メタウォーター",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": "2021-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9551_メタウォーター\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9552",
+    "company_name": "M&A総研ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9552_M&A総研ホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9553",
+    "company_name": "マイクロアド",
+    "previous_ceos": [
+      {
+        "name": "ビル・ゲイツ",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9553_マイクロアド\\history\\01_ビル・ゲイツ\\photo_01.jpg"
+      },
+      {
+        "name": "サティア・ナデラ",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9553_マイクロアド\\history\\02_サティア・ナデラ\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9554",
+    "company_name": "AViC",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9556",
+    "company_name": "INTLOOP",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9539",
+    "company_name": "京葉瓦斯",
+    "previous_ceos": [
+      {
+        "name": "渋沢栄一",
+        "appointment_date": "1909-07-01",
+        "resignation_date": "1909-07-20",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高松豊吉",
+        "appointment_date": "1909-07-01",
+        "resignation_date": "1914-06-17",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9539_京葉瓦斯\\history\\02_高松豊吉\\photo_01.jpg"
+      },
+      {
+        "name": "久米良作",
+        "appointment_date": "1914-06-01",
+        "resignation_date": "1919-07-12",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石渡敏一",
+        "appointment_date": "1919-07-01",
+        "resignation_date": "1922-07-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小池国三",
+        "appointment_date": "1922-07-01",
+        "resignation_date": "1925-07-27",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺勝三郎",
+        "appointment_date": "1925-07-01",
+        "resignation_date": "1927-04-09",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩崎清七",
+        "appointment_date": "1927-04-01",
+        "resignation_date": "1932-12-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井坂孝",
+        "appointment_date": "1932-12-01",
+        "resignation_date": "1943-06-28",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9539_京葉瓦斯\\history\\08_井坂孝\\photo_01.jpg"
+      },
+      {
+        "name": "原邦造",
+        "appointment_date": "1943-06-01",
+        "resignation_date": "1945-03-10",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "太田半六",
+        "appointment_date": "1945-03-01",
+        "resignation_date": "1946-11-30",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9539_京葉瓦斯\\history\\10_太田半六\\photo_01.jpg"
+      },
+      {
+        "name": "高田五郎",
+        "appointment_date": "1946-11-01",
+        "resignation_date": "1953-12-26",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "本田弘敏",
+        "appointment_date": "1953-12-01",
+        "resignation_date": "1967-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安西浩",
+        "appointment_date": "1967-11-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "都留勝利",
+        "appointment_date": "1972-08-01",
+        "resignation_date": "1976-01-08",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9539_京葉瓦斯\\history\\14_都留勝利\\photo_01.jpg"
+      },
+      {
+        "name": "村上武雄",
+        "appointment_date": "1976-01-01",
+        "resignation_date": "1981-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺宏",
+        "appointment_date": "1981-07-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安西邦夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "上原英治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "市野紀生",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鳥原光憲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9558",
+    "company_name": "ジャパニアス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9543",
+    "company_name": "静岡ガス",
+    "previous_ceos": [
+      {
+        "name": "賀田金三郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9543_静岡ガス\\history\\01_賀田金三郎\\photo_01.jpg"
+      },
+      {
+        "name": "千賀千太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "上野喜左衛門",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "上野次郎吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "秋山努",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮村達郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大石繁",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大石司朗",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9560",
+    "company_name": "プログリット",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9561",
+    "company_name": "グラッドキューブ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9562",
+    "company_name": "ビジネスコーチ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9564",
+    "company_name": "FCE",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9565",
+    "company_name": "GLOE",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9563",
+    "company_name": "Atlas　Technologies",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9602",
+    "company_name": "東宝",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9603",
+    "company_name": "エイチ・アイ・エス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9603_エイチ・アイ・エス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9605",
+    "company_name": "東映",
+    "previous_ceos": [
+      {
+        "name": "ティ",
+        "appointment_date": "2023-02-01",
+        "resignation_date": "2023-02-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9601",
+    "company_name": "松竹",
+    "previous_ceos": [
+      {
+        "name": "大谷竹次郎の娘婿",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "大谷竹次郎の子",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "奥山市三の子",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "大谷隆三の長男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "城戸四郎の孫",
+        "appointment_date": "2023-05-01",
+        "resignation_date": "2023-05-22",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "松竹",
+        "appointment_date": "1985-12-01",
+        "resignation_date": "1985-12-28",
+        "source": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E7%AB%B9",
+        "photo_path": "photos_2\\9601_松竹\\history\\06_松竹\\photo_01.jpg"
+      }
+    ]
   }
 ]

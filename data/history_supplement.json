@@ -75420,5 +75420,900 @@
     "ticker": "9029",
     "company_name": "ヒガシホールディングス",
     "previous_ceos": []
+  },
+  {
+    "ticker": "9031",
+    "company_name": "西日本鉄道",
+    "previous_ceos": [
+      {
+        "name": "現会長",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2021-03-31",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9012",
+    "company_name": "秩父鉄道",
+    "previous_ceos": [
+      {
+        "name": "柿原万蔵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿原定吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "諸井恒平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿原亀吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿原謙一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿原恭一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9033",
+    "company_name": "広島電鉄",
+    "previous_ceos": [
+      {
+        "name": "大林芳五郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤田謙一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松浦泰次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松本勝太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三宅兼一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "倉田信太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "多山恒次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山口吾一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊藤信之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "堀江明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石松正二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "奥窪央雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大田哲哉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "越智秀信",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "椋田昌夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "仮井康裕",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9028",
+    "company_name": "ゼロ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9034",
+    "company_name": "南総通運",
+    "previous_ceos": [
+      {
+        "name": "国沢新兵衛",
+        "appointment_date": "1937-10-01",
+        "resignation_date": "1940-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9034_南総通運\\history\\01_国沢新兵衛\\photo_01.jpg"
+      },
+      {
+        "name": "村上義一",
+        "appointment_date": "1940-11-01",
+        "resignation_date": "1943-07-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9034_南総通運\\history\\02_村上義一\\photo_01.jpg"
+      },
+      {
+        "name": "久保田敬一",
+        "appointment_date": "1943-07-01",
+        "resignation_date": "1946-02-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "早川慎一",
+        "appointment_date": "1946-02-01",
+        "resignation_date": "1954-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安座上真",
+        "appointment_date": "1954-04-01",
+        "resignation_date": "1955-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金丸冨夫",
+        "appointment_date": "1955-06-01",
+        "resignation_date": "1960-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福島敏行",
+        "appointment_date": "1960-05-01",
+        "resignation_date": "1968-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "沢村貴義",
+        "appointment_date": "1968-01-01",
+        "resignation_date": "1976-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "広瀬真一",
+        "appointment_date": "1976-06-01",
+        "resignation_date": "1983-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "長岡毅",
+        "appointment_date": "1983-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "濱中昭一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡部正彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川合正矩",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9034_南総通運\\history\\13_川合正矩\\photo_01.jpg"
+      },
+      {
+        "name": "渡邉健二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "齋藤充",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "堀切智",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹添進二郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9036",
+    "company_name": "東部ネットワーク",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9039",
+    "company_name": "サカイ引越センター",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9041",
+    "company_name": "近鉄グループホールディングス",
+    "previous_ceos": [
+      {
+        "name": "参急が合併",
+        "appointment_date": "1937-02-01",
+        "resignation_date": "1947-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "運輸大臣",
+        "appointment_date": "1947-04-01",
+        "resignation_date": "1951-12-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "金森又一郎の孫",
+        "appointment_date": "1987-06-01",
+        "resignation_date": "1994-06-01",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9042",
+    "company_name": "阪急阪神ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9037",
+    "company_name": "ハマキョウレックス",
+    "previous_ceos": [
+      {
+        "name": "参急が合併",
+        "appointment_date": "1937-02-01",
+        "resignation_date": "1947-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "運輸大臣",
+        "appointment_date": "1947-04-01",
+        "resignation_date": "1951-12-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "金森又一郎の孫",
+        "appointment_date": "1987-06-01",
+        "resignation_date": "1994-06-01",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9046",
+    "company_name": "神戸電鉄",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9045",
+    "company_name": "京阪ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9048",
+    "company_name": "名古屋鉄道",
+    "previous_ceos": [
+      {
+        "name": "須田寬",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "葛西敬之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松本正之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9048_名古屋鉄道\\history\\03_松本正之\\photo_01.jpg"
+      },
+      {
+        "name": "山田佳臣",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9048_名古屋鉄道\\history\\04_山田佳臣\\photo_01.jpg"
+      },
+      {
+        "name": "柘植康英",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金子慎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "丹羽俊介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9049",
+    "company_name": "京福電気鉄道",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9052",
+    "company_name": "山陽電気鉄道",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9044",
+    "company_name": "南海電気鉄道",
+    "previous_ceos": [
+      {
+        "name": "大軌",
+        "appointment_date": "1937-02-01",
+        "resignation_date": "1947-04-25",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "参議院議員と兼任",
+        "appointment_date": "1947-04-01",
+        "resignation_date": "1951-12-24",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "近鉄中興の祖",
+        "appointment_date": "1951-12-01",
+        "resignation_date": "1973-05-25",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "金森又一郎の孫",
+        "appointment_date": "1987-06-01",
+        "resignation_date": "1994-06-29",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9051",
+    "company_name": "センコン物流",
+    "previous_ceos": [
+      {
+        "name": "小平浪平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9051_センコン物流\\history\\01_小平浪平\\photo_01.jpg"
+      },
+      {
+        "name": "倉田主税",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9051_センコン物流\\history\\02_倉田主税\\photo_01.jpg"
+      },
+      {
+        "name": "駒井健一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9051_センコン物流\\history\\03_駒井健一郎\\photo_01.jpg"
+      },
+      {
+        "name": "吉山博吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三田勝茂",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金井務",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "庄山悦彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川一夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川村隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中西宏明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東原敏昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小島啓二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9051_センコン物流\\history\\12_小島啓二\\photo_01.jpg"
+      },
+      {
+        "name": "德永俊昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9059",
+    "company_name": "カンダホールディングス",
+    "previous_ceos": [
+      {
+        "name": "水野成夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9059_カンダホールディングス\\history\\01_水野成夫\\photo_01.jpg"
+      },
+      {
+        "name": "鹿内信隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9059_カンダホールディングス\\history\\02_鹿内信隆\\photo_01.jpg"
+      },
+      {
+        "name": "浅野賢澄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石田達郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "羽佐間重彰",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日枝久",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村上光一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "豊田皓",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "亀山千広",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮内正喜",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "遠藤龍之介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金光修",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "港浩一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清水賢治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9060",
+    "company_name": "日本ロジテム",
+    "previous_ceos": [
+      {
+        "name": "東京大学法学部卒",
+        "appointment_date": "2001-07-01",
+        "resignation_date": "2004-06-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "早稲田大学商学部卒",
+        "appointment_date": "2004-06-01",
+        "resignation_date": "2007-10-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "一橋大学経済学部卒",
+        "appointment_date": "2011-04-01",
+        "resignation_date": "2017-03-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "同志社大学文学部卒",
+        "appointment_date": "2026-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9057",
+    "company_name": "遠州トラック",
+    "previous_ceos": [
+      {
+        "name": "海塚新八",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松田重次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9057_遠州トラック\\history\\02_松田重次郎\\photo_01.jpg"
+      },
+      {
+        "name": "松田恒次",
+        "appointment_date": "1951-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松田耕平",
+        "appointment_date": "1970-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山崎芳樹",
+        "appointment_date": "1977-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本健一",
+        "appointment_date": "1984-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古田徳昌",
+        "appointment_date": "1987-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "和田淑弘",
+        "appointment_date": "1991-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井巻久一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9057_遠州トラック\\history\\09_井巻久一\\photo_01.jpg"
+      },
+      {
+        "name": "山内孝",
+        "appointment_date": "2008-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小飼雅道",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "丸本明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "毛籠勝弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9063",
+    "company_name": "岡山県貨物運送",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9065",
+    "company_name": "山九",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9064",
+    "company_name": "ヤマトホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9069",
+    "company_name": "センコーグループホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9072",
+    "company_name": "ニッコンホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9072_ニッコンホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9068",
+    "company_name": "丸全昭和運輸",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9074",
+    "company_name": "日本石油輸送",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9075",
+    "company_name": "福山通運",
+    "previous_ceos": [
+      {
+        "name": "国沢新兵衛",
+        "appointment_date": "1937-10-01",
+        "resignation_date": "1940-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9075_福山通運\\history\\01_国沢新兵衛\\photo_01.jpg"
+      },
+      {
+        "name": "村上義一",
+        "appointment_date": "1940-11-01",
+        "resignation_date": "1943-07-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9075_福山通運\\history\\02_村上義一\\photo_01.jpg"
+      },
+      {
+        "name": "久保田敬一",
+        "appointment_date": "1943-07-01",
+        "resignation_date": "1946-02-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "早川慎一",
+        "appointment_date": "1946-02-01",
+        "resignation_date": "1954-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安座上真",
+        "appointment_date": "1954-04-01",
+        "resignation_date": "1955-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金丸冨夫",
+        "appointment_date": "1955-06-01",
+        "resignation_date": "1960-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福島敏行",
+        "appointment_date": "1960-05-01",
+        "resignation_date": "1968-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "沢村貴義",
+        "appointment_date": "1968-01-01",
+        "resignation_date": "1976-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "広瀬真一",
+        "appointment_date": "1976-06-01",
+        "resignation_date": "1983-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "長岡毅",
+        "appointment_date": "1983-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "濱中昭一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡部正彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川合正矩",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9075_福山通運\\history\\13_川合正矩\\photo_01.jpg"
+      },
+      {
+        "name": "渡邉健二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "齋藤充",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "堀切智",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹添進二郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9076",
+    "company_name": "セイノーホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9067",
+    "company_name": "丸運",
+    "previous_ceos": []
   }
 ]

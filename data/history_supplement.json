@@ -59246,5 +59246,672 @@
     "ticker": "7128",
     "company_name": "フルサト・マルカホールディングス",
     "previous_ceos": []
+  },
+  {
+    "ticker": "7129",
+    "company_name": "ミアヘルサホールディングス",
+    "previous_ceos": [
+      {
+        "name": "小平浪平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7129_ミアヘルサホールディングス\\history\\01_小平浪平\\photo_01.jpg"
+      },
+      {
+        "name": "倉田主税",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7129_ミアヘルサホールディングス\\history\\02_倉田主税\\photo_01.jpg"
+      },
+      {
+        "name": "駒井健一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7129_ミアヘルサホールディングス\\history\\03_駒井健一郎\\photo_01.jpg"
+      },
+      {
+        "name": "吉山博吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三田勝茂",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金井務",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "庄山悦彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川一夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川村隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中西宏明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東原敏昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小島啓二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "德永俊昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7129_ミアヘルサホールディングス\\history\\13_德永俊昭\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "7126",
+    "company_name": "グローバルスタイル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7093",
+    "company_name": "アディッシュ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7133",
+    "company_name": "HYUGA　PRIMARY　CARE",
+    "previous_ceos": [
+      {
+        "name": "谷村格",
+        "appointment_date": "2000-09-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7131",
+    "company_name": "のむら産業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7134",
+    "company_name": "アップガレージグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7138",
+    "company_name": "TORICO",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7130",
+    "company_name": "ヤマエグループホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7148",
+    "company_name": "FPG",
+    "previous_ceos": [
+      {
+        "name": "アンショ",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "マヌエル",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "カルロス",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "ピラール",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "暫定委員会",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7148_FPG\\history\\05_暫定委員会\\photo_01.jpg"
+      },
+      {
+        "name": "ジョランダ",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "エヴァ",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "7150",
+    "company_name": "島根銀行",
+    "previous_ceos": [
+      {
+        "name": "副頭取",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "退任日",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安田善之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7150_島根銀行\\history\\03_安田善之助\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "7157",
+    "company_name": "ライフネット生命保険",
+    "previous_ceos": [
+      {
+        "name": "初代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7157_ライフネット生命保険\\history\\01_初代\\photo_01.jpg"
+      },
+      {
+        "name": "片岡直温",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "弘世助太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7157_ライフネット生命保険\\history\\03_弘世助太郎\\photo_01.jpg"
+      },
+      {
+        "name": "弘世現",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7157_ライフネット生命保険\\history\\04_弘世現\\photo_01.jpg"
+      },
+      {
+        "name": "川瀬源太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "伊藤助成",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "宇野郁夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "岡本圀衞",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "筒井義信",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "清水博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "7140",
+    "company_name": "ペットゴー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7162",
+    "company_name": "アストマックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7161",
+    "company_name": "じもとホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7161_じもとホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "7135",
+    "company_name": "ジャパンクラフトホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7135_ジャパンクラフトホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "7167",
+    "company_name": "めぶきフィナンシャルグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7172",
+    "company_name": "ジャパンインベストメントアドバイザー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7164",
+    "company_name": "全国保証",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7175",
+    "company_name": "今村証券",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7175_今村証券\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7175_今村証券\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7175_今村証券\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7173",
+    "company_name": "東京きらぼしフィナンシャルグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7177",
+    "company_name": "GMOフィナンシャルホールディングス",
+    "previous_ceos": [
+      {
+        "name": "西川善文",
+        "appointment_date": "2002-12-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北山禎介",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2011-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮田孝一",
+        "appointment_date": "2011-04-01",
+        "resignation_date": "2017-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7177_GMOフィナンシャルホールディングス\\history\\03_宮田孝一\\photo_01.jpg"
+      },
+      {
+        "name": "國部毅",
+        "appointment_date": "2017-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "太田純",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2023-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中島達",
+        "appointment_date": "2023-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7127",
+    "company_name": "一家ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7127_一家ホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "7180",
+    "company_name": "九州フィナンシャルグループ",
+    "previous_ceos": [
+      {
+        "name": "上村基宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7180_九州フィナンシャルグループ\\history\\01_上村基宏\\photo_01.jpg"
+      },
+      {
+        "name": "笠原慶久",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7182",
+    "company_name": "ゆうちょ銀行",
+    "previous_ceos": [
+      {
+        "name": "高木祥吉",
+        "appointment_date": "2007-10-01",
+        "resignation_date": "2009-11-20",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井澤吉幸",
+        "appointment_date": "2009-12-01",
+        "resignation_date": "2015-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "2015-04-01",
+        "resignation_date": "2015-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "長門正貢",
+        "appointment_date": "2015-05-01",
+        "resignation_date": "2016-03-31",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7182_ゆうちょ銀行\\history\\04_長門正貢\\photo_01.jpg"
+      },
+      {
+        "name": "池田憲人",
+        "appointment_date": "2016-04-01",
+        "resignation_date": "2024-03-31",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7182_ゆうちょ銀行\\history\\05_池田憲人\\photo_01.jpg"
+      },
+      {
+        "name": "笠間貴之",
+        "appointment_date": "2024-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7181",
+    "company_name": "かんぽ生命保険",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7185",
+    "company_name": "ヒロセ通商",
+    "previous_ceos": [
+      {
+        "name": "海塚新八",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松田重次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7185_ヒロセ通商\\history\\02_松田重次郎\\photo_01.jpg"
+      },
+      {
+        "name": "松田恒次",
+        "appointment_date": "1951-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松田耕平",
+        "appointment_date": "1970-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山崎芳樹",
+        "appointment_date": "1977-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本健一",
+        "appointment_date": "1984-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古田徳昌",
+        "appointment_date": "1987-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "和田淑弘",
+        "appointment_date": "1991-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7185_ヒロセ通商\\history\\08_和田淑弘\\photo_01.jpg"
+      },
+      {
+        "name": "井巻久一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内孝",
+        "appointment_date": "2008-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小飼雅道",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "丸本明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "毛籠勝弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7184",
+    "company_name": "富山第一銀行",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7187",
+    "company_name": "ジェイリース",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7186",
+    "company_name": "コンコルディア・フィナンシャルグループ",
+    "previous_ceos": [
+      {
+        "name": "寺澤辰麿",
+        "appointment_date": "2016-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川村健一",
+        "appointment_date": "2018-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大矢恭好",
+        "appointment_date": "2020-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "片岡達也",
+        "appointment_date": "2022-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7191",
+    "company_name": "イントラスト",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7191_イントラスト\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   }
 ]

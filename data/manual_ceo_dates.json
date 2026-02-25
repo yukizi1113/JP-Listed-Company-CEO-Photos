@@ -1,0 +1,118 @@
+[
+  {
+    "ticker": "1301",
+    "company_name": "極洋",
+    "previous_ceos": [
+      {
+        "name": "二村雄三",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": "2004-06-29",
+        "notes": "退任2004/06/29確定"
+      },
+      {
+        "name": "福井清計",
+        "title": "代表取締役社長",
+        "appointment_date": "2004-06-29",
+        "resignation_date": "2011-04-01",
+        "notes": "就任2004/06/29, 退任2011/04/01確定"
+      },
+      {
+        "name": "多田久樹",
+        "title": "代表取締役社長",
+        "appointment_date": "2011-04-01",
+        "resignation_date": "2016-06-24",
+        "notes": "就任2011/04/01, 退任2016/06/24確定"
+      },
+      {
+        "name": "今井賢司",
+        "title": "代表取締役社長",
+        "appointment_date": "2016-06-24",
+        "resignation_date": "2018-06-26",
+        "notes": "就任2016/06/24, 退任2018/06/26確定"
+      },
+      {
+        "name": "井上誠",
+        "title": "代表取締役社長",
+        "appointment_date": "2018-06-26",
+        "resignation_date": null,
+        "notes": "就任2018/06/26, 現在も在任"
+      }
+    ]
+  },
+  {
+    "ticker": "1332",
+    "company_name": "ニッスイ",
+    "previous_ceos": [
+      {
+        "name": "垣添直也",
+        "title": "代表取締役社長",
+        "appointment_date": "1999-06-29",
+        "resignation_date": "2012-06-01",
+        "notes": "就任1999/06/29, 退任2012年6月頃 (日付要確認)"
+      },
+      {
+        "name": "細見典男",
+        "title": "代表取締役社長",
+        "appointment_date": "2012-06-01",
+        "resignation_date": "2017-06-28",
+        "notes": "就任2012年6月頃, 退任2017/06/28確定"
+      },
+      {
+        "name": "大木伸介",
+        "title": "代表取締役社長",
+        "appointment_date": "2017-06-28",
+        "resignation_date": "2018-03-15",
+        "notes": "就任2017/06/28, 退任2018/03/15確定"
+      },
+      {
+        "name": "的埜明世",
+        "title": "代表取締役社長",
+        "appointment_date": "2018-03-15",
+        "resignation_date": "2021-06-25",
+        "notes": "就任2018/03/15, 退任2021/06/25確定"
+      },
+      {
+        "name": "浜田晋吾",
+        "title": "代表取締役社長",
+        "appointment_date": "2021-06-25",
+        "resignation_date": "2025-05-14",
+        "notes": "就任2021/06/25, 退任2025/05/14確定"
+      },
+      {
+        "name": "田中輝",
+        "title": "代表取締役社長",
+        "appointment_date": "2025-05-14",
+        "resignation_date": null,
+        "notes": "就任2025/05/14, 現在も在任"
+      }
+    ]
+  },
+  {
+    "ticker": "1377",
+    "company_name": "サカタのタネ",
+    "previous_ceos": [
+      {
+        "name": "高橋英夫",
+        "title": "代表取締役社長",
+        "appointment_date": "1999-01-01",
+        "resignation_date": "2007-01-01",
+        "notes": "在任1999〜2007 (日付要確認)"
+      },
+      {
+        "name": "坂田宏",
+        "title": "代表取締役社長",
+        "appointment_date": "2007-01-01",
+        "resignation_date": "2025-01-01",
+        "notes": "在任2007〜2025 (日付要確認)"
+      },
+      {
+        "name": "加々美勉",
+        "title": "代表取締役社長",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "notes": "就任2025, 現在も在任"
+      }
+    ]
+  }
+]

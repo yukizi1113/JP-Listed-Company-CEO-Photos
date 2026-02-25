@@ -58166,5 +58166,550 @@
     "ticker": "7040",
     "company_name": "サン・ライフホールディング",
     "previous_ceos": []
+  },
+  {
+    "ticker": "7042",
+    "company_name": "アクセスグループ・ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7041",
+    "company_name": "CRGホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7043",
+    "company_name": "アルー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7038",
+    "company_name": "フロンティア・マネジメント",
+    "previous_ceos": [
+      {
+        "name": "柳沢保恵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "矢野恒太",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石坂泰三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7038_フロンティア・マネジメント\\history\\03_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "矢野一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "浜口吉兵衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "矢田恒久",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塚本亮一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "牧山公郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7038_フロンティア・マネジメント\\history\\08_牧山公郎\\photo_01.jpg"
+      },
+      {
+        "name": "西尾信一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "桜井孝頴",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7038_フロンティア・マネジメント\\history\\10_桜井孝頴\\photo_01.jpg"
+      },
+      {
+        "name": "森田富治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "斎藤勝利",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7038_フロンティア・マネジメント\\history\\12_斎藤勝利\\photo_01.jpg"
+      },
+      {
+        "name": "渡邉光一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "稲垣精二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菊田徹也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7046",
+    "company_name": "TDSE",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7047",
+    "company_name": "ポート",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7049",
+    "company_name": "識学",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7044",
+    "company_name": "ピアラ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7050",
+    "company_name": "フロンティアインターナショナル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7057",
+    "company_name": "エヌ・シー・エヌ",
+    "previous_ceos": [
+      {
+        "name": "現在",
+        "appointment_date": "2024-06-01",
+        "resignation_date": "2024-06-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "7048",
+    "company_name": "ベルトラ",
+    "previous_ceos": [
+      {
+        "name": "ダイハツ工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7048_ベルトラ\\history\\01_ダイハツ工業\\photo_01.jpg"
+      },
+      {
+        "name": "ダイハツ自動車販売",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7060",
+    "company_name": "ギークス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7059",
+    "company_name": "コプロ・ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7058",
+    "company_name": "共栄セキュリティーサービス",
+    "previous_ceos": [
+      {
+        "name": "国沢新兵衛",
+        "appointment_date": "1937-10-01",
+        "resignation_date": "1940-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村上義一",
+        "appointment_date": "1940-11-01",
+        "resignation_date": "1943-07-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7058_共栄セキュリティーサービス\\history\\02_村上義一\\photo_01.jpg"
+      },
+      {
+        "name": "久保田敬一",
+        "appointment_date": "1943-07-01",
+        "resignation_date": "1946-02-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "早川慎一",
+        "appointment_date": "1946-02-01",
+        "resignation_date": "1954-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安座上真",
+        "appointment_date": "1954-04-01",
+        "resignation_date": "1955-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金丸冨夫",
+        "appointment_date": "1955-06-01",
+        "resignation_date": "1960-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福島敏行",
+        "appointment_date": "1960-05-01",
+        "resignation_date": "1968-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "沢村貴義",
+        "appointment_date": "1968-01-01",
+        "resignation_date": "1976-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "広瀬真一",
+        "appointment_date": "1976-06-01",
+        "resignation_date": "1983-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "長岡毅",
+        "appointment_date": "1983-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "濱中昭一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡部正彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川合正矩",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7058_共栄セキュリティーサービス\\history\\13_川合正矩\\photo_01.jpg"
+      },
+      {
+        "name": "渡邉健二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "齋藤充",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "堀切智",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹添進二郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7061",
+    "company_name": "日本ホスピスホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AE%E8%96%AC%E5%B1%80"
+      }
+    ]
+  },
+  {
+    "ticker": "7064",
+    "company_name": "ハウテレビジョン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7063",
+    "company_name": "Birdman",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7062",
+    "company_name": "フレアス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7065",
+    "company_name": "ユーピーアール",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6988",
+    "company_name": "日東電工",
+    "previous_ceos": [
+      {
+        "name": "日東電気工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "不詳",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6988_日東電工\\history\\02_不詳\\photo_01.jpg"
+      },
+      {
+        "name": "皆川利男",
+        "appointment_date": "1955-05-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土方三郎",
+        "appointment_date": "1974-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鎌居五朗",
+        "appointment_date": "1985-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日東電工",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本英樹",
+        "appointment_date": "1996-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹本正道",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "柳楽幸雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "赤木達哉",
+        "appointment_date": "2026-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7068",
+    "company_name": "フィードフォースグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7066",
+    "company_name": "ピアズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7069",
+    "company_name": "サイバー・バズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7071",
+    "company_name": "アンビスホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7072",
+    "company_name": "インティメート・マージャー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7067",
+    "company_name": "ブランディングテクノロジー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7074",
+    "company_name": "トゥエンティーフォーセブン",
+    "previous_ceos": [
+      {
+        "name": "石坂泰三",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1957-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7074_トゥエンティーフォーセブン\\history\\01_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岩下文雄",
+        "appointment_date": "1957-11-01",
+        "resignation_date": "1965-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土光敏夫",
+        "appointment_date": "1965-05-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置敬三",
+        "appointment_date": "1972-08-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田弐夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐波正一",
+        "appointment_date": "1986-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡里杉一郎",
+        "appointment_date": "1986-04-01",
+        "resignation_date": "1987-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青井舒一",
+        "appointment_date": "1987-07-01",
+        "resignation_date": "1992-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤文夫",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村正",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西田厚聰",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\7074_トゥエンティーフォーセブン\\history\\12_西田厚聰\\photo_01.jpg"
+      },
+      {
+        "name": "田中久雄",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2015-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "室町正志",
+        "appointment_date": "2015-07-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綱川智",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "車谷暢昭",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2021-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島田太郎",
+        "appointment_date": "2022-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7077",
+    "company_name": "ALiNKインターネット",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7075",
+    "company_name": "QLSホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7079",
+    "company_name": "WDBココ",
+    "previous_ceos": []
   }
 ]

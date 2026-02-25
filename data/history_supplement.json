@@ -83084,5 +83084,382 @@
     "ticker": "156A",
     "company_name": "マテリアルグループ",
     "previous_ceos": []
+  },
+  {
+    "ticker": "155A",
+    "company_name": "情報戦略テクノロジー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "160A",
+    "company_name": "アズパートナーズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "157A",
+    "company_name": "グリーンモンスター",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "165A",
+    "company_name": "SBIレオスひふみ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "167A",
+    "company_name": "リョーサン菱洋ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "166A",
+    "company_name": "タスキホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "168A",
+    "company_name": "イタミアート",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "173A",
+    "company_name": "ハンモック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "175A",
+    "company_name": "Will　Smart",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "177A",
+    "company_name": "コージンバイオ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "184A",
+    "company_name": "学びエイド",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "189A",
+    "company_name": "D&Mカンパニー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "190A",
+    "company_name": "Chordia　Therapeutics",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "192A",
+    "company_name": "インテグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "186A",
+    "company_name": "アストロスケールホールディングス",
+    "previous_ceos": [
+      {
+        "name": "岩松茂輔",
+        "appointment_date": "1981-05-01",
+        "resignation_date": "1983-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "嶋井澄",
+        "appointment_date": "1983-06-01",
+        "resignation_date": "1988-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小今井傓治",
+        "appointment_date": "1988-06-01",
+        "resignation_date": "1994-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\186A_アストロスケールホールディングス\\history\\03_小今井傓治\\photo_01.jpg"
+      },
+      {
+        "name": "中久信",
+        "appointment_date": "1994-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\186A_アストロスケールホールディングス\\history\\04_中久信\\photo_01.jpg"
+      },
+      {
+        "name": "福士英二",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2003-04-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\186A_アストロスケールホールディングス\\history\\05_福士英二\\photo_01.jpg"
+      },
+      {
+        "name": "山本博巳",
+        "appointment_date": "2003-04-01",
+        "resignation_date": "2006-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木登夫",
+        "appointment_date": "2006-06-01",
+        "resignation_date": "2013-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中谷康夫",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2022-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "髙木宏明",
+        "appointment_date": "2022-04-01",
+        "resignation_date": "2024-02-01",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "194A",
+    "company_name": "WOLVES　HAND",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "196A",
+    "company_name": "MFS",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "197A",
+    "company_name": "タウンズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "198A",
+    "company_name": "PostPrime",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "202A",
+    "company_name": "豆蔵デジタルホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "205A",
+    "company_name": "ロゴスホールディングス",
+    "previous_ceos": [
+      {
+        "name": "安蔵弥輔",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\205A_ロゴスホールディングス\\history\\01_安蔵弥輔\\photo_01.jpg"
+      },
+      {
+        "name": "高井亮太郎",
+        "appointment_date": "1952-09-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\205A_ロゴスホールディングス\\history\\02_高井亮太郎\\photo_01.jpg"
+      },
+      {
+        "name": "青木均一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\205A_ロゴスホールディングス\\history\\03_青木均一\\photo_01.jpg"
+      },
+      {
+        "name": "木川田一隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\205A_ロゴスホールディングス\\history\\04_木川田一隆\\photo_01.jpg"
+      },
+      {
+        "name": "水野久男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\205A_ロゴスホールディングス\\history\\05_水野久男\\photo_01.jpg"
+      },
+      {
+        "name": "平岩外四",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "那須翔",
+        "appointment_date": "1984-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "荒木浩",
+        "appointment_date": "1993-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "南直哉",
+        "appointment_date": "1999-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "勝俣恒久",
+        "appointment_date": "2002-09-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清水正孝",
+        "appointment_date": "2008-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\205A_ロゴスホールディングス\\history\\11_清水正孝\\photo_01.jpg"
+      },
+      {
+        "name": "西澤俊夫",
+        "appointment_date": "2012-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "廣瀬直己",
+        "appointment_date": "2012-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小早川智明",
+        "appointment_date": "2017-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\205A_ロゴスホールディングス\\history\\14_小早川智明\\photo_01.jpg"
+      },
+      {
+        "name": "新木栄吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "新井章治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菅礼之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田村滋美",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\205A_ロゴスホールディングス\\history\\18_田村滋美\\photo_01.jpg"
+      },
+      {
+        "name": "下河邉和彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "数土文夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "206A",
+    "company_name": "PRISM　BioLab",
+    "previous_ceos": [
+      {
+        "name": "ロバート",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\206A_PRISM_BioLab\\history\\01_ロバート\\photo_01.jpg"
+      },
+      {
+        "name": "ジョン",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "ジェニファー",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "ダグラス",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "ダニエル",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "208A",
+    "company_name": "構造計画研究所ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\208A_構造計画研究所ホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "211A",
+    "company_name": "カドス・コーポレーション",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "212A",
+    "company_name": "フィットイージー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "215A",
+    "company_name": "タイミー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "218A",
+    "company_name": "Liberaware",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "219A",
+    "company_name": "Heartseed",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "220A",
+    "company_name": "Faber　Company",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "228A",
+    "company_name": "オプロ",
+    "previous_ceos": []
   }
 ]

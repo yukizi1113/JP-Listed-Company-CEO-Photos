@@ -81676,5 +81676,400 @@
         "source": "wikipedia_table"
       }
     ]
+  },
+  {
+    "ticker": "9830",
+    "company_name": "トラスコ中山",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9831",
+    "company_name": "ヤマダホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9835",
+    "company_name": "ジュンテンドー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9828",
+    "company_name": "Genki　Global　Dining　Concepts",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9832",
+    "company_name": "オートバックスセブン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9842",
+    "company_name": "アークランズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9837",
+    "company_name": "モリト",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9845",
+    "company_name": "パーカーコーポレーション",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9849",
+    "company_name": "共同紙販ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9846",
+    "company_name": "天満屋ストア",
+    "previous_ceos": [
+      {
+        "name": "伊原木茂平衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "初代伊原木藻平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "二代伊原木藻平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "伊原木伍朗",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "伊原木一衛",
+        "appointment_date": "1960-07-01",
+        "resignation_date": "1998-05-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "伊原木隆太",
+        "appointment_date": "1998-05-01",
+        "resignation_date": "2012-06-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "伊原木省五",
+        "appointment_date": "2012-06-01",
+        "resignation_date": "2016-05-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "伊原木一朗",
+        "appointment_date": "2016-05-01",
+        "resignation_date": "2017-12-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "江國成基",
+        "appointment_date": "2017-12-01",
+        "resignation_date": "2022-03-01",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9850",
+    "company_name": "グルメ杵屋",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9853",
+    "company_name": "銀座ルノアール",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9856",
+    "company_name": "ケーユーホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9854",
+    "company_name": "愛眼",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9854_愛眼\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9854_愛眼\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9854_愛眼\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9861",
+    "company_name": "吉野家ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9867",
+    "company_name": "ソレキア",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9869",
+    "company_name": "加藤産業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9857",
+    "company_name": "英和",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9872",
+    "company_name": "北恵",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9876",
+    "company_name": "コックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9880",
+    "company_name": "イノテック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9878",
+    "company_name": "セキド",
+    "previous_ceos": [
+      {
+        "name": "現在",
+        "appointment_date": "2024-06-01",
+        "resignation_date": "2024-06-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9882",
+    "company_name": "イエローハット",
+    "previous_ceos": [
+      {
+        "name": "参急が合併",
+        "appointment_date": "1937-02-01",
+        "resignation_date": "1947-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "運輸大臣",
+        "appointment_date": "1947-04-01",
+        "resignation_date": "1951-12-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "金森又一郎の孫",
+        "appointment_date": "1987-06-01",
+        "resignation_date": "1994-06-01",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9885",
+    "company_name": "シャルレ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9888",
+    "company_name": "UEX",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9889",
+    "company_name": "JBCCホールディングス",
+    "previous_ceos": [
+      {
+        "name": "茂木啓三郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "勝又壹次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "古谷和夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9890",
+    "company_name": "マキヤ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9895",
+    "company_name": "コンセック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9896",
+    "company_name": "JKホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9900",
+    "company_name": "サガミホールディングス",
+    "previous_ceos": [
+      {
+        "name": "石坂泰三",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1957-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9900_サガミホールディングス\\history\\01_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岩下文雄",
+        "appointment_date": "1957-11-01",
+        "resignation_date": "1965-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土光敏夫",
+        "appointment_date": "1965-05-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置敬三",
+        "appointment_date": "1972-08-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田弐夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐波正一",
+        "appointment_date": "1986-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡里杉一郎",
+        "appointment_date": "1986-04-01",
+        "resignation_date": "1987-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青井舒一",
+        "appointment_date": "1987-07-01",
+        "resignation_date": "1992-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤文夫",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村正",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西田厚聰",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9900_サガミホールディングス\\history\\12_西田厚聰\\photo_01.jpg"
+      },
+      {
+        "name": "田中久雄",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2015-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "室町正志",
+        "appointment_date": "2015-07-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綱川智",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "車谷暢昭",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2021-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島田太郎",
+        "appointment_date": "2022-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   }
 ]

@@ -81277,5 +81277,404 @@
     "ticker": "9743",
     "company_name": "丹青社",
     "previous_ceos": []
+  },
+  {
+    "ticker": "9753",
+    "company_name": "アイエックス・ナレッジ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9742",
+    "company_name": "アイネス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9755",
+    "company_name": "応用地質",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9723",
+    "company_name": "京都ホテル",
+    "previous_ceos": [
+      {
+        "name": "ティ",
+        "appointment_date": "2023-02-01",
+        "resignation_date": "2023-02-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9757",
+    "company_name": "船井総研ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "石坂泰三",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1957-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9757_船井総研ホールディングス\\history\\01_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岩下文雄",
+        "appointment_date": "1957-11-01",
+        "resignation_date": "1965-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土光敏夫",
+        "appointment_date": "1965-05-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置敬三",
+        "appointment_date": "1972-08-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田弐夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐波正一",
+        "appointment_date": "1986-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡里杉一郎",
+        "appointment_date": "1986-04-01",
+        "resignation_date": "1987-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青井舒一",
+        "appointment_date": "1987-07-01",
+        "resignation_date": "1992-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤文夫",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村正",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西田厚聰",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9757_船井総研ホールディングス\\history\\12_西田厚聰\\photo_01.jpg"
+      },
+      {
+        "name": "田中久雄",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2015-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "室町正志",
+        "appointment_date": "2015-07-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綱川智",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "車谷暢昭",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2021-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島田太郎",
+        "appointment_date": "2022-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9759",
+    "company_name": "NSD",
+    "previous_ceos": [
+      {
+        "name": "ダイハツ工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9759_NSD\\history\\01_ダイハツ工業\\photo_01.jpg"
+      },
+      {
+        "name": "ダイハツ自動車販売",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9763",
+    "company_name": "丸紅建材リース",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9760",
+    "company_name": "進学会ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9761",
+    "company_name": "東海リース",
+    "previous_ceos": [
+      {
+        "name": "須田寬",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "葛西敬之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松本正之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9761_東海リース\\history\\03_松本正之\\photo_01.jpg"
+      },
+      {
+        "name": "山田佳臣",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9761_東海リース\\history\\04_山田佳臣\\photo_01.jpg"
+      },
+      {
+        "name": "柘植康英",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金子慎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "丹羽俊介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9766",
+    "company_name": "コナミグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9765",
+    "company_name": "オオバ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9768",
+    "company_name": "いであ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9769",
+    "company_name": "学究社",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9776",
+    "company_name": "札幌臨床検査センター",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9767",
+    "company_name": "日建工学",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9780",
+    "company_name": "ハリマビステム",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9778",
+    "company_name": "昴",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9790",
+    "company_name": "福井コンピュータホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9782",
+    "company_name": "ディーエムエス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9795",
+    "company_name": "ステップ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9791",
+    "company_name": "ビケンテクノ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9799",
+    "company_name": "旭情報サービス",
+    "previous_ceos": [
+      {
+        "name": "旭ベンベルグ絹絲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "日窒化学工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "旭化成工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "旭化成",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9793",
+    "company_name": "ダイセキ",
+    "previous_ceos": [
+      {
+        "name": "現在",
+        "appointment_date": "2024-06-01",
+        "resignation_date": "2024-06-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9818",
+    "company_name": "大丸エナウィン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9812",
+    "company_name": "テーオーホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9812_テーオーホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9816",
+    "company_name": "ストライダーズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9788",
+    "company_name": "ナック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9824",
+    "company_name": "泉州電業",
+    "previous_ceos": [
+      {
+        "name": "菅哲哉",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2023-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西山和宏",
+        "appointment_date": "2023-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9827",
+    "company_name": "リリカラ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9820",
+    "company_name": "エムティジェネックス",
+    "previous_ceos": [
+      {
+        "name": "森泰吉郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森稔",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森章",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊達美和子",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   }
 ]

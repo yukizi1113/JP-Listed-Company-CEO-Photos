@@ -78161,5 +78161,556 @@
     "ticker": "9360",
     "company_name": "鈴与シンワート",
     "previous_ceos": []
+  },
+  {
+    "ticker": "9363",
+    "company_name": "大運",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9364",
+    "company_name": "上組",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9366",
+    "company_name": "サンリツ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9343",
+    "company_name": "アイビス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9361",
+    "company_name": "伏木海陸運送",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9369",
+    "company_name": "キユーソー流通システム",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9368",
+    "company_name": "キムラユニティー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9365",
+    "company_name": "トレーディア",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9380",
+    "company_name": "東海運",
+    "previous_ceos": [
+      {
+        "name": "須田寬",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "葛西敬之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松本正之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9380_東海運\\history\\03_松本正之\\photo_01.jpg"
+      },
+      {
+        "name": "山田佳臣",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9380_東海運\\history\\04_山田佳臣\\photo_01.jpg"
+      },
+      {
+        "name": "柘植康英",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金子慎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "丹羽俊介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9376",
+    "company_name": "ユーラシア旅行社",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9385",
+    "company_name": "ショーエイコーポレーション",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9385_ショーエイコーポレーション\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9385_ショーエイコーポレーション\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9385_ショーエイコーポレーション\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9401",
+    "company_name": "TBSホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9367",
+    "company_name": "大東港運",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9404",
+    "company_name": "日本テレビホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9405",
+    "company_name": "朝日放送グループホールディングス",
+    "previous_ceos": [
+      {
+        "name": "石井光次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "飯島幡司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鈴木剛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "平井常次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "原清",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "福田保朝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "藤井桑正",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柴田俊治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "西村嘉郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "渡辺克信",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "脇阪聰史",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "沖中進",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9409",
+    "company_name": "テレビ朝日ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "会長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9409_テレビ朝日ホールディングス\\history\\01_会長\\photo_01.jpg"
+      },
+      {
+        "name": "赤尾好夫",
+        "appointment_date": "1957-11-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9409_テレビ朝日ホールディングス\\history\\02_赤尾好夫\\photo_01.jpg"
+      },
+      {
+        "name": "山内直元",
+        "appointment_date": "1965-03-01",
+        "resignation_date": "1965-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "横田武夫",
+        "appointment_date": "1970-04-01",
+        "resignation_date": "1970-04-03",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高野信",
+        "appointment_date": "1974-11-01",
+        "resignation_date": "1974-11-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中川英造",
+        "appointment_date": "1981-06-01",
+        "resignation_date": "1981-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田代喜久雄",
+        "appointment_date": "1983-06-01",
+        "resignation_date": "1983-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "桑田弘一郎",
+        "appointment_date": "1989-06-01",
+        "resignation_date": "1989-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊藤邦男",
+        "appointment_date": "1993-06-01",
+        "resignation_date": "1993-06-24",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "広瀬道貞",
+        "appointment_date": "1999-06-01",
+        "resignation_date": "1999-06-24",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君和田正夫",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2005-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "早河洋",
+        "appointment_date": "2009-06-01",
+        "resignation_date": "2009-06-25",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9409_テレビ朝日ホールディングス\\history\\12_早河洋\\photo_01.jpg"
+      },
+      {
+        "name": "テレビ朝日",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉田慎一",
+        "appointment_date": "2014-07-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "角南源五",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2016-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "亀山慶二",
+        "appointment_date": "2019-06-01",
+        "resignation_date": "2019-06-27",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "篠塚浩",
+        "appointment_date": "2022-06-01",
+        "resignation_date": "2022-06-30",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西新",
+        "appointment_date": "2025-06-01",
+        "resignation_date": "2025-06-27",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9381",
+    "company_name": "エーアイテイー",
+    "previous_ceos": [
+      {
+        "name": "岩松茂輔",
+        "appointment_date": "1981-05-01",
+        "resignation_date": "1983-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "嶋井澄",
+        "appointment_date": "1983-06-01",
+        "resignation_date": "1988-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小今井傓治",
+        "appointment_date": "1988-06-01",
+        "resignation_date": "1994-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9381_エーアイテイー\\history\\03_小今井傓治\\photo_01.jpg"
+      },
+      {
+        "name": "中久信",
+        "appointment_date": "1994-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9381_エーアイテイー\\history\\04_中久信\\photo_01.jpg"
+      },
+      {
+        "name": "福士英二",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2003-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本博巳",
+        "appointment_date": "2003-04-01",
+        "resignation_date": "2006-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木登夫",
+        "appointment_date": "2006-06-01",
+        "resignation_date": "2013-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中谷康夫",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2022-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "髙木宏明",
+        "appointment_date": "2022-04-01",
+        "resignation_date": "2024-02-01",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9408",
+    "company_name": "BSNメディアホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9414",
+    "company_name": "日本BS放送",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9413",
+    "company_name": "テレビ東京ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9417",
+    "company_name": "スマートバリュー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9419",
+    "company_name": "ワイヤレスゲート",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9412",
+    "company_name": "スカパーJSATホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9421",
+    "company_name": "エヌジェイホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9424",
+    "company_name": "日本通信",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9425",
+    "company_name": "ReYuu　Japan",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9416",
+    "company_name": "ビジョン",
+    "previous_ceos": [
+      {
+        "name": "井植歳男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9416_ビジョン\\history\\01_井植歳男\\photo_01.jpg"
+      },
+      {
+        "name": "井植祐郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井植薫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井植敏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高野泰明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "近藤定男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "桑野幸徳",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井植敏雅",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐野精一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊藤正人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中川能亨",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井垣誠一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9418",
+    "company_name": "U-NEXT　HOLDINGS",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9428",
+    "company_name": "クロップス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9423",
+    "company_name": "フォーバル・リアルストレート",
+    "previous_ceos": []
   }
 ]

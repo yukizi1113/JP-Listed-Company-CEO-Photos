@@ -77857,5 +77857,309 @@
     "ticker": "9312",
     "company_name": "ケイヒン",
     "previous_ceos": []
+  },
+  {
+    "ticker": "9313",
+    "company_name": "丸八倉庫",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9278",
+    "company_name": "ブックオフグループホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9307",
+    "company_name": "杉村倉庫",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9319",
+    "company_name": "中央倉庫",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9322",
+    "company_name": "川西倉庫",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9325",
+    "company_name": "ファイズホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9325_ファイズホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9327",
+    "company_name": "イー・ロジット",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9326",
+    "company_name": "関通",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9326_関通\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9326_関通\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9326_関通\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9330",
+    "company_name": "揚羽",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9331",
+    "company_name": "キャスター",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9336",
+    "company_name": "大栄環境",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9332",
+    "company_name": "NISSOホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9337",
+    "company_name": "トリドリ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9339",
+    "company_name": "コーチ・エィ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9324",
+    "company_name": "安田倉庫",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9338",
+    "company_name": "INFORICH",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9340",
+    "company_name": "アソインターナショナル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9342",
+    "company_name": "スマサポ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9341",
+    "company_name": "GENOVA",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9344",
+    "company_name": "アクシスコンサルティング",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9345",
+    "company_name": "ビズメイツ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9311",
+    "company_name": "アサガミ",
+    "previous_ceos": [
+      {
+        "name": "徳間康快",
+        "appointment_date": "1954-03-01",
+        "resignation_date": "2000-09-20",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松下武義",
+        "appointment_date": "2001-01-01",
+        "resignation_date": "2008-02-22",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩渕徹",
+        "appointment_date": "2008-02-01",
+        "resignation_date": "2013-10-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平野健一",
+        "appointment_date": "2013-10-01",
+        "resignation_date": "2020-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "現在",
+        "appointment_date": "2020-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9347",
+    "company_name": "日本管財ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "後藤猛太郎伯爵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "桂二郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "飯田一馬",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "藤田謙一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "横田永之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "中谷貞頼",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "松方乙彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9347_日本管財ホールディングス\\history\\07_松方乙彦\\photo_01.jpg"
+      },
+      {
+        "name": "森田佐吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "真鍋八千代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9347_日本管財ホールディングス\\history\\09_真鍋八千代\\photo_01.jpg"
+      },
+      {
+        "name": "中村雅哉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "市川濤雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "佐藤直樹",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9351",
+    "company_name": "東洋埠頭",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9346",
+    "company_name": "ココルポート",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9348",
+    "company_name": "ispace",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9353",
+    "company_name": "櫻島埠頭",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9355",
+    "company_name": "リンコーコーポレーション",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9362",
+    "company_name": "兵機海運",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9360",
+    "company_name": "鈴与シンワート",
+    "previous_ceos": []
   }
 ]

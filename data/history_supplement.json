@@ -56454,5 +56454,698 @@
     "ticker": "6920",
     "company_name": "レーザーテック",
     "previous_ceos": []
+  },
+  {
+    "ticker": "6923",
+    "company_name": "スタンレー電気",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6915",
+    "company_name": "千代田インテグレ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6925",
+    "company_name": "ウシオ電機",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6927",
+    "company_name": "ヘリオス　テクノ　ホールディング",
+    "previous_ceos": [
+      {
+        "name": "小平浪平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6927_ヘリオス_テクノ_ホールディング\\history\\01_小平浪平\\photo_01.jpg"
+      },
+      {
+        "name": "倉田主税",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6927_ヘリオス_テクノ_ホールディング\\history\\02_倉田主税\\photo_01.jpg"
+      },
+      {
+        "name": "駒井健一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6927_ヘリオス_テクノ_ホールディング\\history\\03_駒井健一郎\\photo_01.jpg"
+      },
+      {
+        "name": "吉山博吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三田勝茂",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金井務",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "庄山悦彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川一夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川村隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中西宏明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東原敏昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小島啓二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "德永俊昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6927_ヘリオス_テクノ_ホールディング\\history\\13_德永俊昭\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "6929",
+    "company_name": "日本セラミック",
+    "previous_ceos": [
+      {
+        "name": "宮木男也",
+        "appointment_date": "1959-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青山政次",
+        "appointment_date": "1964-04-01",
+        "resignation_date": "1966-05-23",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "稲盛和夫",
+        "appointment_date": "1966-05-01",
+        "resignation_date": "1986-09-30",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6929_日本セラミック\\history\\03_稲盛和夫\\photo_01.jpg"
+      },
+      {
+        "name": "安城欽寿",
+        "appointment_date": "1986-10-01",
+        "resignation_date": "1989-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊藤謙介",
+        "appointment_date": "1989-06-01",
+        "resignation_date": "1999-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西口泰夫",
+        "appointment_date": "1999-06-01",
+        "resignation_date": "2005-06-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川村誠",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久芳徹夫",
+        "appointment_date": "2009-04-01",
+        "resignation_date": "2013-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山口悟郎",
+        "appointment_date": "2013-04-01",
+        "resignation_date": "2017-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "谷本秀夫",
+        "appointment_date": "2017-04-01",
+        "resignation_date": "2026-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "作島史朗",
+        "appointment_date": "2017-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "6926",
+    "company_name": "岡谷電機産業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6930",
+    "company_name": "日本アンテナ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6932",
+    "company_name": "遠藤照明",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6941",
+    "company_name": "山一電機",
+    "previous_ceos": [
+      {
+        "name": "副頭取",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "退任日",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安田善之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\6941_山一電機\\history\\03_安田善之助\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "6928",
+    "company_name": "エノモト",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6943",
+    "company_name": "NKKスイッチズ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6946",
+    "company_name": "日本アビオニクス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6942",
+    "company_name": "ソフィアホールディングス",
+    "previous_ceos": [
+      {
+        "name": "勝田泰久",
+        "appointment_date": "2001-12-01",
+        "resignation_date": "2003-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川田憲治",
+        "appointment_date": "2003-05-01",
+        "resignation_date": "2006-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水田廣行",
+        "appointment_date": "2006-06-01",
+        "resignation_date": "2007-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "檜垣誠司",
+        "appointment_date": "2007-06-01",
+        "resignation_date": "2013-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東和浩",
+        "appointment_date": "2013-04-01",
+        "resignation_date": "2020-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "南昌宏",
+        "appointment_date": "2020-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "6951",
+    "company_name": "日本電子",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6954",
+    "company_name": "ファナック",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": "2016-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\6954_ファナック\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "6952",
+    "company_name": "カシオ計算機",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6955",
+    "company_name": "FDK",
+    "previous_ceos": [
+      {
+        "name": "井植歳男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6955_FDK\\history\\01_井植歳男\\photo_01.jpg"
+      },
+      {
+        "name": "井植祐郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井植薫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井植敏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高野泰明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "近藤定男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "桑野幸徳",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井植敏雅",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐野精一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊藤正人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中川能亨",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井垣誠一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "6958",
+    "company_name": "日本シイエムケイ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6960",
+    "company_name": "フクダ電子",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6961",
+    "company_name": "エンプラス",
+    "previous_ceos": [
+      {
+        "name": "深山祐助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6961_エンプラス\\history\\01_深山祐助\\photo_01.jpg"
+      },
+      {
+        "name": "大場富夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北川芳輝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "深山英世",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6961_エンプラス\\history\\04_深山英世\\photo_01.jpg"
+      },
+      {
+        "name": "宮尾文也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "6901",
+    "company_name": "澤藤電機",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6962",
+    "company_name": "大真空",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6965",
+    "company_name": "浜松ホトニクス",
+    "previous_ceos": [
+      {
+        "name": "現在",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "6966",
+    "company_name": "三井ハイテック",
+    "previous_ceos": [
+      {
+        "name": "西川善文",
+        "appointment_date": "2002-12-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北山禎介",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2011-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮田孝一",
+        "appointment_date": "2011-04-01",
+        "resignation_date": "2017-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6966_三井ハイテック\\history\\03_宮田孝一\\photo_01.jpg"
+      },
+      {
+        "name": "國部毅",
+        "appointment_date": "2017-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "太田純",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2023-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6966_三井ハイテック\\history\\05_太田純\\photo_01.jpg"
+      },
+      {
+        "name": "中島達",
+        "appointment_date": "2023-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "6964",
+    "company_name": "サンコー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6971",
+    "company_name": "京セラ",
+    "previous_ceos": [
+      {
+        "name": "宮木男也",
+        "appointment_date": "1959-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青山政次",
+        "appointment_date": "1964-04-01",
+        "resignation_date": "1966-05-23",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "稲盛和夫",
+        "appointment_date": "1966-05-01",
+        "resignation_date": "1986-09-30",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6971_京セラ\\history\\03_稲盛和夫\\photo_01.jpg"
+      },
+      {
+        "name": "安城欽寿",
+        "appointment_date": "1986-10-01",
+        "resignation_date": "1989-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊藤謙介",
+        "appointment_date": "1989-06-01",
+        "resignation_date": "1999-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西口泰夫",
+        "appointment_date": "1999-06-01",
+        "resignation_date": "2005-06-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川村誠",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久芳徹夫",
+        "appointment_date": "2009-04-01",
+        "resignation_date": "2013-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山口悟郎",
+        "appointment_date": "2013-04-01",
+        "resignation_date": "2017-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "谷本秀夫",
+        "appointment_date": "2017-04-01",
+        "resignation_date": "2026-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "作島史朗",
+        "appointment_date": "2017-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "6976",
+    "company_name": "太陽誘電",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "6977",
+    "company_name": "日本抵抗器製作所",
+    "previous_ceos": [
+      {
+        "name": "田葉井五郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小山栄一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島崎清",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "野路井達",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "進信義",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石田雅昭",
+        "appointment_date": "2022-03-01",
+        "resignation_date": "2022-03-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "荒田知",
+        "appointment_date": "2022-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "6981",
+    "company_name": "村田製作所",
+    "previous_ceos": [
+      {
+        "name": "村田昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村田泰隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村田恒夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中島規巨",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "6947",
+    "company_name": "図研",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\6947_図研\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   }
 ]

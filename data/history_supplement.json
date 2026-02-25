@@ -77491,5 +77491,371 @@
     "ticker": "9240",
     "company_name": "デリバリーコンサルティング",
     "previous_ceos": []
+  },
+  {
+    "ticker": "9251",
+    "company_name": "AB&Company",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9248",
+    "company_name": "人・夢・技術グループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9252",
+    "company_name": "ラストワンマイル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9253",
+    "company_name": "スローガン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9256",
+    "company_name": "サクシード",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9259",
+    "company_name": "タカヨシホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9258",
+    "company_name": "CS-C",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9254",
+    "company_name": "ラバブルマーケティンググループ",
+    "previous_ceos": [
+      {
+        "name": "現在",
+        "appointment_date": "2024-06-01",
+        "resignation_date": "2024-06-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9250",
+    "company_name": "GRCS",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9264",
+    "company_name": "ポエック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9267",
+    "company_name": "Genky　DrugStores",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9265",
+    "company_name": "ヤマシタヘルスケアホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9262",
+    "company_name": "シルバーライフ",
+    "previous_ceos": [
+      {
+        "name": "服部金太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "服部玄三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9262_シルバーライフ\\history\\02_服部玄三\\photo_01.jpg"
+      },
+      {
+        "name": "服部正次",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "服部謙太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "服部禮次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉村司郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "関本昌弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井上仲七",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村野晃一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "服部真二",
+        "appointment_date": "2012-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村吉伸",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高橋修司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9271",
+    "company_name": "和心",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9272",
+    "company_name": "ブティックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9273",
+    "company_name": "コーア商事ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9274",
+    "company_name": "KPPグループホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9275",
+    "company_name": "ナルミヤ・インターナショナル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9270",
+    "company_name": "バリュエンスホールディングス",
+    "previous_ceos": [
+      {
+        "name": "ティ",
+        "appointment_date": "2023-02-01",
+        "resignation_date": "2023-02-14",
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9301",
+    "company_name": "三菱倉庫",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9268",
+    "company_name": "オプティマスグループ",
+    "previous_ceos": [
+      {
+        "name": "本田 宗一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "河島 喜好",
+        "appointment_date": "1973-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久米 是志",
+        "appointment_date": "1983-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川本 信彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉野 浩行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福井 威夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊東 孝紳",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "八郷 隆弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三部 敏宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9303",
+    "company_name": "住友倉庫",
+    "previous_ceos": [
+      {
+        "name": "移築され",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%8F%8B%E8%B2%A1%E9%96%A5"
+      }
+    ]
+  },
+  {
+    "ticker": "9304",
+    "company_name": "澁澤倉庫",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9302",
+    "company_name": "三井倉庫ホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9279",
+    "company_name": "ギフトホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9279_ギフトホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9305",
+    "company_name": "ヤマタネ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9308",
+    "company_name": "乾汽船",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9306",
+    "company_name": "東陽倉庫",
+    "previous_ceos": [
+      {
+        "name": "岩松茂輔",
+        "appointment_date": "1981-05-01",
+        "resignation_date": "1983-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "嶋井澄",
+        "appointment_date": "1983-06-01",
+        "resignation_date": "1988-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小今井傓治",
+        "appointment_date": "1988-06-01",
+        "resignation_date": "1994-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9306_東陽倉庫\\history\\03_小今井傓治\\photo_01.jpg"
+      },
+      {
+        "name": "中久信",
+        "appointment_date": "1994-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9306_東陽倉庫\\history\\04_中久信\\photo_01.jpg"
+      },
+      {
+        "name": "福士英二",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2003-04-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9306_東陽倉庫\\history\\05_福士英二\\photo_01.jpg"
+      },
+      {
+        "name": "山本博巳",
+        "appointment_date": "2003-04-01",
+        "resignation_date": "2006-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木登夫",
+        "appointment_date": "2006-06-01",
+        "resignation_date": "2013-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中谷康夫",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2022-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "髙木宏明",
+        "appointment_date": "2022-04-01",
+        "resignation_date": "2024-02-01",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9310",
+    "company_name": "日本トランスシティ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9312",
+    "company_name": "ケイヒン",
+    "previous_ceos": []
   }
 ]

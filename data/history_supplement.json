@@ -82071,5 +82071,575 @@
         "source": "wikipedia_table"
       }
     ]
+  },
+  {
+    "ticker": "9902",
+    "company_name": "日伝",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9887",
+    "company_name": "松屋フーズホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9887_松屋フーズホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "9903",
+    "company_name": "カンセキ",
+    "previous_ceos": [
+      {
+        "name": "前田勝敏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久田宗弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石黒靖規",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9823",
+    "company_name": "マミーマート",
+    "previous_ceos": [
+      {
+        "name": "初代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\9823_マミーマート\\history\\01_初代\\photo_01.jpg"
+      },
+      {
+        "name": "第二代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第三代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第四代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第五代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第六代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第七代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第八代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第九代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第十代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第十一代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "第十二代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "9904",
+    "company_name": "ベリテ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9908",
+    "company_name": "日本電計",
+    "previous_ceos": [
+      {
+        "name": "真藤恒",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山口開生",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9908_日本電計\\history\\02_山口開生\\photo_01.jpg"
+      },
+      {
+        "name": "児島仁",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮津純一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9908_日本電計\\history\\04_宮津純一郎\\photo_01.jpg"
+      },
+      {
+        "name": "和田紀夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三浦惺",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鵜浦博夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "澤田純",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9908_日本電計\\history\\08_澤田純\\photo_01.jpg"
+      },
+      {
+        "name": "島田明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9914",
+    "company_name": "植松商会",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9927",
+    "company_name": "ワットマン",
+    "previous_ceos": [
+      {
+        "name": "猪木寛至",
+        "appointment_date": "1972-01-01",
+        "resignation_date": "1989-07-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9927_ワットマン\\history\\01_猪木寛至\\photo_01.jpg"
+      },
+      {
+        "name": "坂口征二",
+        "appointment_date": "1989-07-01",
+        "resignation_date": "1999-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤波辰巳",
+        "appointment_date": "1999-06-01",
+        "resignation_date": "2004-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9927_ワットマン\\history\\03_藤波辰巳\\photo_01.jpg"
+      },
+      {
+        "name": "草間政一",
+        "appointment_date": "2004-06-01",
+        "resignation_date": "2005-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菅林直樹",
+        "appointment_date": "2007-04-01",
+        "resignation_date": "2013-09-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "手塚要",
+        "appointment_date": "2013-09-01",
+        "resignation_date": "2016-02-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "原田克彦",
+        "appointment_date": "2016-02-01",
+        "resignation_date": "2018-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大張高己",
+        "appointment_date": "2020-10-01",
+        "resignation_date": "2023-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "棚橋弘至",
+        "appointment_date": "2023-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9928",
+    "company_name": "ミロク情報サービス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9913",
+    "company_name": "日邦産業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9906",
+    "company_name": "藤井産業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9929",
+    "company_name": "平和紙業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9930",
+    "company_name": "北沢産業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9932",
+    "company_name": "杉本商事",
+    "previous_ceos": [
+      {
+        "name": "経済団体連合会では",
+        "appointment_date": "2014-03-01",
+        "resignation_date": "2014-04-01",
+        "source": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%90%B5"
+      }
+    ]
+  },
+  {
+    "ticker": "9936",
+    "company_name": "王将フードサービス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9934",
+    "company_name": "因幡電機産業",
+    "previous_ceos": [
+      {
+        "name": "立石電機",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9934_因幡電機産業\\history\\01_立石電機\\photo_01.jpg"
+      },
+      {
+        "name": "立石一真",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9934_因幡電機産業\\history\\02_立石一真\\photo_01.jpg"
+      },
+      {
+        "name": "立石孝雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9934_因幡電機産業\\history\\03_立石孝雄\\photo_01.jpg"
+      },
+      {
+        "name": "立石義雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "オムロン",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9934_因幡電機産業\\history\\05_オムロン\\photo_01.jpg"
+      },
+      {
+        "name": "作田久男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山田義仁",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "辻永順太",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9946",
+    "company_name": "ミニストップ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9941",
+    "company_name": "太洋物産",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9948",
+    "company_name": "アークス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9843",
+    "company_name": "ニトリホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9950",
+    "company_name": "ハチバン",
+    "previous_ceos": [
+      {
+        "name": "円谷英二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9950_ハチバン\\history\\01_円谷英二\\photo_01.jpg"
+      },
+      {
+        "name": "円谷一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9950_ハチバン\\history\\02_円谷一\\photo_01.jpg"
+      },
+      {
+        "name": "円谷皐",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9950_ハチバン\\history\\03_円谷皐\\photo_01.jpg"
+      },
+      {
+        "name": "円谷一夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "円谷昌弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "円谷英明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大山茂樹",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森島恒行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大岡新一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9950_ハチバン\\history\\09_大岡新一\\photo_01.jpg"
+      },
+      {
+        "name": "塚越隆行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "永竹正幸",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9956",
+    "company_name": "バローホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9955",
+    "company_name": "ヨンキュウ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9959",
+    "company_name": "アシードホールディングス",
+    "previous_ceos": [
+      {
+        "name": "石原邦夫",
+        "appointment_date": "2002-04-01",
+        "resignation_date": "2007-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9959_アシードホールディングス\\history\\01_石原邦夫\\photo_01.jpg"
+      },
+      {
+        "name": "隅修三",
+        "appointment_date": "2007-06-01",
+        "resignation_date": "2008-07-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9959_アシードホールディングス\\history\\02_隅修三\\photo_01.jpg"
+      },
+      {
+        "name": "永野毅",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2019-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小宮暁",
+        "appointment_date": "2019-06-01",
+        "resignation_date": "2025-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小池昌洋",
+        "appointment_date": "2025-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9969",
+    "company_name": "ショクブン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9972",
+    "company_name": "アルテック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9973",
+    "company_name": "KOZOホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9974",
+    "company_name": "ベルク",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "9960",
+    "company_name": "東テク",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9960_東テク\\history\\01_山内房治郎\\photo_01.jpg"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9960_東テク\\history\\02_山内積良\\photo_01.jpg"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\9960_東テク\\history\\03_山内溥\\photo_01.jpg"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "9976",
+    "company_name": "セキチュー",
+    "previous_ceos": []
   }
 ]

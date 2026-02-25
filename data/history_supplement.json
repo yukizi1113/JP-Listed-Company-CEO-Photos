@@ -63544,5 +63544,427 @@
     "ticker": "7475",
     "company_name": "アルビス",
     "previous_ceos": []
+  },
+  {
+    "ticker": "7464",
+    "company_name": "セフテック",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7477",
+    "company_name": "ムラキ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7481",
+    "company_name": "尾家産業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7480",
+    "company_name": "スズデン",
+    "previous_ceos": [
+      {
+        "name": "早川徳次",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐伯旭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "辻晴雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "町田勝彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "片山幹雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "奥田隆司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高橋興三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "戴正呉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "野村勝明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "呉柏勲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "沖津雅浩",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7482",
+    "company_name": "シモジマ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7486",
+    "company_name": "サンリン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7490",
+    "company_name": "日新商事",
+    "previous_ceos": [
+      {
+        "name": "初代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7490_日新商事\\history\\01_初代\\photo_01.jpg"
+      },
+      {
+        "name": "二代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "三代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "四代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "五代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "六代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7490_日新商事\\history\\06_六代\\photo_01.jpg"
+      },
+      {
+        "name": "七代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "八代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "九代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十一代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十二代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十三代",
+        "appointment_date": "2021-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "7487",
+    "company_name": "小津産業",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7483",
+    "company_name": "ドウシシャ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7494",
+    "company_name": "コナカ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7501",
+    "company_name": "ティムコ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7504",
+    "company_name": "高速",
+    "previous_ceos": [
+      {
+        "name": "初代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7504_高速\\history\\01_初代\\photo_01.jpg"
+      },
+      {
+        "name": "橋本圭一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "菅原秀夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7504_高速\\history\\03_菅原秀夫\\photo_01.jpg"
+      },
+      {
+        "name": "宮田年耕",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7504_高速\\history\\04_宮田年耕\\photo_01.jpg"
+      },
+      {
+        "name": "前田信弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "7500",
+    "company_name": "西川計測",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7502",
+    "company_name": "プラザホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7506",
+    "company_name": "ハウス　オブ　ローゼ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7505",
+    "company_name": "扶桑電通",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7510",
+    "company_name": "たけびし",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7509",
+    "company_name": "アイエーグループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7508",
+    "company_name": "G-7ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7508_G-7ホールディングス\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "7513",
+    "company_name": "コジマ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7514",
+    "company_name": "ヒマラヤ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7512",
+    "company_name": "イオン北海道",
+    "previous_ceos": [
+      {
+        "name": "村井正平",
+        "appointment_date": "2008-04-01",
+        "resignation_date": "2013-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "梅本和典",
+        "appointment_date": "2013-03-01",
+        "resignation_date": "2015-02-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡崎双一",
+        "appointment_date": "2015-02-01",
+        "resignation_date": "2019-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井出武美",
+        "appointment_date": "2019-03-01",
+        "resignation_date": "2025-02-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古澤康之",
+        "appointment_date": "2025-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7462",
+    "company_name": "CAPITA",
+    "previous_ceos": [
+      {
+        "name": "森勉三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森猛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大矢晃久",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北野稔",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "阿部匡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菊池新治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井沢宅蔵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "7515",
+    "company_name": "マルヨシセンター",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7521",
+    "company_name": "ムサシ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7522",
+    "company_name": "ワタミ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7525",
+    "company_name": "リックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7516",
+    "company_name": "コーナン商事",
+    "previous_ceos": [
+      {
+        "name": "現職",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\7516_コーナン商事\\history\\01_現職\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "7520",
+    "company_name": "エコス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "7531",
+    "company_name": "清和中央ホールディングス",
+    "previous_ceos": []
   }
 ]

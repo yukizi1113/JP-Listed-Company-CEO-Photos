@@ -84034,5 +84034,479 @@
     "ticker": "195A",
     "company_name": "ライスカレー",
     "previous_ceos": []
+  },
+  {
+    "ticker": "296A",
+    "company_name": "令和アカウンティング・ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "増田義一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青木弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐久間長吉郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\296A_令和アカウンティング・ホールディングス\\history\\03_佐久間長吉郎\\photo_01.jpg"
+      },
+      {
+        "name": "北島織衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\296A_令和アカウンティング・ホールディングス\\history\\04_北島織衛\\photo_01.jpg"
+      },
+      {
+        "name": "北島義俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北島義斉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "298A",
+    "company_name": "GVA　TECH",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "291A",
+    "company_name": "リスキル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "299A",
+    "company_name": "dely",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "290A",
+    "company_name": "Synspective",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "303A",
+    "company_name": "visumo",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "297A",
+    "company_name": "アルピコホールディングス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "304A",
+    "company_name": "フォルシア",
+    "previous_ceos": [
+      {
+        "name": "小平浪平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\304A_フォルシア\\history\\01_小平浪平\\photo_01.jpg"
+      },
+      {
+        "name": "倉田主税",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\304A_フォルシア\\history\\02_倉田主税\\photo_01.jpg"
+      },
+      {
+        "name": "駒井健一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\304A_フォルシア\\history\\03_駒井健一郎\\photo_01.jpg"
+      },
+      {
+        "name": "吉山博吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三田勝茂",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金井務",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "庄山悦彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川一夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\304A_フォルシア\\history\\08_古川一夫\\photo_01.jpg"
+      },
+      {
+        "name": "川村隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中西宏明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東原敏昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小島啓二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "德永俊昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "319A",
+    "company_name": "技術承継機構",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "323A",
+    "company_name": "フライヤー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "300A",
+    "company_name": "MIC",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "302A",
+    "company_name": "ビースタイルホールディングス",
+    "previous_ceos": [
+      {
+        "name": "石井光次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "飯島幡司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鈴木剛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "平井常次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "原清",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "福田保朝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "藤井桑正",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柴田俊治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\302A_ビースタイルホールディングス\\history\\08_柴田俊治\\photo_01.jpg"
+      },
+      {
+        "name": "西村嘉郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "渡辺克信",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "脇阪聰史",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "沖中進",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\302A_ビースタイルホールディングス\\history\\12_沖中進\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "324A",
+    "company_name": "ブッキングリゾート",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "332A",
+    "company_name": "ミーク",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "325A",
+    "company_name": "TENTIAL",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "330A",
+    "company_name": "TalentX",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "334A",
+    "company_name": "ビジュアル・プロセッシング・ジャパン",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "336A",
+    "company_name": "ダイナミックマッププラットフォーム",
+    "previous_ceos": [
+      {
+        "name": "ダイハツ工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\336A_ダイナミックマッププラットフォーム\\history\\01_ダイハツ工業\\photo_01.jpg"
+      },
+      {
+        "name": "ダイハツ自動車販売",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "339A",
+    "company_name": "プログレス・テクノロジーズ　グループ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "340A",
+    "company_name": "ジグザグ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "338A",
+    "company_name": "ZenmuTech",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "343A",
+    "company_name": "IACEトラベル",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "341A",
+    "company_name": "トヨコー",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "331A",
+    "company_name": "メディックス",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "335A",
+    "company_name": "ミライロ",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "352A",
+    "company_name": "LIFE　CREATE",
+    "previous_ceos": []
+  },
+  {
+    "ticker": "350A",
+    "company_name": "デジタルグリッド",
+    "previous_ceos": [
+      {
+        "name": "安蔵弥輔",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\350A_デジタルグリッド\\history\\01_安蔵弥輔\\photo_01.jpg"
+      },
+      {
+        "name": "高井亮太郎",
+        "appointment_date": "1952-09-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\350A_デジタルグリッド\\history\\02_高井亮太郎\\photo_01.jpg"
+      },
+      {
+        "name": "青木均一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\350A_デジタルグリッド\\history\\03_青木均一\\photo_01.jpg"
+      },
+      {
+        "name": "木川田一隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\350A_デジタルグリッド\\history\\04_木川田一隆\\photo_01.jpg"
+      },
+      {
+        "name": "水野久男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平岩外四",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "那須翔",
+        "appointment_date": "1984-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "荒木浩",
+        "appointment_date": "1993-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "南直哉",
+        "appointment_date": "1999-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "勝俣恒久",
+        "appointment_date": "2002-09-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清水正孝",
+        "appointment_date": "2008-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\350A_デジタルグリッド\\history\\11_清水正孝\\photo_01.jpg"
+      },
+      {
+        "name": "西澤俊夫",
+        "appointment_date": "2012-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "廣瀬直己",
+        "appointment_date": "2012-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小早川智明",
+        "appointment_date": "2017-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\350A_デジタルグリッド\\history\\14_小早川智明\\photo_01.jpg"
+      },
+      {
+        "name": "新木栄吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "新井章治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菅礼之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田村滋美",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\350A_デジタルグリッド\\history\\18_田村滋美\\photo_01.jpg"
+      },
+      {
+        "name": "下河邉和彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "数土文夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   }
 ]

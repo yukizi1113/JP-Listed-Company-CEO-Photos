@@ -707,7 +707,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2005年6月7日",
         "resignation_date": "2023年3月",
-        "source": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%8B%E3%82%AB%E3%83%AB"
+        "source": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%8B%E3%82%AB%E3%83%AB",
+        "photo_path": "photos_1\\2183_リニカル\\history\\01_秦野_和浩資\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T19:40:39.499802"
@@ -1111,7 +1112,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\2344_平安レイサービス\\history\\06_貝原_典也\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T20:29:50.945889"
@@ -1547,7 +1549,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20%E3%82%AC%E3%82%A4%E3%82%A2%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91"
+        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20%E3%82%AC%E3%82%A4%E3%82%A2%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91",
+        "photo_path": "photos_1\\2586_フルッタフルッタ\\history\\01_弘道_長野県\\photo_01.jpg"
       },
       {
         "name": "中知　焼成冷",
@@ -1572,7 +1575,8 @@
         "source": "https://www.j-oil.com/press/article/251218_007724.html",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\2613_J-オイルミルズ\\history\\01_春山_裕一郎\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T21:08:23.253714"
@@ -1589,14 +1593,16 @@
         "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\2683_魚喜\\history\\01_娼館_望郷\\photo_01.jpg"
       },
       {
         "name": "七号 君想",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB"
+        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB",
+        "photo_path": "photos_1\\2683_魚喜\\history\\02_七号_君想\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T21:17:31.237199"
@@ -2370,7 +2376,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2020年1月9日",
         "resignation_date": "2024年1月20日",
-        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%9F%E3%81%B0%E3%81%93%E7%94%A3%E6%A5%AD"
+        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%9F%E3%81%B0%E3%81%93%E7%94%A3%E6%A5%AD",
+        "photo_path": "photos_1\\2884_ヨシムラ・フード・ホールディングス\\history\\01_彦氏_寺畠正\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T22:01:05.347234"
@@ -2384,7 +2391,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\2911_旭松食品\\history\\01_務用_調味料\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T22:02:35.377090"
@@ -2398,7 +2406,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2020年1月9日",
         "resignation_date": "2024年1月20日",
-        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%9F%E3%81%B0%E3%81%93%E7%94%A3%E6%A5%AD"
+        "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%9F%E3%81%B0%E3%81%93%E7%94%A3%E6%A5%AD",
+        "photo_path": "photos_1\\2914_日本たばこ産業\\history\\01_彦氏_寺畠正\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T22:02:46.198547"
@@ -2412,7 +2421,8 @@
         "title": "代表取締役社長",
         "appointment_date": "2020年3月",
         "resignation_date": "2020年3月",
-        "source": "https://ja.wikipedia.org/wiki/%E4%BB%99%E6%B3%A2%E7%B3%96%E5%8C%96%E5%B7%A5%E6%A5%AD"
+        "source": "https://ja.wikipedia.org/wiki/%E4%BB%99%E6%B3%A2%E7%B3%96%E5%8C%96%E5%B7%A5%E6%A5%AD",
+        "photo_path": "photos_1\\2916_仙波糖化工業\\history\\01_小林_光夫資\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T22:03:42.192228"
@@ -2492,7 +2502,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\2937_サンクゼール\\history\\01_守流_利益\\photo_01.jpg"
       },
       {
         "name": "奪戦 資源",
@@ -2544,7 +2555,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\2983_アールプランナー\\history\\02_伝説_哲也\\photo_01.jpg"
       },
       {
         "name": "子屋 銭天堂",
@@ -5591,7 +5603,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3926_オープンドア\\history\\01_進士仁一\\photo_01.jpg"
       },
       {
         "name": "手塚卓志",
@@ -5601,7 +5614,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3926_オープンドア\\history\\02_手塚卓志\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:22:08.026349"
@@ -5616,7 +5630,8 @@
         "appointment_date": "2018年頃",
         "resignation_date": "2022年頃",
         "source": "wayback_machine",
-        "note": "±2年の精度"
+        "note": "±2年の精度",
+        "photo_path": "photos_1\\3918_PCIホールディングス\\history\\01_原口直道\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:24:15.943350"
@@ -5630,7 +5645,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3929_ソーシャルワイヤー\\history\\01_矢田_峰之\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:25:09.438796"
@@ -5647,7 +5663,8 @@
         "source": "wayback_machine",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3933_チエル\\history\\01_出演\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:29:33.659664"
@@ -5664,7 +5681,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3934_ベネフィットジャパン\\history\\01_神子柴_寿昭\\photo_01.jpg"
       },
       {
         "name": "三部 敏宏",
@@ -5674,7 +5692,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3934_ベネフィットジャパン\\history\\02_三部_敏宏\\photo_01.jpg"
       },
       {
         "name": "倉石 誠司",
@@ -5684,21 +5703,24 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3934_ベネフィットジャパン\\history\\03_倉石_誠司\\photo_01.jpg"
       },
       {
         "name": "竹内 弘平",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3934_ベネフィットジャパン\\history\\04_竹内_弘平\\photo_01.jpg"
       },
       {
         "name": "鈴木 麻子",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3934_ベネフィットジャパン\\history\\05_鈴木_麻子\\photo_01.jpg"
       },
       {
         "name": "貝原 典也",
@@ -5708,7 +5730,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3934_ベネフィットジャパン\\history\\06_貝原_典也\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:29:47.712612"
@@ -5725,7 +5748,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3932_アカツキ\\history\\01_代行_森本譲\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:31:48.596404"
@@ -5739,7 +5763,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3941_レンゴー\\history\\01_表者_時田宗\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:32:48.462551"
@@ -5753,7 +5778,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%89%E3%81%B3%E3%81%8D%E5%9B%A3"
+        "source": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%89%E3%81%B3%E3%81%8D%E5%9B%A3",
+        "photo_path": "photos_1\\3925_ダブルスタンダード\\history\\01_竺鼠_川原\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:36:10.159842"
@@ -5770,7 +5796,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3947_ダイナパック\\history\\01_進士仁一\\photo_01.jpg"
       },
       {
         "name": "手塚卓志",
@@ -5780,7 +5807,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3947_ダイナパック\\history\\02_手塚卓志\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:36:55.402951"
@@ -5794,21 +5822,24 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3955_イムラ\\history\\01_伝説_怪奇\\photo_01.jpg"
       },
       {
         "name": "伝説 哲也",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3955_イムラ\\history\\02_伝説_哲也\\photo_01.jpg"
       },
       {
         "name": "子屋 銭天堂",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3955_イムラ\\history\\03_子屋_銭天堂\\photo_01.jpg"
       },
       {
         "name": "界編 序奏",
@@ -5818,21 +5849,24 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3955_イムラ\\history\\04_界編_序奏\\photo_01.jpg"
       },
       {
         "name": "皇子 天上編",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3955_イムラ\\history\\05_皇子_天上編\\photo_01.jpg"
       },
       {
         "name": "映画 爆釣",
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia"
+        "source": "wikipedia",
+        "photo_path": "photos_1\\3955_イムラ\\history\\06_映画_爆釣\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:37:45.707337"
@@ -5846,7 +5880,8 @@
         "title": "代表取締役社長",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://ja.wikipedia.org/wiki/%E8%AD%A6%E8%A6%96%E5%BA%81%E3%83%BB%E6%8D%9C%E6%9F%BB%E4%B8%80%E8%AA%B2%E9%95%B7"
+        "source": "https://ja.wikipedia.org/wiki/%E8%AD%A6%E8%A6%96%E5%BA%81%E3%83%BB%E6%8D%9C%E6%9F%BB%E4%B8%80%E8%AA%B2%E9%95%B7",
+        "photo_path": "photos_1\\3958_笹徳印刷\\history\\01_勝島_三遺体\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:38:12.273151"
@@ -5863,7 +5898,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3950_ザ・パック\\history\\01_進士仁一\\photo_01.jpg"
       },
       {
         "name": "手塚卓志",
@@ -5873,7 +5909,8 @@
         "source": "wikipedia",
         "photos_saved": [
           "photo_01.jpg"
-        ]
+        ],
+        "photo_path": "photos_1\\3950_ザ・パック\\history\\02_手塚卓志\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-25T03:38:26.847882"

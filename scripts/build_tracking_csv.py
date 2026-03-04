@@ -93,7 +93,8 @@ def main():
 
     # ── GitHub インデックス内ファイル一覧を取得 ──
     print("GitHub インデックス確認中...")
-    ok, all_files = _git("-c", "core.quotePath=false", "ls-files", "--", "photos_1/", "photos_2/")
+    ok, all_files = _git("-c", "core.quotePath=false", "ls-files", "--",
+                         "photos_1/", "photos_2/", "photos_3/", "photos_4/", "photos_5/")
     github_files = set(all_files.splitlines()) if ok else set()
     print(f"  GitHubインデックスファイル数: {len(github_files)}")
 
@@ -118,11 +119,16 @@ def main():
             photos_saved = current.get("photos_saved") or (
                 ["photo_01.jpg"] if current.get("photo_saved") else []
             )
-            # photos_1 or photos_2 判定
+            # photos_1〜5 判定
             try:
-                pdir = "photos_1" if int(ticker) < 5500 else "photos_2"
+                t = int(ticker)
+                if t < 3500: pdir = "photos_1"
+                elif t < 5000: pdir = "photos_2"
+                elif t < 7000: pdir = "photos_3"
+                elif t < 9000: pdir = "photos_4"
+                else: pdir = "photos_5"
             except ValueError:
-                pdir = "photos_2"
+                pdir = "photos_5"
             safe = re.sub(r'[\\/:*?"<>|\s\u3000]', "_", comp_name).strip("_")
             comp_dir = f"{ticker}_{safe}"
             photo_paths = [f"{pdir}/{comp_dir}/current/{p}" for p in photos_saved]

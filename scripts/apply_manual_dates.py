@@ -57,12 +57,16 @@ def safe_name(s: str) -> str:
 
 
 def photos_dir(ticker: str) -> Path:
+    """ticker値に応じて photos_1〜5 を返す（5分割）"""
     try:
-        if int(ticker) < 5500:
-            return PROJECT_DIR / "photos_1"
+        t = int(ticker)
+        if t < 3500: return PROJECT_DIR / "photos_1"
+        if t < 5000: return PROJECT_DIR / "photos_2"
+        if t < 7000: return PROJECT_DIR / "photos_3"
+        if t < 9000: return PROJECT_DIR / "photos_4"
+        return PROJECT_DIR / "photos_5"
     except ValueError:
-        pass
-    return PROJECT_DIR / "photos_2"
+        return PROJECT_DIR / "photos_5"
 
 
 def _is_bad_img(url: str) -> bool:
@@ -168,7 +172,8 @@ def commit_and_push(msg: str) -> bool:
     if not status.strip():
         log.info("変更なし、コミットスキップ")
         return True
-    _git("add", "--ignore-removal", "--no-all", "photos_1/", "photos_2/", "data/")
+    _git("add", "--ignore-removal", "--no-all",
+         "photos_1/", "photos_2/", "photos_3/", "photos_4/", "photos_5/", "data/")
     ok, out = _git("commit", "-m", msg)
     if not ok and "nothing to commit" not in out.lower():
         log.warning(f"コミット失敗: {out[:150]}")

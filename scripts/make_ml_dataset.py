@@ -40,12 +40,16 @@ def safe_name(s: str) -> str:
 
 
 def photos_dir(ticker: str) -> Path:
+    """ticker値に応じて photos_1〜5 を返す（5分割）"""
     try:
-        if int(ticker) < 5500:
-            return PROJECT_DIR / "photos_1"
+        t = int(ticker)
+        if t < 3500: return PROJECT_DIR / "photos_1"
+        if t < 5000: return PROJECT_DIR / "photos_2"
+        if t < 7000: return PROJECT_DIR / "photos_3"
+        if t < 9000: return PROJECT_DIR / "photos_4"
+        return PROJECT_DIR / "photos_5"
     except ValueError:
-        pass
-    return PROJECT_DIR / "photos_2"
+        return PROJECT_DIR / "photos_5"
 
 
 def _excess_return(row: dict) -> float | None:
@@ -104,8 +108,7 @@ def build_dataset(companies: list[dict]) -> pd.DataFrame:
                 # ceo_data.json の photo_path フィールドを参照
                 saved = ceo.get("photos_saved") or (["photo_01.jpg"] if ceo.get("photo_saved") else [])
                 photos = [
-                    f"photos_1/{comp_dir}/current/{p}" if (lambda t: int(t) < 5500 if t.isdigit() else True)(ticker or "0")
-                    else f"photos_2/{comp_dir}/current/{p}"
+                    f"{photos_dir(ticker or '0').name}/{comp_dir}/current/{p}"
                     for p in saved
                 ]
             rows.append({

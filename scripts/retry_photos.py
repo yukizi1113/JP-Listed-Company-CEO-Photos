@@ -117,12 +117,16 @@ def _is_valid_jp_name(text: str) -> bool:
 
 
 def photos_dir(ticker: str) -> Path:
+    """ticker値に応じて photos_1〜5 を返す（5分割）"""
     try:
-        if int(ticker) < 5500:
-            return PROJECT_DIR / "photos_1"
+        t = int(ticker)
+        if t < 3500: return PROJECT_DIR / "photos_1"
+        if t < 5000: return PROJECT_DIR / "photos_2"
+        if t < 7000: return PROJECT_DIR / "photos_3"
+        if t < 9000: return PROJECT_DIR / "photos_4"
+        return PROJECT_DIR / "photos_5"
     except ValueError:
-        pass
-    return PROJECT_DIR / "photos_2"
+        return PROJECT_DIR / "photos_5"
 
 
 def download_photo(url: str, dest: Path) -> bool:
@@ -427,7 +431,8 @@ def commit_and_push(batch_num: int, new_photos: int, total_done: int) -> bool:
     _, status = _git("status", "--porcelain")
     if not status.strip():
         return True
-    _git("add", "--ignore-removal", "--no-all", "photos_1/", "photos_2/", "data/")
+    _git("add", "--ignore-removal", "--no-all",
+         "photos_1/", "photos_2/", "photos_3/", "photos_4/", "photos_5/", "data/")
     msg = (
         f"retry_photos batch {batch_num}: {new_photos}枚追加 (累計{total_done}社処理)\n\n"
         f"処理日時: {__import__('datetime').datetime.now().strftime('%Y-%m-%d %H:%M JST')}\n\n"

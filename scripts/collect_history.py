@@ -45,13 +45,16 @@ REMOTE_URL = (
 
 
 def photos_dir(ticker: str) -> Path:
-    """ティッカー < 5500 → photos_1、それ以外 → photos_2"""
+    """ticker値に応じて photos_1〜5 を返す（5分割）"""
     try:
-        if int(ticker) < 5500:
-            return PROJECT_DIR / "photos_1"
+        t = int(ticker)
+        if t < 3500: return PROJECT_DIR / "photos_1"
+        if t < 5000: return PROJECT_DIR / "photos_2"
+        if t < 7000: return PROJECT_DIR / "photos_3"
+        if t < 9000: return PROJECT_DIR / "photos_4"
+        return PROJECT_DIR / "photos_5"
     except ValueError:
-        pass
-    return PROJECT_DIR / "photos_2"
+        return PROJECT_DIR / "photos_5"
 
 
 # ── ログ設定 ──────────────────────────────────────────────────────────
@@ -585,7 +588,8 @@ def commit_and_push_history(batch_num: int, done_cnt: int, total: int, with_prev
         return True
 
     _git("add", "--no-all", "data/")
-    _git("add", "--ignore-removal", "--no-all", "photos_1/", "photos_2/")
+    _git("add", "--ignore-removal", "--no-all",
+         "photos_1/", "photos_2/", "photos_3/", "photos_4/", "photos_5/")
 
     msg = (
         f"History batch {batch_num}: {done_cnt}/{total}社, 歴代社長{with_prev}社分\n\n"
@@ -611,7 +615,7 @@ def delete_local_history(batch_tickers: list[str]) -> int:
     """push成功後にローカルの全jpg・jsonを削除してディスクを解放。"""
     deleted = 0
     for ticker in batch_tickers:
-        for pdir in [PROJECT_DIR / "photos_1", PROJECT_DIR / "photos_2"]:
+        for pdir in [PROJECT_DIR / f"photos_{n}" for n in range(1, 6)]:
             for company_dir in pdir.glob(f"{ticker}_*"):
                 for f in company_dir.rglob("*"):
                     if f.is_file() and f.suffix.lower() in (".jpg", ".jpeg", ".png", ".json"):

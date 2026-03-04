@@ -1,0 +1,21 @@
+{
+  "name": "月刊誌",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年12月",
+  "source_url": "https://www.new-cosmos.co.jp/news/8073/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-12-01",
+    "open_on_date": 4440.0,
+    "close_on_date": 4345.0,
+    "high_on_date": 4525.0,
+    "low_on_date": 4335.0,
+    "trading_date": "2025-11-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 4440.0
+}

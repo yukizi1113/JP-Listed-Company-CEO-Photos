@@ -1,0 +1,16 @@
+{
+  "name": "新　職",
+  "appointment_date": "2001年05月17日",
+  "resignation_date": null,
+  "source_url": "https://www.tosoh.co.jp/news/release/2001/20010517_nw000086.html",
+  "stock_price_at_appointment": {
+    "date": "2001-05-17",
+    "open_on_date": 376.63,
+    "close_on_date": 369.21,
+    "high_on_date": 378.76,
+    "low_on_date": 368.15,
+    "trading_date": "2001-05-07",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 376.63
+}

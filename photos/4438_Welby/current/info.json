@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "title": "代表取締役社長",
+  "appointment_info": "2021年3月",
+  "source_url": "https://welby.jp/company/members/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-03-01",
+    "open_on_date": 1168.0,
+    "close_on_date": 1132.0,
+    "high_on_date": 1170.0,
+    "low_on_date": 1125.0,
+    "trading_date": "2021-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1168.0
+}

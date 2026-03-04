@@ -1,0 +1,25 @@
+{
+  "name": "社名\n中山",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年6月",
+  "source_url": "https://www.nakayamafuku.co.jp/company/profile/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-06-01",
+    "open_on_date": 382.0,
+    "close_on_date": 369.0,
+    "high_on_date": 385.0,
+    "low_on_date": 366.0,
+    "trading_date": "2025-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 382.0
+}

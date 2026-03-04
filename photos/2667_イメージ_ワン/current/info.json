@@ -1,0 +1,23 @@
+{
+  "name": "月\n株",
+  "title": "代表取締役社長",
+  "appointment_info": "2026年2月",
+  "source_url": "https://www.imageone.co.jp/company/message/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg"
+  ],
+  "photo_count": 3,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2026-02-01",
+    "open_on_date": 312.0,
+    "close_on_date": 303.0,
+    "high_on_date": 332.0,
+    "low_on_date": 292.0,
+    "trading_date": "2026-01-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 312.0
+}

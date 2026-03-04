@@ -1,0 +1,21 @@
+{
+  "name": "高知県",
+  "title": "代表取締役社長",
+  "appointment_info": "2021年8月",
+  "source_url": "https://www.kodoshi.co.jp/profile/president.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-08-01",
+    "open_on_date": 3123.3,
+    "close_on_date": 3141.18,
+    "high_on_date": 3185.86,
+    "low_on_date": 3083.09,
+    "trading_date": "2021-07-26",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 3123.3
+}

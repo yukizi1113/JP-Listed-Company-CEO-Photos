@@ -1,0 +1,21 @@
+{
+  "name": "当社",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年1月",
+  "source_url": "https://www.yodoko.co.jp/company/message.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-01-01",
+    "open_on_date": 1042.24,
+    "close_on_date": 1051.68,
+    "high_on_date": 1051.68,
+    "low_on_date": 1036.58,
+    "trading_date": "2024-12-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1042.24
+}

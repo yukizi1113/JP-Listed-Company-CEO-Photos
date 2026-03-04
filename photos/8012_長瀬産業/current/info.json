@@ -1,0 +1,21 @@
+{
+  "name": "上島宏之",
+  "title": "代表取締役社長",
+  "appointment_info": "2023年11月",
+  "source_url": "https://www.nagase.co.jp/company/message-from-the-management/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2023-11-01",
+    "open_on_date": 2169.42,
+    "close_on_date": 2147.26,
+    "high_on_date": 2174.13,
+    "low_on_date": 2143.49,
+    "trading_date": "2023-10-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2169.42
+}

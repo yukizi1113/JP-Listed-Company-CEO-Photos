@@ -1,0 +1,22 @@
+{
+  "name": "東映",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年9月",
+  "source_url": "https://www.toei.co.jp/company/profile/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-09-01",
+    "open_on_date": 5314.13,
+    "close_on_date": 5244.21,
+    "high_on_date": 5324.12,
+    "low_on_date": 5234.22,
+    "trading_date": "2025-08-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 5314.13
+}

@@ -1,0 +1,21 @@
+{
+  "name": "社名\n昭和",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年3月",
+  "source_url": "http://www.showa-paxxs.co.jp/top/about/p1/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 1867.01,
+    "close_on_date": 1839.48,
+    "high_on_date": 1897.48,
+    "low_on_date": 1807.03,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1867.01
+}

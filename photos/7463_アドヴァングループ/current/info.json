@@ -1,0 +1,21 @@
+{
+  "name": "称号\n株",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年7月",
+  "source_url": "https://www.advan.co.jp/company/profile/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-07-01",
+    "open_on_date": 802.02,
+    "close_on_date": 803.97,
+    "high_on_date": 818.64,
+    "low_on_date": 801.04,
+    "trading_date": "2025-06-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 802.02
+}

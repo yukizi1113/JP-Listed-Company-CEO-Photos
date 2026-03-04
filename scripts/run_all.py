@@ -71,7 +71,10 @@ def commit_and_push(batch: int, done: int, total: int, photos: int) -> bool:
         log.info("Nothing new to commit.")
         return True
 
-    git("add", "photos/", "data/", "scripts/", "README.md")
+    # Use --no-all to avoid staging deletions of previously tracked photo files
+    git("add", "--no-all", "data/", "scripts/", "README.md")
+    # For photos: only add new/modified files (NOT deletions) using --ignore-removal
+    git("add", "--ignore-removal", "photos/")
 
     msg = (
         f"Batch {batch}: {done}/{total}社処理, 写真{photos}枚取得済み\n\n"

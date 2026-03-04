@@ -1,0 +1,21 @@
+{
+  "name": "会長\n山木",
+  "title": "代表取締役社長",
+  "appointment_info": "2003年4月",
+  "source_url": "https://www.rikenvitamin.jp/corporate/info/officer/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2003-04-01",
+    "open_on_date": 388.24,
+    "close_on_date": 400.86,
+    "high_on_date": 404.42,
+    "low_on_date": 388.24,
+    "trading_date": "2003-03-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 388.24
+}

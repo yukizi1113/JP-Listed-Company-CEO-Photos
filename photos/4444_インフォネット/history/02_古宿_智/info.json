@@ -1,0 +1,26 @@
+{
+  "name": "古宿 智",
+  "appointment_date": "2025年6月27日",
+  "resignation_date": "2025年6月27日",
+  "source_url": "https://www.e-infonet.jp/news/detail.html?itemid=869&dispmid=594",
+  "stock_price_at_appointment": {
+    "date": "2025-06-27",
+    "open_on_date": 1019.0,
+    "close_on_date": 1019.0,
+    "high_on_date": 1022.0,
+    "low_on_date": 1018.0,
+    "trading_date": "2025-06-17",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1019.0,
+  "stock_price_at_resignation": {
+    "date": "2025-06-27",
+    "open_on_date": 1019.0,
+    "close_on_date": 1019.0,
+    "high_on_date": 1022.0,
+    "low_on_date": 1018.0,
+    "trading_date": "2025-06-17",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 1019.0
+}

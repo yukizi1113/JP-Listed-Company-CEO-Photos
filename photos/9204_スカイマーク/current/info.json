@@ -1,0 +1,21 @@
+{
+  "name": "日 執行役",
+  "title": "代表取締役社長",
+  "appointment_info": "2024年6月",
+  "source_url": "https://www.skymark.co.jp/ja/company/message.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2024-06-01",
+    "open_on_date": 816.38,
+    "close_on_date": 795.5,
+    "high_on_date": 817.37,
+    "low_on_date": 792.51,
+    "trading_date": "2024-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 816.38
+}

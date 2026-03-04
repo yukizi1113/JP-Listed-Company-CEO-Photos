@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "title": "代表取締役社長",
+  "appointment_info": "令和3年3月",
+  "source_url": "https://hch-ja.co.jp/ir/management/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-03-01",
+    "open_on_date": 1569.34,
+    "close_on_date": 1263.08,
+    "high_on_date": 1580.53,
+    "low_on_date": 1263.08,
+    "trading_date": "2021-03-16",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1569.34
+}

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-02-24T17:27:55.709029",
+  "generated_at": "2026-03-04T19:26:37.661642",
   "total_companies": 3727,
-  "ceo_identified": 1320,
-  "ceo_with_photo": 1486,
-  "ceo_with_appointment_price": 533,
-  "previous_ceos_total": 45,
-  "photos_on_disk": 0,
-  "photo_rows_total": 2574,
-  "coverage_rate_ceo": "35.4%",
-  "coverage_rate_photo": "39.9%"
+  "total_ceo_rows": 2520,
+  "current_ceo_rows": 1320,
+  "history_ceo_rows": 1200,
+  "with_photo": 2319,
+  "with_excess_return": 0,
+  "excess_return_mean": null,
+  "excess_return_std": null,
+  "coverage_photo_pct": "92.0%"
 }

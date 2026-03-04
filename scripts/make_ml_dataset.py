@@ -104,7 +104,7 @@ def build_dataset(companies: list[dict]) -> pd.DataFrame:
                 # ceo_data.json の photo_path フィールドを参照
                 saved = ceo.get("photos_saved") or (["photo_01.jpg"] if ceo.get("photo_saved") else [])
                 photos = [
-                    f"photos_1/{comp_dir}/current/{p}" if int(ticker or 0) < 5500
+                    f"photos_1/{comp_dir}/current/{p}" if (lambda t: int(t) < 5500 if t.isdigit() else True)(ticker or "0")
                     else f"photos_2/{comp_dir}/current/{p}"
                     for p in saved
                 ]

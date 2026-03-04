@@ -1,0 +1,22 @@
+{
+  "name": "自然",
+  "title": "代表取締役社長",
+  "appointment_info": "2024年5月",
+  "source_url": "https://about.goldwin.co.jp/about/topmessage",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2024-05-01",
+    "open_on_date": 2941.34,
+    "close_on_date": 3023.76,
+    "high_on_date": 3028.29,
+    "low_on_date": 2935.85,
+    "trading_date": "2024-04-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 2941.34
+}

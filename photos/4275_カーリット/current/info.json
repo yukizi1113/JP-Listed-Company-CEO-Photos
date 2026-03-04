@@ -1,0 +1,22 @@
+{
+  "name": "電解化学",
+  "title": "社長執行役員",
+  "appointment_info": "2024年10月",
+  "source_url": "https://www.carlithd.co.jp/corporate/message.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2024-10-01",
+    "open_on_date": 1128.69,
+    "close_on_date": 1140.3,
+    "high_on_date": 1142.24,
+    "low_on_date": 1125.78,
+    "trading_date": "2024-09-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1128.69
+}

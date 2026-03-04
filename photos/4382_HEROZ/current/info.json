@@ -1,0 +1,22 @@
+{
+  "name": "韓国",
+  "title": "代表取締役CEO",
+  "appointment_info": "2025年12月",
+  "source_url": "https://heroz.co.jp/event/2025/12/19_event01-5/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-12-01",
+    "open_on_date": 880.0,
+    "close_on_date": 880.0,
+    "high_on_date": 889.0,
+    "low_on_date": 866.0,
+    "trading_date": "2025-11-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 880.0
+}

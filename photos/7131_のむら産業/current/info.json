@@ -1,0 +1,22 @@
+{
+  "name": "在地\n東京都",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年10月",
+  "source_url": "https://www.nomurasangyo.co.jp/company/profile/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-10-01",
+    "open_on_date": 3467.87,
+    "close_on_date": 3487.27,
+    "high_on_date": 3676.43,
+    "low_on_date": 3414.52,
+    "trading_date": "2025-09-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 3467.87
+}

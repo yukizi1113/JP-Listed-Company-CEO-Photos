@@ -1,0 +1,21 @@
+{
+  "name": "上野 憲二",
+  "title": "代表取締役社長",
+  "appointment_info": "2020年3月",
+  "source_url": "https://www.genetec.co.jp/about/message/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2020-03-01",
+    "open_on_date": 240.88,
+    "close_on_date": 222.74,
+    "high_on_date": 251.29,
+    "low_on_date": 211.44,
+    "trading_date": "2020-03-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 240.88
+}

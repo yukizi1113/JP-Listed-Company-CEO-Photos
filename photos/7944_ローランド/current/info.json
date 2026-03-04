@@ -1,0 +1,25 @@
+{
+  "name": "地位",
+  "title": "代表取締役社長",
+  "appointment_info": "2022年3月",
+  "source_url": "https://www.roland.com/jp/sustainability/corporate_governance/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2022-03-01",
+    "open_on_date": 3458.94,
+    "close_on_date": 3433.69,
+    "high_on_date": 3496.81,
+    "low_on_date": 3391.61,
+    "trading_date": "2022-02-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 3458.94
+}

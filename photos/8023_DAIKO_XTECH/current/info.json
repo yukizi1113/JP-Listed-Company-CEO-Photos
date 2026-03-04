@@ -1,0 +1,25 @@
+{
+  "name": "松山 晃一郎",
+  "title": "代表取締役社長",
+  "appointment_info": "2004年4月",
+  "source_url": "https://www.daiko-xtech.co.jp/company/officer/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2004-04-01",
+    "open_on_date": 175.68,
+    "close_on_date": 176.48,
+    "high_on_date": 179.69,
+    "low_on_date": 175.68,
+    "trading_date": "2004-03-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 175.68
+}

@@ -1,0 +1,21 @@
+{
+  "name": "職名\n氏",
+  "title": "社長執行役員",
+  "appointment_info": "2025年6月",
+  "source_url": "https://www.jvckenwood.com/jp/corporate/management/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-06-01",
+    "open_on_date": 1210.85,
+    "close_on_date": 1211.85,
+    "high_on_date": 1223.29,
+    "low_on_date": 1201.4,
+    "trading_date": "2025-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1210.85
+}

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年6月",
+  "source_url": "https://www.jast.jp/corporate/message/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-06-01",
+    "open_on_date": 1818.69,
+    "close_on_date": 1861.49,
+    "high_on_date": 1908.28,
+    "low_on_date": 1815.7,
+    "trading_date": "2025-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1818.69
+}

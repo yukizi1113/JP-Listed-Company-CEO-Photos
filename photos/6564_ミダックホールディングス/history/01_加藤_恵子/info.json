@@ -1,0 +1,26 @@
+{
+  "name": "加藤 恵子",
+  "appointment_date": "2019年4月",
+  "resignation_date": "2022年2月22日",
+  "source_url": "https://www.midac.jp/news/20220222_0138.html",
+  "stock_price_at_appointment": {
+    "date": "2019-04-01",
+    "open_on_date": 311.58,
+    "close_on_date": 311.58,
+    "high_on_date": 311.58,
+    "low_on_date": 311.58,
+    "trading_date": "2019-03-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 311.58,
+  "stock_price_at_resignation": {
+    "date": "2022-02-22",
+    "open_on_date": 2510.15,
+    "close_on_date": 2411.71,
+    "high_on_date": 2524.91,
+    "low_on_date": 2389.07,
+    "trading_date": "2022-02-14",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 2411.71
+}

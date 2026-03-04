@@ -1,0 +1,21 @@
+{
+  "name": "魅力",
+  "title": "代表取締役社長",
+  "appointment_info": "2021年5月",
+  "source_url": "https://www.tokyu-fudosan-hd.co.jp/about/message/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-05-01",
+    "open_on_date": 495.01,
+    "close_on_date": 493.27,
+    "high_on_date": 499.35,
+    "low_on_date": 489.8,
+    "trading_date": "2021-04-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 495.01
+}

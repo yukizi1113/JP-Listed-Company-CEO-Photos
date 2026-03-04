@@ -1,0 +1,21 @@
+{
+  "name": "阿部 猪佐雄",
+  "title": "代表取締役社長",
+  "appointment_info": "2026/01/09",
+  "source_url": "https://www.ai-mech.com/",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2026-01-09",
+    "open_on_date": 4995.0,
+    "close_on_date": 4930.0,
+    "high_on_date": 4995.0,
+    "low_on_date": 4910.0,
+    "trading_date": "2025-12-30",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 4995.0
+}

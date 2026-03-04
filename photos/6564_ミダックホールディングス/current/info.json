@@ -1,0 +1,22 @@
+{
+  "name": "安心",
+  "title": "代表取締役社長",
+  "appointment_info": "2021年9月",
+  "source_url": "https://www.midac.jp/company/message.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2021-09-01",
+    "open_on_date": 4031.0,
+    "close_on_date": 4193.42,
+    "high_on_date": 4237.72,
+    "low_on_date": 3996.55,
+    "trading_date": "2021-08-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 4031.0
+}

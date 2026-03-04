@@ -1,0 +1,22 @@
+{
+  "name": "当社創業",
+  "title": "代表取締役社長",
+  "appointment_info": "2019年6月",
+  "source_url": "https://www.did-daido.co.jp/company/about/message.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2019-06-01",
+    "open_on_date": 711.24,
+    "close_on_date": 706.9,
+    "high_on_date": 721.66,
+    "low_on_date": 706.9,
+    "trading_date": "2019-05-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 711.24
+}

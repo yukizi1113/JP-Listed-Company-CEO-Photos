@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年11月",
+  "source_url": "https://mit-hd.co.jp/company-introduction/company-profile/profile/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg"
+  ],
+  "photo_count": 3,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-11-01",
+    "open_on_date": 1161.5,
+    "close_on_date": 1177.13,
+    "high_on_date": 1177.13,
+    "low_on_date": 1159.54,
+    "trading_date": "2025-10-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1161.5
+}

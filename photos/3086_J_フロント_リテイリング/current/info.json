@@ -1,0 +1,21 @@
+{
+  "name": "小出 寛子",
+  "title": "代表取締役社長",
+  "appointment_info": "2001年4月",
+  "source_url": "https://www.j-front-retailing.com/company/officer.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2001-04-01",
+    "open_on_date": 399.21,
+    "close_on_date": 398.25,
+    "high_on_date": 408.83,
+    "low_on_date": 395.36,
+    "trading_date": "2001-03-22",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 399.21
+}

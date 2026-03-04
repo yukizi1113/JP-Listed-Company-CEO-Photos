@@ -1,0 +1,25 @@
+{
+  "name": "田中 利一",
+  "title": "取締役社長",
+  "appointment_info": "2015年4月",
+  "source_url": "https://www.kakoki.co.jp/company/officer.html",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2015-04-01",
+    "open_on_date": 1037.09,
+    "close_on_date": 1044.24,
+    "high_on_date": 1046.62,
+    "low_on_date": 1034.7,
+    "trading_date": "2015-03-23",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1037.09
+}

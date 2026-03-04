@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年３月",
+  "source_url": "https://www.nisso-hd.com/company/officer/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 767.46,
+    "close_on_date": 769.41,
+    "high_on_date": 774.27,
+    "low_on_date": 764.55,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 767.46
+}

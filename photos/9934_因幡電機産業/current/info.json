@@ -1,0 +1,23 @@
+{
+  "name": "平素",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年3月",
+  "source_url": "https://www.inaba.co.jp/corporate/message/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg"
+  ],
+  "photo_count": 3,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 1864.48,
+    "close_on_date": 1877.02,
+    "high_on_date": 1886.18,
+    "low_on_date": 1864.48,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1864.48
+}

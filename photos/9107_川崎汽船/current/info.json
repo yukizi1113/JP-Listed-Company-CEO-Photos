@@ -1,0 +1,21 @@
+{
+  "name": "川崎汽船",
+  "title": "代表執行役社長",
+  "appointment_info": "2022年5月",
+  "source_url": "https://www.kline.co.jp/ja/corporate/topmessage.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2022-05-01",
+    "open_on_date": 640.47,
+    "close_on_date": 659.41,
+    "high_on_date": 661.13,
+    "low_on_date": 634.44,
+    "trading_date": "2022-04-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 640.47
+}

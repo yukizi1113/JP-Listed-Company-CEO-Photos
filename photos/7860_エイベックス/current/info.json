@@ -1,0 +1,22 @@
+{
+  "name": "会長 松浦",
+  "title": "代表取締役社長",
+  "appointment_info": "2022年5月",
+  "source_url": "https://avex.com/jp/ja/corp/topmessage/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg"
+  ],
+  "photo_count": 2,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2022-05-01",
+    "open_on_date": 1248.44,
+    "close_on_date": 1265.23,
+    "high_on_date": 1271.41,
+    "low_on_date": 1244.02,
+    "trading_date": "2022-04-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1248.44
+}

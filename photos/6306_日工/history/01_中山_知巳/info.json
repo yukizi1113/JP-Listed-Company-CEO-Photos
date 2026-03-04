@@ -1,0 +1,26 @@
+{
+  "name": "中山 知巳",
+  "appointment_date": "2025年2月13日",
+  "resignation_date": "2025年2月13日",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000054.000081441.html",
+  "stock_price_at_appointment": {
+    "date": "2025-02-13",
+    "open_on_date": 678.18,
+    "close_on_date": 671.49,
+    "high_on_date": 678.18,
+    "low_on_date": 671.49,
+    "trading_date": "2025-02-03",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 678.18,
+  "stock_price_at_resignation": {
+    "date": "2025-02-13",
+    "open_on_date": 678.18,
+    "close_on_date": 671.49,
+    "high_on_date": 678.18,
+    "low_on_date": 671.49,
+    "trading_date": "2025-02-03",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 671.49
+}

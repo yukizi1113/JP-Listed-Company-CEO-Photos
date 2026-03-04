@@ -14787,5 +14787,121 @@
       }
     ],
     "enriched_at": "2026-02-25T17:37:58.620952"
+  },
+  {
+    "ticker": "1301",
+    "company_name": "極洋",
+    "previous_ceos": [
+      {
+        "name": "二村雄三",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": "2004-06-29",
+        "photo_path": "photos_1\\1301_極洋\\history\\01_二村雄三\\photo_01.jpg"
+      },
+      {
+        "name": "福井清計",
+        "title": "代表取締役社長",
+        "appointment_date": "2004-06-29",
+        "resignation_date": "2011-04-01",
+        "photo_path": "photos_1\\1301_極洋\\history\\02_福井清計\\photo_01.jpg"
+      },
+      {
+        "name": "多田久樹",
+        "title": "代表取締役社長",
+        "appointment_date": "2011-04-01",
+        "resignation_date": "2016-06-24",
+        "photo_path": "photos_1\\1301_極洋\\history\\03_多田久樹\\photo_01.jpg"
+      },
+      {
+        "name": "今井賢司",
+        "title": "代表取締役社長",
+        "appointment_date": "2016-06-24",
+        "resignation_date": "2018-06-26",
+        "photo_path": "photos_1\\1301_極洋\\history\\04_今井賢司\\photo_01.jpg"
+      },
+      {
+        "name": "井上誠",
+        "title": "代表取締役社長",
+        "appointment_date": "2018-06-26",
+        "resignation_date": null,
+        "photo_path": "photos_1\\1301_極洋\\history\\05_井上誠\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "1332",
+    "company_name": "ニッスイ",
+    "previous_ceos": [
+      {
+        "name": "垣添直也",
+        "title": "代表取締役社長",
+        "appointment_date": "1999-06-29",
+        "resignation_date": "2012-06-01",
+        "photo_path": "photos_1\\1332_ニッスイ\\history\\01_垣添直也\\photo_01.jpg"
+      },
+      {
+        "name": "細見典男",
+        "title": "代表取締役社長",
+        "appointment_date": "2012-06-01",
+        "resignation_date": "2017-06-28",
+        "photo_path": "photos_1\\1332_ニッスイ\\history\\02_細見典男\\photo_01.jpg"
+      },
+      {
+        "name": "大木伸介",
+        "title": "代表取締役社長",
+        "appointment_date": "2017-06-28",
+        "resignation_date": "2018-03-15",
+        "photo_path": "photos_1\\1332_ニッスイ\\history\\03_大木伸介\\photo_01.jpg"
+      },
+      {
+        "name": "的埜明世",
+        "title": "代表取締役社長",
+        "appointment_date": "2018-03-15",
+        "resignation_date": "2021-06-25",
+        "photo_path": "photos_1\\1332_ニッスイ\\history\\04_的埜明世\\photo_01.jpg"
+      },
+      {
+        "name": "浜田晋吾",
+        "title": "代表取締役社長",
+        "appointment_date": "2021-06-25",
+        "resignation_date": "2025-05-14",
+        "photo_path": "photos_1\\1332_ニッスイ\\history\\05_浜田晋吾\\photo_01.jpg"
+      },
+      {
+        "name": "田中輝",
+        "title": "代表取締役社長",
+        "appointment_date": "2025-05-14",
+        "resignation_date": null,
+        "photo_path": "photos_1\\1332_ニッスイ\\history\\06_田中輝\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "1377",
+    "company_name": "サカタのタネ",
+    "previous_ceos": [
+      {
+        "name": "高橋英夫",
+        "title": "代表取締役社長",
+        "appointment_date": "1999-01-01",
+        "resignation_date": "2007-01-01",
+        "photo_path": "photos_1\\1377_サカタのタネ\\history\\01_高橋英夫\\photo_01.jpg"
+      },
+      {
+        "name": "坂田宏",
+        "title": "代表取締役社長",
+        "appointment_date": "2007-01-01",
+        "resignation_date": "2025-01-01",
+        "photo_path": "photos_1\\1377_サカタのタネ\\history\\02_坂田宏\\photo_01.jpg"
+      },
+      {
+        "name": "加々美勉",
+        "title": "代表取締役社長",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "photo_path": "photos_1\\1377_サカタのタネ\\history\\03_加々美勉\\photo_01.jpg"
+      }
+    ]
   }
 ]

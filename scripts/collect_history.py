@@ -72,21 +72,33 @@ _NAME_BAD = [
     "実兄", "以上", "合計", "出典", "参照", "注記", "情報", "事業", "採用",
     "光章", "吾氏", "役員", "経歴", "部長", "常務", "専務", "議長", "理事",
     "その他", "期間", "備考", "名前", "読み", "から", "まで", "年間",
+    "会長", "業務", "表明", "検査", "一覧", "管理", "担当", "運営",
+    "設立", "退任", "現在", "歴代", "前任", "後任", "交代", "変更",
+    "合併", "分割", "解散", "破綻", "再建", "刷新", "監査", "執行",
 ]
+
+_JP_CHARS = re.compile(r'^[\u4e00-\u9fff\u3040-\u30ff]+$')
 
 
 def _is_valid_jp_name(text: str) -> bool:
     text = text.strip()
-    if len(text) < 2 or len(text) > 10:
+    if not text or "\n" in text or "\r" in text:
         return False
-    if "\n" in text or "\r" in text:
+    if any(b in text for b in _NAME_BAD):
         return False
-    if not re.fullmatch(
-        r"[\u4e00-\u9fff\u3040-\u30ff]{1,4}[ \u3000]?[\u4e00-\u9fff\u3040-\u30ff]{1,5}",
-        text,
-    ):
+    # スペースあり: 姓(2-4字) + 名(2-5字) の両方が漢字/仮名
+    if re.search(r'[\s\u3000]', text):
+        parts = re.split(r'[\s\u3000]+', text.strip())
+        if len(parts) != 2:
+            return False
+        family, given = parts
+        if not (2 <= len(family) <= 4 and 2 <= len(given) <= 5):
+            return False
+        return bool(_JP_CHARS.match(family) and _JP_CHARS.match(given))
+    # スペースなし: 2-7字の漢字/仮名のみ
+    if not (2 <= len(text) <= 7):
         return False
-    return not any(b in text for b in _NAME_BAD)
+    return bool(_JP_CHARS.match(text))
 
 
 # ── 日付パーサ ────────────────────────────────────────────────────────
@@ -652,14 +664,17 @@ def main():
 
         is_batch_end = (i % BATCH_SIZE == 0) or (i == len(todo))
         if is_batch_end:
-            # 進捗保存
-            HISTORY_PROGRESS.write_text(
-                json.dumps(list(done)), encoding="utf-8"
-            )
-            HISTORY_OUT.write_text(
+            # 進捗保存（アトミック書き込み）
+            tmp_prog = HISTORY_PROGRESS.with_suffix(".tmp")
+            tmp_prog.write_text(json.dumps(list(done)), encoding="utf-8")
+            tmp_prog.replace(HISTORY_PROGRESS)
+
+            tmp_out = HISTORY_OUT.with_suffix(".tmp")
+            tmp_out.write_text(
                 json.dumps(list(results.values()), ensure_ascii=False, indent=2),
                 encoding="utf-8",
             )
+            tmp_out.replace(HISTORY_OUT)
             with_prev = sum(1 for r in results.values() if r.get("previous_ceos"))
             log.info(f"進捗保存: {len(done)}/{len(companies)} | 歴代あり: {with_prev} 社")
 

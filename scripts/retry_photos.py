@@ -129,13 +129,30 @@ def photos_dir(ticker: str) -> Path:
         return PROJECT_DIR / "photos_5"
 
 
+_MAX_PHOTO_BYTES = 8 * 1024 * 1024  # 8MB上限
+
+
 def download_photo(url: str, dest: Path) -> bool:
-    """URLから写真をダウンロードして保存。最低5KB必要。"""
+    """URLから写真をダウンロードして保存。最低5KB・最大8MB。"""
     try:
         r = SESSION.get(url, timeout=20, stream=True)
         if r.status_code != 200:
             return False
-        data = r.content
+        # Content-Length チェック（大きすぎる場合はスキップ）
+        clen = int(r.headers.get("Content-Length", 0))
+        if clen > _MAX_PHOTO_BYTES:
+            r.close()
+            return False
+        # iter_content で最大8MBまで読む
+        chunks = []
+        total = 0
+        for chunk in r.iter_content(65536):
+            total += len(chunk)
+            if total > _MAX_PHOTO_BYTES:
+                r.close()
+                return False
+            chunks.append(chunk)
+        data = b"".join(chunks)
         if len(data) < 5000:
             return False
         # 画像ファイルのマジックバイトを確認
@@ -174,10 +191,17 @@ def wiki_person_photo(name: str) -> str | None:
     for search_name in [name, name.replace(" ", "　")]:
         url = f"https://ja.wikipedia.org/wiki/{quote(search_name)}"
         try:
-            r = SESSION.get(url, timeout=15)
+            r = SESSION.get(url, timeout=15, stream=True)
             if r.status_code != 200:
+                r.close()
                 continue
-            sp = BeautifulSoup(r.text, "lxml")
+            raw = b""
+            for chunk in r.iter_content(65536):
+                raw += chunk
+                if len(raw) > 1024 * 1024:  # 1MB上限
+                    r.close()
+                    break
+            sp = BeautifulSoup(raw.decode("utf-8", errors="replace"), "lxml")
             # infobox の画像
             infobox = sp.find("table", {"class": lambda c: c and "infobox" in " ".join(c) if c else False})
             if infobox:
@@ -297,10 +321,18 @@ def wayback_photo(name: str, company_url: str, year: int, company_name: str) -> 
 
     for snap_url in snap_urls:
         try:
-            r = SESSION.get(snap_url, timeout=20)
+            r = SESSION.get(snap_url, timeout=20, stream=True)
             if r.status_code != 200:
+                r.close()
                 continue
-            sp = BeautifulSoup(r.text, "lxml")
+            # 最大2MBまで読む（Waybackページが巨大になる対策）
+            raw = b""
+            for chunk in r.iter_content(65536):
+                raw += chunk
+                if len(raw) > 2 * 1024 * 1024:
+                    r.close()
+                    break
+            sp = BeautifulSoup(raw.decode("utf-8", errors="replace"), "lxml")
             img_url = _find_img_near_name(sp, name_fragments, snap_url)
             if img_url:
                 log.info(f"  Wayback hit: {snap_url[:80]}")

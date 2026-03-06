@@ -2555,8 +2555,44 @@
   {
     "ticker": "3733",
     "company_name": "ソフトウェア・サービス",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T02:26:50.625250"
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "3763",
@@ -26743,6 +26779,43 @@
         "appointment_date": null,
         "resignation_date": null,
         "source": "https://corp.world.co.jp/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "3659",
+    "company_name": "ネクソン",
+    "previous_ceos": [
+      {
+        "name": "崔承祐",
+        "appointment_date": "2009-01-01",
+        "resignation_date": "2009-03-31",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3678",
+    "company_name": "メディアドゥ",
+    "previous_ceos": [
+      {
+        "name": "南場智子",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3678_メディアドゥ\\history\\01_南場智子\\photo_01.jpg"
+      },
+      {
+        "name": "守安功",
+        "appointment_date": "2021-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村信悟",
+        "appointment_date": "2021-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
       }
     ]
   }

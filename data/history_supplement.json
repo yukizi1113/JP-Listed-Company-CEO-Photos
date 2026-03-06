@@ -5673,14 +5673,148 @@
   {
     "ticker": "5368",
     "company_name": "日本インシュレーション",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T11:09:38.967989"
+    "previous_ceos": [
+      {
+        "name": "大橋健一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.jic-bestork.co.jp/company/history/"
+      },
+      {
+        "name": "吉井智彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.jic-bestork.co.jp/company/history/"
+      }
+    ]
   },
   {
     "ticker": "5406",
     "company_name": "神戸製鋼所",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T11:11:33.276140"
+    "previous_ceos": [
+      {
+        "name": "黒川勇熊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木岩治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_3\\5406_神戸製鋼所\\history\\02_鈴木岩治郎\\photo_01.jpg"
+      },
+      {
+        "name": "伊藤乙次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_3\\5406_神戸製鋼所\\history\\03_伊藤乙次郎\\photo_01.jpg"
+      },
+      {
+        "name": "永安晋次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田宮嘉右衛門",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "浅田長平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "町永三郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "外島健吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井上義海",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木博章",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "杉澤英男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高橋孝吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "牧冬彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "亀高素吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "熊本昌弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水越浩士",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "犬伏泰夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤廣士",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川崎博也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山口貢",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "5408",
@@ -30004,6 +30138,313 @@
         "appointment_date": "2015-02-01",
         "resignation_date": null,
         "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "5304",
+    "company_name": "SECカーボン",
+    "previous_ceos": [
+      {
+        "name": "大谷米太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_3\\5304_SECカーボン\\history\\01_大谷米太郎\\photo_01.jpg"
+      },
+      {
+        "name": "大谷竹次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "大谷勇",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "山門樹一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "大谷民明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "中島耕",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "5401",
+    "company_name": "日本製鉄",
+    "previous_ceos": [
+      {
+        "name": "友野宏",
+        "appointment_date": "2012-10-01",
+        "resignation_date": "2014-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "進藤孝生",
+        "appointment_date": "2014-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_3\\5401_日本製鉄\\history\\02_進藤孝生\\photo_01.jpg"
+      },
+      {
+        "name": "橋本英二",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2024-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_3\\5401_日本製鉄\\history\\03_橋本英二\\photo_01.jpg"
+      },
+      {
+        "name": "今井正",
+        "appointment_date": "2024-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "5411",
+    "company_name": "JFEホールディングス",
+    "previous_ceos": [
+      {
+        "name": "下垣内洋一",
+        "appointment_date": "2002-09-01",
+        "resignation_date": "2005-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_3\\5411_JFEホールディングス\\history\\01_下垣内洋一\\photo_01.jpg"
+      },
+      {
+        "name": "數土文夫",
+        "appointment_date": "2005-04-01",
+        "resignation_date": "2010-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "馬田一",
+        "appointment_date": "2010-04-01",
+        "resignation_date": "2015-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_3\\5411_JFEホールディングス\\history\\03_馬田一\\photo_01.jpg"
+      },
+      {
+        "name": "林田英治",
+        "appointment_date": "2015-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿木厚司",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2024-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_3\\5411_JFEホールディングス\\history\\05_柿木厚司\\photo_01.jpg"
+      },
+      {
+        "name": "北野嘉久",
+        "appointment_date": "2024-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "5471",
+    "company_name": "大同特殊鋼",
+    "previous_ceos": [
+      {
+        "name": "電気製鋼所",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "下出民義",
+        "appointment_date": "1916-08-01",
+        "resignation_date": "1917-09-12",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福澤桃介",
+        "appointment_date": "1917-09-01",
+        "resignation_date": "1922-07-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "寒川恒貞",
+        "appointment_date": "1922-07-01",
+        "resignation_date": "1931-06-11",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "下出義雄",
+        "appointment_date": "1931-06-01",
+        "resignation_date": "1946-02-25",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村秀夫",
+        "appointment_date": "1946-03-01",
+        "resignation_date": "1946-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "末廣幸次郎",
+        "appointment_date": "1951-01-01",
+        "resignation_date": "1953-08-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "里村伸二",
+        "appointment_date": "1953-08-01",
+        "resignation_date": "1958-03-11",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石井健一郎",
+        "appointment_date": "1958-03-01",
+        "resignation_date": "1973-08-30",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "武田喜三",
+        "appointment_date": "1973-08-01",
+        "resignation_date": "1982-09-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "秋田正彌",
+        "appointment_date": "1982-09-01",
+        "resignation_date": "1986-05-30",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "木下浩次",
+        "appointment_date": "1986-05-01",
+        "resignation_date": "1988-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岸田寿夫",
+        "appointment_date": "1988-06-01",
+        "resignation_date": "1992-06-26",
+        "source": "wikipedia_table",
+        "photo_path": "photos_3\\5471_大同特殊鋼\\history\\13_岸田寿夫\\photo_01.jpg"
+      },
+      {
+        "name": "冨田寛治",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1998-06-26",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高山剛",
+        "appointment_date": "1998-06-01",
+        "resignation_date": "2004-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小澤正俊",
+        "appointment_date": "2004-06-01",
+        "resignation_date": "2010-06-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "嶋尾正",
+        "appointment_date": "2010-06-01",
+        "resignation_date": "2016-06-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石黒武",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2023-06-27",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清水哲也",
+        "appointment_date": "2023-06-01",
+        "resignation_date": "2023-06-27",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "5476",
+    "company_name": "日本高周波鋼業",
+    "previous_ceos": [
+      {
+        "name": "有賀隆雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土方利夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水馬克久",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大谷茂久",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山下英治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福原哲一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "溝口茂",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大宮克己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "5574",
+    "company_name": "ABEJA",
+    "previous_ceos": [
+      {
+        "name": "総務省",
+        "appointment_date": "2005-08-01",
+        "resignation_date": "2024-10-01",
+        "source": "https://www.abejainc.com/company/history/"
       }
     ]
   }

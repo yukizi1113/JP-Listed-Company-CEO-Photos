@@ -53682,5 +53682,80 @@
       }
     ],
     "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "5703",
+    "company_name": "日本軽金属ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "岡本一郎",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "5819",
+    "company_name": "カナレ電気",
+    "previous_ceos": [
+      {
+        "name": "中島正敬",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "5856",
+    "company_name": "エルアイイーエイチ",
+    "previous_ceos": [
+      {
+        "name": "山口和也",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "5900",
+    "company_name": "ダイケン",
+    "previous_ceos": [
+      {
+        "name": "藤岡 洋一",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "5932",
+    "company_name": "三協立山",
+    "previous_ceos": [
+      {
+        "name": "平能正三",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
   }
 ]

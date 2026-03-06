@@ -51717,5 +51717,110 @@
       }
     ],
     "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "2594",
+    "company_name": "キーコーヒー",
+    "previous_ceos": [
+      {
+        "name": "柴田裕",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "2612",
+    "company_name": "かどや製油",
+    "previous_ceos": [
+      {
+        "name": "北川淳一",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "2674",
+    "company_name": "ハードオフコーポレーション",
+    "previous_ceos": [
+      {
+        "name": "山本善政",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "2678",
+    "company_name": "アスクル",
+    "previous_ceos": [
+      {
+        "name": "吉岡晃",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "2681",
+    "company_name": "ゲオホールディングス",
+    "previous_ceos": [
+      {
+        "name": "村上幸正",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "2695",
+    "company_name": "くら寿司",
+    "previous_ceos": [
+      {
+        "name": "田中邦彦",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "2702",
+    "company_name": "日本マクドナルドホールディングス",
+    "previous_ceos": [
+      {
+        "name": "日色保",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
   }
 ]

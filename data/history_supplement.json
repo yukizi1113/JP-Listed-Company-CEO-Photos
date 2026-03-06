@@ -3628,8 +3628,14 @@
   {
     "ticker": "4334",
     "company_name": "ユークス",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T05:39:10.068542"
+    "previous_ceos": [
+      {
+        "name": "木谷高明",
+        "appointment_date": "2002-10-01",
+        "resignation_date": "2011-12-26",
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "4335",
@@ -28402,6 +28408,174 @@
       {
         "name": "古川俊太郎",
         "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4401",
+    "company_name": "ADEKA",
+    "previous_ceos": [
+      {
+        "name": "雨宮亘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鈴木市之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "磯部愉一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "藤堂良譲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "小池一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "平林憲一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "東海林武雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "古山二郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "河井洋一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "吉田豊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "松井満",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "岩下誠宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "中嶋宏元",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "桜井邦彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "郡昭夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "城詰秀尊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "4417",
+    "company_name": "グローバルセキュリティエキスパート",
+    "previous_ceos": [
+      {
+        "name": "日東電気工業",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "不詳",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "皆川利男",
+        "appointment_date": "1955-05-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土方三郎",
+        "appointment_date": "1974-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鎌居五朗",
+        "appointment_date": "1985-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日東電工",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本英樹",
+        "appointment_date": "1996-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹本正道",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "柳楽幸雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "赤木達哉",
+        "appointment_date": "2026-04-01",
         "resignation_date": null,
         "source": "wikipedia_table"
       }

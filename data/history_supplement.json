@@ -1520,8 +1520,45 @@
   {
     "ticker": "3159",
     "company_name": "丸善CHIホールディングス",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-24T23:24:13.473994"
+    "previous_ceos": [
+      {
+        "name": "増田義一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青木弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐久間長吉郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\3159_丸善CHIホールディングス\\history\\03_佐久間長吉郎\\photo_01.jpg"
+      },
+      {
+        "name": "北島織衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北島義俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北島義斉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "3161",
@@ -25983,6 +26020,404 @@
         "appointment_date": null,
         "resignation_date": null,
         "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3103",
+    "company_name": "ユニチカ",
+    "previous_ceos": [
+      {
+        "name": "摂津紡績",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "初代 平野平兵衛",
+        "appointment_date": "1890-01-01",
+        "resignation_date": "1895-08-02",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菊池恭三",
+        "appointment_date": "1915-06-01",
+        "resignation_date": "1918-05-31",
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\3103_ユニチカ\\history\\03_菊池恭三\\photo_01.jpg"
+      },
+      {
+        "name": "日本レイヨン",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菊池文吾",
+        "appointment_date": "1938-06-01",
+        "resignation_date": "1946-06-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "坂口二郎",
+        "appointment_date": "1946-07-01",
+        "resignation_date": "1969-09-30",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "尼崎紡績",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "広岡信五郎",
+        "appointment_date": "1889-08-01",
+        "resignation_date": "1891-07-15",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福本元之助",
+        "appointment_date": "1893-01-01",
+        "resignation_date": "1901-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大日本紡績",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小寺源吾",
+        "appointment_date": "1936-11-01",
+        "resignation_date": "1946-09-16",
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\3103_ユニチカ\\history\\11_小寺源吾\\photo_01.jpg"
+      },
+      {
+        "name": "三村和義",
+        "appointment_date": "1946-09-01",
+        "resignation_date": "1947-06-26",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "原吉平",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1964-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "ニチボー",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塩塚忠美",
+        "appointment_date": "1968-12-01",
+        "resignation_date": "1969-09-30",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "ユニチカ",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "富井一雄",
+        "appointment_date": "1970-04-01",
+        "resignation_date": "1972-05-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小幡謙三",
+        "appointment_date": "1972-05-01",
+        "resignation_date": "1974-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小寺新六郎",
+        "appointment_date": "1974-03-01",
+        "resignation_date": "1982-04-05",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平田豊",
+        "appointment_date": "1982-04-01",
+        "resignation_date": "1989-06-28",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3106",
+    "company_name": "倉敷紡績",
+    "previous_ceos": [
+      {
+        "name": "大原孝四郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大原孫三郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\3106_倉敷紡績\\history\\02_大原孫三郎\\photo_01.jpg"
+      },
+      {
+        "name": "神社柳吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大原総一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福井周蔵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤田勉二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塚田公太",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三木哲持",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田中敦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "牧内栄蔵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤田温",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "真銅孝三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "丹羽旲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井上晶博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤田晴哉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西垣伸二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3105",
+    "company_name": "日清紡ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "安部幸兵衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\3105_日清紡ホールディングス\\history\\01_安部幸兵衛\\photo_01.jpg"
+      },
+      {
+        "name": "宮島清次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鷲尾勇平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "桜田武",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "露口達",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\3105_日清紡ホールディングス\\history\\05_露口達\\photo_01.jpg"
+      },
+      {
+        "name": "山本啓四郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\3105_日清紡ホールディングス\\history\\06_山本啓四郎\\photo_01.jpg"
+      },
+      {
+        "name": "中瀬秀夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\3105_日清紡ホールディングス\\history\\07_中瀬秀夫\\photo_01.jpg"
+      },
+      {
+        "name": "田邊辰男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "望月朗宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "指田禎一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "岩下俊士",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\3105_日清紡ホールディングス\\history\\11_岩下俊士\\photo_01.jpg"
+      },
+      {
+        "name": "鵜澤静",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "河田正也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "村上雅洋",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "3154",
+    "company_name": "メディアスホールディングス",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3160",
+    "company_name": "大光",
+    "previous_ceos": [
+      {
+        "name": "東大法学部卒",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "元大蔵省",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "京大法学部卒",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "新潟県出身",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
       }
     ]
   }

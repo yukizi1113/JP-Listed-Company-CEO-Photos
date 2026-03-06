@@ -51132,5 +51132,185 @@
         "photo_path": "photos_5\\350A_デジタルグリッド\\history\\20_数土文夫\\photo_01.jpg"
       }
     ]
+  },
+  {
+    "ticker": "1383",
+    "company_name": "ベルグアース",
+    "previous_ceos": [
+      {
+        "name": "山口一彦",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1384",
+    "company_name": "ホクリヨウ",
+    "previous_ceos": [
+      {
+        "name": "米山大介",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1419",
+    "company_name": "タマホーム",
+    "previous_ceos": [
+      {
+        "name": "玉木康裕",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1433",
+    "company_name": "ベステラ",
+    "previous_ceos": [
+      {
+        "name": "本田 豊",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1724",
+    "company_name": "シンクレイヤ",
+    "previous_ceos": [
+      {
+        "name": "山口正裕",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1810",
+    "company_name": "松井建設",
+    "previous_ceos": [
+      {
+        "name": "松井隆弘",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1812",
+    "company_name": "鹿島建設",
+    "previous_ceos": [
+      {
+        "name": "押味至一",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1822",
+    "company_name": "大豊建設",
+    "previous_ceos": [
+      {
+        "name": "森下覚恵",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1828",
+    "company_name": "田辺工業",
+    "previous_ceos": [
+      {
+        "name": "四月朔日義雄",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1852",
+    "company_name": "淺沼組",
+    "previous_ceos": [
+      {
+        "name": "浅沼誠",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1885",
+    "company_name": "東亜建設工業",
+    "previous_ceos": [
+      {
+        "name": "秋山優樹",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1893",
+    "company_name": "五洋建設",
+    "previous_ceos": [
+      {
+        "name": "清水琢三",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
   }
 ]

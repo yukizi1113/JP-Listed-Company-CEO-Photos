@@ -24623,5 +24623,238 @@
         "source": "wikipedia_table"
       }
     ]
+  },
+  {
+    "ticker": "2130",
+    "company_name": "メンバーズ",
+    "previous_ceos": [
+      {
+        "name": "剣持",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.members.co.jp/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "2220",
+    "company_name": "亀田製菓",
+    "previous_ceos": [
+      {
+        "name": "佐藤",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.kamedaseika.co.jp/company/history/"
+      },
+      {
+        "name": "ジュネジャ",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.kamedaseika.co.jp/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "2286",
+    "company_name": "林兼産業",
+    "previous_ceos": [
+      {
+        "name": "中部幾次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2286_林兼産業\\history\\01_中部幾次郎\\photo_01.jpg"
+      },
+      {
+        "name": "中部兼市",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "中部謙吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "中部藤次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2286_林兼産業\\history\\04_中部藤次郎\\photo_01.jpg"
+      },
+      {
+        "name": "天辰祐之郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2286_林兼産業\\history\\05_天辰祐之郎\\photo_01.jpg"
+      },
+      {
+        "name": "中部慶次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "五十嵐勇二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "伊藤滋",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "池見賢",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "2288",
+    "company_name": "丸大食品",
+    "previous_ceos": [
+      {
+        "name": "竹岸政則",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "安達豊治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "小菅宇三治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2288_丸大食品\\history\\03_小菅宇三治\\photo_01.jpg"
+      },
+      {
+        "name": "小杉裕二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "立石信二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "坂井光男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "貴納順二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "松井鉄也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "千葉尚登",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "2301",
+    "company_name": "学情",
+    "previous_ceos": [
+      {
+        "name": "中井清和",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://company.gakujo.ne.jp/company/history/"
+      },
+      {
+        "name": "中井大志",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://company.gakujo.ne.jp/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "2296",
+    "company_name": "伊藤ハム米久ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "竹岸政則",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "安達豊治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "小菅宇三治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2296_伊藤ハム米久ホールディングス\\history\\03_小菅宇三治\\photo_01.jpg"
+      },
+      {
+        "name": "小杉裕二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "立石信二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "坂井光男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "貴納順二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "松井鉄也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "千葉尚登",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
   }
 ]

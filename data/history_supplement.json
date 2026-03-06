@@ -800,8 +800,38 @@
   {
     "ticker": "2653",
     "company_name": "イオン九州",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-24T21:18:04.143938"
+    "previous_ceos": [
+      {
+        "name": "岡崎双一",
+        "appointment_date": "2005-11-01",
+        "resignation_date": "2009-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "奥野善徳",
+        "appointment_date": "2009-04-01",
+        "resignation_date": "2011-02-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮下雄二",
+        "appointment_date": "2011-02-01",
+        "resignation_date": "2013-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東尾啓央",
+        "appointment_date": "2013-03-01",
+        "resignation_date": "2019-09-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "矢木健太郎",
+        "appointment_date": "2019-09-01",
+        "resignation_date": "2025-02-01",
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "2734",
@@ -24985,6 +25015,480 @@
         "appointment_date": "2021-04-01",
         "resignation_date": null,
         "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "2503",
+    "company_name": "キリンホールディングス",
+    "previous_ceos": [
+      {
+        "name": "加藤辨三郎",
+        "appointment_date": "1949-07-01",
+        "resignation_date": "1969-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "桑田猛",
+        "appointment_date": "1969-08-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高田弘",
+        "appointment_date": "1972-08-01",
+        "resignation_date": "1978-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "木下祝郎",
+        "appointment_date": "1978-03-01",
+        "resignation_date": "1984-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2503_キリンホールディングス\\history\\04_木下祝郎\\photo_01.jpg"
+      },
+      {
+        "name": "加藤幹夫",
+        "appointment_date": "1984-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村寛之助",
+        "appointment_date": "1991-03-01",
+        "resignation_date": "1996-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2503_キリンホールディングス\\history\\06_中村寛之助\\photo_01.jpg"
+      },
+      {
+        "name": "平田正",
+        "appointment_date": "1996-03-01",
+        "resignation_date": "2003-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松田譲",
+        "appointment_date": "2003-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "花井陳雄",
+        "appointment_date": "2012-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮本昌志",
+        "appointment_date": "2018-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "2587",
+    "company_name": "サントリー食品インターナショナル",
+    "previous_ceos": [
+      {
+        "name": "白井省三",
+        "appointment_date": "2009-01-01",
+        "resignation_date": "2011-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鳥井信宏",
+        "appointment_date": "2011-01-01",
+        "resignation_date": "2016-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小郷三朗",
+        "appointment_date": "2016-03-01",
+        "resignation_date": "2019-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "斎藤和弘",
+        "appointment_date": "2019-03-01",
+        "resignation_date": "2023-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小野真紀子",
+        "appointment_date": "2023-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "2502",
+    "company_name": "アサヒグループホールディングス",
+    "previous_ceos": [
+      {
+        "name": "初代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "二代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "三代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "四代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "五代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "六代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "七代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "八代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "九代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十一代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十二代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十三代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十四代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "十五代目",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2502_アサヒグループホールディングス\\history\\15_十五代目\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "2602",
+    "company_name": "日清オイリオグループ",
+    "previous_ceos": [
+      {
+        "name": "安部幸兵衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2602_日清オイリオグループ\\history\\01_安部幸兵衛\\photo_01.jpg"
+      },
+      {
+        "name": "宮島清次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鷲尾勇平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "桜田武",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "露口達",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2602_日清オイリオグループ\\history\\05_露口達\\photo_01.jpg"
+      },
+      {
+        "name": "山本啓四郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2602_日清オイリオグループ\\history\\06_山本啓四郎\\photo_01.jpg"
+      },
+      {
+        "name": "中瀬秀夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2602_日清オイリオグループ\\history\\07_中瀬秀夫\\photo_01.jpg"
+      },
+      {
+        "name": "田邊辰男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "望月朗宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2602_日清オイリオグループ\\history\\09_望月朗宏\\photo_01.jpg"
+      },
+      {
+        "name": "指田禎一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "岩下俊士",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鵜澤静",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "河田正也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "村上雅洋",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "2607",
+    "company_name": "不二製油",
+    "previous_ceos": [
+      {
+        "name": "国連グローバル",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.fujioil.co.jp/company/history/"
+      },
+      {
+        "name": "酒井",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.fujioil.co.jp/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "2573",
+    "company_name": "北海道コカ・コーラボトリング",
+    "previous_ceos": [
+      {
+        "name": "増田義一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青木弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐久間長吉郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2573_北海道コカ・コーラボトリング\\history\\03_佐久間長吉郎\\photo_01.jpg"
+      },
+      {
+        "name": "北島織衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北島義俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北島義斉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "2692",
+    "company_name": "伊藤忠食品",
+    "previous_ceos": [
+      {
+        "name": "尾崎弘",
+        "appointment_date": "1996-10-01",
+        "resignation_date": "2004-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "浜口泰三",
+        "appointment_date": "2004-12-01",
+        "resignation_date": "2013-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "星秀一",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高垣晴雄",
+        "appointment_date": "2017-06-01",
+        "resignation_date": "2018-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡本均",
+        "appointment_date": "2018-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "2698",
+    "company_name": "キャンドゥ",
+    "previous_ceos": [
+      {
+        "name": "城戸",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.cando-web.co.jp/corporate/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "2705",
+    "company_name": "大戸屋ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "蔵人金男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺順寛",
+        "appointment_date": "2002-01-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "野尻公平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "2721",
+    "company_name": "ジェイホールディングス",
+    "previous_ceos": [
+      {
+        "name": "下垣内洋一",
+        "appointment_date": "2002-09-01",
+        "resignation_date": "2005-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2721_ジェイホールディングス\\history\\01_下垣内洋一\\photo_01.jpg"
+      },
+      {
+        "name": "數土文夫",
+        "appointment_date": "2005-04-01",
+        "resignation_date": "2010-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "馬田一",
+        "appointment_date": "2010-04-01",
+        "resignation_date": "2015-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2721_ジェイホールディングス\\history\\03_馬田一\\photo_01.jpg"
+      },
+      {
+        "name": "林田英治",
+        "appointment_date": "2015-04-01",
+        "resignation_date": "2019-04-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿木厚司",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2024-04-01",
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2721_ジェイホールディングス\\history\\05_柿木厚司\\photo_01.jpg"
+      },
+      {
+        "name": "北野嘉久",
+        "appointment_date": "2024-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_list"
       }
     ]
   }

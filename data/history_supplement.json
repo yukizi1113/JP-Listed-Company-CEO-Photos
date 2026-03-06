@@ -28580,5 +28580,224 @@
         "source": "wikipedia_table"
       }
     ]
+  },
+  {
+    "ticker": "4478",
+    "company_name": "フリー",
+    "previous_ceos": [
+      {
+        "name": "猪木寛至",
+        "appointment_date": "1972-01-01",
+        "resignation_date": "1989-07-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4478_フリー\\history\\01_猪木寛至\\photo_01.jpg"
+      },
+      {
+        "name": "坂口征二",
+        "appointment_date": "1989-07-01",
+        "resignation_date": "1999-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤波辰巳",
+        "appointment_date": "1999-06-01",
+        "resignation_date": "2004-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "草間政一",
+        "appointment_date": "2004-06-01",
+        "resignation_date": "2005-05-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4478_フリー\\history\\04_草間政一\\photo_01.jpg"
+      },
+      {
+        "name": "菅林直樹",
+        "appointment_date": "2007-04-01",
+        "resignation_date": "2013-09-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "手塚要",
+        "appointment_date": "2013-09-01",
+        "resignation_date": "2016-02-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "原田克彦",
+        "appointment_date": "2016-02-01",
+        "resignation_date": "2018-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大張高己",
+        "appointment_date": "2020-10-01",
+        "resignation_date": "2023-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "棚橋弘至",
+        "appointment_date": "2023-12-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4506",
+    "company_name": "住友ファーマ",
+    "previous_ceos": [
+      {
+        "name": "大屋敦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土井正治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大谷一雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "長谷川周重",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土方武",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森英雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "香西昭夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "米倉弘昌",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4506_住友ファーマ\\history\\08_米倉弘昌\\photo_01.jpg"
+      },
+      {
+        "name": "廣瀨博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "十倉雅和",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田圭一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水戸信彰",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石飛修",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4507",
+    "company_name": "塩野義製薬",
+    "previous_ceos": [
+      {
+        "name": "小林忠兵衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "祖父は吉太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "4502",
+    "company_name": "武田薬品工業",
+    "previous_ceos": [
+      {
+        "name": "竹中登一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "野木森雅郁",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "畑中好彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "安川健司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村直樹",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4534",
+    "company_name": "持田製薬",
+    "previous_ceos": [
+      {
+        "name": "渡辺進",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.mochida.co.jp/company/history/"
+      },
+      {
+        "name": "持田直幸",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.mochida.co.jp/company/history/"
+      }
+    ]
   }
 ]

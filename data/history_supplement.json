@@ -24856,5 +24856,136 @@
         "source": "wikipedia_list"
       }
     ]
+  },
+  {
+    "ticker": "2378",
+    "company_name": "ルネサンス",
+    "previous_ceos": [
+      {
+        "name": "水野成夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2378_ルネサンス\\history\\01_水野成夫\\photo_01.jpg"
+      },
+      {
+        "name": "鹿内信隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "浅野賢澄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石田達郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "羽佐間重彰",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日枝久",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村上光一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "豊田皓",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2378_ルネサンス\\history\\08_豊田皓\\photo_01.jpg"
+      },
+      {
+        "name": "亀山千広",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2378_ルネサンス\\history\\09_亀山千広\\photo_01.jpg"
+      },
+      {
+        "name": "宮内正喜",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "遠藤龍之介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2378_ルネサンス\\history\\11_遠藤龍之介\\photo_01.jpg"
+      },
+      {
+        "name": "金光修",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "港浩一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清水賢治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "2433",
+    "company_name": "博報堂DYホールディングス",
+    "previous_ceos": [
+      {
+        "name": "出身校",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "2432",
+    "company_name": "ディー・エヌ・エー",
+    "previous_ceos": [
+      {
+        "name": "南場智子",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2432_ディー・エヌ・エー\\history\\01_南場智子\\photo_01.jpg"
+      },
+      {
+        "name": "守安功",
+        "appointment_date": "2021-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村信悟",
+        "appointment_date": "2021-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   }
 ]

@@ -223,8 +223,32 @@
   {
     "ticker": "1951",
     "company_name": "エクシオグループ",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-24T19:03:15.751703"
+    "previous_ceos": [
+      {
+        "name": "島田 博文",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高島 元",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "加賀谷 卓",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田辺 博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "1976",
@@ -24356,6 +24380,247 @@
         "appointment_date": "2003-03-01",
         "resignation_date": "2009-03-01",
         "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "1949",
+    "company_name": "住友電設",
+    "previous_ceos": [
+      {
+        "name": "小林四郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "代谷正元",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "相馬一男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "三浦澄能",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "田中甲三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "塩谷",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "菅沼敬行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "磯部正人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "坂崎全男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "1963",
+    "company_name": "日揮ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "実吉雅郎",
+        "appointment_date": "1928-10-01",
+        "resignation_date": "1966-05-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\1963_日揮ホールディングス\\history\\01_実吉雅郎\\photo_01.jpg"
+      },
+      {
+        "name": "鈴木義雄",
+        "appointment_date": "1966-05-01",
+        "resignation_date": "1980-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "篠田治男",
+        "appointment_date": "1980-06-01",
+        "resignation_date": "1984-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山田伸雄",
+        "appointment_date": "1984-06-01",
+        "resignation_date": "1988-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺英二",
+        "appointment_date": "1988-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "重久吉弘",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2002-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森本省治",
+        "appointment_date": "2002-06-01",
+        "resignation_date": "2007-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹内敬介",
+        "appointment_date": "2007-03-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "八重樫正彦",
+        "appointment_date": "2009-06-01",
+        "resignation_date": "2011-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川名浩一",
+        "appointment_date": "2011-06-01",
+        "resignation_date": "2017-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石塚忠",
+        "appointment_date": "2017-06-01",
+        "resignation_date": "2025-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤雅之",
+        "appointment_date": "2025-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1964",
+    "company_name": "中外炉工業",
+    "previous_ceos": [
+      {
+        "name": "田村",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.chugai.co.jp/ir/history/"
+      },
+      {
+        "name": "谷川",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.chugai.co.jp/ir/history/"
+      },
+      {
+        "name": "粉生",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.chugai.co.jp/ir/history/"
+      },
+      {
+        "name": "前河",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.chugai.co.jp/ir/history/"
+      },
+      {
+        "name": "西本",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.chugai.co.jp/ir/history/"
+      },
+      {
+        "name": "同年西本",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.chugai.co.jp/ir/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "1994",
+    "company_name": "高橋カーテンウォール工業",
+    "previous_ceos": [
+      {
+        "name": "高橋久男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.t-cw.co.jp/about/history/"
+      },
+      {
+        "name": "高橋敏男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.t-cw.co.jp/about/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "2122",
+    "company_name": "インタースペース",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
       }
     ]
   }

@@ -1737,8 +1737,39 @@
   {
     "ticker": "3286",
     "company_name": "トラストホールディングス",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T00:11:39.337993"
+    "previous_ceos": [
+      {
+        "name": "田辺和夫",
+        "appointment_date": "2011-04-01",
+        "resignation_date": "2012-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北村邦太郎",
+        "appointment_date": "2012-04-01",
+        "resignation_date": "2017-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大久保哲夫",
+        "appointment_date": "2017-04-01",
+        "resignation_date": "2021-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高倉透",
+        "appointment_date": "2021-04-01",
+        "resignation_date": "2026-04-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\3286_トラストホールディングス\\history\\04_高倉透\\photo_01.jpg"
+      },
+      {
+        "name": "大山一也",
+        "appointment_date": "2026-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "3293",
@@ -26418,6 +26449,116 @@
         "appointment_date": null,
         "resignation_date": null,
         "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "3231",
+    "company_name": "野村不動産ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "奥村綱雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\3231_野村不動産ホールディングス\\history\\01_奥村綱雄\\photo_01.jpg"
+      },
+      {
+        "name": "平山亮太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "磯野万亀男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "若林法雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "工藤冲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小畑幸雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高野孝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "猪口一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中野淳一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木弘久",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中井加明三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮嶋誠一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松尾大作",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3276",
+    "company_name": "JPMC",
+    "previous_ceos": [
+      {
+        "name": "南場智子",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\3276_JPMC\\history\\01_南場智子\\photo_01.jpg"
+      },
+      {
+        "name": "守安功",
+        "appointment_date": "2021-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岡村信悟",
+        "appointment_date": "2021-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
       }
     ]
   }

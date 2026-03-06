@@ -17,8 +17,62 @@
   {
     "ticker": "1443",
     "company_name": "技研ホールディングス",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-24T17:53:18.906494"
+    "previous_ceos": [
+      {
+        "name": "本田 宗一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "河島 喜好",
+        "appointment_date": "1973-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久米 是志",
+        "appointment_date": "1983-10-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川本 信彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉野 浩行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "福井 威夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊東 孝紳",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "八郷 隆弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三部 敏宏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "1514",
@@ -23373,5 +23427,310 @@
       }
     ],
     "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "1333",
+    "company_name": "マルハニチロ",
+    "previous_ceos": [
+      {
+        "name": "中部幾次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\1333_マルハニチロ\\history\\01_中部幾次郎\\photo_01.jpg"
+      },
+      {
+        "name": "中部兼市",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "中部謙吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "中部藤次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\1333_マルハニチロ\\history\\04_中部藤次郎\\photo_01.jpg"
+      },
+      {
+        "name": "天辰祐之郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\1333_マルハニチロ\\history\\05_天辰祐之郎\\photo_01.jpg"
+      },
+      {
+        "name": "中部慶次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "五十嵐勇二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "伊藤滋",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "池見賢",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "1418",
+    "company_name": "インターライフホールディングス",
+    "previous_ceos": [
+      {
+        "name": "松下幸之助",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\1418_インターライフホールディングス\\history\\01_松下幸之助\\photo_01.jpg"
+      },
+      {
+        "name": "松下正治",
+        "appointment_date": "1961-01-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山下俊彦",
+        "appointment_date": "1977-02-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "谷井昭雄",
+        "appointment_date": "1986-02-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森下洋一",
+        "appointment_date": "1993-02-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村邦夫",
+        "appointment_date": "2000-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大坪文雄",
+        "appointment_date": "2006-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "津賀一宏",
+        "appointment_date": "2012-06-01",
+        "resignation_date": "2021-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "楠見雄規",
+        "appointment_date": "2021-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1420",
+    "company_name": "サンヨーホームズ",
+    "previous_ceos": [
+      {
+        "name": "井植歳男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\1420_サンヨーホームズ\\history\\01_井植歳男\\photo_01.jpg"
+      },
+      {
+        "name": "井植祐郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井植薫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井植敏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高野泰明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "近藤定男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "桑野幸徳",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井植敏雅",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐野精一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊藤正人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中川能亨",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井垣誠一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1605",
+    "company_name": "INPEX",
+    "previous_ceos": [
+      {
+        "name": "黒田直樹",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北村俊昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "上田隆之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1662",
+    "company_name": "石油資源開発",
+    "previous_ceos": [
+      {
+        "name": "黒田直樹",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北村俊昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "上田隆之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1721",
+    "company_name": "コムシスホールディングス",
+    "previous_ceos": [
+      {
+        "name": "島田 博文",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高島 元",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "加賀谷 卓",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田辺 博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1793",
+    "company_name": "大本組",
+    "previous_ceos": [
+      {
+        "name": "大本榮一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.ohmoto.co.jp/company/history/"
+      },
+      {
+        "name": "大本万平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.ohmoto.co.jp/company/history/"
+      },
+      {
+        "name": "三宅啓一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.ohmoto.co.jp/company/history/"
+      }
+    ]
   }
 ]

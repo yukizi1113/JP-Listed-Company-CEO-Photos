@@ -1069,8 +1069,57 @@
   {
     "ticker": "2892",
     "company_name": "日本食品化工",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-24T21:56:55.244805"
+    "previous_ceos": [
+      {
+        "name": "野田日吉",
+        "appointment_date": "2017-03-01",
+        "resignation_date": "2017-03-11",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "平田信雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "渡辺博右",
+        "appointment_date": "2002-06-01",
+        "resignation_date": "2002-06-26",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "永井司",
+        "appointment_date": "2002-06-01",
+        "resignation_date": "2008-06-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "戸名厚",
+        "appointment_date": "2008-06-01",
+        "resignation_date": "2013-06-25",
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2892_日本食品化工\\history\\05_戸名厚\\photo_01.jpg"
+      },
+      {
+        "name": "鈴木慎一郎",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2018-06-26",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "髙野瀬励",
+        "appointment_date": "2018-06-01",
+        "resignation_date": "2021-06-27",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "荒川健",
+        "appointment_date": "2021-06-01",
+        "resignation_date": "2021-06-28",
+        "source": "wikipedia_list"
+      }
+    ]
   },
   {
     "ticker": "2871",
@@ -21157,8 +21206,87 @@
   {
     "ticker": "2802",
     "company_name": "味の素",
-    "previous_ceos": [],
-    "enriched_at": "2026-03-07"
+    "previous_ceos": [
+      {
+        "name": "鈴木忠治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2802_味の素\\history\\01_鈴木忠治\\photo_01.jpg"
+      },
+      {
+        "name": "道面豊信",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木恭二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺文蔵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "歌田勝弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鳥羽董",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "稲森俊介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "江頭邦雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山口範雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊藤雅俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西井孝明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤江太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村茂雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "2811",
@@ -25489,6 +25617,138 @@
         "appointment_date": "2024-04-01",
         "resignation_date": null,
         "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "2767",
+    "company_name": "円谷フィールズホールディングス",
+    "previous_ceos": [
+      {
+        "name": "円谷英二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "円谷一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "円谷皐",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "円谷一夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "円谷昌弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "円谷英明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大山茂樹",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森島恒行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大岡新一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "塚越隆行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "永竹正幸",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "2788",
+    "company_name": "アップルインターナショナル",
+    "previous_ceos": [
+      {
+        "name": "ロバート",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "ジョン",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "ジェニファー",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "ダグラス",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "ダニエル",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "2790",
+    "company_name": "ナフコ",
+    "previous_ceos": [
+      {
+        "name": "深町の娘婿",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "2904",
+    "company_name": "一正蒲鉾",
+    "previous_ceos": [
+      {
+        "name": "本社工場",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://corporate.ichimasa.co.jp/ir/history/"
       }
     ]
   }

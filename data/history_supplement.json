@@ -3562,8 +3562,44 @@
   {
     "ticker": "4264",
     "company_name": "セキュア",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T05:27:30.749720"
+    "previous_ceos": [
+      {
+        "name": "初代法人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "宇野康秀",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鈴木達",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "武林聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "鈴木孝博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "大澤智憲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
   },
   {
     "ticker": "4301",
@@ -28159,6 +28195,215 @@
         "appointment_date": null,
         "resignation_date": null,
         "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "4208",
+    "company_name": "UBE",
+    "previous_ceos": [
+      {
+        "name": "渡辺祐策",
+        "appointment_date": "1897-06-01",
+        "resignation_date": "1934-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺剛二",
+        "appointment_date": "1934-08-01",
+        "resignation_date": "1942-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4208_UBE\\history\\02_渡辺剛二\\photo_01.jpg"
+      },
+      {
+        "name": "俵田明",
+        "appointment_date": "1942-03-01",
+        "resignation_date": "1958-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中安閑一",
+        "appointment_date": "1958-03-01",
+        "resignation_date": "1977-12-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4208_UBE\\history\\04_中安閑一\\photo_01.jpg"
+      },
+      {
+        "name": "水野一夫",
+        "appointment_date": "1977-12-01",
+        "resignation_date": "1983-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "清水保夫",
+        "appointment_date": "1983-06-01",
+        "resignation_date": "1991-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4208_UBE\\history\\06_清水保夫\\photo_01.jpg"
+      },
+      {
+        "name": "中東素男",
+        "appointment_date": "1991-03-01",
+        "resignation_date": "1995-07-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4208_UBE\\history\\07_中東素男\\photo_01.jpg"
+      },
+      {
+        "name": "長広真臣",
+        "appointment_date": "1995-07-01",
+        "resignation_date": "1999-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "常見和正",
+        "appointment_date": "1999-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田村浩章",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2010-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹下道夫",
+        "appointment_date": "2010-04-01",
+        "resignation_date": "2015-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本謙",
+        "appointment_date": "2015-04-01",
+        "resignation_date": "2019-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4208_UBE\\history\\12_山本謙\\photo_01.jpg"
+      },
+      {
+        "name": "泉原雅人",
+        "appointment_date": "2019-04-01",
+        "resignation_date": "2022-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西田祐樹",
+        "appointment_date": "2025-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4240",
+    "company_name": "クラスターテクノロジー",
+    "previous_ceos": [
+      {
+        "name": "早川徳次",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐伯旭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "辻晴雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "町田勝彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "片山幹雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "奥田隆司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高橋興三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "戴正呉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "野村勝明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "呉柏勲",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "沖津雅浩",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4260",
+    "company_name": "ハイブリッドテクノロジーズ",
+    "previous_ceos": [
+      {
+        "name": "山内房治郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内積良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内溥",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "君島達己",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "古川俊太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
       }
     ]
   }

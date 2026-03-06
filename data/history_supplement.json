@@ -1912,8 +1912,57 @@
   {
     "ticker": "3436",
     "company_name": "SUMCO",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T00:53:13.636638"
+    "previous_ceos": [
+      {
+        "name": "森禮次郎",
+        "appointment_date": "2002-04-01",
+        "resignation_date": "2004-04-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\3436_SUMCO\\history\\01_森禮次郎\\photo_01.jpg"
+      },
+      {
+        "name": "細田直之",
+        "appointment_date": "2004-04-01",
+        "resignation_date": "2005-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "重松健二郎",
+        "appointment_date": "2005-12-01",
+        "resignation_date": "2009-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田口洋一",
+        "appointment_date": "2009-04-01",
+        "resignation_date": "2012-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "橋本眞幸",
+        "appointment_date": "2012-04-01",
+        "resignation_date": "2016-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "瀧井道治",
+        "appointment_date": "2016-03-01",
+        "resignation_date": "2018-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "降屋久",
+        "appointment_date": "2018-03-01",
+        "resignation_date": "2022-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "阿波俊弘",
+        "appointment_date": "2022-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "3441",
@@ -26559,6 +26608,18 @@
         "appointment_date": "2021-04-01",
         "resignation_date": null,
         "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3391",
+    "company_name": "ツルハホールディングス",
+    "previous_ceos": [
+      {
+        "name": "ゲートウェイ",
+        "appointment_date": "1929-05-01",
+        "resignation_date": "2025-07-01",
+        "source": "https://www.tsuruha-hd.co.jp/company/history/"
       }
     ]
   }

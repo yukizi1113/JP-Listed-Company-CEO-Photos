@@ -27743,5 +27743,423 @@
         "source": "wikipedia_table"
       }
     ]
+  },
+  {
+    "ticker": "4069",
+    "company_name": "BlueMeme",
+    "previous_ceos": [
+      {
+        "name": "松岡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.bluememe.jp/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "4100",
+    "company_name": "戸田工業",
+    "previous_ceos": [
+      {
+        "name": "戸田止戈夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "戸田英夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松井五郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "園尾恵三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "戸田俊行",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久保田正",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "寳來茂",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久保恒晃",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4151",
+    "company_name": "協和キリン",
+    "previous_ceos": [
+      {
+        "name": "加藤辨三郎",
+        "appointment_date": "1949-07-01",
+        "resignation_date": "1969-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "桑田猛",
+        "appointment_date": "1969-08-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高田弘",
+        "appointment_date": "1972-08-01",
+        "resignation_date": "1978-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "木下祝郎",
+        "appointment_date": "1978-03-01",
+        "resignation_date": "1984-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4151_協和キリン\\history\\04_木下祝郎\\photo_01.jpg"
+      },
+      {
+        "name": "加藤幹夫",
+        "appointment_date": "1984-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村寛之助",
+        "appointment_date": "1991-03-01",
+        "resignation_date": "1996-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4151_協和キリン\\history\\06_中村寛之助\\photo_01.jpg"
+      },
+      {
+        "name": "平田正",
+        "appointment_date": "1996-03-01",
+        "resignation_date": "2003-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松田譲",
+        "appointment_date": "2003-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "花井陳雄",
+        "appointment_date": "2012-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮本昌志",
+        "appointment_date": "2018-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4112",
+    "company_name": "保土谷化学工業",
+    "previous_ceos": [
+      {
+        "name": "諸井貫一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大塚万丈",
+        "appointment_date": "1947-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "堀田庄三",
+        "appointment_date": "1947-04-01",
+        "resignation_date": "1948-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "永野重雄",
+        "appointment_date": "1948-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4112_保土谷化学工業\\history\\04_永野重雄\\photo_01.jpg"
+      },
+      {
+        "name": "工藤昭四郎",
+        "appointment_date": "1948-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "浅尾新甫",
+        "appointment_date": "1950-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤山愛一郎",
+        "appointment_date": "1951-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山際正道",
+        "appointment_date": "1952-04-01",
+        "resignation_date": "1955-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東海林武雄",
+        "appointment_date": "1952-04-01",
+        "resignation_date": "1955-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岸道三",
+        "appointment_date": "1955-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中山素平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井上英煕",
+        "appointment_date": "1958-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩佐凱実",
+        "appointment_date": "1959-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4112_保土谷化学工業\\history\\13_岩佐凱実\\photo_01.jpg"
+      },
+      {
+        "name": "木川田一隆",
+        "appointment_date": "1960-04-01",
+        "resignation_date": "1975-04-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4112_保土谷化学工業\\history\\14_木川田一隆\\photo_01.jpg"
+      },
+      {
+        "name": "水上達三",
+        "appointment_date": "1961-04-01",
+        "resignation_date": "1963-04-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4112_保土谷化学工業\\history\\15_水上達三\\photo_01.jpg"
+      },
+      {
+        "name": "二宮善基",
+        "appointment_date": "1962-04-01",
+        "resignation_date": "1963-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石原俊",
+        "appointment_date": "1985-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "速水優",
+        "appointment_date": "1991-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "牛尾治朗",
+        "appointment_date": "1995-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小林陽太郎",
+        "appointment_date": "1999-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4183",
+    "company_name": "三井化学",
+    "previous_ceos": [
+      {
+        "name": "大屋敦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土井正治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大谷一雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "長谷川周重",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土方武",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森英雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "香西昭夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "米倉弘昌",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4183_三井化学\\history\\08_米倉弘昌\\photo_01.jpg"
+      },
+      {
+        "name": "廣瀨博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "十倉雅和",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田圭一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水戸信彰",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石飛修",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4202",
+    "company_name": "ダイセル",
+    "previous_ceos": [
+      {
+        "name": "浅野修一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "春木栄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\4202_ダイセル\\history\\02_春木栄\\photo_01.jpg"
+      },
+      {
+        "name": "小林節太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "平田九州男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "大西実",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\4202_ダイセル\\history\\05_大西実\\photo_01.jpg"
+      },
+      {
+        "name": "宗雪雅幸",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "古森重隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\4202_ダイセル\\history\\07_古森重隆\\photo_01.jpg"
+      },
+      {
+        "name": "中嶋成博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "助野健児",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "後藤禎一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
   }
 ]

@@ -5485,8 +5485,127 @@
   {
     "ticker": "5201",
     "company_name": "AGC",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T10:28:34.246916"
+    "previous_ceos": [
+      {
+        "name": "岩崎俊彌",
+        "appointment_date": "1907-09-01",
+        "resignation_date": "1930-10-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山田三次郎",
+        "appointment_date": "1931-03-01",
+        "resignation_date": "1939-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大野政吉",
+        "appointment_date": "1939-07-01",
+        "resignation_date": "1943-12-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_3\\5201_AGC\\history\\03_大野政吉\\photo_01.jpg"
+      },
+      {
+        "name": "池田亀三郎",
+        "appointment_date": "1943-03-01",
+        "resignation_date": "1946-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_3\\5201_AGC\\history\\04_池田亀三郎\\photo_01.jpg"
+      },
+      {
+        "name": "森本貫一",
+        "appointment_date": "1946-03-01",
+        "resignation_date": "1946-12-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_3\\5201_AGC\\history\\05_森本貫一\\photo_01.jpg"
+      },
+      {
+        "name": "森規矩夫",
+        "appointment_date": "1946-12-01",
+        "resignation_date": "1950-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "桑田時一郎",
+        "appointment_date": "1950-04-01",
+        "resignation_date": "1950-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺喜市",
+        "appointment_date": "1950-06-01",
+        "resignation_date": "1952-02-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "倉田元治",
+        "appointment_date": "1967-08-01",
+        "resignation_date": "1973-02-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_3\\5201_AGC\\history\\09_倉田元治\\photo_01.jpg"
+      },
+      {
+        "name": "山下秀明",
+        "appointment_date": "1973-02-01",
+        "resignation_date": "1981-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "坂部武夫",
+        "appointment_date": "1981-03-01",
+        "resignation_date": "1987-01-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_3\\5201_AGC\\history\\11_坂部武夫\\photo_01.jpg"
+      },
+      {
+        "name": "古本次郎",
+        "appointment_date": "1987-01-01",
+        "resignation_date": "1992-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "瀬谷博道",
+        "appointment_date": "1992-03-01",
+        "resignation_date": "1998-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石津進也",
+        "appointment_date": "1998-06-01",
+        "resignation_date": "2004-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "門松正宏",
+        "appointment_date": "2004-03-01",
+        "resignation_date": "2008-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石村和彦",
+        "appointment_date": "2008-03-01",
+        "resignation_date": "2014-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島村琢哉",
+        "appointment_date": "2015-01-01",
+        "resignation_date": "2020-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平井良典",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "在職中に死去",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
   },
   {
     "ticker": "5242",
@@ -29553,6 +29672,338 @@
         "appointment_date": null,
         "resignation_date": null,
         "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "5214",
+    "company_name": "日本電気硝子",
+    "previous_ceos": [
+      {
+        "name": "伊藤修",
+        "appointment_date": "1949-12-01",
+        "resignation_date": "1963-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小森茂",
+        "appointment_date": "1963-11-01",
+        "resignation_date": "1973-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "長崎準一",
+        "appointment_date": "1973-11-01",
+        "resignation_date": "1985-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岸田清作",
+        "appointment_date": "1985-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森哲次",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2003-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "井筒雄三",
+        "appointment_date": "2003-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "有岡雅行",
+        "appointment_date": "2009-06-01",
+        "resignation_date": "2015-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松本元春",
+        "appointment_date": "2015-03-01",
+        "resignation_date": "2023-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岸本暁",
+        "appointment_date": "2023-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "5233",
+    "company_name": "太平洋セメント",
+    "previous_ceos": [
+      {
+        "name": "柿原万蔵",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿原定吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "諸井恒平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿原亀吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿原謙一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "柿原恭一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "5202",
+    "company_name": "日本板硝子",
+    "previous_ceos": [
+      {
+        "name": "日米板硝子",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "杉田与三郎",
+        "appointment_date": "1918-11-01",
+        "resignation_date": "1922-08-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大隅行一",
+        "appointment_date": "1922-08-01",
+        "resignation_date": "1923-05-31",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大屋敦",
+        "appointment_date": "1923-06-01",
+        "resignation_date": "1923-06-16",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森源之助",
+        "appointment_date": "1923-06-01",
+        "resignation_date": "1952-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大石公平",
+        "appointment_date": "1927-02-01",
+        "resignation_date": "1931-01-15",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "日本板硝子",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "稲井勲造",
+        "appointment_date": "1938-01-01",
+        "resignation_date": "1942-05-25",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村文夫",
+        "appointment_date": "1942-06-01",
+        "resignation_date": "1962-05-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺逸郎",
+        "appointment_date": "1962-05-01",
+        "resignation_date": "1962-05-28",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "滝本清八郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川瀬二郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菅沼俊彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "刺賀信雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中島達二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松村実",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "出原洋三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_3\\5202_日本板硝子\\history\\17_出原洋三\\photo_01.jpg"
+      },
+      {
+        "name": "藤本勝司",
+        "appointment_date": "2004-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉川恵治",
+        "appointment_date": "2012-04-01",
+        "resignation_date": "2015-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森重樹",
+        "appointment_date": "2023-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "5247",
+    "company_name": "BTM",
+    "previous_ceos": [
+      {
+        "name": "三木繁光",
+        "appointment_date": "2001-04-01",
+        "resignation_date": "2004-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_3\\5247_BTM\\history\\01_三木繁光\\photo_01.jpg"
+      },
+      {
+        "name": "畔柳信雄",
+        "appointment_date": "2004-06-01",
+        "resignation_date": "2005-10-01",
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "5287",
+    "company_name": "イトーヨーギョー",
+    "previous_ceos": [
+      {
+        "name": "畑中",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://itoyogyo.co.jp/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "5301",
+    "company_name": "東海カーボン",
+    "previous_ceos": [
+      {
+        "name": "東海電極製造",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "寒川恒貞",
+        "appointment_date": "1918-04-01",
+        "resignation_date": "1941-04-11",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "寒川恒一郎",
+        "appointment_date": "1941-04-01",
+        "resignation_date": "1961-08-26",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "稲田辰男",
+        "appointment_date": "1961-09-01",
+        "resignation_date": "1972-01-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鳥越熊衛",
+        "appointment_date": "1972-01-01",
+        "resignation_date": "1975-01-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東海カーボン",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "伊藤国二郎",
+        "appointment_date": "1982-01-01",
+        "resignation_date": "1990-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三文字昌久",
+        "appointment_date": "1990-03-01",
+        "resignation_date": "1996-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大嶽史記夫",
+        "appointment_date": "1996-03-01",
+        "resignation_date": "2007-01-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "工藤能成",
+        "appointment_date": "2007-01-01",
+        "resignation_date": "2015-02-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "長坂一",
+        "appointment_date": "2015-02-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
       }
     ]
   }

@@ -53622,5 +53622,65 @@
       }
     ],
     "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "5192",
+    "company_name": "三ツ星ベルト",
+    "previous_ceos": [
+      {
+        "name": "池田浩",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "5244",
+    "company_name": "jig.jp",
+    "previous_ceos": [
+      {
+        "name": "川股将",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "5282",
+    "company_name": "ジオスター",
+    "previous_ceos": [
+      {
+        "name": "堀田穣",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
+  },
+  {
+    "ticker": "5423",
+    "company_name": "東京製鐵",
+    "previous_ceos": [
+      {
+        "name": "奈良暢明",
+        "title": "代表取締役社長",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "fill_gaps_wiki",
+        "photo_path": null
+      }
+    ],
+    "enriched_at": "2026-03-07"
   }
 ]

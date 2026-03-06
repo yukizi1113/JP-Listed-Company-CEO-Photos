@@ -1,0 +1,26 @@
+{
+  "name": "野口 二郎",
+  "appointment_date": "2008年4月1日",
+  "resignation_date": "2008年4月1日",
+  "source_url": "https://www.khi.co.jp/pressrelease/detail/c3080221-2.html",
+  "stock_price_at_appointment": {
+    "date": "2008-04-01",
+    "open_on_date": 1698.87,
+    "close_on_date": 1706.1,
+    "high_on_date": 1706.1,
+    "low_on_date": 1698.87,
+    "trading_date": "2008-03-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1698.87,
+  "stock_price_at_resignation": {
+    "date": "2008-04-01",
+    "open_on_date": 1698.87,
+    "close_on_date": 1706.1,
+    "high_on_date": 1706.1,
+    "low_on_date": 1698.87,
+    "trading_date": "2008-03-24",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 1706.1
+}

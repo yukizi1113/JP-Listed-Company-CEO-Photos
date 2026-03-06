@@ -1,0 +1,24 @@
+{
+  "name": "社名\n株",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年3月",
+  "source_url": "https://sunwels.jp/company/profile/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg"
+  ],
+  "photo_count": 4,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 630.0,
+    "close_on_date": 702.0,
+    "high_on_date": 702.0,
+    "low_on_date": 606.0,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 630.0
+}

@@ -1,0 +1,26 @@
+{
+  "name": "情報\n新",
+  "appointment_date": "2025年3月",
+  "resignation_date": "2015年8月",
+  "source_url": "https://www.inabata.co.jp/news/entry-495.html",
+  "stock_price_at_appointment": {
+    "date": "2025-03-01",
+    "open_on_date": 3019.13,
+    "close_on_date": 3014.32,
+    "high_on_date": 3052.84,
+    "low_on_date": 3014.32,
+    "trading_date": "2025-02-19",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 3019.13,
+  "stock_price_at_resignation": {
+    "date": "2015-08-01",
+    "open_on_date": 890.57,
+    "close_on_date": 885.17,
+    "high_on_date": 895.96,
+    "low_on_date": 885.17,
+    "trading_date": "2015-07-22",
+    "currency": "JPY"
+  },
+  "close_at_resignation": 885.17
+}

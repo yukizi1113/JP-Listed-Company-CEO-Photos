@@ -1,0 +1,21 @@
+{
+  "name": "会長\n石川",
+  "title": "代表取締役社長",
+  "appointment_info": "2022年11月",
+  "source_url": "https://www.trans-action.co.jp/company/officer.html",
+  "photos_saved": [
+    "photo_01.jpg"
+  ],
+  "photo_count": 1,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2022-11-01",
+    "open_on_date": 475.35,
+    "close_on_date": 464.34,
+    "high_on_date": 475.81,
+    "low_on_date": 460.21,
+    "trading_date": "2022-10-24",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 475.35
+}

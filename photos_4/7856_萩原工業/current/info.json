@@ -1,0 +1,25 @@
+{
+  "name": "浅野 和志",
+  "title": "代表取締役社長",
+  "appointment_info": "2025年12月",
+  "source_url": "https://www.hagihara.co.jp/company/top-message/",
+  "photos_saved": [
+    "photo_01.jpg",
+    "photo_02.jpg",
+    "photo_03.jpg",
+    "photo_04.jpg",
+    "photo_05.jpg"
+  ],
+  "photo_count": 5,
+  "photo_saved": true,
+  "stock_price_at_appointment": {
+    "date": "2025-12-01",
+    "open_on_date": 1553.0,
+    "close_on_date": 1586.0,
+    "high_on_date": 1587.0,
+    "low_on_date": 1553.0,
+    "trading_date": "2025-11-21",
+    "currency": "JPY"
+  },
+  "open_at_appointment": 1553.0
+}

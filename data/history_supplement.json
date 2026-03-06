@@ -5015,8 +5015,45 @@
   {
     "ticker": "4847",
     "company_name": "インテリジェント　ウェイブ",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T09:02:54.678442"
+    "previous_ceos": [
+      {
+        "name": "増田義一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青木弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐久間長吉郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4847_インテリジェント_ウェイブ\\history\\03_佐久間長吉郎\\photo_01.jpg"
+      },
+      {
+        "name": "北島織衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北島義俊",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北島義斉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "4884",
@@ -5193,8 +5230,20 @@
   {
     "ticker": "4967",
     "company_name": "小林製薬",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T09:35:44.786295"
+    "previous_ceos": [
+      {
+        "name": "小林忠兵衛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "祖父は吉太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
   },
   {
     "ticker": "4985",
@@ -29022,6 +29071,150 @@
         "appointment_date": null,
         "resignation_date": null,
         "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4828",
+    "company_name": "ビジネスエンジニアリング",
+    "previous_ceos": [
+      {
+        "name": "大久保繁雄",
+        "appointment_date": "1948-01-01",
+        "resignation_date": "1957-11-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置明善",
+        "appointment_date": "1957-11-01",
+        "resignation_date": "1981-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置正和",
+        "appointment_date": "1981-06-01",
+        "resignation_date": "1992-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "柏原正明",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1996-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "北川正人",
+        "appointment_date": "1996-12-01",
+        "resignation_date": "1999-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西尾清光",
+        "appointment_date": "1999-05-01",
+        "resignation_date": "2001-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "関誠夫",
+        "appointment_date": "2001-04-01",
+        "resignation_date": "2007-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久保田隆",
+        "appointment_date": "2007-04-01",
+        "resignation_date": "2013-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "澁谷省吾",
+        "appointment_date": "2013-04-01",
+        "resignation_date": "2017-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山東理二",
+        "appointment_date": "2017-06-01",
+        "resignation_date": "2022-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "榊田雅和",
+        "appointment_date": "2022-04-01",
+        "resignation_date": "2024-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "太田光治",
+        "appointment_date": "2024-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "4920",
+    "company_name": "日本色材工業研究所",
+    "previous_ceos": [
+      {
+        "name": "鈴木摠一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "川井臺平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "中野寛孝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "森龍三",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "冨田章嗣",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "渡辺修",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "小野勇治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "海老原健治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "4966",
+    "company_name": "上村工業",
+    "previous_ceos": [
+      {
+        "name": "製品",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.uyemura.co.jp/company/history/"
       }
     ]
   }

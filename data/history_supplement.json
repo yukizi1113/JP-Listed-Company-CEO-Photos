@@ -1297,8 +1297,14 @@
   {
     "ticker": "2937",
     "company_name": "サンクゼール",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-24T22:14:12.035322"
+    "previous_ceos": [
+      {
+        "name": "サンクゼール",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.stcousair.co.jp/ir/history/"
+      }
+    ]
   },
   {
     "ticker": "2981",
@@ -21381,8 +21387,26 @@
   {
     "ticker": "3050",
     "company_name": "DCMホールディングス",
-    "previous_ceos": [],
-    "enriched_at": "2026-03-07"
+    "previous_ceos": [
+      {
+        "name": "前田勝敏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "久田宗弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石黒靖規",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "3064",
@@ -25749,6 +25773,216 @@
         "appointment_date": null,
         "resignation_date": null,
         "source": "https://corporate.ichimasa.co.jp/ir/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "2929",
+    "company_name": "ファーマフーズ",
+    "previous_ceos": [
+      {
+        "name": "加藤辨三郎",
+        "appointment_date": "1949-07-01",
+        "resignation_date": "1969-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "桑田猛",
+        "appointment_date": "1969-08-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高田弘",
+        "appointment_date": "1972-08-01",
+        "resignation_date": "1978-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "木下祝郎",
+        "appointment_date": "1978-03-01",
+        "resignation_date": "1984-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2929_ファーマフーズ\\history\\04_木下祝郎\\photo_01.jpg"
+      },
+      {
+        "name": "加藤幹夫",
+        "appointment_date": "1984-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中村寛之助",
+        "appointment_date": "1991-03-01",
+        "resignation_date": "1996-03-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2929_ファーマフーズ\\history\\06_中村寛之助\\photo_01.jpg"
+      },
+      {
+        "name": "平田正",
+        "appointment_date": "1996-03-01",
+        "resignation_date": "2003-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松田譲",
+        "appointment_date": "2003-06-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "花井陳雄",
+        "appointment_date": "2012-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "宮本昌志",
+        "appointment_date": "2018-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "2978",
+    "company_name": "ツクルバ",
+    "previous_ceos": [
+      {
+        "name": "野村",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://tsukuruba.com/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "2997",
+    "company_name": "ストレージ王",
+    "previous_ceos": [
+      {
+        "name": "岩垂邦彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\01_岩垂邦彦\\photo_01.jpg"
+      },
+      {
+        "name": "大畑源一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "志田文雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\03_志田文雄\\photo_01.jpg"
+      },
+      {
+        "name": "梶井剛",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐伯長生",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡辺斌衡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小林宏治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "田中忠雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "関本忠弘",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金子尚志",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西垣浩司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金杉明信",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "矢野薫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "遠藤信博",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\14_遠藤信博\\photo_01.jpg"
+      },
+      {
+        "name": "新野隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森田隆之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\16_森田隆之\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3003",
+    "company_name": "ヒューリック",
+    "previous_ceos": [
+      {
+        "name": "西浦三郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉留学",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "前田隆也",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
       }
     ]
   }

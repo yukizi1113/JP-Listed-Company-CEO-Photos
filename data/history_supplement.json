@@ -20476,8 +20476,74 @@
   {
     "ticker": "1925",
     "company_name": "大和ハウス工業",
-    "previous_ceos": [],
-    "enriched_at": "2026-03-07"
+    "previous_ceos": [
+      {
+        "name": "石橋義一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石橋信夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石橋殾一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "上村圭一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "石橋伸康",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東郷武",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "樋口武男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村上健治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大野直竹",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "芳井敬一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大友浩嗣",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "1928",
@@ -23730,6 +23796,566 @@
         "appointment_date": null,
         "resignation_date": null,
         "source": "https://www.ohmoto.co.jp/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "1802",
+    "company_name": "大林組",
+    "previous_ceos": [
+      {
+        "name": "世代",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "片岡直輝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大正",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松本勝太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "昭和",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平成",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "松藤研介",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1803",
+    "company_name": "清水建設",
+    "previous_ceos": [
+      {
+        "name": "大倉土木",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大西進",
+        "appointment_date": "1945-03-01",
+        "resignation_date": "1946-01-13",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大成建設",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤田武雄",
+        "appointment_date": "1947-03-01",
+        "resignation_date": "1957-05-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "加藤一衛",
+        "appointment_date": "1957-05-01",
+        "resignation_date": "1960-12-16",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水嶋篤次",
+        "appointment_date": "1960-12-01",
+        "resignation_date": "1963-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "本間嘉平",
+        "appointment_date": "1963-05-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "南幸治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菅澤英夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐古一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "里見泰男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本兵藏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平島治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "葉山莞児",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内隆司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村田誉之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "相川善郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1808",
+    "company_name": "長谷工コーポレーション",
+    "previous_ceos": [
+      {
+        "name": "長谷川武彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水上芳美",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "合田耕平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\1808_長谷工コーポレーション\\history\\03_合田耕平\\photo_01.jpg"
+      },
+      {
+        "name": "嵩聰久",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩尾崇",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大栗育夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\1808_長谷工コーポレーション\\history\\06_大栗育夫\\photo_01.jpg"
+      },
+      {
+        "name": "辻範明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "池上一夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "熊野聡",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1801",
+    "company_name": "大成建設",
+    "previous_ceos": [
+      {
+        "name": "大倉土木",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大西進",
+        "appointment_date": "1945-03-01",
+        "resignation_date": "1946-01-13",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大成建設",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤田武雄",
+        "appointment_date": "1947-03-01",
+        "resignation_date": "1957-05-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "加藤一衛",
+        "appointment_date": "1957-05-01",
+        "resignation_date": "1960-12-16",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水嶋篤次",
+        "appointment_date": "1960-12-01",
+        "resignation_date": "1963-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "本間嘉平",
+        "appointment_date": "1963-05-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "南幸治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菅澤英夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐古一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "里見泰男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本兵藏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平島治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "葉山莞児",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内隆司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村田誉之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "相川善郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1826",
+    "company_name": "佐田建設",
+    "previous_ceos": [
+      {
+        "name": "沿革",
+        "appointment_date": "2020-03-01",
+        "resignation_date": "2020-08-01",
+        "source": "https://www.sata.co.jp/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "1866",
+    "company_name": "北野建設",
+    "previous_ceos": [
+      {
+        "name": "北野次登",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.kitano.co.jp/corporate/history/"
+      },
+      {
+        "name": "北野貴裕",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.kitano.co.jp/corporate/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "1867",
+    "company_name": "植木組",
+    "previous_ceos": [
+      {
+        "name": "植木豊太",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.uekigumi.co.jp/company/history/"
+      },
+      {
+        "name": "植木馨",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.uekigumi.co.jp/company/history/"
+      },
+      {
+        "name": "植木康之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.uekigumi.co.jp/company/history/"
+      },
+      {
+        "name": "植木義明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.uekigumi.co.jp/company/history/"
+      },
+      {
+        "name": "日下部久夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "https://www.uekigumi.co.jp/company/history/"
+      }
+    ]
+  },
+  {
+    "ticker": "1871",
+    "company_name": "ピーエス・コンストラクション",
+    "previous_ceos": [
+      {
+        "name": "大倉土木",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大西進",
+        "appointment_date": "1945-03-01",
+        "resignation_date": "1946-01-13",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "大成建設",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "藤田武雄",
+        "appointment_date": "1947-03-01",
+        "resignation_date": "1957-05-29",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "加藤一衛",
+        "appointment_date": "1957-05-01",
+        "resignation_date": "1960-12-16",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "水嶋篤次",
+        "appointment_date": "1960-12-01",
+        "resignation_date": "1963-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "本間嘉平",
+        "appointment_date": "1963-05-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "南幸治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "菅澤英夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐古一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "里見泰男",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山本兵藏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "平島治",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "葉山莞児",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "山内隆司",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "村田誉之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "相川善郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1878",
+    "company_name": "大東建託",
+    "previous_ceos": [
+      {
+        "name": "多田勝美",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "麻田守孝",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三鍋伊佐雄",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "熊切直美",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小林克満",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "竹内啓",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "1899",
+    "company_name": "福田組",
+    "previous_ceos": [
+      {
+        "name": "小沢一郎",
+        "appointment_date": "1953-04-01",
+        "resignation_date": "1992-03-01",
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "福田実の実弟",
+        "appointment_date": "2003-03-01",
+        "resignation_date": "2009-03-01",
+        "source": "wikipedia_list"
       }
     ]
   }

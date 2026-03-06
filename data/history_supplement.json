@@ -2660,8 +2660,57 @@
   {
     "ticker": "3771",
     "company_name": "システムリサーチ",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T02:38:02.207448"
+    "previous_ceos": [
+      {
+        "name": "船井哲良",
+        "appointment_date": "1961-04-01",
+        "resignation_date": "2008-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "林朝則",
+        "appointment_date": "2008-06-01",
+        "resignation_date": "2013-12-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "上村義一",
+        "appointment_date": "2014-01-01",
+        "resignation_date": "2014-10-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "前田哲宏",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2017-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "船越秀明",
+        "appointment_date": "2017-05-01",
+        "resignation_date": "2021-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "板東浩二",
+        "appointment_date": "2021-07-01",
+        "resignation_date": "2023-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3771_システムリサーチ\\history\\06_板東浩二\\photo_01.jpg"
+      },
+      {
+        "name": "上田智一",
+        "appointment_date": "2023-06-01",
+        "resignation_date": "2024-09-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "原田義昭",
+        "appointment_date": "2024-09-01",
+        "resignation_date": "2024-10-24",
+        "source": "wikipedia_table"
+      }
+    ]
   },
   {
     "ticker": "3791",
@@ -26814,6 +26863,401 @@
       {
         "name": "岡村信悟",
         "appointment_date": "2021-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3741",
+    "company_name": "セック",
+    "previous_ceos": [
+      {
+        "name": "大谷米太郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\3741_セック\\history\\01_大谷米太郎\\photo_01.jpg"
+      },
+      {
+        "name": "大谷竹次郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "大谷勇",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "山門樹一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "大谷民明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "中島耕",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "3765",
+    "company_name": "ガンホー・オンライン・エンターテイメント",
+    "previous_ceos": [
+      {
+        "name": "木谷高明",
+        "appointment_date": "1994-03-01",
+        "resignation_date": "2005-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "吉田眞市",
+        "appointment_date": "2005-05-01",
+        "resignation_date": "2007-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "上田陽史",
+        "appointment_date": "2007-04-01",
+        "resignation_date": "2010-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "森田知冶",
+        "appointment_date": "2010-05-01",
+        "resignation_date": "2018-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "高橋善之",
+        "appointment_date": "2018-05-01",
+        "resignation_date": "2022-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "鈴木恵喜",
+        "appointment_date": "2022-05-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3766",
+    "company_name": "システムズ・デザイン",
+    "previous_ceos": [
+      {
+        "name": "小平浪平",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3766_システムズ・デザイン\\history\\01_小平浪平\\photo_01.jpg"
+      },
+      {
+        "name": "倉田主税",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3766_システムズ・デザイン\\history\\02_倉田主税\\photo_01.jpg"
+      },
+      {
+        "name": "駒井健一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3766_システムズ・デザイン\\history\\03_駒井健一郎\\photo_01.jpg"
+      },
+      {
+        "name": "吉山博吉",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三田勝茂",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "金井務",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "庄山悦彦",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3766_システムズ・デザイン\\history\\07_庄山悦彦\\photo_01.jpg"
+      },
+      {
+        "name": "古川一夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "川村隆",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中西宏明",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "東原敏昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "小島啓二",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3766_システムズ・デザイン\\history\\12_小島啓二\\photo_01.jpg"
+      },
+      {
+        "name": "德永俊昭",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3803",
+    "company_name": "イメージ情報開発",
+    "previous_ceos": [
+      {
+        "name": "石坂泰三",
+        "appointment_date": "1949-04-01",
+        "resignation_date": "1957-11-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3803_イメージ情報開発\\history\\01_石坂泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岩下文雄",
+        "appointment_date": "1957-11-01",
+        "resignation_date": "1965-05-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "土光敏夫",
+        "appointment_date": "1965-05-01",
+        "resignation_date": "1972-08-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "玉置敬三",
+        "appointment_date": "1972-08-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "岩田弐夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐波正一",
+        "appointment_date": "1986-04-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "渡里杉一郎",
+        "appointment_date": "1986-04-01",
+        "resignation_date": "1987-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "青井舒一",
+        "appointment_date": "1987-07-01",
+        "resignation_date": "1992-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "佐藤文夫",
+        "appointment_date": "1992-06-01",
+        "resignation_date": "1996-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西室泰三",
+        "appointment_date": "1996-06-01",
+        "resignation_date": "2000-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3803_イメージ情報開発\\history\\10_西室泰三\\photo_01.jpg"
+      },
+      {
+        "name": "岡村正",
+        "appointment_date": "2000-06-01",
+        "resignation_date": "2005-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "西田厚聰",
+        "appointment_date": "2005-06-01",
+        "resignation_date": "2009-06-01",
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3803_イメージ情報開発\\history\\12_西田厚聰\\photo_01.jpg"
+      },
+      {
+        "name": "田中久雄",
+        "appointment_date": "2013-06-01",
+        "resignation_date": "2015-07-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "室町正志",
+        "appointment_date": "2015-07-01",
+        "resignation_date": "2016-06-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "綱川智",
+        "appointment_date": "2016-06-01",
+        "resignation_date": "2020-03-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "車谷暢昭",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2021-04-01",
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "島田太郎",
+        "appointment_date": "2022-03-01",
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      }
+    ]
+  },
+  {
+    "ticker": "3815",
+    "company_name": "メディア工房",
+    "previous_ceos": [
+      {
+        "name": "片山直之",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "3826",
+    "company_name": "システムインテグレータ",
+    "previous_ceos": [
+      {
+        "name": "西川晃一郎",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "石栗一民",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "天野順一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "島田精一",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\3826_システムインテグレータ\\history\\04_島田精一\\photo_01.jpg"
+      },
+      {
+        "name": "籾井勝人",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\3826_システムインテグレータ\\history\\05_籾井勝人\\photo_01.jpg"
+      },
+      {
+        "name": "黒川茂",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "平岡昭良",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      },
+      {
+        "name": "齊藤昇",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_list"
+      }
+    ]
+  },
+  {
+    "ticker": "3850",
+    "company_name": "エヌ・ティ・ティ・データ・イントラマート",
+    "previous_ceos": [
+      {
+        "name": "三田清",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "三ツ村正親",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "牧貞夫",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "中川裕氏",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "辻上広志",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "wikipedia_table"
+      },
+      {
+        "name": "池田康",
+        "appointment_date": null,
         "resignation_date": null,
         "source": "wikipedia_table"
       }

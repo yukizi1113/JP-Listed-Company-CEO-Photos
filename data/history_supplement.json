@@ -7340,8 +7340,14 @@
   {
     "ticker": "6099",
     "company_name": "エラン",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T13:42:13.595000"
+    "previous_ceos": [
+      {
+        "name": "本社所在地",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "bing:エラン 歴代社長 一覧"
+      }
+    ]
   },
   {
     "ticker": "6101",
@@ -7364,8 +7370,26 @@
   {
     "ticker": "6098",
     "company_name": "リクルートホールディングス",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T13:44:19.054776"
+    "previous_ceos": [
+      {
+        "name": "ゼクシィ",
+        "appointment_date": "2021-11-01",
+        "resignation_date": "2021-11-04",
+        "source": "bing:リクルートホールディングス 歴代社長 一覧"
+      },
+      {
+        "name": "目標株価",
+        "appointment_date": "2023-12-01",
+        "resignation_date": "2023-12-18",
+        "source": "bing:リクルートホールディングス 歴代社長 一覧"
+      },
+      {
+        "name": "今日の株価",
+        "appointment_date": "2023-12-01",
+        "resignation_date": "2023-12-18",
+        "source": "bing:リクルートホールディングス 歴代社長 一覧"
+      }
+    ]
   },
   {
     "ticker": "6134",
@@ -7391,8 +7415,14 @@
   {
     "ticker": "6138",
     "company_name": "ダイジェット工業",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T13:48:42.369357"
+    "previous_ceos": [
+      {
+        "name": "毎週土曜",
+        "appointment_date": "2022-11-01",
+        "resignation_date": "2022-11-11",
+        "source": "bing:ダイジェット工業 歴代社長 一覧"
+      }
+    ]
   },
   {
     "ticker": "6145",
@@ -7421,14 +7451,92 @@
   {
     "ticker": "6165",
     "company_name": "パンチ工業",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T13:57:15.670205"
+    "previous_ceos": [
+      {
+        "name": "强攻撃",
+        "appointment_date": "2024-12-01",
+        "resignation_date": null,
+        "source": "bing:パンチ工業 歴代社長 一覧"
+      },
+      {
+        "name": "旋转攻击",
+        "appointment_date": "2024-08-01",
+        "resignation_date": "2024-08-28",
+        "source": "bing:パンチ工業 歴代社長 一覧"
+      },
+      {
+        "name": "七龙珠主题曲",
+        "appointment_date": "2008-09-01",
+        "resignation_date": "2008-09-16",
+        "source": "bing:パンチ工業 歴代社長 一覧"
+      },
+      {
+        "name": "百万威力拳击",
+        "appointment_date": "2009-10-01",
+        "resignation_date": "2009-10-07",
+        "source": "bing:パンチ工業 歴代社長 一覧"
+      },
+      {
+        "name": "气合拳",
+        "appointment_date": "2009-08-01",
+        "resignation_date": "2009-08-05",
+        "source": "bing:パンチ工業 歴代社長 一覧"
+      },
+      {
+        "name": "归来的奥特曼",
+        "appointment_date": "2010-08-01",
+        "resignation_date": "2010-08-17",
+        "source": "bing:パンチ工業 歴代社長 一覧"
+      },
+      {
+        "name": "一霸子估拉哎",
+        "appointment_date": "2020-09-01",
+        "resignation_date": "2020-09-19",
+        "source": "bing:パンチ工業 歴代社長 一覧"
+      }
+    ]
   },
   {
     "ticker": "6177",
     "company_name": "AppBank",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T14:05:15.094324"
+    "previous_ceos": [
+      {
+        "name": "アプリ",
+        "appointment_date": "2008-10-01",
+        "resignation_date": "2008-10-05",
+        "source": "bing:AppBank 歴代社長 一覧"
+      },
+      {
+        "name": "速報",
+        "appointment_date": "2024-01-01",
+        "resignation_date": "2024-01-12",
+        "source": "bing:AppBank 歴代社長 一覧"
+      },
+      {
+        "name": "性能評価まとめ",
+        "appointment_date": "2024-01-01",
+        "resignation_date": "2024-01-12",
+        "source": "bing:AppBank 歴代社長 一覧"
+      },
+      {
+        "name": "レビュー",
+        "appointment_date": "2024-03-01",
+        "resignation_date": "2024-03-07",
+        "source": "bing:AppBank 歴代社長 一覧"
+      },
+      {
+        "name": "おすすめアプリ",
+        "appointment_date": "2024-03-01",
+        "resignation_date": "2024-03-07",
+        "source": "bing:AppBank 歴代社長 一覧"
+      },
+      {
+        "name": "動画動画",
+        "appointment_date": "2024-09-01",
+        "resignation_date": "2024-09-18",
+        "source": "bing:AppBank 歴代社長 一覧"
+      }
+    ]
   },
   {
     "ticker": "6184",
@@ -7474,8 +7582,26 @@
   {
     "ticker": "6195",
     "company_name": "ホープ",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T14:14:12.897598"
+    "previous_ceos": [
+      {
+        "name": "一時期",
+        "appointment_date": "2022-12-01",
+        "resignation_date": "2022-12-24",
+        "source": "bing:ホープ 歴代社長 一覧"
+      },
+      {
+        "name": "チャート",
+        "appointment_date": "2016-05-01",
+        "resignation_date": "2016-05-14",
+        "source": "bing:ホープ 歴代社長 一覧"
+      },
+      {
+        "name": "東京都文京区",
+        "appointment_date": "2015-11-01",
+        "resignation_date": "2015-11-09",
+        "source": "bing:ホープ 歴代社長 一覧"
+      }
+    ]
   },
   {
     "ticker": "6199",
@@ -7506,8 +7632,39 @@
   {
     "ticker": "6200",
     "company_name": "インソース",
-    "previous_ceos": [],
-    "enriched_at": "2026-02-25T14:14:40.252978"
+    "previous_ceos": [
+      {
+        "name": "通常",
+        "appointment_date": "2025-02-01",
+        "resignation_date": "2025-02-19",
+        "source": "bing:インソース 歴代社長 一覧"
+      },
+      {
+        "name": "単位と増減値",
+        "appointment_date": "2014-03-01",
+        "resignation_date": "2014-03-17",
+        "source": "bing:インソース 歴代社長 一覧"
+      },
+      {
+        "name": "工学",
+        "appointment_date": "2016-02-01",
+        "resignation_date": "2016-02-14",
+        "source": "bing:インソース 歴代社長 一覧",
+        "photo_path": "photos_3\\6200_インソース\\history\\03_工学\\photo_01.jpg"
+      },
+      {
+        "name": "日曜に",
+        "appointment_date": "2006-02-01",
+        "resignation_date": "2006-02-11",
+        "source": "bing:インソース 歴代社長 一覧"
+      },
+      {
+        "name": "なんのこっ",
+        "appointment_date": "2019-12-01",
+        "resignation_date": "2019-12-03",
+        "source": "bing:インソース 歴代社長 一覧"
+      }
+    ]
   },
   {
     "ticker": "6201",
@@ -34290,6 +34447,1125 @@
         "appointment_date": "2023-04-01",
         "resignation_date": "2023-04-09",
         "source": "bing:シンメンテホールディングス 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6088",
+    "company_name": "シグマクシス・ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "であり",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "bing:シグマクシス・ホールディングス 歴代社長 一覧"
+      },
+      {
+        "name": "かわ",
+        "appointment_date": "2023-12-01",
+        "resignation_date": "2023-12-20",
+        "source": "bing:シグマクシス・ホールディングス 歴代社長 一覧"
+      },
+      {
+        "name": "総合",
+        "appointment_date": "2021-05-01",
+        "resignation_date": "2021-05-24",
+        "source": "bing:シグマクシス・ホールディングス 歴代社長 一覧"
+      },
+      {
+        "name": "連鎖ボイス",
+        "appointment_date": "2021-05-01",
+        "resignation_date": "2021-05-24",
+        "source": "bing:シグマクシス・ホールディングス 歴代社長 一覧"
+      },
+      {
+        "name": "補足分析",
+        "appointment_date": "2025-10-01",
+        "resignation_date": "2025-10-02",
+        "source": "bing:シグマクシス・ホールディングス 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6091",
+    "company_name": "ウエスコホールディングス",
+    "previous_ceos": [
+      {
+        "name": "ヘンリー",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "bing:ウエスコホールディングス 歴代社長 一覧"
+      },
+      {
+        "name": "岡山県",
+        "appointment_date": "2014-02-01",
+        "resignation_date": null,
+        "source": "bing:ウエスコホールディングス 歴代社長 一覧"
+      },
+      {
+        "name": "チャート",
+        "appointment_date": "2026-03-01",
+        "resignation_date": "2026-03-12",
+        "source": "bing:ウエスコホールディングス 歴代社長 一覧"
+      },
+      {
+        "name": "安心",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "bing:ウエスコホールディングス 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6093",
+    "company_name": "エスクロー・エージェント・ジャパン",
+    "previous_ceos": [
+      {
+        "name": "デメリット",
+        "appointment_date": "2025-03-01",
+        "resignation_date": "2025-03-21",
+        "source": "bing:エスクロー・エージェント・ジャパン 歴代社長 一覧"
+      },
+      {
+        "name": "この記事では",
+        "appointment_date": "2025-08-01",
+        "resignation_date": "2025-08-05",
+        "source": "bing:エスクロー・エージェント・ジャパン 歴代社長 一覧"
+      },
+      {
+        "name": "エスクローとは",
+        "appointment_date": "2025-12-01",
+        "resignation_date": "2025-12-29",
+        "source": "bing:エスクロー・エージェント・ジャパン 歴代社長 一覧"
+      },
+      {
+        "name": "不動産決済では",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-20",
+        "source": "bing:エスクロー・エージェント・ジャパン 歴代社長 一覧"
+      },
+      {
+        "name": "売主",
+        "appointment_date": "2025-08-01",
+        "resignation_date": "2025-08-20",
+        "source": "bing:エスクロー・エージェント・ジャパン 歴代社長 一覧"
+      },
+      {
+        "name": "エスクローは",
+        "appointment_date": "2024-10-01",
+        "resignation_date": "2024-10-14",
+        "source": "bing:エスクロー・エージェント・ジャパン 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6090",
+    "company_name": "ヒューマン・メタボローム・テクノロジーズ",
+    "previous_ceos": [
+      {
+        "name": "財務ハイライト",
+        "appointment_date": "2020-12-01",
+        "resignation_date": "2020-12-06",
+        "source": "bing:ヒューマン・メタボローム・テクノロジーズ 歴代社長 一覧"
+      },
+      {
+        "name": "英文表記",
+        "appointment_date": "2020-12-01",
+        "resignation_date": "2020-12-06",
+        "source": "bing:ヒューマン・メタボローム・テクノロジーズ 歴代社長 一覧"
+      },
+      {
+        "name": "興味が",
+        "appointment_date": "2020-12-01",
+        "resignation_date": "2020-12-06",
+        "source": "bing:ヒューマン・メタボローム・テクノロジーズ 歴代社長 一覧"
+      },
+      {
+        "name": "以来",
+        "appointment_date": "2020-12-01",
+        "resignation_date": "2020-12-06",
+        "source": "bing:ヒューマン・メタボローム・テクノロジーズ 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6113",
+    "company_name": "アマダ",
+    "previous_ceos": [
+      {
+        "name": "信用残時系列",
+        "appointment_date": "2025-04-01",
+        "resignation_date": "2025-04-07",
+        "source": "bing:アマダ 歴代社長 一覧"
+      },
+      {
+        "name": "チャート",
+        "appointment_date": "2025-04-01",
+        "resignation_date": "2025-04-07",
+        "source": "bing:アマダ 歴代社長 一覧"
+      },
+      {
+        "name": "アマダイとは",
+        "appointment_date": "2022-07-01",
+        "resignation_date": "2022-07-26",
+        "source": "bing:アマダ 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6096",
+    "company_name": "レアジョブ",
+    "previous_ceos": [
+      {
+        "name": "使い方",
+        "appointment_date": "2025-09-01",
+        "resignation_date": "2025-09-10",
+        "source": "bing:レアジョブ 歴代社長 一覧"
+      },
+      {
+        "name": "まとめ",
+        "appointment_date": "2025-09-01",
+        "resignation_date": "2025-09-10",
+        "source": "bing:レアジョブ 歴代社長 一覧"
+      },
+      {
+        "name": "日本の",
+        "appointment_date": "2025-06-01",
+        "resignation_date": null,
+        "source": "bing:レアジョブ 歴代社長 一覧"
+      },
+      {
+        "name": "類語",
+        "appointment_date": "2020-10-01",
+        "resignation_date": "2020-10-30",
+        "source": "bing:レアジョブ 歴代社長 一覧"
+      },
+      {
+        "name": "わかり",
+        "appointment_date": "2020-10-01",
+        "resignation_date": "2020-10-30",
+        "source": "bing:レアジョブ 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6136",
+    "company_name": "オーエスジー",
+    "previous_ceos": [
+      {
+        "name": "営業カレンダー",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "bing:オーエスジー 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6141",
+    "company_name": "DMG森精機",
+    "previous_ceos": [
+      {
+        "name": "它们是镜像文件",
+        "appointment_date": "2024-08-01",
+        "resignation_date": "2024-08-09",
+        "source": "bing:DMG森精機 歴代社長 一覧"
+      },
+      {
+        "name": "要说",
+        "appointment_date": "2023-04-01",
+        "resignation_date": "2023-04-13",
+        "source": "bing:DMG森精機 歴代社長 一覧"
+      },
+      {
+        "name": "如果你使用",
+        "appointment_date": "2013-11-01",
+        "resignation_date": "2013-11-13",
+        "source": "bing:DMG森精機 歴代社長 一覧"
+      },
+      {
+        "name": "首先",
+        "appointment_date": "2024-05-01",
+        "resignation_date": "2024-05-15",
+        "source": "bing:DMG森精機 歴代社長 一覧"
+      },
+      {
+        "name": "软件的",
+        "appointment_date": "2024-07-01",
+        "resignation_date": "2024-07-11",
+        "source": "bing:DMG森精機 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6137",
+    "company_name": "小池酸素工業",
+    "previous_ceos": [
+      {
+        "name": "因为工作需要",
+        "appointment_date": "2024-05-01",
+        "resignation_date": "2024-05-23",
+        "source": "bing:小池酸素工業 歴代社長 一覧"
+      },
+      {
+        "name": "投影二维图",
+        "appointment_date": "2014-12-01",
+        "resignation_date": "2014-12-05",
+        "source": "bing:小池酸素工業 歴代社長 一覧"
+      },
+      {
+        "name": "读写以及简单功",
+        "appointment_date": "2016-12-01",
+        "resignation_date": "2016-12-22",
+        "source": "bing:小池酸素工業 歴代社長 一覧"
+      },
+      {
+        "name": "如果坐标是负数",
+        "appointment_date": "2020-08-01",
+        "resignation_date": "2020-08-07",
+        "source": "bing:小池酸素工業 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6140",
+    "company_name": "旭ダイヤモンド工業",
+    "previous_ceos": [
+      {
+        "name": "事件基本情况",
+        "appointment_date": "2017-10-01",
+        "resignation_date": "2025-10-25",
+        "source": "bing:旭ダイヤモンド工業 歴代社長 一覧"
+      },
+      {
+        "name": "新易盛",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-10",
+        "source": "bing:旭ダイヤモンド工業 歴代社長 一覧"
+      },
+      {
+        "name": "中际旭创",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-10",
+        "source": "bing:旭ダイヤモンド工業 歴代社長 一覧"
+      },
+      {
+        "name": "在中国",
+        "appointment_date": "2023-12-01",
+        "resignation_date": "2023-12-29",
+        "source": "bing:旭ダイヤモンド工業 歴代社長 一覧"
+      },
+      {
+        "name": "具体来说",
+        "appointment_date": "2025-08-01",
+        "resignation_date": "2025-08-12",
+        "source": "bing:旭ダイヤモンド工業 歴代社長 一覧"
+      },
+      {
+        "name": "结交核心要点",
+        "appointment_date": "2025-04-01",
+        "resignation_date": "2025-04-26",
+        "source": "bing:旭ダイヤモンド工業 歴代社長 一覧"
+      },
+      {
+        "name": "关于宗馥莉",
+        "appointment_date": "2025-07-01",
+        "resignation_date": "2025-07-21",
+        "source": "bing:旭ダイヤモンド工業 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6144",
+    "company_name": "西部電機",
+    "previous_ceos": [
+      {
+        "name": "我觉得",
+        "appointment_date": "2022-11-01",
+        "resignation_date": "2022-11-06",
+        "source": "bing:西部電機 歴代社長 一覧"
+      },
+      {
+        "name": "西部数据",
+        "appointment_date": "2025-10-01",
+        "resignation_date": "2025-10-09",
+        "source": "bing:西部電機 歴代社長 一覧"
+      },
+      {
+        "name": "三星",
+        "appointment_date": "2025-10-01",
+        "resignation_date": "2025-10-09",
+        "source": "bing:西部電機 歴代社長 一覧"
+      },
+      {
+        "name": "要知道",
+        "appointment_date": "2020-03-01",
+        "resignation_date": "2020-03-27",
+        "source": "bing:西部電機 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6125",
+    "company_name": "岡本工作機械製作所",
+    "previous_ceos": [
+      {
+        "name": "这个系列的电影",
+        "appointment_date": "2018-12-01",
+        "resignation_date": "2018-12-31",
+        "source": "bing:岡本工作機械製作所 歴代社長 一覧"
+      },
+      {
+        "name": "其次",
+        "appointment_date": "2012-12-01",
+        "resignation_date": "2012-12-02",
+        "source": "bing:岡本工作機械製作所 歴代社長 一覧"
+      },
+      {
+        "name": "求各种结局",
+        "appointment_date": "2002-03-01",
+        "resignation_date": "2018-02-24",
+        "source": "bing:岡本工作機械製作所 歴代社長 一覧"
+      },
+      {
+        "name": "首先",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2020-01-18",
+        "source": "bing:岡本工作機械製作所 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6146",
+    "company_name": "ディスコ",
+    "previous_ceos": [
+      {
+        "name": "网页端访问",
+        "appointment_date": "2025-11-01",
+        "resignation_date": "2025-11-11",
+        "source": "bing:ディスコ 歴代社長 一覧"
+      },
+      {
+        "name": "白金ディスコ",
+        "appointment_date": "2024-09-01",
+        "resignation_date": "2024-09-09",
+        "source": "bing:ディスコ 歴代社長 一覧"
+      },
+      {
+        "name": "使用百度前必读",
+        "appointment_date": "2025-02-01",
+        "resignation_date": "2025-02-19",
+        "source": "bing:ディスコ 歴代社長 一覧"
+      },
+      {
+        "name": "还拥有其",
+        "appointment_date": "2024-12-01",
+        "resignation_date": "2024-12-27",
+        "source": "bing:ディスコ 歴代社長 一覧"
+      },
+      {
+        "name": "有几种方法",
+        "appointment_date": "2024-08-01",
+        "resignation_date": "2024-08-05",
+        "source": "bing:ディスコ 歴代社長 一覧"
+      },
+      {
+        "name": "它是一个非商业",
+        "appointment_date": "2024-02-01",
+        "resignation_date": "2024-02-20",
+        "source": "bing:ディスコ 歴代社長 一覧"
+      },
+      {
+        "name": "关注",
+        "appointment_date": "2014-07-01",
+        "resignation_date": "2014-07-15",
+        "source": "bing:ディスコ 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6143",
+    "company_name": "ソディック",
+    "previous_ceos": [
+      {
+        "name": "人赞同了该回答",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2020-04-16",
+        "source": "bing:ソディック 歴代社長 一覧"
+      },
+      {
+        "name": "一个是撇",
+        "appointment_date": "2020-07-01",
+        "resignation_date": "2020-07-29",
+        "source": "bing:ソディック 歴代社長 一覧"
+      },
+      {
+        "name": "知乎",
+        "appointment_date": "2019-07-01",
+        "resignation_date": "2019-07-23",
+        "source": "bing:ソディック 歴代社長 一覧"
+      },
+      {
+        "name": "ン的第二笔是提",
+        "appointment_date": "2021-03-01",
+        "resignation_date": null,
+        "source": "bing:ソディック 歴代社長 一覧"
+      },
+      {
+        "name": "明日",
+        "appointment_date": "2020-05-01",
+        "resignation_date": "2020-05-19",
+        "source": "bing:ソディック 歴代社長 一覧"
+      },
+      {
+        "name": "使用",
+        "appointment_date": "2025-07-01",
+        "resignation_date": "2025-07-05",
+        "source": "bing:ソディック 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6150",
+    "company_name": "タケダ機械",
+    "previous_ceos": [
+      {
+        "name": "武田薬品の歴史",
+        "appointment_date": "2021-06-01",
+        "resignation_date": null,
+        "source": "bing:タケダ機械 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6159",
+    "company_name": "ミクロン精密",
+    "previous_ceos": [
+      {
+        "name": "国際単位",
+        "appointment_date": "2019-10-01",
+        "resignation_date": "2019-10-15",
+        "source": "bing:ミクロン精密 歴代社長 一覧"
+      },
+      {
+        "name": "ミリメートル",
+        "appointment_date": "2007-05-01",
+        "resignation_date": "2007-05-19",
+        "source": "bing:ミクロン精密 歴代社長 一覧",
+        "photo_path": "photos_3\\6159_ミクロン精密\\history\\02_ミリメートル\\photo_01.jpg"
+      },
+      {
+        "name": "どちら",
+        "appointment_date": "2010-01-01",
+        "resignation_date": "2010-01-27",
+        "source": "bing:ミクロン精密 歴代社長 一覧"
+      },
+      {
+        "name": "おっしゃる通り",
+        "appointment_date": "2008-03-01",
+        "resignation_date": "2008-03-02",
+        "source": "bing:ミクロン精密 歴代社長 一覧"
+      },
+      {
+        "name": "ちなみに",
+        "appointment_date": "2004-12-01",
+        "resignation_date": "2004-12-02",
+        "source": "bing:ミクロン精密 歴代社長 一覧"
+      },
+      {
+        "name": "研磨砥粒の",
+        "appointment_date": "2024-03-01",
+        "resignation_date": "2024-03-09",
+        "source": "bing:ミクロン精密 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6157",
+    "company_name": "日進工具",
+    "previous_ceos": [
+      {
+        "name": "神奈川県",
+        "appointment_date": "2026-02-01",
+        "resignation_date": null,
+        "source": "bing:日進工具 歴代社長 一覧"
+      },
+      {
+        "name": "本日より",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-18",
+        "source": "bing:日進工具 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6173",
+    "company_name": "アクアライン",
+    "previous_ceos": [
+      {
+        "name": "ラインアップ",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "bing:アクアライン 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6166",
+    "company_name": "中村超硬",
+    "previous_ceos": [
+      {
+        "name": "广大人民群众",
+        "appointment_date": "2021-03-01",
+        "resignation_date": "2021-03-25",
+        "source": "bing:中村超硬 歴代社長 一覧"
+      },
+      {
+        "name": "電車で行って",
+        "appointment_date": "2022-09-01",
+        "resignation_date": "2022-09-02",
+        "source": "bing:中村超硬 歴代社長 一覧"
+      },
+      {
+        "name": "東京駅",
+        "appointment_date": "2022-09-01",
+        "resignation_date": "2022-09-02",
+        "source": "bing:中村超硬 歴代社長 一覧",
+        "photo_path": "photos_3\\6166_中村超硬\\history\\03_東京駅\\photo_01.jpg"
+      },
+      {
+        "name": "美术馆",
+        "appointment_date": "2016-07-01",
+        "resignation_date": "2016-07-26",
+        "source": "bing:中村超硬 歴代社長 一覧"
+      },
+      {
+        "name": "名詞の形では",
+        "appointment_date": "2022-08-01",
+        "resignation_date": "2022-08-11",
+        "source": "bing:中村超硬 歴代社長 一覧"
+      },
+      {
+        "name": "知乎",
+        "appointment_date": "2022-04-01",
+        "resignation_date": "2022-04-19",
+        "source": "bing:中村超硬 歴代社長 一覧"
+      },
+      {
+        "name": "然后再说一下",
+        "appointment_date": "2022-09-01",
+        "resignation_date": "2022-09-02",
+        "source": "bing:中村超硬 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6167",
+    "company_name": "冨士ダイス",
+    "previous_ceos": [
+      {
+        "name": "私たち",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "bing:冨士ダイス 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6171",
+    "company_name": "土木管理総合試験所",
+    "previous_ceos": [
+      {
+        "name": "设计",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2020-04-24",
+        "source": "bing:土木管理総合試験所 歴代社長 一覧"
+      },
+      {
+        "name": "包括了建筑工程",
+        "appointment_date": "2023-05-01",
+        "resignation_date": "2023-05-09",
+        "source": "bing:土木管理総合試験所 歴代社長 一覧"
+      },
+      {
+        "name": "材料力学",
+        "appointment_date": "2019-11-01",
+        "resignation_date": "2019-11-28",
+        "source": "bing:土木管理総合試験所 歴代社長 一覧"
+      },
+      {
+        "name": "项目缩减",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-28",
+        "source": "bing:土木管理総合試験所 歴代社長 一覧"
+      },
+      {
+        "name": "环保工程",
+        "appointment_date": "2023-01-01",
+        "resignation_date": "2023-01-12",
+        "source": "bing:土木管理総合試験所 歴代社長 一覧"
+      },
+      {
+        "name": "上有设设计师",
+        "appointment_date": "2024-12-01",
+        "resignation_date": "2024-12-10",
+        "source": "bing:土木管理総合試験所 歴代社長 一覧"
+      },
+      {
+        "name": "还有同济",
+        "appointment_date": "2024-06-01",
+        "resignation_date": "2024-06-13",
+        "source": "bing:土木管理総合試験所 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6181",
+    "company_name": "タメニー",
+    "previous_ceos": [
+      {
+        "name": "由来",
+        "appointment_date": "2025-12-01",
+        "resignation_date": "2025-12-31",
+        "source": "bing:タメニー 歴代社長 一覧"
+      },
+      {
+        "name": "現代での活用例",
+        "appointment_date": "2025-12-01",
+        "resignation_date": "2025-12-31",
+        "source": "bing:タメニー 歴代社長 一覧"
+      },
+      {
+        "name": "同い年の",
+        "appointment_date": "2026-01-01",
+        "resignation_date": "2026-01-30",
+        "source": "bing:タメニー 歴代社長 一覧"
+      },
+      {
+        "name": "あなたと私は",
+        "appointment_date": "2026-01-01",
+        "resignation_date": "2026-01-30",
+        "source": "bing:タメニー 歴代社長 一覧"
+      },
+      {
+        "name": "タメ",
+        "appointment_date": "2020-12-01",
+        "resignation_date": "2020-12-20",
+        "source": "bing:タメニー 歴代社長 一覧"
+      },
+      {
+        "name": "使い方",
+        "appointment_date": "2025-08-01",
+        "resignation_date": "2025-08-17",
+        "source": "bing:タメニー 歴代社長 一覧"
+      },
+      {
+        "name": "類語",
+        "appointment_date": "2025-08-01",
+        "resignation_date": "2025-08-17",
+        "source": "bing:タメニー 歴代社長 一覧"
+      },
+      {
+        "name": "語源",
+        "appointment_date": "2025-04-01",
+        "resignation_date": "2025-04-26",
+        "source": "bing:タメニー 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6183",
+    "company_name": "ベルシステム24ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "ある日",
+        "appointment_date": "2024-12-01",
+        "resignation_date": "2024-12-13",
+        "source": "bing:ベルシステム24ホールディングス 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6182",
+    "company_name": "メタリアル",
+    "previous_ceos": [
+      {
+        "name": "メタ",
+        "appointment_date": "2024-03-01",
+        "resignation_date": "2024-03-29",
+        "source": "bing:メタリアル 歴代社長 一覧"
+      },
+      {
+        "name": "英語圏では主",
+        "appointment_date": "2025-09-01",
+        "resignation_date": "2025-09-04",
+        "source": "bing:メタリアル 歴代社長 一覧"
+      },
+      {
+        "name": "基本的な意味",
+        "appointment_date": "2023-05-01",
+        "resignation_date": "2023-05-16",
+        "source": "bing:メタリアル 歴代社長 一覧"
+      },
+      {
+        "name": "あなたは",
+        "appointment_date": "2023-05-01",
+        "resignation_date": "2023-05-16",
+        "source": "bing:メタリアル 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6180",
+    "company_name": "GMOメディア",
+    "previous_ceos": [
+      {
+        "name": "简介",
+        "appointment_date": "2020-04-01",
+        "resignation_date": "2020-04-24",
+        "source": "bing:GMOメディア 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6189",
+    "company_name": "グローバルキッズCOMPANY",
+    "previous_ceos": [
+      {
+        "name": "无需参加笔试",
+        "appointment_date": "2022-09-01",
+        "resignation_date": "2022-09-13",
+        "source": "bing:グローバルキッズCOMPANY 歴代社長 一覧"
+      },
+      {
+        "name": "但事已至",
+        "appointment_date": "2023-01-01",
+        "resignation_date": "2023-01-17",
+        "source": "bing:グローバルキッズCOMPANY 歴代社長 一覧"
+      },
+      {
+        "name": "文化创生领域",
+        "appointment_date": "2019-05-01",
+        "resignation_date": "2019-05-17",
+        "source": "bing:グローバルキッズCOMPANY 歴代社長 一覧"
+      },
+      {
+        "name": "说要停止了",
+        "appointment_date": "2024-04-01",
+        "resignation_date": "2024-04-14",
+        "source": "bing:グローバルキッズCOMPANY 歴代社長 一覧"
+      },
+      {
+        "name": "文学院",
+        "appointment_date": "2024-07-01",
+        "resignation_date": "2024-07-22",
+        "source": "bing:グローバルキッズCOMPANY 歴代社長 一覧"
+      },
+      {
+        "name": "然而",
+        "appointment_date": "2020-11-01",
+        "resignation_date": "2020-11-09",
+        "source": "bing:グローバルキッズCOMPANY 歴代社長 一覧"
+      },
+      {
+        "name": "国立大学",
+        "appointment_date": "2017-10-01",
+        "resignation_date": "2017-10-20",
+        "source": "bing:グローバルキッズCOMPANY 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6191",
+    "company_name": "エアトリ",
+    "previous_ceos": [
+      {
+        "name": "製品",
+        "appointment_date": "2025-10-01",
+        "resignation_date": null,
+        "source": "bing:エアトリ 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6194",
+    "company_name": "アトラエ",
+    "previous_ceos": [
+      {
+        "name": "対応地域",
+        "appointment_date": "2025-06-01",
+        "resignation_date": "2025-06-09",
+        "source": "bing:アトラエ 歴代社長 一覧"
+      },
+      {
+        "name": "本社",
+        "appointment_date": "2025-12-01",
+        "resignation_date": "2025-12-10",
+        "source": "bing:アトラエ 歴代社長 一覧"
+      },
+      {
+        "name": "ポスティング",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-27",
+        "source": "bing:アトラエ 歴代社長 一覧"
+      },
+      {
+        "name": "市区町村",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-27",
+        "source": "bing:アトラエ 歴代社長 一覧"
+      },
+      {
+        "name": "メインプラン",
+        "appointment_date": "2026-01-01",
+        "resignation_date": "2026-01-21",
+        "source": "bing:アトラエ 歴代社長 一覧"
+      },
+      {
+        "name": "精微",
+        "appointment_date": "2025-06-01",
+        "resignation_date": "2025-06-09",
+        "source": "bing:アトラエ 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6186",
+    "company_name": "一蔵",
+    "previous_ceos": [
+      {
+        "name": "一蔵について",
+        "appointment_date": "2023-03-01",
+        "resignation_date": "2023-03-16",
+        "source": "bing:一蔵 歴代社長 一覧"
+      },
+      {
+        "name": "株主様",
+        "appointment_date": "2023-03-01",
+        "resignation_date": "2023-03-16",
+        "source": "bing:一蔵 歴代社長 一覧"
+      },
+      {
+        "name": "社名には",
+        "appointment_date": "2023-03-01",
+        "resignation_date": "2023-03-16",
+        "source": "bing:一蔵 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6196",
+    "company_name": "ストライク",
+    "previous_ceos": [
+      {
+        "name": "チャート",
+        "appointment_date": "2016-05-01",
+        "resignation_date": "2016-05-20",
+        "source": "bing:ストライク 歴代社長 一覧"
+      },
+      {
+        "name": "使い方",
+        "appointment_date": "2023-12-01",
+        "resignation_date": "2023-12-19",
+        "source": "bing:ストライク 歴代社長 一覧"
+      },
+      {
+        "name": "翻訳",
+        "appointment_date": "2023-12-01",
+        "resignation_date": "2023-12-19",
+        "source": "bing:ストライク 歴代社長 一覧"
+      },
+      {
+        "name": "色違い",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-20",
+        "source": "bing:ストライク 歴代社長 一覧"
+      },
+      {
+        "name": "経済的な話題",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-15",
+        "source": "bing:ストライク 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6198",
+    "company_name": "キャリア",
+    "previous_ceos": [
+      {
+        "name": "キャリアとは",
+        "appointment_date": "2025-11-01",
+        "resignation_date": "2025-11-28",
+        "source": "bing:キャリア 歴代社長 一覧"
+      },
+      {
+        "name": "このように",
+        "appointment_date": "2022-09-01",
+        "resignation_date": "2022-09-14",
+        "source": "bing:キャリア 歴代社長 一覧"
+      },
+      {
+        "name": "近年では",
+        "appointment_date": "2025-07-01",
+        "resignation_date": "2025-07-28",
+        "source": "bing:キャリア 歴代社長 一覧"
+      },
+      {
+        "name": "定義",
+        "appointment_date": "2023-11-01",
+        "resignation_date": "2023-11-19",
+        "source": "bing:キャリア 歴代社長 一覧"
+      },
+      {
+        "name": "本記事では",
+        "appointment_date": "2023-11-01",
+        "resignation_date": "2023-11-19",
+        "source": "bing:キャリア 歴代社長 一覧"
+      },
+      {
+        "name": "外的",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-24",
+        "source": "bing:キャリア 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6197",
+    "company_name": "ソラスト",
+    "previous_ceos": [
+      {
+        "name": "自社開設",
+        "appointment_date": "2002-11-01",
+        "resignation_date": null,
+        "source": "bing:ソラスト 歴代社長 一覧"
+      },
+      {
+        "name": "医療事務",
+        "appointment_date": "2025-04-01",
+        "resignation_date": "2025-04-03",
+        "source": "bing:ソラスト 歴代社長 一覧"
+      },
+      {
+        "name": "トップ",
+        "appointment_date": "2025-04-01",
+        "resignation_date": "2025-04-03",
+        "source": "bing:ソラスト 歴代社長 一覧"
+      },
+      {
+        "name": "ここでは",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-05",
+        "source": "bing:ソラスト 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6209",
+    "company_name": "リケンNPR",
+    "previous_ceos": [
+      {
+        "name": "自動車",
+        "appointment_date": "2023-10-01",
+        "resignation_date": "2023-10-02",
+        "source": "bing:リケンNPR 歴代社長 一覧"
+      },
+      {
+        "name": "経営統合を実施",
+        "appointment_date": null,
+        "resignation_date": null,
+        "source": "bing:リケンNPR 歴代社長 一覧"
+      },
+      {
+        "name": "研究最前線",
+        "appointment_date": "2026-01-01",
+        "resignation_date": "2026-02-24",
+        "source": "bing:リケンNPR 歴代社長 一覧"
+      },
+      {
+        "name": "企業概要",
+        "appointment_date": "2023-09-01",
+        "resignation_date": "2023-09-30",
+        "source": "bing:リケンNPR 歴代社長 一覧"
+      },
+      {
+        "name": "リケンの新製品",
+        "appointment_date": "2023-09-01",
+        "resignation_date": "2023-09-30",
+        "source": "bing:リケンNPR 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6218",
+    "company_name": "エンシュウ",
+    "previous_ceos": [
+      {
+        "name": "静岡県浜松市",
+        "appointment_date": "2025-03-01",
+        "resignation_date": "2025-05-08",
+        "source": "bing:エンシュウ 歴代社長 一覧"
+      },
+      {
+        "name": "人員削減や",
+        "appointment_date": "2025-06-01",
+        "resignation_date": "2025-06-03",
+        "source": "bing:エンシュウ 歴代社長 一覧"
+      },
+      {
+        "name": "人員の再配置や",
+        "appointment_date": "2025-06-01",
+        "resignation_date": "2025-06-03",
+        "source": "bing:エンシュウ 歴代社長 一覧"
+      },
+      {
+        "name": "量産",
+        "appointment_date": "2021-08-01",
+        "resignation_date": "2021-08-12",
+        "source": "bing:エンシュウ 歴代社長 一覧"
+      },
+      {
+        "name": "レーザー加工機",
+        "appointment_date": "2021-08-01",
+        "resignation_date": "2021-08-12",
+        "source": "bing:エンシュウ 歴代社長 一覧",
+        "photo_path": "photos_3\\6218_エンシュウ\\history\\05_レーザー加工機\\photo_01.jpg"
+      },
+      {
+        "name": "エンシュウ",
+        "appointment_date": "2026-02-01",
+        "resignation_date": "2026-02-27",
+        "source": "bing:エンシュウ 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6222",
+    "company_name": "島精機製作所",
+    "previous_ceos": [
+      {
+        "name": "絶海の孤島",
+        "appointment_date": "2025-05-01",
+        "resignation_date": "2025-05-30",
+        "source": "bing:島精機製作所 歴代社長 一覧"
+      },
+      {
+        "name": "日本で",
+        "appointment_date": "2025-05-01",
+        "resignation_date": "2025-05-30",
+        "source": "bing:島精機製作所 歴代社長 一覧"
+      }
+    ]
+  },
+  {
+    "ticker": "6203",
+    "company_name": "豊和工業",
+    "previous_ceos": [
+      {
+        "name": "金沢市",
+        "appointment_date": "2001-02-01",
+        "resignation_date": "2001-02-10",
+        "source": "bing:豊和工業 歴代社長 一覧"
       }
     ]
   }

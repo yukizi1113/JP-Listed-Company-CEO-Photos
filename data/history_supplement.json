@@ -69119,7 +69119,8 @@
         "name": "酒井",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://www.fujioil.co.jp/company/history/"
+        "source": "https://www.fujioil.co.jp/company/history/",
+        "photo_path": "photos_1\\2607_不二製油\\history\\02_酒井\\photo_01.jpg"
       }
     ]
   },
@@ -69131,13 +69132,15 @@
         "name": "増田義一",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2573_北海道コカ・コーラボトリング\\history\\01_増田義一\\photo_01.jpg"
       },
       {
         "name": "青木弘",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2573_北海道コカ・コーラボトリング\\history\\02_青木弘\\photo_01.jpg"
       },
       {
         "name": "佐久間長吉郎",
@@ -69150,19 +69153,22 @@
         "name": "北島織衛",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2573_北海道コカ・コーラボトリング\\history\\04_北島織衛\\photo_01.jpg"
       },
       {
         "name": "北島義俊",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2573_北海道コカ・コーラボトリング\\history\\05_北島義俊\\photo_01.jpg"
       },
       {
         "name": "北島義斉",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2573_北海道コカ・コーラボトリング\\history\\06_北島義斉\\photo_01.jpg"
       }
     ]
   },
@@ -69174,13 +69180,15 @@
         "name": "尾崎弘",
         "appointment_date": "1996-10-01",
         "resignation_date": "2004-12-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2692_伊藤忠食品\\history\\01_尾崎弘\\photo_01.jpg"
       },
       {
         "name": "浜口泰三",
         "appointment_date": "2004-12-01",
         "resignation_date": "2013-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2692_伊藤忠食品\\history\\02_浜口泰三\\photo_01.jpg"
       },
       {
         "name": "星秀一",
@@ -69192,13 +69200,15 @@
         "name": "高垣晴雄",
         "appointment_date": "2017-06-01",
         "resignation_date": "2018-04-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2692_伊藤忠食品\\history\\04_高垣晴雄\\photo_01.jpg"
       },
       {
         "name": "岡本均",
         "appointment_date": "2018-04-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2692_伊藤忠食品\\history\\05_岡本均\\photo_01.jpg"
       }
     ]
   },
@@ -69210,7 +69220,8 @@
         "name": "城戸",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://www.cando-web.co.jp/corporate/history/"
+        "source": "https://www.cando-web.co.jp/corporate/history/",
+        "photo_path": "photos_1\\2698_キャンドゥ\\history\\01_城戸\\photo_01.jpg"
       }
     ]
   },
@@ -69222,19 +69233,22 @@
         "name": "蔵人金男",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2705_大戸屋ホールディングス\\history\\01_蔵人金男\\photo_01.jpg"
       },
       {
         "name": "渡辺順寛",
         "appointment_date": "2002-01-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2705_大戸屋ホールディングス\\history\\02_渡辺順寛\\photo_01.jpg"
       },
       {
         "name": "野尻公平",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2705_大戸屋ホールディングス\\history\\03_野尻公平\\photo_01.jpg"
       }
     ]
   },
@@ -69253,7 +69267,8 @@
         "name": "數土文夫",
         "appointment_date": "2005-04-01",
         "resignation_date": "2010-04-01",
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2721_ジェイホールディングス\\history\\02_數土文夫\\photo_01.jpg"
       },
       {
         "name": "馬田一",
@@ -69266,7 +69281,8 @@
         "name": "林田英治",
         "appointment_date": "2015-04-01",
         "resignation_date": "2019-04-01",
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2721_ジェイホールディングス\\history\\04_林田英治\\photo_01.jpg"
       },
       {
         "name": "柿木厚司",
@@ -69291,67 +69307,78 @@
         "name": "円谷英二",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\01_円谷英二\\photo_01.jpg"
       },
       {
         "name": "円谷一",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\02_円谷一\\photo_01.jpg"
       },
       {
         "name": "円谷皐",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\03_円谷皐\\photo_01.jpg"
       },
       {
         "name": "円谷一夫",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\04_円谷一夫\\photo_01.jpg"
       },
       {
         "name": "円谷昌弘",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\05_円谷昌弘\\photo_01.jpg"
       },
       {
         "name": "円谷英明",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\06_円谷英明\\photo_01.jpg"
       },
       {
         "name": "大山茂樹",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\07_大山茂樹\\photo_01.jpg"
       },
       {
         "name": "森島恒行",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\08_森島恒行\\photo_01.jpg"
       },
       {
         "name": "大岡新一",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\09_大岡新一\\photo_01.jpg"
       },
       {
         "name": "塚越隆行",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\10_塚越隆行\\photo_01.jpg"
       },
       {
         "name": "永竹正幸",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2767_円谷フィールズホールディングス\\history\\11_永竹正幸\\photo_01.jpg"
       }
     ]
   },
@@ -69363,31 +69390,36 @@
         "name": "ロバート",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2788_アップルインターナショナル\\history\\01_ロバート\\photo_01.jpg"
       },
       {
         "name": "ジョン",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2788_アップルインターナショナル\\history\\02_ジョン\\photo_01.jpg"
       },
       {
         "name": "ジェニファー",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2788_アップルインターナショナル\\history\\03_ジェニファー\\photo_01.jpg"
       },
       {
         "name": "ダグラス",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2788_アップルインターナショナル\\history\\04_ダグラス\\photo_01.jpg"
       },
       {
         "name": "ダニエル",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2788_アップルインターナショナル\\history\\05_ダニエル\\photo_01.jpg"
       }
     ]
   },
@@ -69399,7 +69431,8 @@
         "name": "深町の娘婿",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_1\\2790_ナフコ\\history\\01_深町の娘婿\\photo_01.jpg"
       }
     ]
   },
@@ -69411,7 +69444,8 @@
         "name": "本社工場",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://corporate.ichimasa.co.jp/ir/history/"
+        "source": "https://corporate.ichimasa.co.jp/ir/history/",
+        "photo_path": "photos_1\\2904_一正蒲鉾\\history\\01_本社工場\\photo_01.jpg"
       }
     ]
   },
@@ -69423,19 +69457,22 @@
         "name": "加藤辨三郎",
         "appointment_date": "1949-07-01",
         "resignation_date": "1969-08-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2929_ファーマフーズ\\history\\01_加藤辨三郎\\photo_01.jpg"
       },
       {
         "name": "桑田猛",
         "appointment_date": "1969-08-01",
         "resignation_date": "1972-08-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2929_ファーマフーズ\\history\\02_桑田猛\\photo_01.jpg"
       },
       {
         "name": "高田弘",
         "appointment_date": "1972-08-01",
         "resignation_date": "1978-03-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2929_ファーマフーズ\\history\\03_高田弘\\photo_01.jpg"
       },
       {
         "name": "木下祝郎",
@@ -69448,7 +69485,8 @@
         "name": "加藤幹夫",
         "appointment_date": "1984-03-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2929_ファーマフーズ\\history\\05_加藤幹夫\\photo_01.jpg"
       },
       {
         "name": "中村寛之助",
@@ -69461,25 +69499,29 @@
         "name": "平田正",
         "appointment_date": "1996-03-01",
         "resignation_date": "2003-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2929_ファーマフーズ\\history\\07_平田正\\photo_01.jpg"
       },
       {
         "name": "松田譲",
         "appointment_date": "2003-06-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2929_ファーマフーズ\\history\\08_松田譲\\photo_01.jpg"
       },
       {
         "name": "花井陳雄",
         "appointment_date": "2012-03-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2929_ファーマフーズ\\history\\09_花井陳雄\\photo_01.jpg"
       },
       {
         "name": "宮本昌志",
         "appointment_date": "2018-03-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2929_ファーマフーズ\\history\\10_宮本昌志\\photo_01.jpg"
       }
     ]
   },
@@ -69491,7 +69533,8 @@
         "name": "野村",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://tsukuruba.com/company/history/"
+        "source": "https://tsukuruba.com/company/history/",
+        "photo_path": "photos_1\\2978_ツクルバ\\history\\01_野村\\photo_01.jpg"
       }
     ]
   },
@@ -69510,7 +69553,8 @@
         "name": "大畑源一郎",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\02_大畑源一郎\\photo_01.jpg"
       },
       {
         "name": "志田文雄",
@@ -69523,13 +69567,15 @@
         "name": "梶井剛",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\04_梶井剛\\photo_01.jpg"
       },
       {
         "name": "佐伯長生",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\05_佐伯長生\\photo_01.jpg"
       },
       {
         "name": "渡辺斌衡",
@@ -69541,25 +69587,29 @@
         "name": "小林宏治",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\07_小林宏治\\photo_01.jpg"
       },
       {
         "name": "田中忠雄",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\08_田中忠雄\\photo_01.jpg"
       },
       {
         "name": "関本忠弘",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\09_関本忠弘\\photo_01.jpg"
       },
       {
         "name": "金子尚志",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_1\\2997_ストレージ王\\history\\10_金子尚志\\photo_01.jpg"
       },
       {
         "name": "西垣浩司",

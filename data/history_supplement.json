@@ -37164,25 +37164,29 @@
         "name": "对了",
         "appointment_date": "2022-12-01",
         "resignation_date": "2022-12-19",
-        "source": "bing:ニチモウ 歴代社長 一覧"
+        "source": "bing:ニチモウ 歴代社長 一覧",
+        "photo_path": "photos_4\\8091_ニチモウ\\history\\02_对了\\photo_01.jpg"
       },
       {
         "name": "オ和才",
         "appointment_date": "2018-01-01",
         "resignation_date": "2018-01-18",
-        "source": "bing:ニチモウ 歴代社長 一覧"
+        "source": "bing:ニチモウ 歴代社長 一覧",
+        "photo_path": "photos_4\\8091_ニチモウ\\history\\03_オ和才\\photo_01.jpg"
       },
       {
         "name": "文字大小不一样",
         "appointment_date": "2018-01-01",
         "resignation_date": "2018-01-18",
-        "source": "bing:ニチモウ 歴代社長 一覧"
+        "source": "bing:ニチモウ 歴代社長 一覧",
+        "photo_path": "photos_4\\8091_ニチモウ\\history\\04_文字大小不一样\\photo_01.jpg"
       },
       {
         "name": "今回の件ですが",
         "appointment_date": "2025-11-01",
         "resignation_date": "2025-11-23",
-        "source": "bing:ニチモウ 歴代社長 一覧"
+        "source": "bing:ニチモウ 歴代社長 一覧",
+        "photo_path": "photos_4\\8091_ニチモウ\\history\\05_今回の件ですが\\photo_01.jpg"
       }
     ]
   },
@@ -37194,19 +37198,22 @@
         "name": "関するご相談は",
         "appointment_date": "2025-09-01",
         "resignation_date": "2025-09-17",
-        "source": "bing:三愛オブリ 歴代社長 一覧"
+        "source": "bing:三愛オブリ 歴代社長 一覧",
+        "photo_path": "photos_4\\8097_三愛オブリ\\history\\01_関するご相談は\\photo_01.jpg"
       },
       {
         "name": "社会福祉法人",
         "appointment_date": "2017-05-01",
         "resignation_date": "2017-05-22",
-        "source": "bing:三愛オブリ 歴代社長 一覧"
+        "source": "bing:三愛オブリ 歴代社長 一覧",
+        "photo_path": "photos_4\\8097_三愛オブリ\\history\\02_社会福祉法人\\photo_01.jpg"
       },
       {
         "name": "認証取得",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:三愛オブリ 歴代社長 一覧"
+        "source": "bing:三愛オブリ 歴代社長 一覧",
+        "photo_path": "photos_4\\8097_三愛オブリ\\history\\03_認証取得\\photo_01.jpg"
       }
     ]
   },
@@ -37218,7 +37225,8 @@
         "name": "岩城謙太郎",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://www.astena-hd.com/company/history/"
+        "source": "https://www.astena-hd.com/company/history/",
+        "photo_path": "photos_4\\8095_アステナホールディングス\\history\\01_岩城謙太郎\\photo_01.jpg"
       }
     ]
   },
@@ -37230,49 +37238,57 @@
         "name": "景山準吉",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\8101_GSIクレオス\\history\\01_景山準吉\\photo_01.jpg"
       },
       {
         "name": "松本栄",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\8101_GSIクレオス\\history\\02_松本栄\\photo_01.jpg"
       },
       {
         "name": "岡田元雄",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\8101_GSIクレオス\\history\\03_岡田元雄\\photo_01.jpg"
       },
       {
         "name": "加太俊邦",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\8101_GSIクレオス\\history\\04_加太俊邦\\photo_01.jpg"
       },
       {
         "name": "長谷川嘉昭",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\8101_GSIクレオス\\history\\05_長谷川嘉昭\\photo_01.jpg"
       },
       {
         "name": "鷲野襄治",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\8101_GSIクレオス\\history\\06_鷲野襄治\\photo_01.jpg"
       },
       {
         "name": "加藤大輔",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\8101_GSIクレオス\\history\\07_加藤大輔\\photo_01.jpg"
       },
       {
         "name": "栗原進",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\8101_GSIクレオス\\history\\08_栗原進\\photo_01.jpg"
       }
     ]
   },
@@ -37284,13 +37300,15 @@
         "name": "皆さん",
         "appointment_date": "2025-03-01",
         "resignation_date": "2025-03-10",
-        "source": "bing:RYODEN 歴代社長 一覧"
+        "source": "bing:RYODEN 歴代社長 一覧",
+        "photo_path": "photos_4\\8084_RYODEN\\history\\01_皆さん\\photo_01.jpg"
       },
       {
         "name": "日興アイ",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:RYODEN 歴代社長 一覧"
+        "source": "bing:RYODEN 歴代社長 一覧",
+        "photo_path": "photos_4\\8084_RYODEN\\history\\02_日興アイ\\photo_01.jpg"
       }
     ]
   },
@@ -37302,13 +37320,15 @@
         "name": "また",
         "appointment_date": "2016-02-01",
         "resignation_date": "2016-02-09",
-        "source": "bing:クワザワホールディングス 歴代社長 一覧"
+        "source": "bing:クワザワホールディングス 歴代社長 一覧",
+        "photo_path": "photos_4\\8104_クワザワホールディングス\\history\\01_また\\photo_01.jpg"
       },
       {
         "name": "クワ",
         "appointment_date": "2025-05-01",
         "resignation_date": "2025-05-05",
-        "source": "bing:クワザワホールディングス 歴代社長 一覧"
+        "source": "bing:クワザワホールディングス 歴代社長 一覧",
+        "photo_path": "photos_4\\8104_クワザワホールディングス\\history\\02_クワ\\photo_01.jpg"
       }
     ]
   },
@@ -37320,43 +37340,50 @@
         "name": "附录的目的",
         "appointment_date": "2024-02-01",
         "resignation_date": "2024-02-14",
-        "source": "bing:明和産業 歴代社長 一覧"
+        "source": "bing:明和産業 歴代社長 一覧",
+        "photo_path": "photos_4\\8103_明和産業\\history\\01_附录的目的\\photo_01.jpg"
       },
       {
         "name": "这个差别很大的",
         "appointment_date": "2022-03-01",
         "resignation_date": null,
-        "source": "bing:明和産業 歴代社長 一覧"
+        "source": "bing:明和産業 歴代社長 一覧",
+        "photo_path": "photos_4\\8103_明和産業\\history\\02_这个差别很大的\\photo_01.jpg"
       },
       {
         "name": "本作大河的主角",
         "appointment_date": "2025-02-01",
         "resignation_date": "2025-02-27",
-        "source": "bing:明和産業 歴代社長 一覧"
+        "source": "bing:明和産業 歴代社長 一覧",
+        "photo_path": "photos_4\\8103_明和産業\\history\\03_本作大河的主角\\photo_01.jpg"
       },
       {
         "name": "微博秒",
         "appointment_date": "2021-12-01",
         "resignation_date": "2021-12-08",
-        "source": "bing:明和産業 歴代社長 一覧"
+        "source": "bing:明和産業 歴代社長 一覧",
+        "photo_path": "photos_4\\8103_明和産業\\history\\04_微博秒\\photo_01.jpg"
       },
       {
         "name": "而且在",
         "appointment_date": "2023-09-01",
         "resignation_date": "2023-09-13",
-        "source": "bing:明和産業 歴代社長 一覧"
+        "source": "bing:明和産業 歴代社長 一覧",
+        "photo_path": "photos_4\\8103_明和産業\\history\\05_而且在\\photo_01.jpg"
       },
       {
         "name": "看完这个回答",
         "appointment_date": "2019-06-01",
         "resignation_date": "2019-06-12",
-        "source": "bing:明和産業 歴代社長 一覧"
+        "source": "bing:明和産業 歴代社長 一覧",
+        "photo_path": "photos_4\\8103_明和産業\\history\\06_看完这个回答\\photo_01.jpg"
       },
       {
         "name": "的隐身了",
         "appointment_date": "2021-07-01",
         "resignation_date": "2021-07-19",
-        "source": "bing:明和産業 歴代社長 一覧"
+        "source": "bing:明和産業 歴代社長 一覧",
+        "photo_path": "photos_4\\8103_明和産業\\history\\07_的隐身了\\photo_01.jpg"
       }
     ]
   },
@@ -37368,19 +37395,22 @@
         "name": "提醒",
         "appointment_date": "2025-01-01",
         "resignation_date": "2025-01-06",
-        "source": "bing:キムラタン 歴代社長 一覧"
+        "source": "bing:キムラタン 歴代社長 一覧",
+        "photo_path": "photos_4\\8107_キムラタン\\history\\01_提醒\\photo_01.jpg"
       },
       {
         "name": "你说数学里",
         "appointment_date": "2019-07-01",
         "resignation_date": "2019-07-03",
-        "source": "bing:キムラタン 歴代社長 一覧"
+        "source": "bing:キムラタン 歴代社長 一覧",
+        "photo_path": "photos_4\\8107_キムラタン\\history\\02_你说数学里\\photo_01.jpg"
       },
       {
         "name": "的定义与来源",
         "appointment_date": "2024-12-01",
         "resignation_date": "2024-12-20",
-        "source": "bing:キムラタン 歴代社長 一覧"
+        "source": "bing:キムラタン 歴代社長 一覧",
+        "photo_path": "photos_4\\8107_キムラタン\\history\\03_的定义与来源\\photo_01.jpg"
       }
     ]
   },
@@ -37392,7 +37422,8 @@
         "name": "堀田",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:堀田丸正 歴代社長 一覧"
+        "source": "bing:堀田丸正 歴代社長 一覧",
+        "photo_path": "photos_4\\8105_堀田丸正\\history\\01_堀田\\photo_01.jpg"
       },
       {
         "name": "堀田真由",
@@ -37405,13 +37436,15 @@
         "name": "日本を",
         "appointment_date": "2025-10-01",
         "resignation_date": "2025-10-05",
-        "source": "bing:堀田丸正 歴代社長 一覧"
+        "source": "bing:堀田丸正 歴代社長 一覧",
+        "photo_path": "photos_4\\8105_堀田丸正\\history\\03_日本を\\photo_01.jpg"
       },
       {
         "name": "掘田は",
         "appointment_date": "2025-10-01",
         "resignation_date": "2025-10-05",
-        "source": "bing:堀田丸正 歴代社長 一覧"
+        "source": "bing:堀田丸正 歴代社長 一覧",
+        "photo_path": "photos_4\\8105_堀田丸正\\history\\04_掘田は\\photo_01.jpg"
       }
     ]
   },
@@ -37423,25 +37456,29 @@
         "name": "凭借多轮搜索",
         "appointment_date": "2025-03-01",
         "resignation_date": "2025-03-13",
-        "source": "bing:ユニ・チャーム 歴代社長 一覧"
+        "source": "bing:ユニ・チャーム 歴代社長 一覧",
+        "photo_path": "photos_4\\8113_ユニ・チャーム\\history\\01_凭借多轮搜索\\photo_01.jpg"
       },
       {
         "name": "它具备多轮搜索",
         "appointment_date": "2024-06-01",
         "resignation_date": "2024-06-09",
-        "source": "bing:ユニ・チャーム 歴代社長 一覧"
+        "source": "bing:ユニ・チャーム 歴代社長 一覧",
+        "photo_path": "photos_4\\8113_ユニ・チャーム\\history\\02_它具备多轮搜索\\photo_01.jpg"
       },
       {
         "name": "定向搜索",
         "appointment_date": "2025-10-01",
         "resignation_date": "2025-10-11",
-        "source": "bing:ユニ・チャーム 歴代社長 一覧"
+        "source": "bing:ユニ・チャーム 歴代社長 一覧",
+        "photo_path": "photos_4\\8113_ユニ・チャーム\\history\\03_定向搜索\\photo_01.jpg"
       },
       {
         "name": "具备多轮搜索",
         "appointment_date": "2024-07-01",
         "resignation_date": "2024-07-07",
-        "source": "bing:ユニ・チャーム 歴代社長 一覧"
+        "source": "bing:ユニ・チャーム 歴代社長 一覧",
+        "photo_path": "photos_4\\8113_ユニ・チャーム\\history\\04_具备多轮搜索\\photo_01.jpg"
       }
     ]
   },
@@ -37453,7 +37490,8 @@
         "name": "過去の金価格",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:ゴールドウイン 歴代社長 一覧"
+        "source": "bing:ゴールドウイン 歴代社長 一覧",
+        "photo_path": "photos_4\\8111_ゴールドウイン\\history\\01_過去の金価格\\photo_01.jpg"
       }
     ]
   },
@@ -37465,13 +37503,15 @@
         "name": "中央大学",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:中央自動車工業 歴代社長 一覧"
+        "source": "bing:中央自動車工業 歴代社長 一覧",
+        "photo_path": "photos_4\\8117_中央自動車工業\\history\\01_中央大学\\photo_01.jpg"
       },
       {
         "name": "興味",
         "appointment_date": "2026-02-01",
         "resignation_date": "2026-02-06",
-        "source": "bing:中央自動車工業 歴代社長 一覧"
+        "source": "bing:中央自動車工業 歴代社長 一覧",
+        "photo_path": "photos_4\\8117_中央自動車工業\\history\\02_興味\\photo_01.jpg"
       },
       {
         "name": "大学院",
@@ -37490,7 +37530,8 @@
         "name": "大阪",
         "appointment_date": "2019-05-01",
         "resignation_date": "2025-10-20",
-        "source": "bing:キング 歴代社長 一覧"
+        "source": "bing:キング 歴代社長 一覧",
+        "photo_path": "photos_4\\8118_キング\\history\\01_大阪\\photo_01.jpg"
       }
     ]
   },
@@ -37507,19 +37548,22 @@
         "name": "川辺町川辺町",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:川辺 歴代社長 一覧"
+        "source": "bing:川辺 歴代社長 一覧",
+        "photo_path": "photos_4\\8123_川辺\\history\\01_川辺町川辺町\\photo_01.jpg"
       },
       {
         "name": "シンボルとして",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:川辺 歴代社長 一覧"
+        "source": "bing:川辺 歴代社長 一覧",
+        "photo_path": "photos_4\\8123_川辺\\history\\02_シンボルとして\\photo_01.jpg"
       },
       {
         "name": "川辺駿",
         "appointment_date": "2025-05-01",
         "resignation_date": "2025-05-17",
-        "source": "bing:川辺 歴代社長 一覧"
+        "source": "bing:川辺 歴代社長 一覧",
+        "photo_path": "photos_4\\8123_川辺\\history\\03_川辺駿\\photo_01.jpg"
       }
     ]
   },
@@ -37531,7 +37575,8 @@
         "name": "現りそな銀行",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\8098_稲畑産業\\history\\01_現りそな銀行\\photo_01.jpg"
       }
     ]
   },
@@ -37543,31 +37588,36 @@
         "name": "近年では",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:ムーンバット 歴代社長 一覧"
+        "source": "bing:ムーンバット 歴代社長 一覧",
+        "photo_path": "photos_4\\8115_ムーンバット\\history\\01_近年では\\photo_01.jpg"
       },
       {
         "name": "激レア現象",
         "appointment_date": "2025-10-01",
         "resignation_date": "2025-10-06",
-        "source": "bing:ムーンバット 歴代社長 一覧"
+        "source": "bing:ムーンバット 歴代社長 一覧",
+        "photo_path": "photos_4\\8115_ムーンバット\\history\\02_激レア現象\\photo_01.jpg"
       },
       {
         "name": "めったに",
         "appointment_date": "2025-10-01",
         "resignation_date": "2025-10-06",
-        "source": "bing:ムーンバット 歴代社長 一覧"
+        "source": "bing:ムーンバット 歴代社長 一覧",
+        "photo_path": "photos_4\\8115_ムーンバット\\history\\03_めったに\\photo_01.jpg"
       },
       {
         "name": "今日の月齢",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:ムーンバット 歴代社長 一覧"
+        "source": "bing:ムーンバット 歴代社長 一覧",
+        "photo_path": "photos_4\\8115_ムーンバット\\history\\04_今日の月齢\\photo_01.jpg"
       },
       {
         "name": "ブルームーン",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:ムーンバット 歴代社長 一覧"
+        "source": "bing:ムーンバット 歴代社長 一覧",
+        "photo_path": "photos_4\\8115_ムーンバット\\history\\05_ブルームーン\\photo_01.jpg"
       }
     ]
   },

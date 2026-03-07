@@ -71116,7 +71116,8 @@
         "name": "デイリー",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "https://mynet.co.jp/corporate/history/"
+        "source": "https://mynet.co.jp/corporate/history/",
+        "photo_path": "photos_2\\3928_マイネット\\history\\01_デイリー\\photo_01.jpg"
       }
     ]
   },
@@ -71128,7 +71129,8 @@
         "name": "初代",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_2\\3945_スーパーバッグ\\history\\01_初代\\photo_01.jpg"
       }
     ]
   },
@@ -71140,25 +71142,29 @@
         "name": "村田昭",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3970_イノベーション\\history\\01_村田昭\\photo_01.jpg"
       },
       {
         "name": "村田泰隆",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3970_イノベーション\\history\\02_村田泰隆\\photo_01.jpg"
       },
       {
         "name": "村田恒夫",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3970_イノベーション\\history\\03_村田恒夫\\photo_01.jpg"
       },
       {
         "name": "中島規巨",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\3970_イノベーション\\history\\04_中島規巨\\photo_01.jpg"
       }
     ]
   },
@@ -71170,7 +71176,8 @@
         "name": "沿革",
         "appointment_date": "2008-10-01",
         "resignation_date": null,
-        "source": "https://temona.co.jp/ir/history/"
+        "source": "https://temona.co.jp/ir/history/",
+        "photo_path": "photos_2\\3985_テモナ\\history\\01_沿革\\photo_01.jpg"
       }
     ]
   },
@@ -71182,37 +71189,43 @@
         "name": "山内房治郎",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4057_インターファクトリー\\history\\01_山内房治郎\\photo_01.jpg"
       },
       {
         "name": "山内積良",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4057_インターファクトリー\\history\\02_山内積良\\photo_01.jpg"
       },
       {
         "name": "山内溥",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4057_インターファクトリー\\history\\03_山内溥\\photo_01.jpg"
       },
       {
         "name": "岩田聡",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4057_インターファクトリー\\history\\04_岩田聡\\photo_01.jpg"
       },
       {
         "name": "君島達己",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4057_インターファクトリー\\history\\05_君島達己\\photo_01.jpg"
       },
       {
         "name": "古川俊太郎",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4057_インターファクトリー\\history\\06_古川俊太郎\\photo_01.jpg"
       }
     ]
   },
@@ -71224,25 +71237,29 @@
         "name": "立川勇次郎",
         "appointment_date": "1912-11-01",
         "resignation_date": "1925-12-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\01_立川勇次郎\\photo_01.jpg"
       },
       {
         "name": "櫻内幸雄",
         "appointment_date": "1925-12-01",
         "resignation_date": "1928-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\02_櫻内幸雄\\photo_01.jpg"
       },
       {
         "name": "田中徳次郎",
         "appointment_date": "1926-11-01",
         "resignation_date": "1936-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\03_田中徳次郎\\photo_01.jpg"
       },
       {
         "name": "久留島政治",
         "appointment_date": "1936-06-01",
         "resignation_date": "1942-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\04_久留島政治\\photo_01.jpg"
       },
       {
         "name": "宮寺敏雄",
@@ -71255,49 +71272,57 @@
         "name": "須崎潔",
         "appointment_date": "1962-05-01",
         "resignation_date": "1973-08-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\06_須崎潔\\photo_01.jpg"
       },
       {
         "name": "矢橋浩吉",
         "appointment_date": "1973-09-01",
         "resignation_date": "1981-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\07_矢橋浩吉\\photo_01.jpg"
       },
       {
         "name": "多賀潤一郎",
         "appointment_date": "1981-06-01",
         "resignation_date": "1991-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\08_多賀潤一郎\\photo_01.jpg"
       },
       {
         "name": "遠藤優",
         "appointment_date": "1991-06-01",
         "resignation_date": "1999-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\09_遠藤優\\photo_01.jpg"
       },
       {
         "name": "岩田義文",
         "appointment_date": "1999-06-01",
         "resignation_date": "2007-04-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\10_岩田義文\\photo_01.jpg"
       },
       {
         "name": "竹中裕紀",
         "appointment_date": "2007-04-01",
         "resignation_date": "2017-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\11_竹中裕紀\\photo_01.jpg"
       },
       {
         "name": "青木武志",
         "appointment_date": "2017-06-01",
         "resignation_date": "2024-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\12_青木武志\\photo_01.jpg"
       },
       {
         "name": "河島浩二",
         "appointment_date": "2024-06-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4062_イビデン\\history\\13_河島浩二\\photo_01.jpg"
       }
     ]
   },
@@ -71323,19 +71348,22 @@
         "name": "小坂順造",
         "appointment_date": "1931-05-01",
         "resignation_date": "1956-07-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4063_信越化学工業\\history\\03_小坂順造\\photo_01.jpg"
       },
       {
         "name": "小坂徳三郎",
         "appointment_date": "1956-07-01",
         "resignation_date": "1971-07-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4063_信越化学工業\\history\\04_小坂徳三郎\\photo_01.jpg"
       },
       {
         "name": "小林周蔵",
         "appointment_date": "1971-07-01",
         "resignation_date": "1975-08-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4063_信越化学工業\\history\\05_小林周蔵\\photo_01.jpg"
       },
       {
         "name": "小田切新太郎",
@@ -71353,19 +71381,22 @@
         "name": "金川千尋",
         "appointment_date": "1990-08-01",
         "resignation_date": "2010-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4063_信越化学工業\\history\\08_金川千尋\\photo_01.jpg"
       },
       {
         "name": "森俊三",
         "appointment_date": "2010-06-01",
         "resignation_date": "2016-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4063_信越化学工業\\history\\09_森俊三\\photo_01.jpg"
       },
       {
         "name": "斉藤恭彦",
         "appointment_date": "2016-06-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4063_信越化学工業\\history\\10_斉藤恭彦\\photo_01.jpg"
       }
     ]
   },
@@ -71389,49 +71420,57 @@
         "name": "戸田止戈夫",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4100_戸田工業\\history\\01_戸田止戈夫\\photo_01.jpg"
       },
       {
         "name": "戸田英夫",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4100_戸田工業\\history\\02_戸田英夫\\photo_01.jpg"
       },
       {
         "name": "松井五郎",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4100_戸田工業\\history\\03_松井五郎\\photo_01.jpg"
       },
       {
         "name": "園尾恵三",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4100_戸田工業\\history\\04_園尾恵三\\photo_01.jpg"
       },
       {
         "name": "戸田俊行",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4100_戸田工業\\history\\05_戸田俊行\\photo_01.jpg"
       },
       {
         "name": "久保田正",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4100_戸田工業\\history\\06_久保田正\\photo_01.jpg"
       },
       {
         "name": "寳來茂",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4100_戸田工業\\history\\07_寳來茂\\photo_01.jpg"
       },
       {
         "name": "久保恒晃",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4100_戸田工業\\history\\08_久保恒晃\\photo_01.jpg"
       }
     ]
   },
@@ -71443,19 +71482,22 @@
         "name": "加藤辨三郎",
         "appointment_date": "1949-07-01",
         "resignation_date": "1969-08-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4151_協和キリン\\history\\01_加藤辨三郎\\photo_01.jpg"
       },
       {
         "name": "桑田猛",
         "appointment_date": "1969-08-01",
         "resignation_date": "1972-08-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4151_協和キリン\\history\\02_桑田猛\\photo_01.jpg"
       },
       {
         "name": "高田弘",
         "appointment_date": "1972-08-01",
         "resignation_date": "1978-03-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4151_協和キリン\\history\\03_高田弘\\photo_01.jpg"
       },
       {
         "name": "木下祝郎",
@@ -71468,7 +71510,8 @@
         "name": "加藤幹夫",
         "appointment_date": "1984-03-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4151_協和キリン\\history\\05_加藤幹夫\\photo_01.jpg"
       },
       {
         "name": "中村寛之助",
@@ -71481,25 +71524,29 @@
         "name": "平田正",
         "appointment_date": "1996-03-01",
         "resignation_date": "2003-06-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4151_協和キリン\\history\\07_平田正\\photo_01.jpg"
       },
       {
         "name": "松田譲",
         "appointment_date": "2003-06-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4151_協和キリン\\history\\08_松田譲\\photo_01.jpg"
       },
       {
         "name": "花井陳雄",
         "appointment_date": "2012-03-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4151_協和キリン\\history\\09_花井陳雄\\photo_01.jpg"
       },
       {
         "name": "宮本昌志",
         "appointment_date": "2018-03-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4151_協和キリン\\history\\10_宮本昌志\\photo_01.jpg"
       }
     ]
   },
@@ -71511,19 +71558,22 @@
         "name": "諸井貫一",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4112_保土谷化学工業\\history\\01_諸井貫一\\photo_01.jpg"
       },
       {
         "name": "大塚万丈",
         "appointment_date": "1947-04-01",
         "resignation_date": null,
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4112_保土谷化学工業\\history\\02_大塚万丈\\photo_01.jpg"
       },
       {
         "name": "堀田庄三",
         "appointment_date": "1947-04-01",
         "resignation_date": "1948-04-01",
-        "source": "wikipedia_table"
+        "source": "wikipedia_table",
+        "photo_path": "photos_2\\4112_保土谷化学工業\\history\\03_堀田庄三\\photo_01.jpg"
       },
       {
         "name": "永野重雄",

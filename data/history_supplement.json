@@ -31457,13 +31457,15 @@
         "name": "生地",
         "appointment_date": "2026-02-01",
         "resignation_date": "2026-02-28",
-        "source": "bing:ドリームベッド 歴代社長 一覧"
+        "source": "bing:ドリームベッド 歴代社長 一覧",
+        "photo_path": "photos_4\\7791_ドリームベッド\\history\\02_生地\\photo_01.jpg"
       },
       {
         "name": "手芸センター",
         "appointment_date": "2022-03-01",
         "resignation_date": "2022-03-08",
-        "source": "bing:ドリームベッド 歴代社長 一覧"
+        "source": "bing:ドリームベッド 歴代社長 一覧",
+        "photo_path": "photos_4\\7791_ドリームベッド\\history\\03_手芸センター\\photo_01.jpg"
       }
     ]
   },
@@ -31475,7 +31477,8 @@
         "name": "アミは",
         "appointment_date": "2026-02-01",
         "resignation_date": "2026-02-02",
-        "source": "bing:アミファ 歴代社長 一覧"
+        "source": "bing:アミファ 歴代社長 一覧",
+        "photo_path": "photos_4\\7800_アミファ\\history\\01_アミは\\photo_01.jpg"
       }
     ]
   },
@@ -31487,37 +31490,43 @@
         "name": "知乎は",
         "appointment_date": "2019-01-01",
         "resignation_date": "2019-01-13",
-        "source": "bing:イメージ・マジック 歴代社長 一覧"
+        "source": "bing:イメージ・マジック 歴代社長 一覧",
+        "photo_path": "photos_4\\7793_イメージ・マジック\\history\\01_知乎は\\photo_01.jpg"
       },
       {
         "name": "先上个人结论",
         "appointment_date": "2016-04-01",
         "resignation_date": "2016-04-09",
-        "source": "bing:イメージ・マジック 歴代社長 一覧"
+        "source": "bing:イメージ・マジック 歴代社長 一覧",
+        "photo_path": "photos_4\\7793_イメージ・マジック\\history\\02_先上个人结论\\photo_01.jpg"
       },
       {
         "name": "家だけではなく",
         "appointment_date": "2019-09-01",
         "resignation_date": "2019-09-09",
-        "source": "bing:イメージ・マジック 歴代社長 一覧"
+        "source": "bing:イメージ・マジック 歴代社長 一覧",
+        "photo_path": "photos_4\\7793_イメージ・マジック\\history\\03_家だけではなく\\photo_01.jpg"
       },
       {
         "name": "柴乃櫂人",
         "appointment_date": "2025-01-01",
         "resignation_date": "2025-01-22",
-        "source": "bing:イメージ・マジック 歴代社長 一覧"
+        "source": "bing:イメージ・マジック 歴代社長 一覧",
+        "photo_path": "photos_4\\7793_イメージ・マジック\\history\\04_柴乃櫂人\\photo_01.jpg"
       },
       {
         "name": "绘本",
         "appointment_date": "2024-04-01",
         "resignation_date": "2024-04-02",
-        "source": "bing:イメージ・マジック 歴代社長 一覧"
+        "source": "bing:イメージ・マジック 歴代社長 一覧",
+        "photo_path": "photos_4\\7793_イメージ・マジック\\history\\05_绘本\\photo_01.jpg"
       },
       {
         "name": "手を繋ぐ",
         "appointment_date": "2022-04-01",
         "resignation_date": "2022-04-19",
-        "source": "bing:イメージ・マジック 歴代社長 一覧"
+        "source": "bing:イメージ・マジック 歴代社長 一覧",
+        "photo_path": "photos_4\\7793_イメージ・マジック\\history\\06_手を繋ぐ\\photo_01.jpg"
       }
     ]
   },
@@ -31529,19 +31538,22 @@
         "name": "小原正司",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\7803_ブシロード\\history\\01_小原正司\\photo_01.jpg"
       },
       {
         "name": "源田雅巳",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\7803_ブシロード\\history\\02_源田雅巳\\photo_01.jpg"
       },
       {
         "name": "戸塚恵一",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "wikipedia_list"
+        "source": "wikipedia_list",
+        "photo_path": "photos_4\\7803_ブシロード\\history\\03_戸塚恵一\\photo_01.jpg"
       }
     ]
   },
@@ -31558,7 +31570,8 @@
         "name": "知乎",
         "appointment_date": "2019-03-01",
         "resignation_date": "2019-03-14",
-        "source": "bing:MTG 歴代社長 一覧"
+        "source": "bing:MTG 歴代社長 一覧",
+        "photo_path": "photos_4\\7806_MTG\\history\\01_知乎\\photo_01.jpg"
       }
     ]
   },
@@ -31582,7 +31595,8 @@
         "name": "キレイエは",
         "appointment_date": "2026-02-01",
         "resignation_date": "2026-02-18",
-        "source": "bing:ビーアンドピー 歴代社長 一覧"
+        "source": "bing:ビーアンドピー 歴代社長 一覧",
+        "photo_path": "photos_4\\7804_ビーアンドピー\\history\\02_キレイエは\\photo_01.jpg"
       }
     ]
   },
@@ -31605,31 +31619,36 @@
         "name": "壽は",
         "appointment_date": "2024-11-01",
         "resignation_date": "2024-11-22",
-        "source": "bing:壽屋 歴代社長 一覧"
+        "source": "bing:壽屋 歴代社長 一覧",
+        "photo_path": "photos_4\\7809_壽屋\\history\\02_壽は\\photo_01.jpg"
       },
       {
         "name": "部首",
         "appointment_date": "2025-04-01",
         "resignation_date": null,
-        "source": "bing:壽屋 歴代社長 一覧"
+        "source": "bing:壽屋 歴代社長 一覧",
+        "photo_path": "photos_4\\7809_壽屋\\history\\03_部首\\photo_01.jpg"
       },
       {
         "name": "一般的には",
         "appointment_date": "2025-04-01",
         "resignation_date": null,
-        "source": "bing:壽屋 歴代社長 一覧"
+        "source": "bing:壽屋 歴代社長 一覧",
+        "photo_path": "photos_4\\7809_壽屋\\history\\04_一般的には\\photo_01.jpg"
       },
       {
         "name": "意味",
         "appointment_date": "2026-02-01",
         "resignation_date": "2026-02-26",
-        "source": "bing:壽屋 歴代社長 一覧"
+        "source": "bing:壽屋 歴代社長 一覧",
+        "photo_path": "photos_4\\7809_壽屋\\history\\05_意味\\photo_01.jpg"
       },
       {
         "name": "工学者",
         "appointment_date": "2026-02-01",
         "resignation_date": "2026-02-26",
-        "source": "bing:壽屋 歴代社長 一覧"
+        "source": "bing:壽屋 歴代社長 一覧",
+        "photo_path": "photos_4\\7809_壽屋\\history\\06_工学者\\photo_01.jpg"
       }
     ]
   },
@@ -31641,43 +31660,50 @@
         "name": "メリット",
         "appointment_date": "2025-01-01",
         "resignation_date": "2025-01-31",
-        "source": "bing:クロスフォー 歴代社長 一覧"
+        "source": "bing:クロスフォー 歴代社長 一覧",
+        "photo_path": "photos_4\\7810_クロスフォー\\history\\01_メリット\\photo_01.jpg"
       },
       {
         "name": "カビ",
         "appointment_date": "2014-06-01",
         "resignation_date": "2014-06-09",
-        "source": "bing:クロスフォー 歴代社長 一覧"
+        "source": "bing:クロスフォー 歴代社長 一覧",
+        "photo_path": "photos_4\\7810_クロスフォー\\history\\02_カビ\\photo_01.jpg"
       },
       {
         "name": "壁紙のことを",
         "appointment_date": "2014-06-01",
         "resignation_date": "2014-06-09",
-        "source": "bing:クロスフォー 歴代社長 一覧"
+        "source": "bing:クロスフォー 歴代社長 一覧",
+        "photo_path": "photos_4\\7810_クロスフォー\\history\\03_壁紙のことを\\photo_01.jpg"
       },
       {
         "name": "デザイン",
         "appointment_date": "2025-02-01",
         "resignation_date": "2025-02-17",
-        "source": "bing:クロスフォー 歴代社長 一覧"
+        "source": "bing:クロスフォー 歴代社長 一覧",
+        "photo_path": "photos_4\\7810_クロスフォー\\history\\04_デザイン\\photo_01.jpg"
       },
       {
         "name": "機能",
         "appointment_date": "2025-05-01",
         "resignation_date": "2025-05-09",
-        "source": "bing:クロスフォー 歴代社長 一覧"
+        "source": "bing:クロスフォー 歴代社長 一覧",
+        "photo_path": "photos_4\\7810_クロスフォー\\history\\05_機能\\photo_01.jpg"
       },
       {
         "name": "糊はこだわり",
         "appointment_date": "2019-04-01",
         "resignation_date": "2019-04-12",
-        "source": "bing:クロスフォー 歴代社長 一覧"
+        "source": "bing:クロスフォー 歴代社長 一覧",
+        "photo_path": "photos_4\\7810_クロスフォー\\history\\06_糊はこだわり\\photo_01.jpg"
       },
       {
         "name": "価格が安いこと",
         "appointment_date": "2019-04-01",
         "resignation_date": "2019-04-12",
-        "source": "bing:クロスフォー 歴代社長 一覧"
+        "source": "bing:クロスフォー 歴代社長 一覧",
+        "photo_path": "photos_4\\7810_クロスフォー\\history\\07_価格が安いこと\\photo_01.jpg"
       }
     ]
   },
@@ -31696,7 +31722,8 @@
         "name": "ヨロコブ",
         "appointment_date": "2024-12-01",
         "resignation_date": "2024-12-26",
-        "source": "bing:幸和製作所 歴代社長 一覧"
+        "source": "bing:幸和製作所 歴代社長 一覧",
+        "photo_path": "photos_4\\7807_幸和製作所\\history\\02_ヨロコブ\\photo_01.jpg"
       },
       {
         "name": "幸和製作所",
@@ -31715,37 +31742,43 @@
         "name": "新宿",
         "appointment_date": "2023-06-01",
         "resignation_date": "2023-06-06",
-        "source": "bing:中本パックス 歴代社長 一覧"
+        "source": "bing:中本パックス 歴代社長 一覧",
+        "photo_path": "photos_4\\7811_中本パックス\\history\\01_新宿\\photo_01.jpg"
       },
       {
         "name": "豊川",
         "appointment_date": "2026-01-01",
         "resignation_date": "2026-01-06",
-        "source": "bing:中本パックス 歴代社長 一覧"
+        "source": "bing:中本パックス 歴代社長 一覧",
+        "photo_path": "photos_4\\7811_中本パックス\\history\\02_豊川\\photo_01.jpg"
       },
       {
         "name": "渋谷",
         "appointment_date": "2025-05-01",
         "resignation_date": "2025-05-06",
-        "source": "bing:中本パックス 歴代社長 一覧"
+        "source": "bing:中本パックス 歴代社長 一覧",
+        "photo_path": "photos_4\\7811_中本パックス\\history\\03_渋谷\\photo_01.jpg"
       },
       {
         "name": "それが",
         "appointment_date": "2025-05-01",
         "resignation_date": "2025-05-06",
-        "source": "bing:中本パックス 歴代社長 一覧"
+        "source": "bing:中本パックス 歴代社長 一覧",
+        "photo_path": "photos_4\\7811_中本パックス\\history\\04_それが\\photo_01.jpg"
       },
       {
         "name": "本店",
         "appointment_date": "2023-06-01",
         "resignation_date": "2023-06-06",
-        "source": "bing:中本パックス 歴代社長 一覧"
+        "source": "bing:中本パックス 歴代社長 一覧",
+        "photo_path": "photos_4\\7811_中本パックス\\history\\05_本店\\photo_01.jpg"
       },
       {
         "name": "ライスメニュー",
         "appointment_date": "2022-11-01",
         "resignation_date": "2022-11-17",
-        "source": "bing:中本パックス 歴代社長 一覧"
+        "source": "bing:中本パックス 歴代社長 一覧",
+        "photo_path": "photos_4\\7811_中本パックス\\history\\06_ライスメニュー\\photo_01.jpg"
       }
     ]
   },
@@ -31757,19 +31790,22 @@
         "name": "木製品の塗装は",
         "appointment_date": "2024-08-01",
         "resignation_date": "2024-08-25",
-        "source": "bing:クレステック 歴代社長 一覧"
+        "source": "bing:クレステック 歴代社長 一覧",
+        "photo_path": "photos_4\\7812_クレステック\\history\\01_木製品の塗装は\\photo_01.jpg"
       },
       {
         "name": "弊社はこの度",
         "appointment_date": "2024-08-01",
         "resignation_date": "2024-08-08",
-        "source": "bing:クレステック 歴代社長 一覧"
+        "source": "bing:クレステック 歴代社長 一覧",
+        "photo_path": "photos_4\\7812_クレステック\\history\\02_弊社はこの度\\photo_01.jpg"
       },
       {
         "name": "また",
         "appointment_date": "2021-08-01",
         "resignation_date": "2021-08-02",
-        "source": "bing:クレステック 歴代社長 一覧"
+        "source": "bing:クレステック 歴代社長 一覧",
+        "photo_path": "photos_4\\7812_クレステック\\history\\03_また\\photo_01.jpg"
       }
     ]
   },
@@ -31781,13 +31817,15 @@
         "name": "万台を出荷し",
         "appointment_date": "1992-07-01",
         "resignation_date": null,
-        "source": "bing:プラッツ 歴代社長 一覧"
+        "source": "bing:プラッツ 歴代社長 一覧",
+        "photo_path": "photos_4\\7813_プラッツ\\history\\01_万台を出荷し\\photo_01.jpg"
       },
       {
         "name": "ご挨拶",
         "appointment_date": "1992-07-01",
         "resignation_date": null,
-        "source": "bing:プラッツ 歴代社長 一覧"
+        "source": "bing:プラッツ 歴代社長 一覧",
+        "photo_path": "photos_4\\7813_プラッツ\\history\\02_ご挨拶\\photo_01.jpg"
       }
     ]
   },
@@ -31799,13 +31837,15 @@
         "name": "医療用",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:パラマウントベッドホールディングス 歴代社長 一覧"
+        "source": "bing:パラマウントベッドホールディングス 歴代社長 一覧",
+        "photo_path": "photos_4\\7817_パラマウントベッドホールディングス\\history\\01_医療用\\photo_01.jpg"
       },
       {
         "name": "個人のお客様",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:パラマウントベッドホールディングス 歴代社長 一覧"
+        "source": "bing:パラマウントベッドホールディングス 歴代社長 一覧",
+        "photo_path": "photos_4\\7817_パラマウントベッドホールディングス\\history\\02_個人のお客様\\photo_01.jpg"
       }
     ]
   },
@@ -31817,19 +31857,22 @@
         "name": "穴場",
         "appointment_date": null,
         "resignation_date": null,
-        "source": "bing:東京ボード工業 歴代社長 一覧"
+        "source": "bing:東京ボード工業 歴代社長 一覧",
+        "photo_path": "photos_4\\7815_東京ボード工業\\history\\01_穴場\\photo_01.jpg"
       },
       {
         "name": "ここでは",
         "appointment_date": "2026-02-01",
         "resignation_date": "2026-02-10",
-        "source": "bing:東京ボード工業 歴代社長 一覧"
+        "source": "bing:東京ボード工業 歴代社長 一覧",
+        "photo_path": "photos_4\\7815_東京ボード工業\\history\\02_ここでは\\photo_01.jpg"
       },
       {
         "name": "イマーシブ",
         "appointment_date": "2025-02-01",
         "resignation_date": "2025-02-03",
-        "source": "bing:東京ボード工業 歴代社長 一覧"
+        "source": "bing:東京ボード工業 歴代社長 一覧",
+        "photo_path": "photos_4\\7815_東京ボード工業\\history\\03_イマーシブ\\photo_01.jpg"
       }
     ]
   },
@@ -31841,25 +31884,29 @@
         "name": "データベース",
         "appointment_date": "2023-11-01",
         "resignation_date": "2023-11-27",
-        "source": "bing:トランザクション 歴代社長 一覧"
+        "source": "bing:トランザクション 歴代社長 一覧",
+        "photo_path": "photos_4\\7818_トランザクション\\history\\01_データベース\\photo_01.jpg"
       },
       {
         "name": "ファイル",
         "appointment_date": "2024-10-01",
         "resignation_date": "2024-10-07",
-        "source": "bing:トランザクション 歴代社長 一覧"
+        "source": "bing:トランザクション 歴代社長 一覧",
+        "photo_path": "photos_4\\7818_トランザクション\\history\\02_ファイル\\photo_01.jpg"
       },
       {
         "name": "活用例をわかり",
         "appointment_date": "2024-08-01",
         "resignation_date": "2024-08-30",
-        "source": "bing:トランザクション 歴代社長 一覧"
+        "source": "bing:トランザクション 歴代社長 一覧",
+        "photo_path": "photos_4\\7818_トランザクション\\history\\03_活用例をわかり\\photo_01.jpg"
       },
       {
         "name": "デッドロックは",
         "appointment_date": "2024-06-01",
         "resignation_date": "2024-06-11",
-        "source": "bing:トランザクション 歴代社長 一覧"
+        "source": "bing:トランザクション 歴代社長 一覧",
+        "photo_path": "photos_4\\7818_トランザクション\\history\\04_デッドロックは\\photo_01.jpg"
       }
     ]
   },
@@ -31871,19 +31918,22 @@
         "name": "画数",
         "appointment_date": "2024-08-01",
         "resignation_date": "2024-08-04",
-        "source": "bing:粧美堂 歴代社長 一覧"
+        "source": "bing:粧美堂 歴代社長 一覧",
+        "photo_path": "photos_4\\7819_粧美堂\\history\\01_画数\\photo_01.jpg"
       },
       {
         "name": "粧は",
         "appointment_date": "2024-08-01",
         "resignation_date": "2024-08-04",
-        "source": "bing:粧美堂 歴代社長 一覧"
+        "source": "bing:粧美堂 歴代社長 一覧",
+        "photo_path": "photos_4\\7819_粧美堂\\history\\02_粧は\\photo_01.jpg"
       },
       {
         "name": "使い方",
         "appointment_date": "2024-05-01",
         "resignation_date": "2024-05-05",
-        "source": "bing:粧美堂 歴代社長 一覧"
+        "source": "bing:粧美堂 歴代社長 一覧",
+        "photo_path": "photos_4\\7819_粧美堂\\history\\03_使い方\\photo_01.jpg"
       },
       {
         "name": "この記事では",

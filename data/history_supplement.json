@@ -8131,7 +8131,32 @@
   {
     "ticker": "5533",
     "company_name": "エリッツホールディングス",
-    "previous_ceos": [],
+    "previous_ceos": [
+      {
+        "name": "槙野 常美",
+        "appointment_date": "2023-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "槙野　常美",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "槙野 常美",
+        "appointment_date": "2023-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "槙野　常美",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ],
     "enriched_at": "2026-02-25T11:26:59.273328"
   },
   {
@@ -8324,13 +8349,63 @@
   {
     "ticker": "5609",
     "company_name": "日本鋳造",
-    "previous_ceos": [],
+    "previous_ceos": [
+      {
+        "name": "佐竹　義宏",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "佐竹　義宏",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ],
     "enriched_at": "2026-02-25T11:45:05.866147"
   },
   {
     "ticker": "5631",
     "company_name": "日本製鋼所",
-    "previous_ceos": [],
+    "previous_ceos": [
+      {
+        "name": "佐藤　育男",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "宮内　直孝",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "松尾　敏夫",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "佐藤　育男",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "宮内　直孝",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "松尾　敏夫",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ],
     "enriched_at": "2026-02-25T11:48:19.129585"
   },
   {
@@ -8383,7 +8458,20 @@
   {
     "ticker": "5621",
     "company_name": "ヒューマンテクノロジーズ",
-    "previous_ceos": [],
+    "previous_ceos": [
+      {
+        "name": "晃一",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "晃一",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ],
     "enriched_at": "2026-02-25T11:49:35.871432"
   },
   {
@@ -8926,7 +9014,20 @@
   {
     "ticker": "5970",
     "company_name": "ジーテクト",
-    "previous_ceos": [],
+    "previous_ceos": [
+      {
+        "name": "高尾　直宏",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "高尾　直宏",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ],
     "enriched_at": "2026-02-25T12:56:14.862035"
   },
   {
@@ -9032,7 +9133,44 @@
   {
     "ticker": "5984",
     "company_name": "兼房",
-    "previous_ceos": [],
+    "previous_ceos": [
+      {
+        "name": "渡邉　將人",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "渡邉 將人",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "磯谷 岳摩",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "渡邉　將人",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "渡邉 將人",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "磯谷 岳摩",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ],
     "enriched_at": "2026-02-25T12:59:37.674282"
   },
   {
@@ -9794,7 +9932,56 @@
   {
     "ticker": "6134",
     "company_name": "FUJI",
-    "previous_ceos": [],
+    "previous_ceos": [
+      {
+        "name": "曽我　信之",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "須原　信介",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "曽我　信之",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "五十棲　丈二",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "曽我　信之",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "須原　信介",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "曽我　信之",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "五十棲　丈二",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ],
     "enriched_at": "2026-02-25T13:46:16.634840"
   },
   {
@@ -96072,6 +96259,745 @@
       {
         "name": "小林　茂",
         "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5355",
+    "company_name": "日本坩堝",
+    "previous_ceos": [
+      {
+        "name": "大久保　正志",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "西村　有司",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5363",
+    "company_name": "東京窯業",
+    "previous_ceos": [
+      {
+        "name": "牛込",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_3\\5363_東京窯業\\history\\01_牛込\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "5380",
+    "company_name": "新東",
+    "previous_ceos": [
+      {
+        "name": "石川　達也",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5384",
+    "company_name": "フジミインコーポレーテッド",
+    "previous_ceos": [
+      {
+        "name": "敬史",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5386",
+    "company_name": "鶴弥",
+    "previous_ceos": [
+      {
+        "name": "鶴見　哲",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5440",
+    "company_name": "共英製鋼",
+    "previous_ceos": [
+      {
+        "name": "光廣",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "廣冨　靖以",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5388",
+    "company_name": "クニミネ工業",
+    "previous_ceos": [
+      {
+        "name": "國峯　保彦",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "勢藤　大輔",
+        "appointment_date": "2021-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "國峯 保彦",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5446",
+    "company_name": "北越メタル",
+    "previous_ceos": [
+      {
+        "name": "住田　規",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "棚橋　章",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "大洞　勝義",
+        "appointment_date": "2023-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "加納　愛仁",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5451",
+    "company_name": "淀川製鋼所",
+    "previous_ceos": [
+      {
+        "name": "河本 隆明",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "二田",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "田中 栄一",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5458",
+    "company_name": "高砂鐵工",
+    "previous_ceos": [
+      {
+        "name": "大植　啓一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "山田　健司",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "加藤　勘二",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5461",
+    "company_name": "中部鋼鈑",
+    "previous_ceos": [
+      {
+        "name": "太田　雅晴",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "重松　久美男",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "重松 久美男",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5480",
+    "company_name": "日本冶金工業",
+    "previous_ceos": [
+      {
+        "name": "木村　始",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "久保田　尚志",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "浦田　成己",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5484",
+    "company_name": "東北特殊鋼",
+    "previous_ceos": [
+      {
+        "name": "山口　桂一郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "成瀬　真司",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5482",
+    "company_name": "愛知製鋼",
+    "previous_ceos": [
+      {
+        "name": "藤岡　高広",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "後藤　尚英",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5542",
+    "company_name": "新報国マテリアル",
+    "previous_ceos": [
+      {
+        "name": "成瀬　正",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5535",
+    "company_name": "ミガロホールディングス",
+    "previous_ceos": [
+      {
+        "name": "中西　聖",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5570",
+    "company_name": "ジェノバ",
+    "previous_ceos": [
+      {
+        "name": "河野　芳道",
+        "appointment_date": "2023-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "戸上　敏",
+        "appointment_date": "2024-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "戸上",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5571",
+    "company_name": "エキサイトホールディングス",
+    "previous_ceos": [
+      {
+        "name": "西條　晋一",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5589",
+    "company_name": "オートサーバー",
+    "previous_ceos": [
+      {
+        "name": "髙田 典明",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5586",
+    "company_name": "Laboro.AI",
+    "previous_ceos": [
+      {
+        "name": "椎橋 徹夫",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5592",
+    "company_name": "くすりの窓口",
+    "previous_ceos": [
+      {
+        "name": "幸治",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5588",
+    "company_name": "ファーストアカウンティング",
+    "previous_ceos": [
+      {
+        "name": "啓太郎",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5597",
+    "company_name": "ブルーイノベーション",
+    "previous_ceos": [
+      {
+        "name": "熊田　貴之",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5603",
+    "company_name": "虹技",
+    "previous_ceos": [
+      {
+        "name": "堀田　一之",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "山本　幹雄",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5602",
+    "company_name": "栗本鐵工所",
+    "previous_ceos": [
+      {
+        "name": "串田　守可",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "菊本　一高",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5619",
+    "company_name": "マーソ",
+    "previous_ceos": [
+      {
+        "name": "西野　恒五郎",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5616",
+    "company_name": "雨風太陽",
+    "previous_ceos": [
+      {
+        "name": "高橋　博之",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5658",
+    "company_name": "日亜鋼業",
+    "previous_ceos": [
+      {
+        "name": "国峰　淳",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "大西　利典",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5659",
+    "company_name": "日本精線",
+    "previous_ceos": [
+      {
+        "name": "新貝　元",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "利光　一浩",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5699",
+    "company_name": "イボキン",
+    "previous_ceos": [
+      {
+        "name": "高橋　克実",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5697",
+    "company_name": "サンユウ",
+    "previous_ceos": [
+      {
+        "name": "西野　淳二",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "喜多　章",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5707",
+    "company_name": "東邦亜鉛",
+    "previous_ceos": [
+      {
+        "name": "手島　達也",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "丸崎　公康",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "伊藤　正人",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5704",
+    "company_name": "JMC",
+    "previous_ceos": [
+      {
+        "name": "渡邊　大知",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "渡邊 大知",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5711",
+    "company_name": "三菱マテリアル",
+    "previous_ceos": [
+      {
+        "name": "竹内　章",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "小野　直樹",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "田中　徹也",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5706",
+    "company_name": "三井金属鉱業",
+    "previous_ceos": [
+      {
+        "name": "西田　計治",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "武士",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5727",
+    "company_name": "東邦チタニウム",
+    "previous_ceos": [
+      {
+        "name": "加賀美　和夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "西山　佳宏",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "山尾　康二",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "5842",
+    "company_name": "インテグラル",
+    "previous_ceos": [
+      {
+        "name": "山本　礼二郎",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "6078",
+    "company_name": "バリューHR",
+    "previous_ceos": [
+      {
+        "name": "藤田　美智雄",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "6089",
+    "company_name": "ウィルグループ",
+    "previous_ceos": [
+      {
+        "name": "池田　良介",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "大原　茂",
+        "appointment_date": "2021-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "裕一",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "6147",
+    "company_name": "ヤマザキ",
+    "previous_ceos": [
+      {
+        "name": "好和",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "6158",
+    "company_name": "和井田製作所",
+    "previous_ceos": [
+      {
+        "name": "和井田 光生",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "森下",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "和井田 光生",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "6190",
+    "company_name": "フェニックスバイオ",
+    "previous_ceos": [
+      {
+        "name": "藏本　健二",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "島田　卓",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "6226",
+    "company_name": "守谷輸送機工業",
+    "previous_ceos": [
+      {
+        "name": "守谷 貞夫",
+        "appointment_date": "2022-01-01",
         "resignation_date": null,
         "source": "edinet_annual_report"
       }

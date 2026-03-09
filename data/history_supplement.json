@@ -103327,5 +103327,894 @@
         "photo_path": "photos_1\\3059_ヒラキ\\history\\03_梅木_孝雄\\photo_01.jpg"
       }
     ]
+  },
+  {
+    "ticker": "3109",
+    "company_name": "シキボウ",
+    "previous_ceos": [
+      {
+        "name": "清原 幹夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3109_シキボウ\\history\\01_清原_幹夫\\photo_01.jpg"
+      },
+      {
+        "name": "尻家 正博",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3109_シキボウ\\history\\02_尻家_正博\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3123",
+    "company_name": "サイボー",
+    "previous_ceos": [
+      {
+        "name": "飯塚 剛司",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3123_サイボー\\history\\01_飯塚_剛司\\photo_01.jpg"
+      },
+      {
+        "name": "飯塚 榮一",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3123_サイボー\\history\\02_飯塚_榮一\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3151",
+    "company_name": "バイタルケーエスケー・ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "村井 泰介",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3151_バイタルケーエスケー・ホールディングス\\history\\01_村井_泰介\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3166",
+    "company_name": "OCHIホールディングス",
+    "previous_ceos": [
+      {
+        "name": "越智 通広",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3166_OCHIホールディングス\\history\\01_越智_通広\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3205",
+    "company_name": "ダイドーリミテッド",
+    "previous_ceos": [
+      {
+        "name": "鍋割 宰",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3205_ダイドーリミテッド\\history\\01_鍋割_宰\\photo_01.jpg"
+      },
+      {
+        "name": "成瀬 功一郎",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3205_ダイドーリミテッド\\history\\02_成瀬_功一郎\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3232",
+    "company_name": "三重交通グループホールディングス",
+    "previous_ceos": [
+      {
+        "name": "小倉 敏秀",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3232_三重交通グループホールディングス\\history\\01_小倉_敏秀\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3323",
+    "company_name": "レカム",
+    "previous_ceos": [
+      {
+        "name": "伊藤 秀博",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3323_レカム\\history\\01_伊藤_秀博\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3393",
+    "company_name": "スターティアホールディングス",
+    "previous_ceos": [
+      {
+        "name": "本郷 秀之",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3393_スターティアホールディングス\\history\\01_本郷_秀之\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3397",
+    "company_name": "トリドールホールディングス",
+    "previous_ceos": [
+      {
+        "name": "粟田 貴也",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3397_トリドールホールディングス\\history\\01_粟田_貴也\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3409",
+    "company_name": "北日本紡績",
+    "previous_ceos": [
+      {
+        "name": "仲治 文雄",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3409_北日本紡績\\history\\01_仲治_文雄\\photo_01.jpg"
+      },
+      {
+        "name": "粕谷 俊昭",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3409_北日本紡績\\history\\02_粕谷_俊昭\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3422",
+    "company_name": "J-MAX",
+    "previous_ceos": [
+      {
+        "name": "今川 喜章",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3422_J-MAX\\history\\01_今川_喜章\\photo_01.jpg"
+      },
+      {
+        "name": "齊藤 浩",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3422_J-MAX\\history\\02_齊藤_浩\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3439",
+    "company_name": "三ツ知",
+    "previous_ceos": [
+      {
+        "name": "荒木 直人",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3439_三ツ知\\history\\01_荒木_直人\\photo_01.jpg"
+      },
+      {
+        "name": "中村 和志",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3439_三ツ知\\history\\02_中村_和志\\photo_01.jpg"
+      },
+      {
+        "name": "下元 守",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\3439_三ツ知\\history\\03_下元_守\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3553",
+    "company_name": "共和レザー",
+    "previous_ceos": [
+      {
+        "name": "中村 尚範",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3553_共和レザー\\history\\01_中村_尚範\\photo_01.jpg"
+      },
+      {
+        "name": "花井 幹雄",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3553_共和レザー\\history\\02_花井_幹雄\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3569",
+    "company_name": "セーレン",
+    "previous_ceos": [
+      {
+        "name": "川田 達男",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3569_セーレン\\history\\01_川田_達男\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3580",
+    "company_name": "小松マテーレ",
+    "previous_ceos": [
+      {
+        "name": "池田 哲夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3580_小松マテーレ\\history\\01_池田_哲夫\\photo_01.jpg"
+      },
+      {
+        "name": "中山 大輔",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3580_小松マテーレ\\history\\02_中山_大輔\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3600",
+    "company_name": "フジックス",
+    "previous_ceos": [
+      {
+        "name": "藤井 一郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3600_フジックス\\history\\01_藤井_一郎\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3710",
+    "company_name": "ジョルダン",
+    "previous_ceos": [
+      {
+        "name": "佐藤 俊和",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3710_ジョルダン\\history\\01_佐藤_俊和\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3744",
+    "company_name": "サイオス",
+    "previous_ceos": [
+      {
+        "name": "喜多 伸夫",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3744_サイオス\\history\\01_喜多_伸夫\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3758",
+    "company_name": "アエリア",
+    "previous_ceos": [
+      {
+        "name": "小林 祐介",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3758_アエリア\\history\\01_小林_祐介\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3762",
+    "company_name": "テクマトリックス",
+    "previous_ceos": [
+      {
+        "name": "由利 孝",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3762_テクマトリックス\\history\\01_由利_孝\\photo_01.jpg"
+      },
+      {
+        "name": "矢井 隆晴",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3762_テクマトリックス\\history\\02_矢井_隆晴\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3863",
+    "company_name": "日本製紙",
+    "previous_ceos": [
+      {
+        "name": "馬城 文雄",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3863_日本製紙\\history\\01_馬城_文雄\\photo_01.jpg"
+      },
+      {
+        "name": "野沢 徹",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3863_日本製紙\\history\\02_野沢_徹\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3861",
+    "company_name": "王子ホールディングス",
+    "previous_ceos": [
+      {
+        "name": "矢嶋 進",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3861_王子ホールディングス\\history\\01_矢嶋_進\\photo_01.jpg"
+      },
+      {
+        "name": "加来 正年",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3861_王子ホールディングス\\history\\02_加来_正年\\photo_01.jpg"
+      },
+      {
+        "name": "磯野 裕之",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3861_王子ホールディングス\\history\\03_磯野_裕之\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3864",
+    "company_name": "三菱製紙",
+    "previous_ceos": [
+      {
+        "name": "鈴木 邦夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3864_三菱製紙\\history\\01_鈴木_邦夫\\photo_01.jpg"
+      },
+      {
+        "name": "立藤 幸博",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3864_三菱製紙\\history\\02_立藤_幸博\\photo_01.jpg"
+      },
+      {
+        "name": "木坂 隆一",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3864_三菱製紙\\history\\03_木坂_隆一\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3841",
+    "company_name": "ジーダット",
+    "previous_ceos": [
+      {
+        "name": "河内 一往",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3841_ジーダット\\history\\01_河内_一往\\photo_01.jpg"
+      },
+      {
+        "name": "松尾 和利",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3841_ジーダット\\history\\02_松尾_和利\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3944",
+    "company_name": "古林紙工",
+    "previous_ceos": [
+      {
+        "name": "古林 敬碩",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3944_古林紙工\\history\\01_古林_敬碩\\photo_01.jpg"
+      },
+      {
+        "name": "古林 雅敬",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3944_古林紙工\\history\\02_古林_雅敬\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "3946",
+    "company_name": "トーモク",
+    "previous_ceos": [
+      {
+        "name": "斎藤 英男",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3946_トーモク\\history\\01_斎藤_英男\\photo_01.jpg"
+      },
+      {
+        "name": "中橋 光男",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\3946_トーモク\\history\\02_中橋_光男\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4008",
+    "company_name": "住友精化",
+    "previous_ceos": [
+      {
+        "name": "上田 雄介",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4008_住友精化\\history\\01_上田_雄介\\photo_01.jpg"
+      },
+      {
+        "name": "小川 育三",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4008_住友精化\\history\\02_小川_育三\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4027",
+    "company_name": "テイカ",
+    "previous_ceos": [
+      {
+        "name": "名木 田正男",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "山崎 博史",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4027_テイカ\\history\\02_山崎_博史\\photo_01.jpg"
+      },
+      {
+        "name": "出井 俊治",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4027_テイカ\\history\\03_出井_俊治\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4093",
+    "company_name": "東邦アセチレン",
+    "previous_ceos": [
+      {
+        "name": "山本 泰夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4093_東邦アセチレン\\history\\01_山本_泰夫\\photo_01.jpg"
+      },
+      {
+        "name": "池田 悦哉",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4093_東邦アセチレン\\history\\02_池田_悦哉\\photo_01.jpg"
+      },
+      {
+        "name": "堀内 秀敏",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4093_東邦アセチレン\\history\\03_堀内_秀敏\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4098",
+    "company_name": "チタン工業",
+    "previous_ceos": [
+      {
+        "name": "渡邉 一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4098_チタン工業\\history\\01_渡邉_一\\photo_01.jpg"
+      },
+      {
+        "name": "井上 保雄",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4098_チタン工業\\history\\02_井上_保雄\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4107",
+    "company_name": "伊勢化学工業",
+    "previous_ceos": [
+      {
+        "name": "藤野 隆",
+        "appointment_date": "2015-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4107_伊勢化学工業\\history\\01_藤野_隆\\photo_01.jpg"
+      },
+      {
+        "name": "平岡 正司",
+        "appointment_date": "2021-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4107_伊勢化学工業\\history\\02_平岡_正司\\photo_01.jpg"
+      },
+      {
+        "name": "粕谷 俊郎",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4107_伊勢化学工業\\history\\03_粕谷_俊郎\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4242",
+    "company_name": "タカギセイコー",
+    "previous_ceos": [
+      {
+        "name": "八十 島清吉",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4242_タカギセイコー\\history\\01_八十_島清吉\\photo_01.jpg"
+      },
+      {
+        "name": "高木 章裕",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4242_タカギセイコー\\history\\02_高木_章裕\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4229",
+    "company_name": "群栄化学工業",
+    "previous_ceos": [
+      {
+        "name": "有田 喜一郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4229_群栄化学工業\\history\\01_有田_喜一郎\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4316",
+    "company_name": "ビーマップ",
+    "previous_ceos": [
+      {
+        "name": "杉野 文則",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "4318",
+    "company_name": "クイック",
+    "previous_ceos": [
+      {
+        "name": "和納 勉",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4318_クイック\\history\\01_和納_勉\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4365",
+    "company_name": "松本油脂製薬",
+    "previous_ceos": [
+      {
+        "name": "木村 直樹",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4365_松本油脂製薬\\history\\01_木村_直樹\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4371",
+    "company_name": "コアコンセプト・テクノロジー",
+    "previous_ceos": [
+      {
+        "name": "金子 武史",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4371_コアコンセプト・テクノロジー\\history\\01_金子_武史\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4367",
+    "company_name": "広栄化学",
+    "previous_ceos": [
+      {
+        "name": "津田 重典",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "岡本 敬彦",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "西本 麗",
+        "appointment_date": "2020-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      }
+    ]
+  },
+  {
+    "ticker": "4381",
+    "company_name": "ビープラッツ",
+    "previous_ceos": [
+      {
+        "name": "藤田 健治",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4381_ビープラッツ\\history\\01_藤田_健治\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4410",
+    "company_name": "ハリマ化成グループ",
+    "previous_ceos": [
+      {
+        "name": "長谷川 吉弘",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4410_ハリマ化成グループ\\history\\01_長谷川_吉弘\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4404",
+    "company_name": "ミヨシ油脂",
+    "previous_ceos": [
+      {
+        "name": "堀尾 容造",
+        "appointment_date": "2015-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4404_ミヨシ油脂\\history\\01_堀尾_容造\\photo_01.jpg"
+      },
+      {
+        "name": "三木 逸郎",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4404_ミヨシ油脂\\history\\02_三木_逸郎\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4617",
+    "company_name": "中国塗料",
+    "previous_ceos": [
+      {
+        "name": "植竹 正隆",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4617_中国塗料\\history\\01_植竹_正隆\\photo_01.jpg"
+      },
+      {
+        "name": "伊達 健士",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4617_中国塗料\\history\\02_伊達_健士\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4651",
+    "company_name": "サニックスホールディングス",
+    "previous_ceos": [
+      {
+        "name": "宗政 伸一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4651_サニックスホールディングス\\history\\01_宗政_伸一\\photo_01.jpg"
+      },
+      {
+        "name": "宗政 寛",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4651_サニックスホールディングス\\history\\02_宗政_寛\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4664",
+    "company_name": "アール・エス・シー",
+    "previous_ceos": [
+      {
+        "name": "金井 宏夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4664_アール・エス・シー\\history\\01_金井_宏夫\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4678",
+    "company_name": "秀英予備校",
+    "previous_ceos": [
+      {
+        "name": "渡辺 武",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4678_秀英予備校\\history\\01_渡辺_武\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4694",
+    "company_name": "ビー・エム・エル",
+    "previous_ceos": [
+      {
+        "name": "近藤 健介",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4694_ビー・エム・エル\\history\\01_近藤_健介\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4705",
+    "company_name": "クリップコーポレーション",
+    "previous_ceos": [
+      {
+        "name": "井上 憲氏",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4705_クリップコーポレーション\\history\\01_井上_憲氏\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4687",
+    "company_name": "TDCソフト",
+    "previous_ceos": [
+      {
+        "name": "谷上 俊二",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4687_TDCソフト\\history\\01_谷上_俊二\\photo_01.jpg"
+      },
+      {
+        "name": "小林 裕嘉",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4687_TDCソフト\\history\\02_小林_裕嘉\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4720",
+    "company_name": "城南進学研究社",
+    "previous_ceos": [
+      {
+        "name": "下村 勝己",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4720_城南進学研究社\\history\\01_下村_勝己\\photo_01.jpg"
+      }
+    ]
+  },
+  {
+    "ticker": "4761",
+    "company_name": "さくらケーシーエス",
+    "previous_ceos": [
+      {
+        "name": "藤原 邦晃",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "神原 忠明",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4761_さくらケーシーエス\\history\\02_神原_忠明\\photo_01.jpg"
+      },
+      {
+        "name": "加藤 貴紀",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_2\\4761_さくらケーシーエス\\history\\03_加藤_貴紀\\photo_01.jpg"
+      }
+    ]
   }
 ]

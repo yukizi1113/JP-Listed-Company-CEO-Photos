@@ -11,11 +11,23 @@
 
 | データ種別 | 内容 |
 |------------|------|
-| 顔写真 | 現・歴代CEO（2000年以降）の顔写真（複数枚/人） |
+| 顔写真 | 現・歴代CEO（2000年以降）の顔写真 |
 | 就任年月日 | 現CEO・歴代CEO（2000年以降）全員分 |
 | 退任年月日 | 歴代CEO（2000年以降）全員分 |
-| 就任時株価 | 就任月の始値 (Open) |
-| 退任時株価 | 退任月の終値 (Close) |
+| 就任時株価 | 就任日の始値 (Open) |
+| 退任時株価 | 退任日の終値 (Close) |
+
+---
+
+## 収集統計
+
+| 項目 | 数値 |
+|------|------|
+| 対象企業数 | 3,727社 |
+| 歴代データあり企業 | 3,166社 (84.9%) |
+| 歴代CEO総数 | 11,579名 |
+| 写真取得済み | 11,194名 **(96.7%)** |
+| データ収集期間 | 2026年2月〜3月 |
 
 ---
 
@@ -46,14 +58,6 @@ def load_ceo_image(photo_path: str) -> Image.Image | None:
     """photo_path は ml_dataset_photos.csv の photo_path 列の値"""
     p = Path(photo_path)
     return Image.open(p) if p.exists() else None
-
-# 例
-for _, row in photos_exist.iterrows():
-    img = load_ceo_image(row["photo_path"])
-    ticker = row["ticker"]
-    open_price = row["open_at_appointment"]
-    appt_date = row["appointment_date"]
-    # -> img, ticker, open_price, appt_date が揃った ML 学習データ
 ```
 
 ---
@@ -62,54 +66,62 @@ for _, row in photos_exist.iterrows():
 
 ```
 data/
-  companies.json          全3,727社リスト (ticker/社名/URL)
-  ceo_data.json           全CEO情報 JSON (メインDB)
-  ml_dataset.csv          ML用統合インデックス (1行=1社)
-  ml_dataset_photos.csv   写真索引 (1行=1写真, ML訓練に最適)
-  stats.json              データセット統計
-  progress.json           収集進捗
+  companies.json              全3,727社リスト (ticker/社名/URL)
+  ceo_data.json               現CEO情報 JSON (メインDB)
+  history_supplement.json     歴代CEO情報 JSON (11,579名)
+  edinet_mapping.json         EDINET有価証券報告書インデックス (3,598社・28,768件)
+  ml_dataset.csv              ML用統合インデックス (1行=1社)
+  ml_dataset_photos.csv       写真索引 (1行=1写真, ML訓練に最適)
 
-photos/
+photos_1/   ticker < 3500
+photos_2/   3500 <= ticker < 5000
+photos_3/   5000 <= ticker < 7000
+photos_4/   7000 <= ticker < 9000
+photos_5/   ticker >= 9000 または非数値
+  各ディレクトリ内:
   {ticker}_{社名}/
     current/
-      photo_01.jpg        現CEO 写真1枚目
-      photo_02.jpg        現CEO 写真2枚目 (あれば)
-      info.json           現CEO メタデータ
+      photo_01.jpg            現CEO 写真
+      info.json               現CEO メタデータ
     history/
       01_{氏名}/
-        photo_01.jpg      前任CEO写真 (あれば)
-        info.json         前任CEO メタデータ
-      02_{氏名}/          2代前
-      03_{氏名}/          3代前
-      ...                 2000年以降の全歴代
+        photo_01.jpg          前任CEO写真 (取得できた場合)
+      02_{氏名}/              2代前
+      ...                     2000年以降の全歴代
 
 scripts/
-  collect_ceo.py          データ収集スクリプト
-  make_ml_dataset.py      ML用CSV生成スクリプト
-  run_all.py              全件一括収集・push・CSV自動生成
+  collect_ceo.py              現CEO情報収集
+  collect_history.py          歴代CEO収集 (Wikipedia)
+  collect_history2.py         歴代CEO収集 改良版 (汚染防止付き)
+  collect_history_edinet.py   歴代CEO収集 (EDINET有価証券報告書)
+  collect_history_photos.py   歴代CEO写真収集
+  cleanup_contaminated.py     汚染データ除去
+  merge_history.py            歴代データをメインDBへマージ
+  make_ml_dataset.py          ML用CSV生成
+  build_tracking_csv.py       CEO追跡CSV生成
 ```
 
 ---
 
 ## データスキーマ
 
-### `data/ml_dataset.csv` (1行=1社)
+### `data/history_supplement.json`
 
-| 列名 | 型 | 説明 |
-|------|----|------|
-| ticker | str | 証券コード |
-| company_name | str | 社名 |
-| url | str | 企業URL |
-| current_ceo_name | str | 現代表取締役社長名 |
-| current_ceo_title | str | 役職名 |
-| appointment_date | str | 就任年月（例: 2022年6月） |
-| open_at_appointment | float | 就任月の始値 (JPY) |
-| close_at_appointment | float | 就任月の終値 (JPY) |
-| stock_date_at_appointment | str | 株価取得日 |
-| photo_count | int | 取得写真枚数 |
-| photo_dir | str | 写真ディレクトリパス |
-| photo_paths | str | カンマ区切り写真パス一覧 |
-| prev_ceo_count | int | 前任社長データ数（2000年以降） |
+```json
+{
+  "ticker": 1234,
+  "company_name": "サンプル株式会社",
+  "previous_ceos": [
+    {
+      "name": "田中 次郎",
+      "appointment_date": "2015-06-01",
+      "resignation_date": "2021-06-01",
+      "photo_path": "photos_1/1234_サンプル株式会社/history/01_田中_次郎/photo_01.jpg",
+      "source": "edinet"
+    }
+  ]
+}
+```
 
 ### `data/ml_dataset_photos.csv` (1行=1写真)
 
@@ -119,48 +131,12 @@ scripts/
 | company_name | str | 社名 |
 | ceo_name | str | CEO氏名 |
 | ceo_role | str | `current` / `prev_1` / `prev_2` ... |
-| appointment_date | str | 就任年月 |
-| resignation_date | str | 退任年月 (前任者のみ) |
+| appointment_date | str | 就任年月日 |
+| resignation_date | str | 退任年月日 (歴代のみ) |
 | open_at_appointment | float | **就任時始値** (JPY) |
 | close_at_resignation | float | **退任時終値** (JPY) |
 | photo_path | str | 写真ファイルの相対パス |
 | photo_exists | bool | ファイル存在フラグ |
-
-### `photos/{ticker}_{社名}/current/info.json`
-
-```json
-{
-  "name": "山田 太郎",
-  "title": "代表取締役社長",
-  "appointment_info": "2021年6月",
-  "photos_saved": ["photo_01.jpg", "photo_02.jpg"],
-  "photo_count": 2,
-  "open_at_appointment": 2345.0,
-  "stock_price_at_appointment": {
-    "date": "2021-06-01",
-    "open_on_date": 2345.0,
-    "close_on_date": 2380.0,
-    "trading_date": "2021-06-01",
-    "currency": "JPY"
-  },
-  "source_url": "https://example.co.jp/company/officer/"
-}
-```
-
-### `photos/{ticker}_{社名}/history/01_{氏名}/info.json`
-
-```json
-{
-  "name": "田中 次郎",
-  "appointment_date": "2015年6月",
-  "resignation_date": "2021年6月",
-  "open_at_appointment": 1200.0,
-  "close_at_resignation": 2300.0,
-  "stock_price_at_appointment": { ... },
-  "stock_price_at_resignation": { ... },
-  "source_url": "https://example.co.jp/news/..."
-}
-```
 
 ---
 
@@ -171,28 +147,24 @@ scripts/
 | CEO在任期間と株価リターンの相関分析 | `ml_dataset.csv`: open_at_appointment, close_at_resignation |
 | CEO交代が株価に与える影響の予測 | `ml_dataset_photos.csv` + yfinance追加取得 |
 | 経営者顔写真とパフォーマンスの関係 | `photo_path` + `open_at_appointment` |
-| 歴代CEO在任期間の統計分析 | `ceo_data.json`: previous_ceos |
+| 歴代CEO在任期間の統計分析 | `history_supplement.json` |
 | 業種別CEO交代パターン分析 | `ml_dataset.csv` + `companies.json` |
 
 ---
 
-## 収集統計
-
-> `data/stats.json` を参照（収集完了後に自動更新）
-
----
-
-## データソース・免責
+## データソース
 
 | データ | 出典 |
 |--------|------|
 | 企業一覧 | 会社四季報2026年1集（新春号）|
-| CEO情報・写真 | 各社公式IR・コーポレートサイト |
-| 歴代CEO情報 | 各社プレスリリース |
+| 現CEO情報・写真 | 各社公式IR・コーポレートサイト |
+| 歴代CEO情報 | Wikipedia / 各社プレスリリース |
+| 歴代CEO情報 (補完) | EDINET 有価証券報告書（金融庁）|
+| 写真 | Wikipedia / Bing画像検索 |
 | 株価データ | Yahoo Finance Japan (yfinance) |
 
-**注意**: 顔写真の著作権は各社に帰属します。研究・教育目的での利用に限定してください。
+**注意**: 顔写真の著作権は各社・各権利者に帰属します。研究・教育目的での利用に限定してください。
 株価データは参考値であり、投資判断に使用しないでください。
 
 ---
-*収集期間: 2026年2月〜 | Python: yfinance, requests, BeautifulSoup, Pillow*
+*収集期間: 2026年2月〜3月 | Python: requests, BeautifulSoup, yfinance, Pillow*

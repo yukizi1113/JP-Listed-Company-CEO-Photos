@@ -73004,6 +73004,20 @@
         "resignation_date": "2022-03-08",
         "source": "bing:W　TOKYO 歴代社長 一覧",
         "photo_path": "photos_5\\9159_W_TOKYO\\history\\06_怎样用最简单\\photo_01.jpg"
+      },
+      {
+        "name": "村上 範義",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9159_W_TOKYO\\history\\01_村上_範義\\photo_01.jpg"
+      },
+      {
+        "name": "村上 範義",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9159_W_TOKYO\\history\\01_村上_範義\\photo_01.jpg"
       }
     ]
   },
@@ -73017,6 +73031,20 @@
         "resignation_date": "2025-03-27",
         "source": "bing:クオルテック 歴代社長 一覧",
         "photo_path": "photos_5\\9165_クオルテック\\history\\01_贈る人も\\photo_01.jpg"
+      },
+      {
+        "name": "山口 友宏",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9165_クオルテック\\history\\01_山口_友宏\\photo_01.jpg"
+      },
+      {
+        "name": "山口 友宏",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9165_クオルテック\\history\\01_山口_友宏\\photo_01.jpg"
       }
     ]
   },
@@ -73037,6 +73065,20 @@
         "resignation_date": "2027-03-31",
         "source": "bing:シーユーシー 歴代社長 一覧",
         "photo_path": "photos_5\\9158_シーユーシー\\history\\02_詳しくはこちら\\photo_01.jpg"
+      },
+      {
+        "name": "濵口 慶太",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9158_シーユーシー\\history\\01_濵口_慶太\\photo_01.jpg"
+      },
+      {
+        "name": "濵口 慶太",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9158_シーユーシー\\history\\01_濵口_慶太\\photo_01.jpg"
       }
     ]
   },
@@ -73102,7 +73144,22 @@
   {
     "ticker": "9193",
     "company_name": "東京汽船",
-    "previous_ceos": []
+    "previous_ceos": [
+      {
+        "name": "齊藤 宏之",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9193_東京汽船\\history\\01_齊藤_宏之\\photo_01.jpg"
+      },
+      {
+        "name": "齊藤 宏之",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9193_東京汽船\\history\\01_齊藤_宏之\\photo_01.jpg"
+      }
+    ]
   },
   {
     "ticker": "9173",
@@ -73121,6 +73178,20 @@
         "resignation_date": "2026-02-26",
         "source": "bing:東海汽船 歴代社長 一覧",
         "photo_path": "photos_5\\9173_東海汽船\\history\\02_資料請求\\photo_01.jpg"
+      },
+      {
+        "name": "山潤 一",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9173_東海汽船\\history\\01_山潤_一\\photo_01.jpg"
+      },
+      {
+        "name": "山潤 一",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9173_東海汽船\\history\\01_山潤_一\\photo_01.jpg"
       }
     ]
   },
@@ -73210,6 +73281,62 @@
         "resignation_date": "2015-07-11",
         "source": "bing:スターフライヤー 歴代社長 一覧",
         "photo_path": "photos_5\\9206_スターフライヤー\\history\\07_剧场版\\photo_01.jpg"
+      },
+      {
+        "name": "松石 禎己",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9206_スターフライヤー\\history\\01_松石_禎己\\photo_01.jpg"
+      },
+      {
+        "name": "白水 政治",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9206_スターフライヤー\\history\\02_白水_政治\\photo_01.jpg"
+      },
+      {
+        "name": "横江 友則町田修",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9206_スターフライヤー\\history\\03_横江_友則町田修\\photo_01.jpg"
+      },
+      {
+        "name": "町田 修",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9206_スターフライヤー\\history\\04_町田_修\\photo_01.jpg"
+      },
+      {
+        "name": "松石 禎己",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9206_スターフライヤー\\history\\01_松石_禎己\\photo_01.jpg"
+      },
+      {
+        "name": "白水 政治",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9206_スターフライヤー\\history\\02_白水_政治\\photo_01.jpg"
+      },
+      {
+        "name": "横江 友則町田修",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9206_スターフライヤー\\history\\03_横江_友則町田修\\photo_01.jpg"
+      },
+      {
+        "name": "町田 修",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9206_スターフライヤー\\history\\04_町田_修\\photo_01.jpg"
       }
     ]
   },
@@ -73265,6 +73392,20 @@
         "resignation_date": "2021-03-16",
         "source": "bing:エフ・コード 歴代社長 一覧",
         "photo_path": "photos_5\\9211_エフ・コード\\history\\07_また\\photo_01.jpg"
+      },
+      {
+        "name": "工藤 勉",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9211_エフ・コード\\history\\01_工藤_勉\\photo_01.jpg"
+      },
+      {
+        "name": "工藤 勉",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9211_エフ・コード\\history\\01_工藤_勉\\photo_01.jpg"
       }
     ]
   },
@@ -73334,6 +73475,20 @@
         "resignation_date": "2019-02-13",
         "source": "bing:Green　Earth　Institute 歴代社長 一覧",
         "photo_path": "photos_5\\9212_Green_Earth_Institute\\history\\09_哪个牌子的\\photo_01.jpg"
+      },
+      {
+        "name": "伊原 智人",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9212_Green_Earth_Institute\\history\\01_伊原_智人\\photo_01.jpg"
+      },
+      {
+        "name": "伊原 智人",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9212_Green_Earth_Institute\\history\\01_伊原_智人\\photo_01.jpg"
       }
     ]
   },
@@ -73423,6 +73578,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_5\\9214_Recovery_International\\history\\04_柴田_旬也\\photo_01.jpg"
+      },
+      {
+        "name": "大河 原峻",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9214_Recovery_International\\history\\01_大河_原峻\\photo_01.jpg"
+      },
+      {
+        "name": "大河 原峻",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9214_Recovery_International\\history\\01_大河_原峻\\photo_01.jpg"
       }
     ]
   },
@@ -73471,6 +73640,20 @@
         "resignation_date": "2022-12-21",
         "source": "bing:セイファート 歴代社長 一覧",
         "photo_path": "photos_5\\9213_セイファート\\history\\06_当社は\\photo_01.jpg"
+      },
+      {
+        "name": "長谷 川高志",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9213_セイファート\\history\\01_長谷_川高志\\photo_01.jpg"
+      },
+      {
+        "name": "長谷 川高志",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9213_セイファート\\history\\01_長谷_川高志\\photo_01.jpg"
       }
     ]
   },
@@ -73607,6 +73790,34 @@
         "resignation_date": "2021-03-16",
         "source": "bing:エフビー介護サービス 歴代社長 一覧",
         "photo_path": "photos_5\\9220_エフビー介護サービス\\history\\07_また\\photo_01.jpg"
+      },
+      {
+        "name": "栁澤 秀樹",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9220_エフビー介護サービス\\history\\01_栁澤_秀樹\\photo_01.jpg"
+      },
+      {
+        "name": "栁澤 美穂",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9220_エフビー介護サービス\\history\\02_栁澤_美穂\\photo_01.jpg"
+      },
+      {
+        "name": "栁澤 秀樹",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9220_エフビー介護サービス\\history\\01_栁澤_秀樹\\photo_01.jpg"
+      },
+      {
+        "name": "栁澤 美穂",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9220_エフビー介護サービス\\history\\02_栁澤_美穂\\photo_01.jpg"
       }
     ]
   },
@@ -73626,6 +73837,20 @@
         "appointment_date": "2025-11-01",
         "resignation_date": "2025-11-14",
         "source": "bing:フルハシEPO 歴代社長 一覧"
+      },
+      {
+        "name": "山口 直彦",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9221_フルハシEPO\\history\\01_山口_直彦\\photo_01.jpg"
+      },
+      {
+        "name": "山口 直彦",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9221_フルハシEPO\\history\\01_山口_直彦\\photo_01.jpg"
       }
     ]
   },
@@ -73935,6 +74160,48 @@
         "resignation_date": "2026-02-09",
         "source": "bing:日本航空 歴代社長 一覧",
         "photo_path": "photos_5\\9201_日本航空\\history\\05_而且稳了\\photo_01.jpg"
+      },
+      {
+        "name": "植木 義晴",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9201_日本航空\\history\\01_植木_義晴\\photo_01.jpg"
+      },
+      {
+        "name": "赤坂 祐二",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9201_日本航空\\history\\02_赤坂_祐二\\photo_01.jpg"
+      },
+      {
+        "name": "鳥取 三津子",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9201_日本航空\\history\\03_鳥取_三津子\\photo_01.jpg"
+      },
+      {
+        "name": "植木 義晴",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9201_日本航空\\history\\01_植木_義晴\\photo_01.jpg"
+      },
+      {
+        "name": "赤坂 祐二",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9201_日本航空\\history\\02_赤坂_祐二\\photo_01.jpg"
+      },
+      {
+        "name": "鳥取 三津子",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9201_日本航空\\history\\03_鳥取_三津子\\photo_01.jpg"
       }
     ]
   },
@@ -73948,6 +74215,34 @@
         "resignation_date": "2026-05-19",
         "source": "bing:ANAホールディングス 歴代社長 一覧",
         "photo_path": "photos_5\\9202_ANAホールディングス\\history\\01_購入\\photo_01.jpg"
+      },
+      {
+        "name": "片野 坂真哉",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9202_ANAホールディングス\\history\\01_片野_坂真哉\\photo_01.jpg"
+      },
+      {
+        "name": "芝田 浩二",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9202_ANAホールディングス\\history\\02_芝田_浩二\\photo_01.jpg"
+      },
+      {
+        "name": "片野 坂真哉",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9202_ANAホールディングス\\history\\01_片野_坂真哉\\photo_01.jpg"
+      },
+      {
+        "name": "芝田 浩二",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9202_ANAホールディングス\\history\\02_芝田_浩二\\photo_01.jpg"
       }
     ]
   },
@@ -74366,6 +74661,20 @@
         "resignation_date": "2026-02-09",
         "source": "bing:日本エコシステム 歴代社長 一覧",
         "photo_path": "photos_5\\9249_日本エコシステム\\history\\05_而且稳了\\photo_01.jpg"
+      },
+      {
+        "name": "松島 穣",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9249_日本エコシステム\\history\\01_松島_穣\\photo_01.jpg"
+      },
+      {
+        "name": "松島 穣",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9249_日本エコシステム\\history\\01_松島_穣\\photo_01.jpg"
       }
     ]
   },
@@ -74646,6 +74955,20 @@
         "resignation_date": null,
         "source": "bing:サクシード 歴代社長 一覧",
         "photo_path": "photos_5\\9256_サクシード\\history\\03_新車\\photo_01.jpg"
+      },
+      {
+        "name": "高木 毅",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9256_サクシード\\history\\01_高木_毅\\photo_01.jpg"
+      },
+      {
+        "name": "高木 毅",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9256_サクシード\\history\\01_高木_毅\\photo_01.jpg"
       }
     ]
   },
@@ -74701,6 +75024,34 @@
         "resignation_date": "2025-05-18",
         "source": "bing:タカヨシホールディングス 歴代社長 一覧",
         "photo_path": "photos_5\\9259_タカヨシホールディングス\\history\\07_実は\\photo_01.jpg"
+      },
+      {
+        "name": "髙品 政明",
+        "appointment_date": "2021-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9259_タカヨシホールディングス\\history\\01_髙品_政明\\photo_01.jpg"
+      },
+      {
+        "name": "黒田 智也",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9259_タカヨシホールディングス\\history\\02_黒田_智也\\photo_01.jpg"
+      },
+      {
+        "name": "髙品 政明",
+        "appointment_date": "2021-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9259_タカヨシホールディングス\\history\\01_髙品_政明\\photo_01.jpg"
+      },
+      {
+        "name": "黒田 智也",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9259_タカヨシホールディングス\\history\\02_黒田_智也\\photo_01.jpg"
       }
     ]
   },
@@ -74783,6 +75134,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_5\\9254_ラバブルマーケティンググループ\\history\\02_雅之\\photo_01.jpg"
+      },
+      {
+        "name": "林雅 之",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9254_ラバブルマーケティンググループ\\history\\01_林雅_之\\photo_01.jpg"
+      },
+      {
+        "name": "林雅 之",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9254_ラバブルマーケティンググループ\\history\\01_林雅_之\\photo_01.jpg"
       }
     ]
   },
@@ -74855,6 +75220,20 @@
         "appointment_date": null,
         "resignation_date": null,
         "source": "bing:Genky　DrugStores 歴代社長 一覧"
+      },
+      {
+        "name": "藤永 賢一",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9267_Genky_DrugStores\\history\\01_藤永_賢一\\photo_01.jpg"
+      },
+      {
+        "name": "藤永 賢一",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9267_Genky_DrugStores\\history\\01_藤永_賢一\\photo_01.jpg"
       }
     ]
   },
@@ -74949,6 +75328,20 @@
         "resignation_date": "2015-03-29",
         "source": "bing:和心 歴代社長 一覧",
         "photo_path": "photos_5\\9271_和心\\history\\09_和是多音字\\photo_01.jpg"
+      },
+      {
+        "name": "森智 宏",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9271_和心\\history\\01_森智_宏\\photo_01.jpg"
+      },
+      {
+        "name": "森智 宏",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9271_和心\\history\\01_森智_宏\\photo_01.jpg"
       }
     ]
   },
@@ -74990,6 +75383,20 @@
         "resignation_date": "2025-07-20",
         "source": "bing:ブティックス 歴代社長 一覧",
         "photo_path": "photos_5\\9272_ブティックス\\history\\05_前者は店舗形\\photo_01.jpg"
+      },
+      {
+        "name": "新村 祐三",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9272_ブティックス\\history\\01_新村_祐三\\photo_01.jpg"
+      },
+      {
+        "name": "新村 祐三",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9272_ブティックス\\history\\01_新村_祐三\\photo_01.jpg"
       }
     ]
   },
@@ -75030,6 +75437,48 @@
         "resignation_date": "2026-02-13",
         "source": "bing:KPPグループホールディングス 歴代社長 一覧",
         "photo_path": "photos_5\\9274_KPPグループホールディングス\\history\\02_北東アジア\\photo_01.jpg"
+      },
+      {
+        "name": "田辺 円",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9274_KPPグループホールディングス\\history\\01_田辺_円\\photo_01.jpg"
+      },
+      {
+        "name": "栗原 正",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9274_KPPグループホールディングス\\history\\02_栗原_正\\photo_01.jpg"
+      },
+      {
+        "name": "田辺 円",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9274_KPPグループホールディングス\\history\\03_田辺_円\\photo_01.jpg"
+      },
+      {
+        "name": "田辺 円",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9274_KPPグループホールディングス\\history\\01_田辺_円\\photo_01.jpg"
+      },
+      {
+        "name": "栗原 正",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9274_KPPグループホールディングス\\history\\02_栗原_正\\photo_01.jpg"
+      },
+      {
+        "name": "田辺 円",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9274_KPPグループホールディングス\\history\\03_田辺_円\\photo_01.jpg"
       }
     ]
   },
@@ -75159,6 +75608,48 @@
         "resignation_date": "2018-12-06",
         "source": "bing:三菱倉庫 歴代社長 一覧",
         "photo_path": "photos_5\\9301_三菱倉庫\\history\\08_很容易理解\\photo_01.jpg"
+      },
+      {
+        "name": "松井 明生",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9301_三菱倉庫\\history\\01_松井_明生\\photo_01.jpg"
+      },
+      {
+        "name": "藤倉 正夫",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9301_三菱倉庫\\history\\02_藤倉_正夫\\photo_01.jpg"
+      },
+      {
+        "name": "斉藤 秀親",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9301_三菱倉庫\\history\\03_斉藤_秀親\\photo_01.jpg"
+      },
+      {
+        "name": "松井 明生",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9301_三菱倉庫\\history\\01_松井_明生\\photo_01.jpg"
+      },
+      {
+        "name": "藤倉 正夫",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9301_三菱倉庫\\history\\02_藤倉_正夫\\photo_01.jpg"
+      },
+      {
+        "name": "斉藤 秀親",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9301_三菱倉庫\\history\\03_斉藤_秀親\\photo_01.jpg"
       }
     ]
   },
@@ -75226,6 +75717,34 @@
         "resignation_date": "2026-01-05",
         "source": "bing:澁澤倉庫 歴代社長 一覧",
         "photo_path": "photos_5\\9304_澁澤倉庫\\history\\03_物流ニュースの\\photo_01.jpg"
+      },
+      {
+        "name": "今井 惠一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9304_澁澤倉庫\\history\\01_今井_惠一\\photo_01.jpg"
+      },
+      {
+        "name": "大隅 毅",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9304_澁澤倉庫\\history\\02_大隅_毅\\photo_01.jpg"
+      },
+      {
+        "name": "今井 惠一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9304_澁澤倉庫\\history\\01_今井_惠一\\photo_01.jpg"
+      },
+      {
+        "name": "大隅 毅",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9304_澁澤倉庫\\history\\02_大隅_毅\\photo_01.jpg"
       }
     ]
   },
@@ -75260,6 +75779,34 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_5\\9302_三井倉庫ホールディングス\\history\\04_古賀_博文\\photo_01.jpg"
+      },
+      {
+        "name": "藤岡 圭",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9302_三井倉庫ホールディングス\\history\\01_藤岡_圭\\photo_01.jpg"
+      },
+      {
+        "name": "古賀 博文",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9302_三井倉庫ホールディングス\\history\\02_古賀_博文\\photo_01.jpg"
+      },
+      {
+        "name": "藤岡 圭",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9302_三井倉庫ホールディングス\\history\\01_藤岡_圭\\photo_01.jpg"
+      },
+      {
+        "name": "古賀 博文",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9302_三井倉庫ホールディングス\\history\\02_古賀_博文\\photo_01.jpg"
       }
     ]
   },
@@ -75279,7 +75826,36 @@
   {
     "ticker": "9305",
     "company_name": "ヤマタネ",
-    "previous_ceos": []
+    "previous_ceos": [
+      {
+        "name": "山元 裕",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9305_ヤマタネ\\history\\01_山元_裕\\photo_01.jpg"
+      },
+      {
+        "name": "河原 田岩夫",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9305_ヤマタネ\\history\\02_河原_田岩夫\\photo_01.jpg"
+      },
+      {
+        "name": "山元 裕",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9305_ヤマタネ\\history\\01_山元_裕\\photo_01.jpg"
+      },
+      {
+        "name": "河原 田岩夫",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9305_ヤマタネ\\history\\02_河原_田岩夫\\photo_01.jpg"
+      }
+    ]
   },
   {
     "ticker": "9308",
@@ -75463,6 +76039,34 @@
         "resignation_date": "2025-10-25",
         "source": "bing:ケイヒン 歴代社長 一覧",
         "photo_path": "photos_5\\9312_ケイヒン\\history\\05_掲載日\\photo_01.jpg"
+      },
+      {
+        "name": "大津 育敬",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9312_ケイヒン\\history\\01_大津_育敬\\photo_01.jpg"
+      },
+      {
+        "name": "杉山 光延",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9312_ケイヒン\\history\\02_杉山_光延\\photo_01.jpg"
+      },
+      {
+        "name": "大津 育敬",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9312_ケイヒン\\history\\01_大津_育敬\\photo_01.jpg"
+      },
+      {
+        "name": "杉山 光延",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9312_ケイヒン\\history\\02_杉山_光延\\photo_01.jpg"
       }
     ]
   },
@@ -75481,6 +76085,20 @@
         "resignation_date": "2026-05-01",
         "source": "https://www.bookoffgroup.co.jp/ir/history/",
         "photo_path": "photos_5\\9278_ブックオフグループホールディングス\\history\\01_半期報告書\\photo_01.jpg"
+      },
+      {
+        "name": "堀内 康隆",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9278_ブックオフグループホールディングス\\history\\01_堀内_康隆\\photo_01.jpg"
+      },
+      {
+        "name": "堀内 康隆",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9278_ブックオフグループホールディングス\\history\\01_堀内_康隆\\photo_01.jpg"
       }
     ]
   },
@@ -75508,6 +76126,48 @@
         "resignation_date": "2026-02-26",
         "source": "bing:杉村倉庫 歴代社長 一覧",
         "photo_path": "photos_5\\9307_杉村倉庫\\history\\03_北区\\photo_01.jpg"
+      },
+      {
+        "name": "柴山 恒晴",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9307_杉村倉庫\\history\\01_柴山_恒晴\\photo_01.jpg"
+      },
+      {
+        "name": "福西 康人",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9307_杉村倉庫\\history\\02_福西_康人\\photo_01.jpg"
+      },
+      {
+        "name": "福山 漢成",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9307_杉村倉庫\\history\\03_福山_漢成\\photo_01.jpg"
+      },
+      {
+        "name": "柴山 恒晴",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9307_杉村倉庫\\history\\01_柴山_恒晴\\photo_01.jpg"
+      },
+      {
+        "name": "福西 康人",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9307_杉村倉庫\\history\\02_福西_康人\\photo_01.jpg"
+      },
+      {
+        "name": "福山 漢成",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9307_杉村倉庫\\history\\03_福山_漢成\\photo_01.jpg"
       }
     ]
   },
@@ -75535,6 +76195,48 @@
         "resignation_date": null,
         "source": "bing:中央倉庫 歴代社長 一覧",
         "photo_path": "photos_5\\9319_中央倉庫\\history\\03_大学院\\photo_01.jpg"
+      },
+      {
+        "name": "湯浅 康平",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9319_中央倉庫\\history\\01_湯浅_康平\\photo_01.jpg"
+      },
+      {
+        "name": "木村 正和",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9319_中央倉庫\\history\\02_木村_正和\\photo_01.jpg"
+      },
+      {
+        "name": "谷奥 秀実",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9319_中央倉庫\\history\\03_谷奥_秀実\\photo_01.jpg"
+      },
+      {
+        "name": "湯浅 康平",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9319_中央倉庫\\history\\01_湯浅_康平\\photo_01.jpg"
+      },
+      {
+        "name": "木村 正和",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9319_中央倉庫\\history\\02_木村_正和\\photo_01.jpg"
+      },
+      {
+        "name": "谷奥 秀実",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9319_中央倉庫\\history\\03_谷奥_秀実\\photo_01.jpg"
       }
     ]
   },
@@ -75652,6 +76354,34 @@
         "resignation_date": "2003-01-26",
         "source": "bing:ファイズホールディングス 歴代社長 一覧",
         "photo_path": "photos_5\\9325_ファイズホールディングス\\history\\06_旅の途中\\photo_01.jpg"
+      },
+      {
+        "name": "榎屋 幸生",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9325_ファイズホールディングス\\history\\01_榎屋_幸生\\photo_01.jpg"
+      },
+      {
+        "name": "大澤 隆",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9325_ファイズホールディングス\\history\\02_大澤_隆\\photo_01.jpg"
+      },
+      {
+        "name": "榎屋 幸生",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9325_ファイズホールディングス\\history\\01_榎屋_幸生\\photo_01.jpg"
+      },
+      {
+        "name": "大澤 隆",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9325_ファイズホールディングス\\history\\02_大澤_隆\\photo_01.jpg"
       }
     ]
   },
@@ -75700,6 +76430,34 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_5\\9327_イー・ロジット\\history\\06_児玉_和宏\\photo_01.jpg"
+      },
+      {
+        "name": "谷辻 昌也",
+        "appointment_date": "2024-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9327_イー・ロジット\\history\\01_谷辻_昌也\\photo_01.jpg"
+      },
+      {
+        "name": "児玉 和宏",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9327_イー・ロジット\\history\\02_児玉_和宏\\photo_01.jpg"
+      },
+      {
+        "name": "谷辻 昌也",
+        "appointment_date": "2024-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9327_イー・ロジット\\history\\01_谷辻_昌也\\photo_01.jpg"
+      },
+      {
+        "name": "児玉 和宏",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9327_イー・ロジット\\history\\02_児玉_和宏\\photo_01.jpg"
       }
     ]
   },
@@ -75939,6 +76697,20 @@
         "resignation_date": "2025-05-13",
         "source": "bing:トリドリ 歴代社長 一覧",
         "photo_path": "photos_5\\9337_トリドリ\\history\\04_プラット\\photo_01.jpg"
+      },
+      {
+        "name": "中山 貴之",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9337_トリドリ\\history\\01_中山_貴之\\photo_01.jpg"
+      },
+      {
+        "name": "中山 貴之",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9337_トリドリ\\history\\01_中山_貴之\\photo_01.jpg"
       }
     ]
   },
@@ -75973,6 +76745,34 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_5\\9339_コーチ・エィ\\history\\04_纐纈_順史\\photo_01.jpg"
+      },
+      {
+        "name": "鈴木 義幸",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9339_コーチ・エィ\\history\\01_鈴木_義幸\\photo_01.jpg"
+      },
+      {
+        "name": "纐纈 順史",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9339_コーチ・エィ\\history\\02_纐纈_順史\\photo_01.jpg"
+      },
+      {
+        "name": "鈴木 義幸",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9339_コーチ・エィ\\history\\01_鈴木_義幸\\photo_01.jpg"
+      },
+      {
+        "name": "纐纈 順史",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9339_コーチ・エィ\\history\\02_纐纈_順史\\photo_01.jpg"
       }
     ]
   },
@@ -76020,6 +76820,20 @@
         "resignation_date": "2024-03-29",
         "source": "bing:INFORICH 歴代社長 一覧",
         "photo_path": "photos_5\\9338_INFORICH\\history\\01_是由\\photo_01.jpg"
+      },
+      {
+        "name": "秋山 広宣",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9338_INFORICH\\history\\01_秋山_広宣\\photo_01.jpg"
+      },
+      {
+        "name": "秋山 広宣",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9338_INFORICH\\history\\01_秋山_広宣\\photo_01.jpg"
       }
     ]
   },
@@ -76095,6 +76909,20 @@
         "resignation_date": "2025-09-02",
         "source": "bing:スマサポ 歴代社長 一覧",
         "photo_path": "photos_5\\9342_スマサポ\\history\\05_外見\\photo_01.jpg"
+      },
+      {
+        "name": "小田 慎三",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9342_スマサポ\\history\\01_小田_慎三\\photo_01.jpg"
+      },
+      {
+        "name": "小田 慎三",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9342_スマサポ\\history\\01_小田_慎三\\photo_01.jpg"
       }
     ]
   },
@@ -76210,6 +77038,20 @@
         "resignation_date": null,
         "source": "wikipedia_table",
         "photo_path": "photos_5\\9311_アサガミ\\history\\05_小宮英行\\photo_01.jpg"
+      },
+      {
+        "name": "木村 健一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9311_アサガミ\\history\\01_木村_健一\\photo_01.jpg"
+      },
+      {
+        "name": "木村 健一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9311_アサガミ\\history\\01_木村_健一\\photo_01.jpg"
       }
     ]
   },
@@ -76293,6 +77135,20 @@
         "resignation_date": null,
         "source": "wikipedia_list",
         "photo_path": "photos_5\\9347_日本管財ホールディングス\\history\\12_佐藤直樹\\photo_01.jpg"
+      },
+      {
+        "name": "福田 慎太郎",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9347_日本管財ホールディングス\\history\\01_福田_慎太郎\\photo_01.jpg"
+      },
+      {
+        "name": "福田 慎太郎",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9347_日本管財ホールディングス\\history\\01_福田_慎太郎\\photo_01.jpg"
       }
     ]
   },
@@ -76402,6 +77258,20 @@
         "resignation_date": "2026-03-06",
         "source": "bing:ispace 歴代社長 一覧",
         "photo_path": "photos_5\\9348_ispace\\history\\05_男性育児休業\\photo_01.jpg"
+      },
+      {
+        "name": "袴田 武史",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9348_ispace\\history\\01_袴田_武史\\photo_01.jpg"
+      },
+      {
+        "name": "袴田 武史",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9348_ispace\\history\\01_袴田_武史\\photo_01.jpg"
       }
     ]
   },
@@ -76443,6 +77313,48 @@
         "resignation_date": "2025-03-17",
         "source": "bing:櫻島埠頭 歴代社長 一覧",
         "photo_path": "photos_5\\9353_櫻島埠頭\\history\\05_このコースは\\photo_01.jpg"
+      },
+      {
+        "name": "平井 正博",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9353_櫻島埠頭\\history\\01_平井_正博\\photo_01.jpg"
+      },
+      {
+        "name": "松岡 眞",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9353_櫻島埠頭\\history\\02_松岡_眞\\photo_01.jpg"
+      },
+      {
+        "name": "谷本 祐介",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9353_櫻島埠頭\\history\\03_谷本_祐介\\photo_01.jpg"
+      },
+      {
+        "name": "平井 正博",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9353_櫻島埠頭\\history\\01_平井_正博\\photo_01.jpg"
+      },
+      {
+        "name": "松岡 眞",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9353_櫻島埠頭\\history\\02_松岡_眞\\photo_01.jpg"
+      },
+      {
+        "name": "谷本 祐介",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9353_櫻島埠頭\\history\\03_谷本_祐介\\photo_01.jpg"
       }
     ]
   },
@@ -76572,6 +77484,34 @@
         "resignation_date": "2026-02-20",
         "source": "bing:大運 歴代社長 一覧",
         "photo_path": "photos_5\\9363_大運\\history\\04_チャート\\photo_01.jpg"
+      },
+      {
+        "name": "髙橋 健一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9363_大運\\history\\01_髙橋_健一\\photo_01.jpg"
+      },
+      {
+        "name": "岩崎 雅信",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9363_大運\\history\\02_岩崎_雅信\\photo_01.jpg"
+      },
+      {
+        "name": "髙橋 健一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9363_大運\\history\\01_髙橋_健一\\photo_01.jpg"
+      },
+      {
+        "name": "岩崎 雅信",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9363_大運\\history\\02_岩崎_雅信\\photo_01.jpg"
       }
     ]
   },
@@ -76659,6 +77599,48 @@
         "resignation_date": "2025-04-07",
         "source": "bing:伏木海陸運送 歴代社長 一覧",
         "photo_path": "photos_5\\9361_伏木海陸運送\\history\\03_伏木支所\\photo_01.jpg"
+      },
+      {
+        "name": "川西 邦夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9361_伏木海陸運送\\history\\01_川西_邦夫\\photo_01.jpg"
+      },
+      {
+        "name": "大門 督幸",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9361_伏木海陸運送\\history\\02_大門_督幸\\photo_01.jpg"
+      },
+      {
+        "name": "浦俊 夫",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9361_伏木海陸運送\\history\\03_浦俊_夫\\photo_01.jpg"
+      },
+      {
+        "name": "川西 邦夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9361_伏木海陸運送\\history\\01_川西_邦夫\\photo_01.jpg"
+      },
+      {
+        "name": "大門 督幸",
+        "appointment_date": "2022-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9361_伏木海陸運送\\history\\02_大門_督幸\\photo_01.jpg"
+      },
+      {
+        "name": "浦俊 夫",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9361_伏木海陸運送\\history\\03_浦俊_夫\\photo_01.jpg"
       }
     ]
   },
@@ -76747,6 +77729,34 @@
         "resignation_date": "2025-12-15",
         "source": "bing:トレーディア 歴代社長 一覧",
         "photo_path": "photos_5\\9365_トレーディア\\history\\02_使い分け\\photo_01.jpg"
+      },
+      {
+        "name": "古郡 勝英",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9365_トレーディア\\history\\01_古郡_勝英\\photo_01.jpg"
+      },
+      {
+        "name": "吉田 大介",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9365_トレーディア\\history\\02_吉田_大介\\photo_01.jpg"
+      },
+      {
+        "name": "古郡 勝英",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9365_トレーディア\\history\\01_古郡_勝英\\photo_01.jpg"
+      },
+      {
+        "name": "吉田 大介",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9365_トレーディア\\history\\02_吉田_大介\\photo_01.jpg"
       }
     ]
   },
@@ -76802,6 +77812,48 @@
         "resignation_date": null,
         "source": "wikipedia_table",
         "photo_path": "photos_5\\9380_東海運\\history\\07_丹羽俊介\\photo_01.jpg"
+      },
+      {
+        "name": "壁谷 泰雄",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9380_東海運\\history\\01_壁谷_泰雄\\photo_01.jpg"
+      },
+      {
+        "name": "長島 康雄",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9380_東海運\\history\\02_長島_康雄\\photo_01.jpg"
+      },
+      {
+        "name": "松井 伸介",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9380_東海運\\history\\03_松井_伸介\\photo_01.jpg"
+      },
+      {
+        "name": "壁谷 泰雄",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9380_東海運\\history\\01_壁谷_泰雄\\photo_01.jpg"
+      },
+      {
+        "name": "長島 康雄",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9380_東海運\\history\\02_長島_康雄\\photo_01.jpg"
+      },
+      {
+        "name": "松井 伸介",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9380_東海運\\history\\03_松井_伸介\\photo_01.jpg"
       }
     ]
   },
@@ -76815,6 +77867,20 @@
         "resignation_date": "2025-12-26",
         "source": "bing:ユーラシア旅行社 歴代社長 一覧",
         "photo_path": "photos_5\\9376_ユーラシア旅行社\\history\\01_舞浜ユーラシア\\photo_01.jpg"
+      },
+      {
+        "name": "井上 利男",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9376_ユーラシア旅行社\\history\\01_井上_利男\\photo_01.jpg"
+      },
+      {
+        "name": "井上 利男",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9376_ユーラシア旅行社\\history\\01_井上_利男\\photo_01.jpg"
       }
     ]
   },
@@ -76848,6 +77914,48 @@
         "resignation_date": "2026-02-25",
         "source": "bing:TBSホールディングス 歴代社長 一覧",
         "photo_path": "photos_5\\9401_TBSホールディングス\\history\\01_どすコイ\\photo_01.jpg"
+      },
+      {
+        "name": "武田 信二",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9401_TBSホールディングス\\history\\01_武田_信二\\photo_01.jpg"
+      },
+      {
+        "name": "佐木 卓",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9401_TBSホールディングス\\history\\02_佐木_卓\\photo_01.jpg"
+      },
+      {
+        "name": "阿部 龍二郎",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9401_TBSホールディングス\\history\\03_阿部_龍二郎\\photo_01.jpg"
+      },
+      {
+        "name": "武田 信二",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9401_TBSホールディングス\\history\\01_武田_信二\\photo_01.jpg"
+      },
+      {
+        "name": "佐木 卓",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9401_TBSホールディングス\\history\\02_佐木_卓\\photo_01.jpg"
+      },
+      {
+        "name": "阿部 龍二郎",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9401_TBSホールディングス\\history\\03_阿部_龍二郎\\photo_01.jpg"
       }
     ]
   },
@@ -76895,6 +78003,34 @@
         "resignation_date": "2022-10-16",
         "source": "bing:日本テレビホールディングス 歴代社長 一覧",
         "photo_path": "photos_5\\9404_日本テレビホールディングス\\history\\01_また\\photo_01.jpg"
+      },
+      {
+        "name": "大久 保好男",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9404_日本テレビホールディングス\\history\\01_大久_保好男\\photo_01.jpg"
+      },
+      {
+        "name": "杉山 美邦",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9404_日本テレビホールディングス\\history\\02_杉山_美邦\\photo_01.jpg"
+      },
+      {
+        "name": "大久 保好男",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9404_日本テレビホールディングス\\history\\01_大久_保好男\\photo_01.jpg"
+      },
+      {
+        "name": "杉山 美邦",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9404_日本テレビホールディングス\\history\\02_杉山_美邦\\photo_01.jpg"
       }
     ]
   },
@@ -76985,6 +78121,48 @@
         "resignation_date": null,
         "source": "wikipedia_list",
         "photo_path": "photos_5\\9405_朝日放送グループホールディングス\\history\\12_沖中進\\photo_01.jpg"
+      },
+      {
+        "name": "脇阪 聰史",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9405_朝日放送グループホールディングス\\history\\01_脇阪_聰史\\photo_01.jpg"
+      },
+      {
+        "name": "沖中 進",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9405_朝日放送グループホールディングス\\history\\02_沖中_進\\photo_01.jpg"
+      },
+      {
+        "name": "山本 晋也",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9405_朝日放送グループホールディングス\\history\\03_山本_晋也\\photo_01.jpg"
+      },
+      {
+        "name": "脇阪 聰史",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9405_朝日放送グループホールディングス\\history\\01_脇阪_聰史\\photo_01.jpg"
+      },
+      {
+        "name": "沖中 進",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9405_朝日放送グループホールディングス\\history\\02_沖中_進\\photo_01.jpg"
+      },
+      {
+        "name": "山本 晋也",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9405_朝日放送グループホールディングス\\history\\03_山本_晋也\\photo_01.jpg"
       }
     ]
   },
@@ -77110,6 +78288,48 @@
         "resignation_date": "2025-06-27",
         "source": "wikipedia_table",
         "photo_path": "photos_5\\9409_テレビ朝日ホールディングス\\history\\17_西新\\photo_01.jpg"
+      },
+      {
+        "name": "早河 洋",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9409_テレビ朝日ホールディングス\\history\\01_早河_洋\\photo_01.jpg"
+      },
+      {
+        "name": "・早 河洋",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9409_テレビ朝日ホールディングス\\history\\02_・早_河洋\\photo_01.jpg"
+      },
+      {
+        "name": "早河 洋",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9409_テレビ朝日ホールディングス\\history\\03_早河_洋\\photo_01.jpg"
+      },
+      {
+        "name": "早河 洋",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9409_テレビ朝日ホールディングス\\history\\01_早河_洋\\photo_01.jpg"
+      },
+      {
+        "name": "・早 河洋",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9409_テレビ朝日ホールディングス\\history\\02_・早_河洋\\photo_01.jpg"
+      },
+      {
+        "name": "早河 洋",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9409_テレビ朝日ホールディングス\\history\\03_早河_洋\\photo_01.jpg"
       }
     ]
   },
@@ -77162,6 +78382,34 @@
         "appointment_date": "2025-08-01",
         "resignation_date": "2025-08-26",
         "source": "bing:BSNメディアホールディングス 歴代社長 一覧"
+      },
+      {
+        "name": "竹石 松次",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9408_BSNメディアホールディングス\\history\\01_竹石_松次\\photo_01.jpg"
+      },
+      {
+        "name": "佐藤 隆夫",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9408_BSNメディアホールディングス\\history\\02_佐藤_隆夫\\photo_01.jpg"
+      },
+      {
+        "name": "竹石 松次",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9408_BSNメディアホールディングス\\history\\01_竹石_松次\\photo_01.jpg"
+      },
+      {
+        "name": "佐藤 隆夫",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_5\\9408_BSNメディアホールディングス\\history\\02_佐藤_隆夫\\photo_01.jpg"
       }
     ]
   },

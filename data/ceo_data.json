@@ -47434,18 +47434,38 @@
     "ticker": "6196",
     "company_name": "ストライク",
     "url": "https://www.strike.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "荒井 邦彦",
+      "title": "代表取締役社長",
+      "appointment_info": "2021-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:54:27.912883"
   },
   {
     "ticker": "6198",
     "company_name": "キャリア",
     "url": "https://www.careergift.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "川嶋 一郎",
+      "title": "代表取締役社長",
+      "appointment_info": "2018-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:54:30.311082"
   },
   {
@@ -47583,7 +47603,17 @@
     "ticker": "6200",
     "company_name": "インソース",
     "url": "https://www.insource.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "舟橋 孝之",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "進士仁一",
@@ -47608,7 +47638,7 @@
         "photo_path": "photos_2\\6200_インソース\\history\\02_手塚卓志\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:54:39.167126"
   },
   {
@@ -47662,7 +47692,17 @@
     "ticker": "6208",
     "company_name": "石川製作所",
     "url": "https://www.ishiss.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "小長 谷育教",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "理人 香港上",
@@ -47673,7 +47713,7 @@
         "photo_path": "photos_2\\6208_石川製作所\\history\\01_理人_香港上\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:54:50.820749"
   },
   {
@@ -47773,9 +47813,19 @@
     "ticker": "6218",
     "company_name": "エンシュウ",
     "url": "https://www.enshu.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "鈴木 敦士",
+      "title": "代表取締役社長",
+      "appointment_info": "2023-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:54:59.118462"
   },
   {
@@ -47841,9 +47891,17 @@
     "ticker": "6226",
     "company_name": "守谷輸送機工業",
     "url": "https://moriya-elevator.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "守谷 貞夫",
+      "title": "代表取締役社長",
+      "appointment_info": "2022-01-01",
+      "source_url": "edinet",
+      "photos_saved": [],
+      "photo_count": 0,
+      "photo_saved": false
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:01.979261"
   },
   {
@@ -47877,7 +47935,17 @@
     "ticker": "6228",
     "company_name": "ジェイ・イー・ティ",
     "url": "https://www.globaljet.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "房野 正幸",
+      "title": "代表取締役社長",
+      "appointment_info": "2023-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "提訴 毎日新",
@@ -47888,7 +47956,7 @@
         "photo_path": "photos_2\\6228_ジェイ・イー・ティ\\history\\01_提訴_毎日新\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:07.546226"
   },
   {
@@ -47925,16 +47993,36 @@
     "ticker": "6230",
     "company_name": "SANEI",
     "url": "https://www.sanei.ltd/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "西岡 利明",
+      "title": "代表取締役社長",
+      "appointment_info": "2021-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:11.180544"
   },
   {
     "ticker": "6232",
     "company_name": "ACSL",
     "url": "https://www.acsl.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "鷲谷 聡之",
+      "title": "代表取締役社長",
+      "appointment_info": "2021-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "内藤湖南",
@@ -48023,7 +48111,7 @@
         "photo_path": "photos_2\\6232_ACSL\\history\\08_新村出\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:13.771280"
   },
   {
@@ -48068,7 +48156,17 @@
     "ticker": "6235",
     "company_name": "オプトラン",
     "url": "https://www.optorun.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "範賓",
+      "title": "代表取締役社長",
+      "appointment_info": "2021-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "公告電子",
@@ -48079,25 +48177,45 @@
         "photo_path": "photos_2\\6235_オプトラン\\history\\01_公告電子\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:27.602686"
   },
   {
     "ticker": "6233",
     "company_name": "KLASS",
     "url": "https://www.klass-corp.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "頃安 雅樹",
+      "title": "代表取締役社長",
+      "appointment_info": "2018-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:15.209952"
   },
   {
     "ticker": "6237",
     "company_name": "イワキポンプ",
     "url": "https://www.iwakipumps.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "藤中 茂",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:30.417589"
   },
   {
@@ -48123,7 +48241,17 @@
     "ticker": "6240",
     "company_name": "ヤマシンフィルタ",
     "url": "https://www.yamashin-filter.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "山崎 敦彦",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "金子 眞吾",
@@ -48137,7 +48265,7 @@
         "photo_path": "photos_2\\6240_ヤマシンフィルタ\\history\\01_金子_眞吾\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:39.085616"
   },
   {
@@ -48182,16 +48310,36 @@
     "ticker": "6247",
     "company_name": "日阪製作所",
     "url": "https://www.hisaka.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "宇佐 美俊哉",
+      "title": "代表取締役社長",
+      "appointment_info": "2024-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:49.341781"
   },
   {
     "ticker": "6248",
     "company_name": "横田製作所",
     "url": "https://www.aquadevice.com/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "横田 義之",
+      "title": "代表取締役社長",
+      "appointment_info": "2019-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "相田 圭一",
@@ -48205,16 +48353,26 @@
         "photo_path": "photos_2\\6248_横田製作所\\history\\01_相田_圭一\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:54.915177"
   },
   {
     "ticker": "6246",
     "company_name": "テクノスマート",
     "url": "https://www.technosmart.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "飯田 陽弘",
+      "title": "代表取締役社長",
+      "appointment_info": "2024-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:55:48.616078"
   },
   {
@@ -48240,9 +48398,19 @@
     "ticker": "6254",
     "company_name": "野村マイクロ・サイエンス",
     "url": "https://www.nomura-nms.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "内田 誠",
+      "title": "代表取締役社長",
+      "appointment_info": "2023-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:56:07.657045"
   },
   {
@@ -48347,7 +48515,17 @@
     "ticker": "6265",
     "company_name": "コンバム",
     "url": "https://convum.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "佐藤 穣",
+      "title": "代表取締役社長",
+      "appointment_info": "2023-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "伊勢 幸治",
@@ -48358,7 +48536,7 @@
         "photo_path": "photos_2\\6265_コンバム\\history\\01_伊勢_幸治\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:56:22.279423"
   },
   {
@@ -48388,9 +48566,19 @@
     "ticker": "6257",
     "company_name": "藤商事",
     "url": "https://www.fujimarukun.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "今山 武成",
+      "title": "代表取締役社長",
+      "appointment_info": "2022-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:56:12.600538"
   },
   {
@@ -48419,18 +48607,38 @@
     "ticker": "6269",
     "company_name": "三井海洋開発",
     "url": "https://www.modec.com/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "宮田 裕彦",
+      "title": "代表取締役社長",
+      "appointment_info": "2023-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:56:33.936876"
   },
   {
     "ticker": "6266",
     "company_name": "タツモ",
     "url": "https://www.tazmo.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "佐藤 泰之",
+      "title": "代表取締役社長",
+      "appointment_info": "2022-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:56:25.013415"
   },
   {
@@ -48485,27 +48693,55 @@
     "ticker": "6277",
     "company_name": "ホソカワミクロン",
     "url": "https://www.hosokawamicron.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "細川 悦男",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [],
+      "photo_count": 0,
+      "photo_saved": false
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:56:43.922581"
   },
   {
     "ticker": "6278",
     "company_name": "ユニオンツール",
     "url": "https://www.uniontool.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "片山 貴雄",
+      "title": "代表取締役社長",
+      "appointment_info": "2015-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:56:45.936703"
   },
   {
     "ticker": "6276",
     "company_name": "シリウスビジョン",
     "url": "https://siriusvision.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "辻谷 潤一",
+      "title": "代表取締役社長",
+      "appointment_info": "2017-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:56:41.990868"
   },
   {
@@ -48531,36 +48767,76 @@
     "ticker": "6284",
     "company_name": "日精エー・エス・ビー機械",
     "url": "https://www.nisseiasb.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "藤原 誠",
+      "title": "代表取締役社長",
+      "appointment_info": "2023-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:56:53.460098"
   },
   {
     "ticker": "6286",
     "company_name": "靜甲",
     "url": "https://www.seiko-co.com/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "鈴木 孝典",
+      "title": "代表取締役社長",
+      "appointment_info": "2024-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:56:59.821997"
   },
   {
     "ticker": "6287",
     "company_name": "サトー",
     "url": "https://www.sato.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "小沼 宏行",
+      "title": "代表取締役社長",
+      "appointment_info": "2023-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:01.884720"
   },
   {
     "ticker": "6178",
     "company_name": "日本郵政",
     "url": "https://www.japanpost.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "増田 寬也",
+      "title": "代表取締役社長",
+      "appointment_info": "2021-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:54:05.953677"
   },
   {
@@ -48595,27 +48871,57 @@
     "ticker": "6291",
     "company_name": "日本エアーテック",
     "url": "https://www.airtech.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "平沢 真也",
+      "title": "代表取締役社長",
+      "appointment_info": "2015-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:05.150775"
   },
   {
     "ticker": "6293",
     "company_name": "日精樹脂工業",
     "url": "https://www.nisseijushi.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "依田 穂積",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:12.064681"
   },
   {
     "ticker": "6292",
     "company_name": "カワタ",
     "url": "https://www.kawata.cc/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "白石 亙",
+      "title": "代表取締役社長",
+      "appointment_info": "2019-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:07.380650"
   },
   {
@@ -48819,18 +49125,38 @@
     "ticker": "6307",
     "company_name": "サンセイ",
     "url": "https://sansei-group.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "小嶋 敦",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:32.829971"
   },
   {
     "ticker": "6305",
     "company_name": "日立建機",
     "url": "https://www.hitachicm.com/global/ja/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "先崎 正文",
+      "title": "代表取締役社長",
+      "appointment_info": "2023-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:28.009393"
   },
   {
@@ -48846,7 +49172,17 @@
     "ticker": "6310",
     "company_name": "井関農機",
     "url": "https://www.iseki.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "冨安 司郎",
+      "title": "代表取締役社長",
+      "appointment_info": "2018-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "役員\n役職",
@@ -48933,7 +49269,7 @@
         "photo_path": "photos_2\\6310_井関農機\\history\\04_本部_営業業\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:37.511746"
   },
   {
@@ -48960,7 +49296,17 @@
     "ticker": "6316",
     "company_name": "丸山製作所",
     "url": "https://www.maruyama.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "内山 剛治",
+      "title": "代表取締役社長",
+      "appointment_info": "2020-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "画史 映画",
@@ -48971,7 +49317,7 @@
         "photo_path": "photos_2\\6316_丸山製作所\\history\\01_画史_映画\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:45.156739"
   },
   {
@@ -49039,9 +49385,19 @@
     "ticker": "6325",
     "company_name": "タカキタ",
     "url": "https://www.takakita-net.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "藤澤 龍也",
+      "title": "代表取締役社長",
+      "appointment_info": "2024-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:58.680696"
   },
   {
@@ -49100,7 +49456,17 @@
     "ticker": "6301",
     "company_name": "小松製作所",
     "url": "https://www.komatsu.jp/ja/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "小川 啓之",
+      "title": "代表取締役社長",
+      "appointment_info": "2020-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "理人 香港上",
@@ -49111,16 +49477,26 @@
         "photo_path": "photos_2\\6301_小松製作所\\history\\01_理人_香港上\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:20.459083"
   },
   {
     "ticker": "6322",
     "company_name": "タクミナ",
     "url": "https://www.tacmina.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "山田 圭祐",
+      "title": "代表取締役社長",
+      "appointment_info": "2023-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:57:48.229783"
   },
   {
@@ -49208,18 +49584,38 @@
     "ticker": "6327",
     "company_name": "北川精機",
     "url": "https://kitagawaseiki.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "内田 雅敏",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:58:04.083286"
   },
   {
     "ticker": "6334",
     "company_name": "明治機械",
     "url": "https://www.meiji-kikai.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "日根 年治",
+      "title": "代表取締役社長",
+      "appointment_info": "2021-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:58:26.963788"
   },
   {
@@ -49254,9 +49650,19 @@
     "ticker": "6338",
     "company_name": "タカトリ",
     "url": "https://www.takatori-g.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "増田 誠",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:58:34.612043"
   },
   {
@@ -49292,7 +49698,15 @@
     "ticker": "6337",
     "company_name": "テセック",
     "url": "https://www.tesec.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "田中 賢治",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [],
+      "photo_count": 0,
+      "photo_saved": false
+    },
     "previous_ceos": [
       {
         "name": "田中 賢治",
@@ -49306,7 +49720,7 @@
         "photo_path": "photos_2\\6337_テセック\\history\\01_田中_賢治\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:58:33.353724"
   },
   {
@@ -49333,36 +49747,76 @@
     "ticker": "6340",
     "company_name": "澁谷工業",
     "url": "https://www.shibuya.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "澁谷 英利",
+      "title": "代表取締役社長",
+      "appointment_info": "2022-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:58:37.295696"
   },
   {
     "ticker": "6343",
     "company_name": "フリージア・マクロス",
     "url": "http://www.freesiamacross-extruder.com/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "奥山 一寸法師",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:58:38.869702"
   },
   {
     "ticker": "6346",
     "company_name": "キクカワエンタープライズ",
     "url": "https://www.kikukawa.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "菊川 厚",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:58:40.675290"
   },
   {
     "ticker": "6347",
     "company_name": "プラコー",
     "url": "https://www.placo.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "古野 孝志",
+      "title": "代表取締役社長",
+      "appointment_info": "2021-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:58:55.822892"
   },
   {
@@ -49397,16 +49851,36 @@
     "ticker": "6339",
     "company_name": "新東工業",
     "url": "https://www.sinto.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "永井 淳",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:58:37.265096"
   },
   {
     "ticker": "6351",
     "company_name": "鶴見製作所",
     "url": "https://www.tsurumipump.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "辻本 治",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "福田　一美",
@@ -49420,7 +49894,7 @@
         "photo_path": "photos_2\\6351_鶴見製作所\\history\\01_福田_一美\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:59:00.528828"
   },
   {
@@ -49454,9 +49928,19 @@
     "ticker": "6345",
     "company_name": "アイチ　コーポレーション",
     "url": "https://www.aichi-corp.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "山岸 俊哉",
+      "title": "代表取締役社長",
+      "appointment_info": "2021-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:58:40.238997"
   },
   {
@@ -49513,18 +49997,38 @@
     "ticker": "6361",
     "company_name": "荏原製作所",
     "url": "https://www.ebara.com/jp-ja/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "細田 修吾",
+      "title": "代表取締役社長",
+      "appointment_info": "2024-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:59:09.293097"
   },
   {
     "ticker": "6363",
     "company_name": "酉島製作所",
     "url": "https://www.torishima.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "原田 耕太郎",
+      "title": "代表取締役社長",
+      "appointment_info": "2016-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:59:10.478034"
   },
   {
@@ -49551,7 +50055,17 @@
     "ticker": "6364",
     "company_name": "AIRMAN",
     "url": "https://www.airman.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "佐藤 豪一",
+      "title": "代表取締役社長",
+      "appointment_info": "2024-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [
       {
         "name": "犠牲 吉田監",
@@ -49562,16 +50076,26 @@
         "photo_path": "photos_2\\6364_AIRMAN\\history\\01_犠牲_吉田監\\photo_01.jpg"
       }
     ],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:59:12.973405"
   },
   {
     "ticker": "6360",
     "company_name": "東京自働機械製作所",
     "url": "https://www.tam-tokyo.co.jp/",
-    "current_ceo": null,
+    "current_ceo": {
+      "name": "佐藤 康公",
+      "title": "代表取締役社長",
+      "appointment_info": "2022-01-01",
+      "source_url": "edinet",
+      "photos_saved": [
+        "photo_01.jpg"
+      ],
+      "photo_count": 1,
+      "photo_saved": true
+    },
     "previous_ceos": [],
-    "error": "ceo_not_found",
+    "error": null,
     "processed_at": "2026-02-24T15:59:07.865891"
   },
   {

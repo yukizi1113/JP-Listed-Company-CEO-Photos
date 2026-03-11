@@ -832,6 +832,34 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2307_クロスキャット\\history\\04_光則\\photo_01.jpg"
+      },
+      {
+        "name": "井上 貴功",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2307_クロスキャット\\history\\01_井上_貴功\\photo_01.jpg"
+      },
+      {
+        "name": "山根 光則",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2307_クロスキャット\\history\\02_山根_光則\\photo_01.jpg"
+      },
+      {
+        "name": "井上 貴功",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2307_クロスキャット\\history\\01_井上_貴功\\photo_01.jpg"
+      },
+      {
+        "name": "山根 光則",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2307_クロスキャット\\history\\02_山根_光則\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T20:03:29.008438"
@@ -873,6 +901,34 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2317_システナ\\history\\04_逸見_愛親\\photo_01.jpg"
+      },
+      {
+        "name": "三浦 賢治",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2317_システナ\\history\\01_三浦_賢治\\photo_01.jpg"
+      },
+      {
+        "name": "逸見 愛親",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2317_システナ\\history\\02_逸見_愛親\\photo_01.jpg"
+      },
+      {
+        "name": "三浦 賢治",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2317_システナ\\history\\01_三浦_賢治\\photo_01.jpg"
+      },
+      {
+        "name": "逸見 愛親",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2317_システナ\\history\\02_逸見_愛親\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T20:04:12.741734"
@@ -929,6 +985,48 @@
         "resignation_date": "2015年7月13日",
         "source": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E8%81%A1",
         "photo_path": "photos_1\\2345_クシム\\history\\02_天堂_直面\\photo_01.jpg"
+      },
+      {
+        "name": "舩岡 弘忠",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2345_クシム\\history\\01_舩岡_弘忠\\photo_01.jpg"
+      },
+      {
+        "name": "小山 田佳裕",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2345_クシム\\history\\02_小山_田佳裕\\photo_01.jpg"
+      },
+      {
+        "name": "中川 博貴",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2345_クシム\\history\\03_中川_博貴\\photo_01.jpg"
+      },
+      {
+        "name": "舩岡 弘忠",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2345_クシム\\history\\01_舩岡_弘忠\\photo_01.jpg"
+      },
+      {
+        "name": "小山 田佳裕",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2345_クシム\\history\\02_小山_田佳裕\\photo_01.jpg"
+      },
+      {
+        "name": "中川 博貴",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2345_クシム\\history\\03_中川_博貴\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T20:15:28.058240"
@@ -966,13 +1064,57 @@
   {
     "ticker": "2388",
     "company_name": "ウェッジホールディングス",
-    "previous_ceos": [],
+    "previous_ceos": [
+      {
+        "name": "此下 竜矢",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2388_ウェッジホールディングス\\history\\01_此下_竜矢\\photo_01.jpg"
+      },
+      {
+        "name": "此下 竜矢",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2388_ウェッジホールディングス\\history\\01_此下_竜矢\\photo_01.jpg"
+      }
+    ],
     "enriched_at": "2026-02-24T20:26:17.280779"
   },
   {
     "ticker": "2344",
     "company_name": "平安レイサービス",
-    "previous_ceos": [],
+    "previous_ceos": [
+      {
+        "name": "相馬 秀行",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2344_平安レイサービス\\history\\01_相馬_秀行\\photo_01.jpg"
+      },
+      {
+        "name": "山田 朗弘",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2344_平安レイサービス\\history\\02_山田_朗弘\\photo_01.jpg"
+      },
+      {
+        "name": "相馬 秀行",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2344_平安レイサービス\\history\\01_相馬_秀行\\photo_01.jpg"
+      },
+      {
+        "name": "山田 朗弘",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2344_平安レイサービス\\history\\02_山田_朗弘\\photo_01.jpg"
+      }
+    ],
     "enriched_at": "2026-02-24T20:29:50.945889"
   },
   {
@@ -1114,6 +1256,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2479_ジェイテック\\history\\02_藤本\\photo_01.jpg"
+      },
+      {
+        "name": "藤本 彰",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2479_ジェイテック\\history\\01_藤本_彰\\photo_01.jpg"
+      },
+      {
+        "name": "藤本 彰",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2479_ジェイテック\\history\\01_藤本_彰\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T20:49:29.319312"
@@ -1290,6 +1446,76 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2597_ユニカフェ\\history\\10_塩澤_博紀\\photo_01.jpg"
+      },
+      {
+        "name": "岩田 斉",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2597_ユニカフェ\\history\\01_岩田_斉\\photo_01.jpg"
+      },
+      {
+        "name": "郷出 克之",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2597_ユニカフェ\\history\\02_郷出_克之\\photo_01.jpg"
+      },
+      {
+        "name": "岩田 斉",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2597_ユニカフェ\\history\\03_岩田_斉\\photo_01.jpg"
+      },
+      {
+        "name": "芝谷 博司",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2597_ユニカフェ\\history\\04_芝谷_博司\\photo_01.jpg"
+      },
+      {
+        "name": "塩澤 博紀",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2597_ユニカフェ\\history\\05_塩澤_博紀\\photo_01.jpg"
+      },
+      {
+        "name": "岩田 斉",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2017-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2597_ユニカフェ\\history\\01_岩田_斉\\photo_01.jpg"
+      },
+      {
+        "name": "郷出 克之",
+        "appointment_date": "2017-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2597_ユニカフェ\\history\\02_郷出_克之\\photo_01.jpg"
+      },
+      {
+        "name": "岩田 斉",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2597_ユニカフェ\\history\\03_岩田_斉\\photo_01.jpg"
+      },
+      {
+        "name": "芝谷 博司",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2597_ユニカフェ\\history\\04_芝谷_博司\\photo_01.jpg"
+      },
+      {
+        "name": "塩澤 博紀",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2597_ユニカフェ\\history\\05_塩澤_博紀\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T21:08:03.043370"
@@ -1313,6 +1539,20 @@
         "resignation_date": null,
         "source": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20%E3%82%AC%E3%82%A4%E3%82%A2%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91",
         "photo_path": "photos_1\\2586_フルッタフルッタ\\history\\02_中知_焼成冷\\photo_01.jpg"
+      },
+      {
+        "name": "長澤 誠",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2586_フルッタフルッタ\\history\\01_長澤_誠\\photo_01.jpg"
+      },
+      {
+        "name": "長澤 誠",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2586_フルッタフルッタ\\history\\01_長澤_誠\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T21:08:12.493462"
@@ -1331,6 +1571,34 @@
           "photo_01.jpg"
         ],
         "photo_path": "photos_1\\2613_J-オイルミルズ\\history\\01_春山_裕一郎\\photo_01.jpg"
+      },
+      {
+        "name": "八馬 史尚",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2613_J-オイルミルズ\\history\\01_八馬_史尚\\photo_01.jpg"
+      },
+      {
+        "name": "佐藤 達也",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2613_J-オイルミルズ\\history\\02_佐藤_達也\\photo_01.jpg"
+      },
+      {
+        "name": "八馬 史尚",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2613_J-オイルミルズ\\history\\01_八馬_史尚\\photo_01.jpg"
+      },
+      {
+        "name": "佐藤 達也",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2613_J-オイルミルズ\\history\\02_佐藤_達也\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-02-24T21:08:23.253714"
@@ -71323,6 +71591,34 @@
         "resignation_date": null,
         "source": "fill_gaps_wiki",
         "photo_path": "photos_1\\2216_カンロ\\history\\01_村田哲也\\photo_01.jpg"
+      },
+      {
+        "name": "三須 和泰",
+        "appointment_date": "2015-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2216_カンロ\\history\\01_三須_和泰\\photo_01.jpg"
+      },
+      {
+        "name": "村田 哲也",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2216_カンロ\\history\\02_村田_哲也\\photo_01.jpg"
+      },
+      {
+        "name": "三須 和泰",
+        "appointment_date": "2015-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2216_カンロ\\history\\01_三須_和泰\\photo_01.jpg"
+      },
+      {
+        "name": "村田 哲也",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2216_カンロ\\history\\02_村田_哲也\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-03-07"
@@ -71353,6 +71649,34 @@
         "resignation_date": null,
         "source": "fill_gaps_wiki",
         "photo_path": "photos_1\\2221_岩塚製菓\\history\\01_槇春夫\\photo_01.jpg"
+      },
+      {
+        "name": "槇春 夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2221_岩塚製菓\\history\\01_槇春_夫\\photo_01.jpg"
+      },
+      {
+        "name": "槇大 介",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2221_岩塚製菓\\history\\02_槇大_介\\photo_01.jpg"
+      },
+      {
+        "name": "槇春 夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2221_岩塚製菓\\history\\01_槇春_夫\\photo_01.jpg"
+      },
+      {
+        "name": "槇大 介",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2221_岩塚製菓\\history\\02_槇大_介\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-03-07"
@@ -71368,6 +71692,34 @@
         "resignation_date": null,
         "source": "fill_gaps_wiki",
         "photo_path": "photos_1\\2281_プリマハム\\history\\01_千葉尚登\\photo_01.jpg"
+      },
+      {
+        "name": "松井 鉄也",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2281_プリマハム\\history\\01_松井_鉄也\\photo_01.jpg"
+      },
+      {
+        "name": "千葉 尚登",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2281_プリマハム\\history\\02_千葉_尚登\\photo_01.jpg"
+      },
+      {
+        "name": "松井 鉄也",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2281_プリマハム\\history\\01_松井_鉄也\\photo_01.jpg"
+      },
+      {
+        "name": "千葉 尚登",
+        "appointment_date": "2018-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2281_プリマハム\\history\\02_千葉_尚登\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-03-07"
@@ -71398,6 +71750,48 @@
         "resignation_date": null,
         "source": "fill_gaps_wiki",
         "photo_path": "photos_1\\2304_CSSホールディングス\\history\\01_水野克裕\\photo_01.jpg"
+      },
+      {
+        "name": "林田 喜一郎",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2304_CSSホールディングス\\history\\01_林田_喜一郎\\photo_01.jpg"
+      },
+      {
+        "name": "田口 泰一",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2304_CSSホールディングス\\history\\02_田口_泰一\\photo_01.jpg"
+      },
+      {
+        "name": "水野 克裕",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2304_CSSホールディングス\\history\\03_水野_克裕\\photo_01.jpg"
+      },
+      {
+        "name": "林田 喜一郎",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2304_CSSホールディングス\\history\\01_林田_喜一郎\\photo_01.jpg"
+      },
+      {
+        "name": "田口 泰一",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2304_CSSホールディングス\\history\\02_田口_泰一\\photo_01.jpg"
+      },
+      {
+        "name": "水野 克裕",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2304_CSSホールディングス\\history\\03_水野_克裕\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-03-07"
@@ -71413,6 +71807,62 @@
         "resignation_date": null,
         "source": "fill_gaps_wiki",
         "photo_path": "photos_1\\2321_ソフトフロントホールディングス\\history\\01_二通宏久\\photo_01.jpg"
+      },
+      {
+        "name": "阪口 克彦",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2321_ソフトフロントホールディングス\\history\\01_阪口_克彦\\photo_01.jpg"
+      },
+      {
+        "name": "佐藤 健太郎",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2321_ソフトフロントホールディングス\\history\\02_佐藤_健太郎\\photo_01.jpg"
+      },
+      {
+        "name": "野田 亨",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2321_ソフトフロントホールディングス\\history\\03_野田_亨\\photo_01.jpg"
+      },
+      {
+        "name": "二通 宏久",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2321_ソフトフロントホールディングス\\history\\04_二通_宏久\\photo_01.jpg"
+      },
+      {
+        "name": "阪口 克彦",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2321_ソフトフロントホールディングス\\history\\01_阪口_克彦\\photo_01.jpg"
+      },
+      {
+        "name": "佐藤 健太郎",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2321_ソフトフロントホールディングス\\history\\02_佐藤_健太郎\\photo_01.jpg"
+      },
+      {
+        "name": "野田 亨",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2321_ソフトフロントホールディングス\\history\\03_野田_亨\\photo_01.jpg"
+      },
+      {
+        "name": "二通 宏久",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2321_ソフトフロントホールディングス\\history\\04_二通_宏久\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-03-07"
@@ -71428,6 +71878,20 @@
         "resignation_date": null,
         "source": "fill_gaps_wiki",
         "photo_path": "photos_1\\2326_デジタルアーツ\\history\\01_道具登志夫\\photo_01.jpg"
+      },
+      {
+        "name": "道具 登志夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2326_デジタルアーツ\\history\\01_道具_登志夫\\photo_01.jpg"
+      },
+      {
+        "name": "道具 登志夫",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2326_デジタルアーツ\\history\\01_道具_登志夫\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-03-07"
@@ -71443,6 +71907,20 @@
         "resignation_date": null,
         "source": "fill_gaps_wiki",
         "photo_path": "photos_1\\2340_極楽湯ホールディングス\\history\\01_新川隆丈\\photo_01.jpg"
+      },
+      {
+        "name": "新川 隆丈",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2340_極楽湯ホールディングス\\history\\01_新川_隆丈\\photo_01.jpg"
+      },
+      {
+        "name": "新川 隆丈",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2340_極楽湯ホールディングス\\history\\01_新川_隆丈\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-03-07"
@@ -71458,6 +71936,34 @@
         "resignation_date": null,
         "source": "fill_gaps_wiki",
         "photo_path": null
+      },
+      {
+        "name": "森猛",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2374_セントケア・ホールディング\\history\\01_森猛\\photo_01.jpg"
+      },
+      {
+        "name": "藤間 和敏",
+        "appointment_date": "2020-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2374_セントケア・ホールディング\\history\\02_藤間_和敏\\photo_01.jpg"
+      },
+      {
+        "name": "森猛",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2374_セントケア・ホールディング\\history\\01_森猛\\photo_01.jpg"
+      },
+      {
+        "name": "藤間 和敏",
+        "appointment_date": "2020-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2374_セントケア・ホールディング\\history\\02_藤間_和敏\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-03-07"
@@ -71518,6 +72024,20 @@
         "resignation_date": null,
         "source": "fill_gaps_wiki",
         "photo_path": "photos_1\\2594_キーコーヒー\\history\\01_柴田裕\\photo_01.jpg"
+      },
+      {
+        "name": "柴田 裕",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2594_キーコーヒー\\history\\01_柴田_裕\\photo_01.jpg"
+      },
+      {
+        "name": "柴田 裕",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2594_キーコーヒー\\history\\01_柴田_裕\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-03-07"
@@ -71533,6 +72053,48 @@
         "resignation_date": null,
         "source": "fill_gaps_wiki",
         "photo_path": "photos_1\\2612_かどや製油\\history\\01_北川淳一\\photo_01.jpg"
+      },
+      {
+        "name": "小澤 二郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2612_かどや製油\\history\\01_小澤_二郎\\photo_01.jpg"
+      },
+      {
+        "name": "久米 敦司",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2612_かどや製油\\history\\02_久米_敦司\\photo_01.jpg"
+      },
+      {
+        "name": "北川 淳一",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2612_かどや製油\\history\\03_北川_淳一\\photo_01.jpg"
+      },
+      {
+        "name": "小澤 二郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2612_かどや製油\\history\\01_小澤_二郎\\photo_01.jpg"
+      },
+      {
+        "name": "久米 敦司",
+        "appointment_date": "2019-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2612_かどや製油\\history\\02_久米_敦司\\photo_01.jpg"
+      },
+      {
+        "name": "北川 淳一",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2612_かどや製油\\history\\03_北川_淳一\\photo_01.jpg"
       }
     ],
     "enriched_at": "2026-03-07"
@@ -75817,6 +76379,18 @@
         "resignation_date": null,
         "source": "https://www.kamedaseika.co.jp/company/history/",
         "photo_path": "photos_1\\2220_亀田製菓\\history\\02_ジュネジャ\\photo_01.jpg"
+      },
+      {
+        "name": "佐藤 勇",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "佐藤 勇",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
       }
     ]
   },
@@ -76044,6 +76618,20 @@
         "resignation_date": null,
         "source": "wikipedia_list",
         "photo_path": "photos_1\\2296_伊藤ハム米久ホールディングス\\history\\09_千葉尚登\\photo_01.jpg"
+      },
+      {
+        "name": "宮下 功",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2296_伊藤ハム米久ホールディングス\\history\\01_宮下_功\\photo_01.jpg"
+      },
+      {
+        "name": "宮下 功",
+        "appointment_date": "2017-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2296_伊藤ハム米久ホールディングス\\history\\01_宮下_功\\photo_01.jpg"
       }
     ]
   },
@@ -76188,6 +76776,34 @@
         "resignation_date": null,
         "source": "wikipedia_table",
         "photo_path": "photos_1\\2432_ディー・エヌ・エー\\history\\03_岡村信悟\\photo_01.jpg"
+      },
+      {
+        "name": "守安 功",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2432_ディー・エヌ・エー\\history\\01_守安_功\\photo_01.jpg"
+      },
+      {
+        "name": "岡村 信悟",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2432_ディー・エヌ・エー\\history\\02_岡村_信悟\\photo_01.jpg"
+      },
+      {
+        "name": "守安 功",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2432_ディー・エヌ・エー\\history\\01_守安_功\\photo_01.jpg"
+      },
+      {
+        "name": "岡村 信悟",
+        "appointment_date": "2021-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2432_ディー・エヌ・エー\\history\\02_岡村_信悟\\photo_01.jpg"
       }
     ]
   },
@@ -76305,6 +76921,48 @@
         "resignation_date": null,
         "source": "wikipedia_table",
         "photo_path": "photos_1\\2587_サントリー食品インターナショナル\\history\\05_小野真紀子\\photo_01.jpg"
+      },
+      {
+        "name": "小郷 三朗",
+        "appointment_date": "2015-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2587_サントリー食品インターナショナル\\history\\01_小郷_三朗\\photo_01.jpg"
+      },
+      {
+        "name": "齋藤 和弘",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2587_サントリー食品インターナショナル\\history\\02_齋藤_和弘\\photo_01.jpg"
+      },
+      {
+        "name": "小野 真紀子",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2587_サントリー食品インターナショナル\\history\\03_小野_真紀子\\photo_01.jpg"
+      },
+      {
+        "name": "小郷 三朗",
+        "appointment_date": "2015-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2587_サントリー食品インターナショナル\\history\\01_小郷_三朗\\photo_01.jpg"
+      },
+      {
+        "name": "齋藤 和弘",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2587_サントリー食品インターナショナル\\history\\02_齋藤_和弘\\photo_01.jpg"
+      },
+      {
+        "name": "小野 真紀子",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2587_サントリー食品インターナショナル\\history\\03_小野_真紀子\\photo_01.jpg"
       }
     ]
   },
@@ -93742,6 +94400,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2224_コモ\\history\\01_木下_克己\\photo_01.jpg"
+      },
+      {
+        "name": "木下 克己",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2224_コモ\\history\\01_木下_克己\\photo_01.jpg"
+      },
+      {
+        "name": "木下 克己",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2224_コモ\\history\\01_木下_克己\\photo_01.jpg"
       }
     ]
   },
@@ -93764,6 +94436,20 @@
     "previous_ceos": [
       {
         "name": "小池　孝",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2226_湖池屋\\history\\01_小池_孝\\photo_01.jpg"
+      },
+      {
+        "name": "小池 孝",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2226_湖池屋\\history\\01_小池_孝\\photo_01.jpg"
+      },
+      {
+        "name": "小池 孝",
         "appointment_date": "2016-01-01",
         "resignation_date": null,
         "source": "edinet_annual_report",
@@ -93815,6 +94501,34 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2266_六甲バター\\history\\02_塚本_浩康\\photo_01.jpg"
+      },
+      {
+        "name": "三宅 宏和",
+        "appointment_date": "2015-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2266_六甲バター\\history\\01_三宅_宏和\\photo_01.jpg"
+      },
+      {
+        "name": "塚本 浩康",
+        "appointment_date": "2020-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2266_六甲バター\\history\\02_塚本_浩康\\photo_01.jpg"
+      },
+      {
+        "name": "三宅 宏和",
+        "appointment_date": "2015-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2266_六甲バター\\history\\01_三宅_宏和\\photo_01.jpg"
+      },
+      {
+        "name": "塚本 浩康",
+        "appointment_date": "2020-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2266_六甲バター\\history\\02_塚本_浩康\\photo_01.jpg"
       }
     ]
   },
@@ -93824,6 +94538,20 @@
     "previous_ceos": [
       {
         "name": "川村　廣明",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2305_スタジオアリス\\history\\01_川村_廣明\\photo_01.jpg"
+      },
+      {
+        "name": "川村 廣明",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2305_スタジオアリス\\history\\01_川村_廣明\\photo_01.jpg"
+      },
+      {
+        "name": "川村 廣明",
         "appointment_date": "2015-01-01",
         "resignation_date": null,
         "source": "edinet_annual_report",
@@ -93929,6 +94657,62 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2332_クエスト\\history\\04_鎌田_智\\photo_01.jpg"
+      },
+      {
+        "name": "清澤 一郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2332_クエスト\\history\\01_清澤_一郎\\photo_01.jpg"
+      },
+      {
+        "name": "岡明 男",
+        "appointment_date": "2021-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2332_クエスト\\history\\02_岡明_男\\photo_01.jpg"
+      },
+      {
+        "name": "清澤 一郎",
+        "appointment_date": "2024-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2332_クエスト\\history\\03_清澤_一郎\\photo_01.jpg"
+      },
+      {
+        "name": "鎌田 智",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2332_クエスト\\history\\04_鎌田_智\\photo_01.jpg"
+      },
+      {
+        "name": "清澤 一郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2021-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2332_クエスト\\history\\01_清澤_一郎\\photo_01.jpg"
+      },
+      {
+        "name": "岡明 男",
+        "appointment_date": "2021-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2332_クエスト\\history\\02_岡明_男\\photo_01.jpg"
+      },
+      {
+        "name": "清澤 一郎",
+        "appointment_date": "2024-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2332_クエスト\\history\\03_清澤_一郎\\photo_01.jpg"
+      },
+      {
+        "name": "鎌田 智",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2332_クエスト\\history\\04_鎌田_智\\photo_01.jpg"
       }
     ]
   },
@@ -93983,6 +94767,34 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2331_綜合警備保障\\history\\02_栢木_伊久二\\photo_01.jpg"
+      },
+      {
+        "name": "青山 幸恭",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2331_綜合警備保障\\history\\01_青山_幸恭\\photo_01.jpg"
+      },
+      {
+        "name": "栢木 伊久二",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2331_綜合警備保障\\history\\02_栢木_伊久二\\photo_01.jpg"
+      },
+      {
+        "name": "青山 幸恭",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2022-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2331_綜合警備保障\\history\\01_青山_幸恭\\photo_01.jpg"
+      },
+      {
+        "name": "栢木 伊久二",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2331_綜合警備保障\\history\\02_栢木_伊久二\\photo_01.jpg"
       }
     ]
   },
@@ -94029,6 +94841,34 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2351_ASJ\\history\\02_青木_邦哲\\photo_01.jpg"
+      },
+      {
+        "name": "丸山 治昭",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2351_ASJ\\history\\01_丸山_治昭\\photo_01.jpg"
+      },
+      {
+        "name": "青木 邦哲",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2351_ASJ\\history\\02_青木_邦哲\\photo_01.jpg"
+      },
+      {
+        "name": "丸山 治昭",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2351_ASJ\\history\\01_丸山_治昭\\photo_01.jpg"
+      },
+      {
+        "name": "青木 邦哲",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2351_ASJ\\history\\02_青木_邦哲\\photo_01.jpg"
       }
     ]
   },
@@ -94058,6 +94898,34 @@
       },
       {
         "name": "横山　浩二",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2359_コア\\history\\02_横山_浩二\\photo_01.jpg"
+      },
+      {
+        "name": "松浪 正信",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2359_コア\\history\\01_松浪_正信\\photo_01.jpg"
+      },
+      {
+        "name": "横山 浩二",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2359_コア\\history\\02_横山_浩二\\photo_01.jpg"
+      },
+      {
+        "name": "松浪 正信",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2359_コア\\history\\01_松浪_正信\\photo_01.jpg"
+      },
+      {
+        "name": "横山 浩二",
         "appointment_date": "2024-01-01",
         "resignation_date": null,
         "source": "edinet_annual_report",
@@ -94102,6 +94970,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2371_カカクコム\\history\\01_彰之介\\photo_01.jpg"
+      },
+      {
+        "name": "畑彰 之介",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2371_カカクコム\\history\\01_畑彰_之介\\photo_01.jpg"
+      },
+      {
+        "name": "畑彰 之介",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2371_カカクコム\\history\\01_畑彰_之介\\photo_01.jpg"
       }
     ]
   },
@@ -94129,6 +95011,48 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2385_総医研ホールディングス\\history\\03_角田_真佐夫\\photo_01.jpg"
+      },
+      {
+        "name": "小池 眞也",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2385_総医研ホールディングス\\history\\01_小池_眞也\\photo_01.jpg"
+      },
+      {
+        "name": "石神 賢太郎",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2385_総医研ホールディングス\\history\\02_石神_賢太郎\\photo_01.jpg"
+      },
+      {
+        "name": "角田 真佐夫",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2385_総医研ホールディングス\\history\\03_角田_真佐夫\\photo_01.jpg"
+      },
+      {
+        "name": "小池 眞也",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2018-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2385_総医研ホールディングス\\history\\01_小池_眞也\\photo_01.jpg"
+      },
+      {
+        "name": "石神 賢太郎",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2385_総医研ホールディングス\\history\\02_石神_賢太郎\\photo_01.jpg"
+      },
+      {
+        "name": "角田 真佐夫",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2385_総医研ホールディングス\\history\\03_角田_真佐夫\\photo_01.jpg"
       }
     ]
   },
@@ -94151,6 +95075,20 @@
     "previous_ceos": [
       {
         "name": "永田　良一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2395_新日本科学\\history\\01_永田_良一\\photo_01.jpg"
+      },
+      {
+        "name": "永田 良一",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2395_新日本科学\\history\\01_永田_良一\\photo_01.jpg"
+      },
+      {
+        "name": "永田 良一",
         "appointment_date": "2016-01-01",
         "resignation_date": null,
         "source": "edinet_annual_report",
@@ -94208,6 +95146,48 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2393_日本ケアサプライ\\history\\03_平松_雅之\\photo_01.jpg"
+      },
+      {
+        "name": "金子 博臣",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2393_日本ケアサプライ\\history\\01_金子_博臣\\photo_01.jpg"
+      },
+      {
+        "name": "高俊 哉",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2393_日本ケアサプライ\\history\\02_高俊_哉\\photo_01.jpg"
+      },
+      {
+        "name": "平松 雅之",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2393_日本ケアサプライ\\history\\03_平松_雅之\\photo_01.jpg"
+      },
+      {
+        "name": "金子 博臣",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2393_日本ケアサプライ\\history\\01_金子_博臣\\photo_01.jpg"
+      },
+      {
+        "name": "高俊 哉",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2393_日本ケアサプライ\\history\\02_高俊_哉\\photo_01.jpg"
+      },
+      {
+        "name": "平松 雅之",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2393_日本ケアサプライ\\history\\03_平松_雅之\\photo_01.jpg"
       }
     ]
   },
@@ -94228,6 +95208,34 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2411_ゲンダイエージェンシー\\history\\02_大島_克俊\\photo_01.jpg"
+      },
+      {
+        "name": "山本 正卓",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2411_ゲンダイエージェンシー\\history\\01_山本_正卓\\photo_01.jpg"
+      },
+      {
+        "name": "大島 克俊",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2411_ゲンダイエージェンシー\\history\\02_大島_克俊\\photo_01.jpg"
+      },
+      {
+        "name": "山本 正卓",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2411_ゲンダイエージェンシー\\history\\01_山本_正卓\\photo_01.jpg"
+      },
+      {
+        "name": "大島 克俊",
+        "appointment_date": "2024-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2411_ゲンダイエージェンシー\\history\\02_大島_克俊\\photo_01.jpg"
       }
     ]
   },
@@ -94237,6 +95245,20 @@
     "previous_ceos": [
       {
         "name": "宮澤　一洋",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2428_ウェルネット\\history\\01_宮澤_一洋\\photo_01.jpg"
+      },
+      {
+        "name": "宮澤 一洋",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2428_ウェルネット\\history\\01_宮澤_一洋\\photo_01.jpg"
+      },
+      {
+        "name": "宮澤 一洋",
         "appointment_date": "2016-01-01",
         "resignation_date": null,
         "source": "edinet_annual_report",
@@ -94267,6 +95289,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2429_ワールドホールディングス\\history\\01_伊井田_栄吉\\photo_01.jpg"
+      },
+      {
+        "name": "伊井 田栄吉",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2429_ワールドホールディングス\\history\\01_伊井_田栄吉\\photo_01.jpg"
+      },
+      {
+        "name": "伊井 田栄吉",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2429_ワールドホールディングス\\history\\01_伊井_田栄吉\\photo_01.jpg"
       }
     ]
   },
@@ -94283,6 +95319,34 @@
       },
       {
         "name": "杉原　章郎",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2440_ぐるなび\\history\\02_杉原_章郎\\photo_01.jpg"
+      },
+      {
+        "name": "久保 征一郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2440_ぐるなび\\history\\01_久保_征一郎\\photo_01.jpg"
+      },
+      {
+        "name": "杉原 章郎",
+        "appointment_date": "2019-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2440_ぐるなび\\history\\02_杉原_章郎\\photo_01.jpg"
+      },
+      {
+        "name": "久保 征一郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2019-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2440_ぐるなび\\history\\01_久保_征一郎\\photo_01.jpg"
+      },
+      {
+        "name": "杉原 章郎",
         "appointment_date": "2019-01-01",
         "resignation_date": null,
         "source": "edinet_annual_report",
@@ -94316,6 +95380,20 @@
     "previous_ceos": [
       {
         "name": "髙宮　一雅",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2445_タカミヤ\\history\\01_髙宮_一雅\\photo_01.jpg"
+      },
+      {
+        "name": "髙宮 一雅",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2445_タカミヤ\\history\\01_髙宮_一雅\\photo_01.jpg"
+      },
+      {
+        "name": "髙宮 一雅",
         "appointment_date": "2016-01-01",
         "resignation_date": null,
         "source": "edinet_annual_report",
@@ -94386,6 +95464,18 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2481_タウンニュース社\\history\\01_宇山_知成\\photo_01.jpg"
+      },
+      {
+        "name": "宇山 知成",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
+      },
+      {
+        "name": "宇山 知成",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report"
       }
     ]
   },
@@ -94539,6 +95629,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2491_バリューコマース\\history\\02_香川\\photo_01.jpg"
+      },
+      {
+        "name": "香川 仁",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2491_バリューコマース\\history\\01_香川_仁\\photo_01.jpg"
+      },
+      {
+        "name": "香川 仁",
+        "appointment_date": "2015-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2491_バリューコマース\\history\\01_香川_仁\\photo_01.jpg"
       }
     ]
   },
@@ -94575,6 +95679,20 @@
     "previous_ceos": [
       {
         "name": "野崎　秀則",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2498_オリエンタルコンサルタンツホールディングス\\history\\01_野崎_秀則\\photo_01.jpg"
+      },
+      {
+        "name": "野崎 秀則",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2498_オリエンタルコンサルタンツホールディングス\\history\\01_野崎_秀則\\photo_01.jpg"
+      },
+      {
+        "name": "野崎 秀則",
         "appointment_date": "2016-01-01",
         "resignation_date": null,
         "source": "edinet_annual_report",
@@ -94620,6 +95738,20 @@
     "previous_ceos": [
       {
         "name": "岡野　邦昭",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2585_ライフドリンク_カンパニー\\history\\01_岡野_邦昭\\photo_01.jpg"
+      },
+      {
+        "name": "岡野 邦昭",
+        "appointment_date": "2022-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2585_ライフドリンク_カンパニー\\history\\01_岡野_邦昭\\photo_01.jpg"
+      },
+      {
+        "name": "岡野 邦昭",
         "appointment_date": "2022-01-01",
         "resignation_date": null,
         "source": "edinet_annual_report",
@@ -94678,6 +95810,48 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2652_まんだらけ\\history\\03_田中_幹教\\photo_01.jpg"
+      },
+      {
+        "name": "古川 益蔵",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2652_まんだらけ\\history\\01_古川_益蔵\\photo_01.jpg"
+      },
+      {
+        "name": "辻中 雄二郎",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2652_まんだらけ\\history\\02_辻中_雄二郎\\photo_01.jpg"
+      },
+      {
+        "name": "田中 幹教",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2652_まんだらけ\\history\\03_田中_幹教\\photo_01.jpg"
+      },
+      {
+        "name": "古川 益蔵",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2020-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2652_まんだらけ\\history\\01_古川_益蔵\\photo_01.jpg"
+      },
+      {
+        "name": "辻中 雄二郎",
+        "appointment_date": "2020-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2652_まんだらけ\\history\\02_辻中_雄二郎\\photo_01.jpg"
+      },
+      {
+        "name": "田中 幹教",
+        "appointment_date": "2023-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2652_まんだらけ\\history\\03_田中_幹教\\photo_01.jpg"
       }
     ]
   },
@@ -94691,6 +95865,48 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2656_ベクターホールディングス\\history\\01_梶並_伸博\\photo_01.jpg"
+      },
+      {
+        "name": "渡邊 正輝",
+        "appointment_date": "2023-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2656_ベクターホールディングス\\history\\01_渡邊_正輝\\photo_01.jpg"
+      },
+      {
+        "name": "加藤 彰宏",
+        "appointment_date": "2024-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2656_ベクターホールディングス\\history\\02_加藤_彰宏\\photo_01.jpg"
+      },
+      {
+        "name": "轟木 一博",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2656_ベクターホールディングス\\history\\03_轟木_一博\\photo_01.jpg"
+      },
+      {
+        "name": "渡邊 正輝",
+        "appointment_date": "2023-01-01",
+        "resignation_date": "2024-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2656_ベクターホールディングス\\history\\01_渡邊_正輝\\photo_01.jpg"
+      },
+      {
+        "name": "加藤 彰宏",
+        "appointment_date": "2024-01-01",
+        "resignation_date": "2025-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2656_ベクターホールディングス\\history\\02_加藤_彰宏\\photo_01.jpg"
+      },
+      {
+        "name": "轟木 一博",
+        "appointment_date": "2025-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2656_ベクターホールディングス\\history\\03_轟木_一博\\photo_01.jpg"
       }
     ]
   },
@@ -94704,6 +95920,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2654_アスモ\\history\\01_長井\\photo_01.jpg"
+      },
+      {
+        "name": "長井 尊",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2654_アスモ\\history\\01_長井_尊\\photo_01.jpg"
+      },
+      {
+        "name": "長井 尊",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2654_アスモ\\history\\01_長井_尊\\photo_01.jpg"
       }
     ]
   },
@@ -94717,6 +95947,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2669_カネ美食品\\history\\01_幸太郎\\photo_01.jpg"
+      },
+      {
+        "name": "三輪 幸太郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2669_カネ美食品\\history\\01_三輪_幸太郎\\photo_01.jpg"
+      },
+      {
+        "name": "三輪 幸太郎",
+        "appointment_date": "2016-01-01",
+        "resignation_date": null,
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2669_カネ美食品\\history\\01_三輪_幸太郎\\photo_01.jpg"
       }
     ]
   },
@@ -105030,6 +106274,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2229_カルビー\\history\\01_江原_信\\photo_01.jpg"
+      },
+      {
+        "name": "伊藤 秀二",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2229_カルビー\\history\\01_伊藤_秀二\\photo_01.jpg"
+      },
+      {
+        "name": "伊藤 秀二",
+        "appointment_date": "2016-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2229_カルビー\\history\\01_伊藤_秀二\\photo_01.jpg"
       }
     ]
   },
@@ -105050,6 +106308,20 @@
         "resignation_date": null,
         "source": "edinet_annual_report",
         "photo_path": "photos_1\\2282_日本ハム\\history\\02_井川_伸久\\photo_01.jpg"
+      },
+      {
+        "name": "畑佳 秀",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2282_日本ハム\\history\\01_畑佳_秀\\photo_01.jpg"
+      },
+      {
+        "name": "畑佳 秀",
+        "appointment_date": "2018-01-01",
+        "resignation_date": "2023-06-30",
+        "source": "edinet_annual_report",
+        "photo_path": "photos_1\\2282_日本ハム\\history\\01_畑佳_秀\\photo_01.jpg"
       }
     ]
   },
